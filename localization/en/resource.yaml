@@ -1,0 +1,2295 @@
+type: Localization
+images:
+  FULL_BATTLE_HELP: FULL_BATTLE_HELP.png
+  HELP_CONTROLS_MINI: HELP_CONTROLS_MINI.png
+  TURNOVER_HINT_DELETE_BUTTON: TURNOVER_HINT_DELETE_BUTTON.png
+  GARAGE_ADD_MORE_CRYSTALS: GARAGE_ADD_MORE_CRYSTALS.png
+  HELP_MOUSE_MINI: HELP_MOUSE_MINI.png
+strings:
+  LINK_EXTERNAL_LOGIN_FORM_ADVICE: Enter your Tanki Online account information to
+    link it to %1
+  MATCHMAKING_TIMEOUT_MESSAGE: The waiting time in queue for battle has expired. Please
+    try again.
+  AS_SHORT_NAME: ASL
+  HELP_PANEL_RANK_HELPER_TEXT: Your current rank
+  RUGBY_BALL_LOST_RED: Red team has lost the ball
+  ONLINE_LABEL: Online
+  HEADER_PAYMENTS: PAYMENTS
+  HELP_PANEL_SCORE_HELPER_ARROW_LENGTH: '36'
+  REDUCE_DAMAGE_RAILGUN: Railgun
+  FRIENDS_MENU: Friends menu
+  DRONE_MINE: Number of saved up mines
+  DEVICES_STANDARD_SETTINGS_DESCRIPTION: Standard factory settings without any special
+    effects
+  CONSEQUENCES_EXTERNAL_LINK_FOLLOWING: |-
+    We are not responsible for the site's contents and strongly advise you not to enter any data related to your account on it (especially email address and password).
+
+    If you don't have any serious reasons to trust this site, it's best not to enter it.
+
+    Remember, we never hand out free crystals or ask for your password via external sites.
+  TYPE_MESSAGE_WITH_PRESENT: Enter your greetings...
+  SETTINGS_UNLINK_ACCOUNT: Unlink your game account from
+  REGISTER_FORM_CALLSIGN_INPUT_LABEL_TEXT: 'Nickname:'
+  GARAGE_SHOTGUN_PROTECTION_PROPERTY: Protection from Hammer
+  HEADER_PREMIUM: PREMIUM ACCOUNT
+  GARAGE_ROCKET_LAUNCHER_PROTECTION_PROPERTY: Protection from Striker
+  ULTIMATES: Overdrives
+  GARAGE_HELPER_SWITCHING_ITEM_CATEGORIES: "Switching item \ncategories"
+  CHAT_SHARP_PLANS: plans|Developers’ missions and plans|http://en.tankiwiki.com/Development_Plans
+  HEADER_INFORMATION: INFORMATION
+  PAYMENT_SMSNUMBERS_SMSTEXT_HEADER_LABEL_TEXT: SMS text
+  DRONE_RELOAD: Drone Recharge Time
+  ALERT_ERROR_EXTERNAL_ENTER: An error occured when trying to enter the game, please
+    try again later
+  REFERAL_WINDOW_COUNT_LABEL: 'All registered friends:'
+  MAP_THEME_NAME_SPACE: Space
+  DM_MODE_DESCRIPTION: Every player in the arena is your enemy. The winner is the
+    one who destroys the most tanks.
+  REDUCE_DAMAGE_MACHINE_GUN: Vulcan
+  GROUP_INVITE_BUTTON: Invite to the group
+  YOUR_FRIEND_IS_ALREADY_IN_THIS_BATTLE_LABEL: |-
+    Invite has not been sent
+    Your friend is already in this battle
+  CLAN_MEMBER_COLUMN_KILL_DEATH_RATIO: D/L
+  KEYBOARD_KEY_UP: Up
+  GAME_ACTION_TURRET_TURN_LEFT: Rotate turret left
+  YOUR_FRIEND_IS_OFFLINE_LABEL: |-
+    Invite has not been sent
+    Your friend is offline
+  ALERT_ANSWER_SEND_BUG_REPORT: Send bug report and return into battle
+  REDUCE_DAMAGE_MINE: Mine
+  BATTLE_PRO_BATTLE_SUBSCRIBE: The PRO Battle Pass is your ticket to professional
+    battles!
+  SHOW_DAMAGE: Show damage
+  TDM_MODE_NAME: Team Deathmatch
+  BATTLE_LIST_DESCRIPTION: Create battles with your preferred settings, or join other
+    custom battles.
+  CLAN_TAG_WITH_COLON: 'Clan tag:'
+  CLAN_PROFILE_MIN_RANK: Minimum rank needed
+  BATTLE_CREATE_PANEL_STEPPER_FLAG_LIMIT: Flag limit
+  JGR_SHORT_NAME: SJR
+  STATISTICS_HEADER_SCORE: Score
+  HEADER_ACCOUNT_RECOVERY: ACCOUNT RECOVERY
+  BATTLE_PLAYER_LEFT: left
+  LOBBY_CHAT_WRITE_PRIVATELY: Write privately
+  GARAGE_MACHINE_GUN_PROTECTION_PROPERTY: Protection from Vulcan
+  REGISTER_FORM_TO_LOGIN_PAGE_TEXT: Already registered? <a href='event:'><font color='#59ff32'><u>Log
+    in!</u></font></a>
+  SGE_NEW_POINT_TO_CAPTURE: Attack the new point {point}
+  FACEBOOK_NAME: Facebook
+  MAP_THEME_NAME_SUMMER_DAY: Summer day
+  LINK_IS_NO_LONGER_VALID_TEXT: This link is no longer valid. Please try again.
+  CTF_LOST_FLAG_NEUTRAL: has lost flag
+  HEADER_CHANGE_PASSWORD_EMAIL: CHANGE PASSWORD & E-MAIL
+  DOM_POINT: Point {point}
+  CHAT_PANEL_BUTTON_SEND: Send
+  RUGBY_BALL_LOST_USER: has lost the ball
+  HELP_PANEL_RANK_HELPER_ARROW_LENGTH: '108'
+  REDUCE_DAMAGE_SHAFT: Shaft
+  HEADER_CONGRATULATION: CONGRATULATION
+  REGISTER_FORM_CONTINUE: Complete
+  BATTLE_CREATE_PANEL_BUTTON_TEAM_DEATHMATCH: |-
+    Team
+    Deathmatch
+  ALERT_GO_TO_BATTLE_IS_UNAVAILABLE_RANK_FUND: "You are going to a battle that is
+    unavailable at your rank. \nLeave current battle? Score and crystal fund will
+    be lost."
+  REFUSED_TO_JOIN_THE_BATTLE_AT_YOUR_INVITATION_LABEL: 'Refused to join the battle
+    at your invitation
+
+    '
+  TJR_NEW_BLUE_BOSS: Blue Juggernaut has joined the battle
+  PAYMENT_PRESENT_LABEL_TEXT: FOR FREE!
+  CHAT_SHARP_FEEDBACK: feedback|Feedback|http://en.tankiforum.com/index.php?showforum=182
+  HELP_PANEL_MAIN_MENU_HELPER_TEXT: Main menu
+  DOM_WE_LOST_POINT: We have lost point {point}
+  CRYSTALS_PACKAGE_AS_GIFT: for free!
+  CLAN_FOUNDER: Clan founder
+  DISCOUNTED_AT_KIT: Discounted at {0}
+  BATTLE_CANNOT_BE_FOUND_ALERT: Link is outdated. Battle cannot be found, it is over.
+  SETTINGS_CHANGE_PASSWORD_BUTTON: Change
+  REDUCE_DAMAGE_TWINS: Twins
+  MAP_THEME_NAME_WINTER_NIGHT: Winter night
+  MAP_THEME_NAME_WINTER_EVENING: Winter evening
+  SETTINGS_LINK_ACCOUNT: Link your game account to
+  ESTIMATED_WAITING_TIME_LABEL: Average waiting time
+  MAIN_PANEL_UPDATE_RANK_NOTICE_GIFT: Your gift %1
+  REFERRALS_BUTTON_LABEL: Invited users
+  HEADER_VK_ENTERING_GROUP: ''
+  LINK_IS_COPIED_BUTTON_LABEL: |-
+    Link
+    copied
+  HEADER_CREATE_BATTLE: CREATE BATTLE
+  BATTLE_SUPPLIES_TEXT: Supplies
+  HEADER_MONEYSHOP: SHOP
+  GARAGE_GAUSS_PROTECTION_PROPERTY: Protection from Gauss
+  CLAN_PROFILE_CLOSE: Closed
+  DRONE_DEFEND: Power up duration
+  CLAN_MEMBER_COLUMN_DESTROYED: Destroyed
+  ALERT_ACCOUNT_UNLINKED: You have succesfully unlinked your game account from %1
+  GARAGE_TWINS_PROTECTION_PROPERTY: Protection from Twins
+  PROGRESS: Progress
+  MAIN_QUEST_BUTTON: Special
+  SETTINGS_INVERSE_TURN_CONTROL_CHECKBOX_LABEL_TEXT: Inverse turn controls while moving
+    back
+  MAP_THEME_NAME_SUMMER: Summer
+  TURRET: Turret
+  HEADER_DISCOUNT: DISCOUNT!
+  GARAGE_THUNDER_PROTECTION_PROPERTY: Protection from Thunder
+  YOU_WERE_KICKED_LOGIN_TEXT: |-
+    You were forcibly disconnected from game.
+    Reason: {0}.
+    You can return to the game through
+    {1}.
+  GAME_ACTION_DROP_GOLD_BOX: Use Gold Box supply
+  BUG_REPORT_BUTTON_SEND_TEXT: Send
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_DESCRIPTION: The following payment methods
+    currently offer a discount. Please choose your preferred payment method to proceed.
+  ERROR_EMAIL_NOT_UNIQUE: E-mail isn't unique
+  ACCEPTED_LIMIT_EXCEEDED_ALERT: Can not accept Friend request. Friends List of %USERNAME%
+    has reached the maximum number of players.
+  CLOSE_LABEL: Close
+  BUY_FOR_COIN_LABEL: 'Buy for '
+  HEADER_INVITE_A_FRIEND: INVITE A FRIEND
+  BUTTON_LABEL_RESTORE_DEFAULT_BUTTONS: Restore default buttons
+  SERVER_STOP_ALERT_TEXT: |-
+    SERVER UPDATE!
+
+    Server stops in %1 seconds.
+  SETTINGS_ALTERNATE_CAMERA_LABEL_TEXT: Alternate camera behaviour
+  DRONE_DEPENDENT_INVENTORY_COOLDOWN: Switching speed
+  VK_ENTER_GROUP_BONUS: ''
+  GAME_ACTION_CAMERA_DOWN: Move camera down
+  CTF_GOT_FLAG_NEUTRAL: has taken flag
+  GARAGE_DISTANT_DAMAGE_PROPERTY: Damage at max distance
+  OK_ENTER_GROUP_BONUS: ''
+  INVITE_FRIEND_BUTTON_LABEL: |-
+    Invite
+    friend
+  RUGBY_MODE_NAME: Rugby
+  CLAN_CREATE: Create clan
+  FRIENDS_REMOVE_USER: Remove %USERNAME% from your friends list?
+  RENAME_FORM_NEW_UID_INPUT: Enter your new nickname
+  CLAN_PLAYER_RANK_TOO_LOW: 'Rank is too low '
+  GROUP_INVITE_RESPONSE_USER_IN_BATTLE: This player is in a battle
+  HEADER_CURRENT_BATTLES: CURRENT BATTLES
+  CONNECTION_CLOSED_MESSAGE: Server connection closed
+  DOM_BLUE_CAPTURED_POINT: Blue team has captured point {point}
+  DOM_ENEMIES_CAPTURED_POINT: Enemies have captured point {point}
+  LOADER_HEADER: Loading
+  GARAGE_CONFIRM_ALERT_COST_PREFIX: for
+  BATTLE_CREATE_PANEL_BUTTON_START: Start
+  GROUP_INVITE_RESPONSE_USER_IN_OTHER_GROUP: This player is already in a group
+  FRIENDS_IN_BATTLE: In battle
+  GARAGE_RELOAD_PROPERTY: Reload time
+  FRIENDS_BUTTON_TOOLTIP: Your Friends list. From here you can join your friends in
+    battle and check their profiles.
+  PHONE_NUMBER: Your phone number
+  JGR_NEW_BOSS: "%1 — new Juggernaut!"
+  CLAN_POSITION_SUPREME_COMMANDER: Supreme-commander
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_TEXT: |-
+    Click to select
+    and join and battle.
+    Your reward - 200 crystals!
+  SHOP_GOLDBOX_ONE: Box
+  ALERT_GARAGE_AVAILABLE: Now you can buy items in the garage.
+  SETTINGS_TAB_NAME_CONTROLS: Controls
+  BATTLE_PLAYER_JOINED: joined
+  SETTINGS_EMAIL_LABEL_TEXT: 'E-mail:'
+  HEADER_BUG_REPORT: BUG REPORT
+  DRONE_ARMOR_PERCENT: Bonus armour
+  BATTLEINFO_PANEL_COPY_LINK_TEXT: Copy link
+  NEED_EMAIL_ALERT_MESSAGE: To buy this item, link your email address to your Tanki
+    Online account and confirm it. Go to the «Settings» page in your TO account by
+    clicking on the «gear» symbol in the upper right corner of your screen, and then
+    click on «Account». You can find a detailed walkthrough  <a href="https://help.tankionline.com/knowledge-bases/7/articles/2316-how-to-link-an-e-mail-with-my-account"
+    target="_blank"><u>here</u></a>.
+  GARAGE_CRITICAL_CHANCE_PROPERTY: Critical chance
+  SETTINGS_ACCOUNT_ACCESS: Access to game account
+  SHOP_GOLDBOX_MANY: Boxes
+  GROUP_INVITE: Invites you to group
+  SETTINGS_SHOW_CHAT_CHECKBOX_LABEL_TEXT: Show chat
+  OPEN_BATTLE_LIST_BUTTON: Open
+  DRONE_BONUS_ADD: Active Supplies Time Bonus
+  REDUCE_DAMAGE_FIREBIRD: Firebird
+  JGR_MODE_NAME: Solo Juggernaut
+  INCOMING_LIMIT_EXCEEDED_ALERT: Unable to send request. This user's request inbox
+    is full.
+  CLAN_IS_ALREADY_IN_REQUEST_LIST: You have already requested to join clan %CLANNAME%
+  BATTLE_STAT_KILLS: Destroyed
+  CLAN_ALERT_LEAVE_CLAN: Leave clan?
+  CLAN_USER_CLAN_NAME: Clan Name
+  TOURNAMENT_BATTLE_STARTING_LABEL: Commencing battle... brace yourselves!
+  GAME_ACTION_SHOOT: Shoot
+  CLAN_OUTGOUNG: Invitations
+  CLAN_MEMBER_DAYS: Time in clan
+  CLAN_REQUEST_IS_ALREADY_SENT: You have already sent a request to this clan
+  RUGBY_FACE_OFF: The ball is in the game
+  CLAN_KILL_DEATH_RATION: K/D ratio
+  ERROR_CALLSIGN_NOT_SINGLE_DEVIDERS: You should use only single sign "." or "_" or
+    "-" in your nickname
+  COMPLETE_BUTTON: Complete
+  DOM_ENEMIES_LOST_POINT: Enemies have lost point {point}
+  CHAT_SHARP_RANKS: ranks|Ranks|https://en.tankiwiki.com/Ranks_and_Experience
+  PRESENT_INFO_FROM_LABEL: 'Sent by:'
+  HEADER_UPGRADE: UPGRADE
+  CLAN_POSITION_VETERAN: Veteran
+  SELECTED_SERVER_UNAVAILABLE: The server you are trying to connect to is temporarily
+    unavailable. Please try again later.
+  REARM_TEAM_TIE: The battle ended in a tie
+  LOBBY_CHAT_WRITE_PUBLICLY: Write publicly
+  CONFIRM_RENT_QUESTION: Confirm rental?
+  SETTINGS_DYNAMIC_SHADOWS_LABEL_TEXT: Dynamic shadows
+  ALERT_ANSWER_CANCEL: Cancel
+  FRIENDS_FIND_IN_LIST_HINT: Find in the list...
+  PAYMENT_SHENG_FENG_CONFIRMATION_CHECK_BOX_TEXT: "???"
+  TIP_2: Never share your account password! If you do, you could lose your tank forever.
+  TIP_3: Buy a Premium Account and get more experience and crystals for every battle
+    you finish, as well as additional Stars for Challenges.
+  TIP_0: Earn experience points to reach higher ranks, which in turn gives you access
+    to new turrets and hulls in the Garage!
+  TIP_1: Collect the boxes that fall from the sky! Power-up boxes make your tank stronger,
+    while Gold Boxes give you free crystals.
+  TIP_6: The star icon above your tank means that your Overdrive is fully charged
+    and ready for action. Press "Shift" to activate this powerful ability.
+  SPECTATOR_NAME: Spectator
+  TIP_7: The «1» to «5» keys activate your supplies in battle. Use them wisely to
+    gain an advantage over your enemies.
+  TIP_4: Flipped upside down? Self-destruct your tank by pressing the "Delete" key
+    and respawn.
+  TIP_5: Press "Enter" while in a battle to chat with other players! The “Tab” button
+    switches between General and Team chats.
+  TIP_8: Press and hold «R» or «V» to see the protective modules on nearby tanks.
+    You will also be able to see their Gear score, which tells you how upgraded their
+    tank is.
+  TIP_9: Each turret has its unique features. Try them all and find the ones that
+    best fit your playing style!
+  CHAT_LABEL_TEAM: To team
+  CHECK_PASSWORK_FORM_LOGIN_VIA: Enter the game using
+  DECLINE_LABEL: Decline
+  SETTINGS_CHANGE_PASSWORD_WRONG_LINK_TEXT: Link you have passed by is corrupted
+  CLAN_PLAYERS_IN_CLAN: Players in clan
+  CHAT_SHARP_HELP: help|Help|http://help.tankionline.com/en/
+  ERROR_CALLSIGN_WRONG_LAST_SYMBOL: Last nickname's symbol have to be a letter or
+    a digit
+  BATTLE_TEAM_ALERT: You are now playing for the %1 team
+  CLAN_ALREADY_INVITED_PLAYER: This clan has already invited you to join
+  WEEKLY_QUEST_HINT: Complete at least one mission every day for 7 days in a row to
+    receive an additional <a href='event:'><font color='#59ff32'><u>bonus</u></font></a>
+  ACCOUNT_RECOVERY_FORM_HELP_LABEL_TEXT: |-
+    Enter your registered e-mail address
+    to get the entry-link without password
+  LEAVE_GROUP_BUTTON: Leave the group
+  CTF_RETURNED_ENEMY_FLAG: has returned enemy flag
+  PREMIUM_BUTTON_EXTEND: Extend
+  PAYMENT_SMSNUMBERS_NUMBER_HEADER_LABEL_TEXT: Number
+  ASIASOFT_CHECKING_BALANCE: Checking balance...
+  OK_ENTER_GROUP_REMINDER: ''
+  MAP_THEME_NAME_WINTER: Winter
+  BATTLE_UPGRADES_TEXT: Upgrades
+  SETTINGS_DUST_LABEL_TEXT: Dust
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_TEXT_MIDDLE_RANK: Now you get crystals with
+    each new rank in Tanki Online. We've just added crystals for all the previous
+    rank-ups to your account. Move up the career ladder and get even more!
+  DM_MODE_NAME: Deathmatch
+  CHAT_SHARP_NICK: nick|Change nick |http://tankionline.com/en/blog/change-your-nickname/
+  BATTLE_BONUS_BOX_TEXT: Bonus boxes
+  BATTLE_STAT_KDRATIO: D/L
+  DAILY_QUEST_BUTTON: Daily
+  CLAN_JOINED_CLAN: You have joined the Clan
+  PARTNER_REGISTARTION_FORM_CONTINUE: Accept
+  CLAN_TANKS_DESTROYED: Tanks destroyed
+  GARAGE_CATEGORY_BUTTON_DRONES: Drones
+  HELP_PANEL_MONEY_HELPER_TEXT: |-
+    Purchase more
+    crystals
+  GARAGE_SNIPING_DAMAGE_PROPERTY: Damage in sniping mode
+  GARAGE_WEIGHT_PROPERTY: Weight
+  CLAN_PURCHASE_INFORMATION: |-
+    To create your own clan, you must purchase a license.
+    This license will allow you to create a single clan.
+  BATTLE_CREATE_PANEL_STEPPER_TEAM_SCORE_LIMIT: Score
+  GAME_ACTION_TANK_MOVE_FORWARD: Move tank forward
+  SERVER_IS_RESTARTING_CREATE_BATTLE_TEXT: Server is restarting right now. You can't
+    create battle or join existing one.
+  CLAN_BUY_LICENCE: Buy licence
+  GARAGE_BURN_PROPERTY: Burning time
+  CLAN_CHAT: Clan chat
+  CHECK_PASSWORD_FORM_PLAY_BUTTON: Play
+  CLAN_IS_ALREADY_IN_INVITE_LIST: Clan %CLANNAME% has already invited you to join
+  PREMIUM_NOTIFICATION_SOON_COMPLETE: Your Premium Account is about to expire.
+  GARAGE_SNIPING_IMPACT_PROPERTY: Impact force in sniping mode
+  BATTLE_CREATE_PANEL_BUTTON_JGR: Juggernaut
+  BATTLE_CREATE_PANEL_BUTTON_DEATHMATCH: Deathmatch
+  SETTINGS_UNLINK: Unlink
+  CLAN_SEND_REQUEST: Join Clan
+  BATTLE_CREATE_PANEL_FLOOD_ALERT_TEXT: You can create not more than three battles
+    within 5 minutes.
+  PRESENT_RECIPIENT_NAME: Recepient's nickname...
+  REDUCE_DAMAGE_THUNDER: Thunder
+  CAPTCHA_PROCEED_BUTTON: Next
+  CHALLENGE_BUY_STARS_TIP: Get extra Stars to complete your Challenge faster.
+  COIN_CONFIRMATION_DESCRIPTION: By clicking the "Buy" button, you confirm your purchase
+    of Tankoins
+  RUGBY_MODE_DESCRIPTION: Capture the ball in the middle of the map and bring it to
+    the enemy base. Don't let the enemy team bring the ball to your base. The team
+    with the biggest score wins.
+  HELP_PASSWORDS_DO_NOT_MATCH: The passwords do not match
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION: This Item can only be purchased once.
+    If purchased a second time, instead of the items in this pack, you will receive
+    compensation in crystals.
+  CTF_MODE_DESCRIPTION: Attack the enemy base, capture their flag by bringing it back
+    to your base, and protect your flag from the enemy team.The team that captures
+    the most flags, wins.
+  VK_ENTER_GROUP_REMINDER: ''
+  CLAN: Clan
+  HEADER_WELCOME_BACK: WELCOME BACK!
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_ARROW_LENGTH: '48'
+  CHECK_PASSWORD_FORM_RESTORE_LINK_TEXT: "<a href='event:lost'><font color='#59ff32'><u>Lost
+    nickname or password?</u></font></a>"
+  HOLIDAY_MODE_NAME: Event mode
+  SETTINGS_FOG_LABEL_TEXT: Fog
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  CHAT_SHARP_WIKI: wiki|Encyclopedia of Game|http://en.tankiwiki.com/Main_Page
+  DRONE_COOLDOWN_RADIUS: Effective range
+  SETTINGS_SSAO: Deep shadows
+  BATTLE_STAT_DEATHS: Lost
+  OPEN_GARAGE: Quick garage
+  ERROR_PASSWORD_CHANGE: Change password error
+  CODE_CONFIRM: Confirmation code
+  CONTINUE_BATTLE_TEXT: Continue
+  CTF_SHORT_NAME: CTF
+  FRIENDS_YOU_ARE_HERE_BATTLE_INDICATOR: "(You are here)"
+  REDUCE_DAMAGE_ROCKET_LAUNCHER: Striker
+  GARAGE_HEAL_PROPERTY: Healing
+  DRONE_INVENTORY_COOLDOWN_BOOST: Supply reload speed increase in sec.
+  SETTINGS_CHANGE_PASSWORD_CONFIRMATION_SENT_TEXT: The letter with instructions was
+    sent to your e-mail address.
+  FRIENDS: Friends
+  PROMO_CODE_SHOP_LABEL: Promo Codes
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_SUM: You've received %1
+  CLAN_YOU_ALREADY_IN_CLAN: You are already a member of a clan
+  CHALLENGE_BUY_STARS: Buy Stars
+  TJR_SHORT_NAME: TJR
+  HEADER_OFFER: TEST DRIVE
+  GATE_2_SHOP_EMAIL_INPUT_DESCRIPTION: Please enter your email to receive a receipt
+    for your purchase.
+  BATTLE_FINISH_IN: The battle will automatically end in
+  FRIENDS_ADD: Add to friends
+  CHECK_PASSWORD_FORM_PASSWORD: 'Password:'
+  PARTNER_PARAMETRS_ERROR: You are trying to enter the game using wrong parameters.
+  CLAN_ALERT_REMOVE_PLAYER: Expel %USERNAME% from clan?
+  BATTLE_CREATE_PANEL_DRONES: Drones
+  CLAN_YOUR_RANK_TOO_LOW: Rank is too low to be a member of a clan
+  FREE_BONUSES_WINDOW_BUTTON_CLOSE_TEXT: Close
+  JGR_MODE_DESCRIPTION: One player in battle controls an ultra powerful tank "Juggernaut".
+    The player who destroys Juggernaut will become the next Juggernaut. Player who
+    destroys the most tanks wins.
+  DOM_WE_CAPTURED_POINT: We have captured point {point}
+  DAILY_QUEST_PRIZE: 'Reward:'
+  CHAT_SHARP_RULES: rules|Rules|http://tankionline.com/en/rules/
+  GARAGE_CATEGORY_BUTTON_HULLS: Hulls
+  CLAN_POSITION_COMMANDER: Commander
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_ARROW_LENGTH: '30'
+  GROUP_INVITE_RESPONSE_INVITATIONS_DISABLED: Invitations to group are switched off
+  MAIN_PANEL_BUTTON_GARAGE: Garage
+  SHOP_PAYMENT_BUG_REPORT_LINK: http://tankionline.com/forms/payment/en/
+  TIME_LABEL_SECOND: s
+  REARM_SELFDISTRUCTION: You will self-destruct in {time}
+  BATTLE_TEAM_RED: red
+  HEADER_CLAN_LICENSE: CLAN LICENSE
+  GARAGE_RANGE_PROPERTY: Range
+  OFFLINE_LABEL: Offline
+  CHAT_LABEL_SPECTATORS: To spectators
+  HELP_PANEL_MONEY_FIRST_HELPER_TEXT: |-
+    Buy crystals for real money.
+    Get 100 crystals as a gift
+    for the first purchase.
+  CLAN_POSITION_OFFICER: Officer
+  DRONE_INVENTORY_ADD: Active Supplies Time Bonus
+  GARAGE_CATEGORY_BUTTON_RESISTANCE_MODULES: Protection
+  CHANGE_SERVER_HELPER: Server selection
+  HEADER_LINK: LINKING
+  USERS_IN_QUEUE_LABEL: Players in the queue
+  SETTINGS_SHOW_FPS_CHECKBOX: Show FPS and ping
+  GARAGE_SMOKY_PROTECTION_PROPERTY: Protection from Smoky
+  CURRENT_CRYSTALL_TOOLTIP: Your current number of crystals. Crystals are used to
+    buy and upgrade your equipment in the Garage.
+  TDM_SHORT_NAME: TDM
+  TIME_LABEL_MINUTE: m
+  REENTER_TO_GAME: Re-enter the game
+  REARM_BATTLE_PLACE: 'Your place: {your_place} of {places}'
+  SEND_PRESENT_BUTTON: Send
+  STATISTICS_HEADER_DEATHS: Lost
+  SETTINGS_SOUND_VOLUME_LABEL_TEXT: 'Sound volume:'
+  CLAN_MEMBERS: Members
+  REGISTER_FORM_REPEAT_PASSWORD_INPUT_LABEL_TEXT: 'Repeat:'
+  KEYBOARD_KEY_LEFT: Left
+  CHALLENGE_REWARD_NOTIFICATION: You have received the rewards for stage %number%
+    of the challenge
+  ERROR_PASSWORD_LENGTH: You password's length have to be more than 1
+  LOOT_1_OPEN_BUTTON: Open 1
+  SETTINGS_BUTTON_SAVE_TEXT: Save
+  LOOT_3_OPEN_BUTTON: Open 15
+  CLAN_MEMBER_COLUMN_LOST: Lost
+  FRIENDS_EXIT_FROM_BATTLE_ALERT: Leave the battle? Your score and battle fund will
+    be lost.
+  CHAT_PANEL_COMMAND_UNBLOCK: User %1 deleted from Ignore list
+  BATTLE_CANNOT_BE_FOUND_LABEL: |-
+    Invite has not been sent
+    Battle cannot be found
+  CLAN_USER_CLAN_TAG: Clan tag
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION_WITH_LIMIT: |-
+    Вы собираетесь купить билет на встречу «Танки в городе», которая пройдёт 9 сентября в Москве .
+    Внимание!
+      - Независимо от типа билета Вы можете купить только один билет на один аккаунт.
+      - Все бонусы, входящие в билет, вы получите только при личном визите на встречу.
+    При повторной покупке билета или неявке на встречу вам будет начислена компенсация в виде внутриигровой валюты. Нажимая «Далее», вы соглашаетесь с  <a href="http://tankionline.com/ru/event_rules" target="_blank"><u>Условиями заказа</u></a>.
+  SETTINGS_GRAPHICS_AUTO_QUALITY: Automatic graphics quality
+  RANK_ICON_TOOLTIP: Your current Rank. Click to see your profile.
+  AS_MODE_NAME: Assault
+  GARAGE_BUTTON_TOOLTIP: Here you can build and upgrade your dream tank.
+  HELP_PANEL_RANK_BAR_HELPER_TEXT: |-
+    Experience bar fills
+    when you kill
+    other players.
+  SHOP_PAYMENT_CATEGORY_DESCRIPTION_FOR_ODNOKLASSNIKY: ''
+  GARAGE_BULLET_SPEED_PROPERTY: Projectile speed
+  CLAN_FOUNDER_WITH_COLON: 'Clan founder:'
+  CHAT_PANEL_COMMAND_UNBLOCK_ALL: Ignore list has been cleared
+  GARAGE_INFO_PANEL_BUTTON_UNEQUIP_TEXT: Unequip
+  CLAN_SEARCH: Search clan
+  GARAGE_IMPACT_PROPERTY: Impact force
+  REGISTER_FORM_AGREEMENT_NOTE_TEXT: "<textformat leading='5'>I accept the terms of
+    the <a href='http://tankionline.com/en/eula/' target='_blank'><font color='#59ff32'><u>License
+    Agreement</u></font></a>, <a href='http://tankionline.com/en/rules/' target='_blank'><font
+    color='#59ff32'><u>Game Rules</u></font></a>, and <a href='http://tankionline.com/en/privacy/'
+    target='_blank'><font color='#59ff32'><u>Privacy policy and cookies</u></font></a></textformat>"
+  SGE_MODE_DESCRIPTION: Hold control of a point and keep your enemies away from it.
+    Once you've captured the point, move on to capture the next one. The team that
+    has captured more points, wins.
+  SGE_RED_CAPTURED_POINT: Red team has captured point {point}
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_TEXT: Enter your email and receive 5 crystals!
+  SHOP_WINDOW_EULA_LINK: <a href="http://tankionline.com/en/eula/" target="_blank"><font
+    color='#59ff32'><u>EULA</u></font></a>
+  FRIENDS_CANCEL_BUTTON_TEXT: Cancel
+  PRESENT_WILL_BE_REMOVED_ALERT: This gift will be removed forever. Continue?
+  GARAGE_DAMAGE_PROPERTY: Damage
+  GARAGE_GAUSS_AIMING_DAMAGE_PROPERTY: Damage in sniping mode
+  ERROR_EMAIL_INVALID: E-mail is invalid
+  FRIENDS_IN_GROUP: In battle group
+  GARAGE_FREEZE_PROTECTION_PROPERTY: Protection from Freeze
+  ERROR_CALLSIGN_WRONG_FIRST_SYMBOL: 1st nickname's symbol have to be a letter or
+    digit
+  RENT: Rent
+  DAILY_QUEST_COMPLETED: |-
+    This mission was completed.
+
+    Come back to the game tomorrow for a new mission.
+  HELP_NAME_IS_NOT_UNIQUE: The name is already in use
+  CHAT_TAB_HEADER: Chat
+  FRIENDS_REQUEST_EXIST_ALERT: You've already sent a request to %USERNAME%.
+  CLAN_LEAVE: Leave clan
+  REDUCE_DAMAGE_RICOCHET: Ricochet
+  GARAGE_CRITICAL_DAMAGE_PROPERTY: Critical damage
+  BATTLE_CREATE_PANEL_BUTTON_ASSAULT: Assault
+  GARAGE_MINE_PROTECTION_PROPERTY: Protection from Mine
+  GARAGE_PENETRATING_PROPERTY: Penetrating power
+  SHOW_NOTIFICATIONS_LABEL: Show notifications
+  HEADER_BATTLES: BATTLES
+  CAPTCHA_FORM_TITLE: 'Type-in symbols from the picture:'
+  DELETE_PRESENT_BUTTON: Delete
+  HELP_PANEL_BUTTON_BAR_HELPER_TEXT: |-
+    Invite a friend.
+    Settings.
+    Sound on/off.
+  GAME_ACTION_USE_FIRST_AID: Use First Aid supply
+  HELP_PANEL_RATING_INDICATOR_HELPER_TEXT: |-
+    Your current standing
+     and standing change
+  ALERT_ACCOUNT_SUCCESS_LINKED: Your account has succesfully been linked
+  SETTINGS_BUTTON_TOOLTIP: In Settings you can adjust graphics, key bindings and much
+    more.
+  CLAN_PLAYER_IS_INVITE_LIST: Player %USERNAME% has already been invited
+  SETTINGS_TAB_NAME_GAME: Game
+  SETTINGS_TITLE: Settings
+  CTF_RETURNED_FLAG_NEUTRAL: has returned flag
+  GARAGE_BUY_BUTTON_RANK_LABEL: Rank
+  MATCHMAKING_NEED_A_HIGHER_RANK: In development
+  DAILY_QUEST_GOAL: 'Mission:'
+  BATTLE_CREATE_PANEL_STEPPER_KILLS_LIMIT: Destroy limit
+  CHAT_LABEL_ALL: To all
+  CTF_RETURNED_OUR_FLAG: has returned our flag
+  PARTNER_USERNAME_ALREDY_USED_ERROR: Entered username is already used by another
+    profile of this partner network.
+  KEYBOARD_KEY_PG_UP: PgUp
+  FRIENDS_COPY_NAME: Copy name
+  DRONE_REPAIR_HEALTH: HP Bonus
+  BATTLEINFO_PANEL_BUTTON_PLAY: Play
+  GARAGE_FIREBIRD_PROTECTION_PROPERTY: Protection from Firebird
+  SETTINGS_DYNAMIC_LIGHTING: Dynamic lighting
+  ERROR_CALLSIGN_LENGTH: You nickname's length have to be more than 1
+  DOM_RED_CAPTURED_POINT: Red team has captured point {point}
+  STATISTICS_HEADER_NUMBER: "#"
+  LOOT_OPEN_BUTTON: Open
+  FRIENDS_MENU_ARROW_LENGTH: '70'
+  ALERT_ACCOUNT_CANT_BE_UNLINKED: "Attention!\nBefore unlinking your account from
+    %1, you need to \nset a password for your Tanki Online account in settings"
+  HULL: Hull
+  CHANGE_UID_FORM_REPEAT_PASSWORD_TEXT: 'Repeat password:'
+  HELP_PASSWORD_IS_TOO_SIMPLE: Entered password is too simple
+  PIECE_1: piece
+  PIECE_2: pieces
+  PIECE_3: pieces
+  PREMIUM_COMPLETION_IN: 'Expiring at '
+  CLAN_PROFILE_INVATION_CLAN: Recruitment
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTO_COMPLETION: Auto-finish
+  GAME_ACTION_SHOW_TANK_STATS: Show tank stats
+  NEWBIES_ABONEMENT_WINDOW_TEXT: |-
+    Welcome to the ranks of Tanki players from all over the world!
+
+    You will be gaining EXPERIENCE_BONUS% additional experience points and CRYSTAL_BONUS% additional crystals for every battle you play while this special "Beginner's Pass" is active, giving you a good boost during your first few days as a recruit.
+
+    Make sure you use it to its full potential by playing as many battles as possible!
+  ERROR_EMAIL_NOT_SENDED: Mail not sended
+  SETTINGS_REENTER_PASSWORD_LABEL_TEXT: 'Re-enter:'
+  BATTLE_ENTER_ERROR_EQUIPMENT_NOT_MATCH_CONSTRAINTS: "This battle can only be joined
+    using a specific equipment combination. \nYour tank does not meet the requirements
+    of this format. More information  <a href='http://en.tankiwiki.com/Format_Battles'
+    target='_blank'><u>here</u></a>."
+  DRONE_POWER_DURATION: Power up duration
+  ALERT_ANSWER_GO_TO_GARAGE: Go to garage
+  FRIENDS_NEW: New
+  CHAT_PANEL_COMMAND_BLOCK: 'User %1 added to Ignore list '
+  MAIN_PANEL_BUTTON_BATTLES: Battles
+  GARAGE_ROTATION_PROPERTY: Rotation speed
+  GARAGE_ARCADE_DAMAGE_PROPERTY: Damage in arcade mode
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_TEXT: |-
+    Click to select
+    and join and battle.
+    Your reward - 200 crystals!
+  CLAN_TANKS_LOST: Tanks lost
+  ONE_STAR_SHOP_BUTTON_LABEL: star
+  COPY_LINK_BUTTON_LABEL: |-
+    Copy
+    link
+  CHALLENGE_FINISH: You have reached the top tier. All your rewards have been paid
+    out.
+  HEADER_DEVICES: AUGMENTS
+  PAYMENT_BUTTON_BACK_TEXT: Packages
+  NO_PLACES_AVAILABLE_LABEL: No places available
+  ALERT_INVITE_TO_BATTLE_IS_UNAVAILABLE_RANK: Are you sure you want to invite your
+    friend to a battle that is unavailable at his or her rank?
+  CLAN_MEMBER_COLUMN_EXPERIENCE: Experience
+  PARTNER_GAME_TERMS: ''
+  BLOCK_USER_CONTEXT_MENU_LABEL: Ignore
+  RUGBY_BALL_TAKEN_BLUE: Blue team has captured the ball
+  CLAN_MEMBER_LAST_VISIT: Last visit
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_TEXT: |-
+    Your rank does not match
+    this battle. Select one of
+    green colored battles.
+  AUTOCOMPLETION_BALANCE_DISTURBED_WINNERS_PART1: The enemy team doesn't have enough
+    players
+  TJR_NEW_RED_BOSS: Red Juggernaut has joined the battle
+  REARM_PAUSE_1: Pause enabled
+  REARM_PAUSE_2: Press any key to continue
+  SETTINGS_MOUSE_SENSITIVITY_CHECKBOX_LABEL: Mouse look sensitivity
+  REARM_PAUSE_3: You will leave the battle in {time}
+  GAME_ACTION_FULL_SCREEN: Fullscreen/collapse
+  GARAGE_RESISTANCE_DESCRIPTION_PREFIX: 'Protection:'
+  TYPING_SPEED_BANNED: You temporarily forbidden to write in chat
+  PREMIUM_ALERT_RETURN: Welcome back to the ranks of Premium tankers!
+  SHOP_WINDOW_PRIVACY_AND_COOKIES_POLICY_LINK: <a href="http://tankionline.com/en/privacy/"
+    target="_blank"><font color='#59ff32'><u>Privacy and Cookies Policy</u></font></a>
+  TIP_10: Paints change the look of your tank. Some make it harder for enemies to
+    see, while others give you a distinct and unique look.
+  DOM_RED_LOST_POINT: Red team has lost point {point}
+  TIP_12: Drones provide you with combat support. Some of them improve effect from
+    supplies, while others make your tank tougher. Use them intelligently!
+  ALERT_EMAIL_REGISTRATION: |-
+    Congratulations on your registration! The tank is ready for battle!
+    Your password has been sent to your given email.
+  TIP_11: 'Resistance modules decrease damage from specific turrets. Combine different
+    resistances to protect yourself from the most threatening enemies! '
+  CHALLENGE_TIER: Tier
+  SERVER_FROZEN_ALERT_TEXT: Sorry, the game server that you have chosen is currently
+    overloaded. Try to choose a different server.
+  TIP_14: Switch equipment while in battle by visiting your Garage. To do so, press
+    «G» on your keyboard or click the «Garage» button in the upper part of your screen.
+  TIP_13: Press «6» on your keyboard to drop Gold Boxes in battle. Do it for fun or
+    even as a strategic maneuver to distract your enemies. You can buy Gold Boxes
+    in the Shop or get them from Containers.
+  GARAGE_CLOSE_TEXT: Close
+  CHAT_SHARP_CLANS: clans|Clans|http://en.tankiforum.com/index.php?showforum=42
+  DRONE_HULL_SPEED_PERCENT: Bonus speed boost
+  RUGBY_BALL_TAKEN_RED: Red team has captured the ball
+  CHAT_PANEL_COMMAND_BLOCK_LIST: 'Ignore list:'
+  HEADER_CLAN_MANAGMENT: REQUESTS MANAGEMENT
+  DRONE_POWER_BOOST: Additional supply power
+  GARAGE_NEW_ITEMS_ALERT: 'Congratulations! Now you can buy the following items in
+    the Garage:'
+  RESTORE_PASSWORD_INFO: <a href="http://help.tankionline.com/topic/854487-what-to-do-if-you-forgot-your-e-mail/
+    " target="_blank"><font color='#59ff32'><u>Info</u></font></a>
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_CONGRATULATIONS: Congratulations, %1!
+  MAP_THEME_NAME_SUMMER_NIGHT: Summer night
+  MAP_THEME_NAME_SUMMER_EVENING: Summer evening
+  GARAGE_INFO_PANEL_BUTTON_EQUIP_TEXT: Equip
+  MAP_THEME_NAME_WINTER_DAY: Winter day
+  HEADER_TOURNAMENT_PREPARE: PREPARING FOR BATTLE
+  CLAN_ALERT_DISBAND_CLAN: |-
+    Disband clan?
+
+    Warning!
+    To create a new clan, you will have to purchase a new clan license.
+  DRONE_DAMAGE_PERCENT: Bonus damage
+  REFERAL_STATISTICS_HEADER_CALLSIGN: Friend
+  SETTINGS_LINK_EMAIL_BUTTON: Link
+  GARAGE_SHAFT_PROTECTION_PROPERTY: Protection from Shaft
+  JGR_YOU_ARE_THE_BOSS: Get ready, you're the next Juggernaut!
+  HEADER_FRIENDS: FRIENDS
+  SGE_SHORT_NAME: SGE
+  AUTOCOMPLETION_ENEMY_IS_BACK: The enemy is back in the battle!
+  YOUR_ACCEPTED_LIMIT_EXCEEDED_ALERT: Can not accept Friend request. Your Friends
+    List has reached the maximum number of players.
+  GARAGE_HELPER_TANK_PARTS: "Tank parts \nand other \nuseful items"
+  PAYMENT_COUNTRIES_LABEL_TEXT: 'Country:'
+  RANK_NAMES: Recruit,Private,Gefreiter,Corporal,Master Corporal,Sergeant,Staff Sergeant,Master
+    Sergeant,First Sergeant,Sergeant-major,Warrant Officer 1,Warrant Officer 2,Warrant
+    Officer 3,Warrant Officer 4,Warrant Officer 5,Third Lieutenant,Second Lieutenant,First
+    Lieutenant,Captain,Major,Lieutenant Colonel,Colonel,Brigadier,Major General,Lieutenant
+    General,General,Marshal,Field Marshal,Commander,Generalissimo
+  SETTINGS_SHOW_SKYBOX_CHECKBOX_LABEL_TEXT: Show skybox
+  BATTLEINFO_PANEL_NONAME_TEXT: None
+  FIND_BATTLE_BUTTON_TEXT: Matchmaking
+  BATTLE_CREATE_PANEL_MAP_TYPE_LABEL: 'Map:'
+  HEADER_CLAN_EDIT_PROFILE: EDIT PROFILE
+  PROMO_CODE_DESCRIPTION_TEXT: |-
+    You can use Promo Codes to get Crystals, Premium Account time, Gold Boxes, Paints and Garage items. These items will be added to your account instantly.
+
+    You can get the Promo Codes from special promotional events.
+  SETTINGS_SOFT_PARTICLES_LABEL_TEXT: Soft particles
+  BATTLE_STAT_CALLSIGN: Nickname
+  REDUCE_DAMAGE_ISIDA: Isida
+  PLAY_BUTTON: Play!
+  GARAGE_MAX_SPEED_PROPERTY: Maximum speed
+  MISSION_BUTTON_TOOLTIP: Your Daily Missions list. Complete daily missions to get
+    even more rewards.
+  YOURE_LOCATION_TEXT: If you are located in a different country, please select it
+    manually and click OK
+  CREATE_BATTLE_PANEL_GOLD_BOXES: Gold Boxes
+  RENAME_ITEM_SHOP_DESCRIPTION: This item allows you to rename your account. Once
+    you've purchased this item, you can find it in the Garage under the section «Special».
+    To use it, follow the instructions.
+  ALERT_GAME_ACCOUNT_ALREADY_LINKED: This game account is already linked to %1
+  ERROR_EMAIL_NOT_FOUND: |-
+    This email was not registered.
+    Probably you registered different one.
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_TEXT: |-
+    Click to create a battle
+    by choosing a map and game play.
+    Your reward - 200 crystals.
+  YOUR_FRIEND_DISABLED_INVITES_LABEL: |-
+    Your friend disabled invites
+    Invite cannot be sent
+  PRESENT_INFO_MESSAGE_LABEL: 'Text:'
+  HEADER_ATTENTION: ATTENTION!
+  RENT_TIME: 'Rental period:'
+  HEADER_CLAN: CLAN
+  NEW_PRESENTS_ALERT_ACCEPT_BUTTON: View
+  THERE_ARE_PLACES_AVAILABLE_LABEL: There are places available
+  BATTLE_IS_UNAVAILABLE_AT_YOUR_RANK_LABEL: Battle is unavailable at your rank
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_HEADER: Special conditions
+  BATTLE_ENTER_WARNING_PARKOUR: Attention! This is a Parkour Battle. You will not
+    receive any experience or crystals in it.
+  CLAN_TAG_ALREADY: Tag already in use
+  BATTLE_GOLD_TAKEN: " has taken the gold box"
+  CHECK_PASSWORD_FORM_BUTTON_NEW_PLAYER_TEXT: New player
+  CTF_ENEMY_FLAG_RETURNED: Enemy flag is returned
+  ALERT_ACCOUNT_ALREADY_LINKED: This %1 account has already been link
+  RUGBY_READY_TO_FACE_OFF: The ball will spawn soon
+  GARAGE_CONFIRM_ALERT_CANCEL_BUTTON_TEXT: 'No'
+  SETTINGS_RECEIVE_PRESENTS: Accept gifts from all players
+  GARAGE_PROTECTION_PROPERTY: Protection
+  FRIENDS_NO: 'No'
+  CHANGE_UID_FORM_NEW_UID_TEXT: 'New nickname:'
+  SETTINGS_SHADOWS_LABEL_TEXT: Shadow under tank
+  BATTLE_FUND: Battle fund
+  SETTINGS_SHOW_REMOTE_DRONES: Show other drones
+  SHOP_WINDOW_PAYMENT_CATEGORY_DESCRIPTION: Please choose your preferred payment method
+    to proceed
+  CHAT_SHARP_UPDATES: updates|Updates|http://en.tankiforum.com/index.php?showforum=246
+  CLAN_INCORECT_CLAN_TAG: Incorrect clan tag
+  GARAGE_UPGRADE_TEXT: Upgrade
+  TIME_LABEL_HOUR: h
+  GARAGE_ALL_PROTECTION_PROPERTY: Protection from all
+  YOUR_FRIEND_IS_ENTERING_THE_GAME_LABEL: |-
+    Invite has not been sent
+    Your friend is entering the game
+  CTF_LOST_OUR_FLAG: has lost our flag
+  MUTE_BUTTON_TOOLTIP: Toggle mute on/off.
+  TURNOVER_HINT_1: Use your gun's recoil to get back on your tracks
+  BATTLE_STAT_SCORE: Score
+  QUEST_BUTTON: Missions
+  TURNOVER_HINT_2: or self-destruct by pressing
+  CP_MODE_DESCRIPTION: Capture enemy points and stop the enemy from taking them back.
+    The team with the highest score at the end of the match, wins.
+  CHALLENGE_QUEST_BUTTON: Challenges
+  ERROR_CALLSIGN_NOT_UNIQUE: Nickname isn't unique
+  BATTLELIST_PANEL_BUTTON_CREATE: Create
+  GROUP_INVITE_RESPONSE_USER_OFFLINE: This player is offline
+  ALERT_ACCOUNT_LINKING_ERROR: An error occured when linking your account, please
+    try again later
+  CLAN_SEND_INVITE: Send invitation...
+  SETTINGS_MIPMAPPING_LABEL_TEXT: Mip-mapping
+  CTF_RED_FLAG_RETURNED: Red flag is returned
+  REGISTER_FORM_SKIP_REGISTRATION_TEXT: Try the game before registration!
+  PURCHASE_ERROR_NOTIFICATION: An error occurred during the purchase. Please try again
+  REFERAL_STATISTICS_HEADER_INCOME: Crystals
+  REGISTER_FORM_TITLE_SKIP_REGISTRATION_TEXT: You can register later. The first loading
+    will take a few minutes.
+  REDUCE_DAMAGE_ARTILLERY: Magnum
+  HELP_PANEL_MONEY_HELPER_ARROW_LENGTH: '48'
+  CTF_CAPTURED_OUR_FLAG: has captured our flag
+  SHOP_WINDOW_PURCHASE_INSTRUCTION: <a href="http://tankionline.com/en/crystals/"
+    target="_blank"><font color='#59ff32'><u>Purchase Instructions</u></font></a>
+  FRIENDS_YES: 'Yes'
+  HELP_PANEL_BUTTON_BAR_FULLSCREEN_TEXT: |2-
+
+    Fullscreen mode.
+  DRONE_CONSTANT_ARMOR_PERCENT: Bonus protection
+  ALERT_CRYSTALS_ADDED_FOR_CONFIRMED_EMAIL: Thank you for linking your Tanki Online
+    account to an email address. Bonus crystals have been added on your account.
+  DRONE_INVENTORY: Active Supplies Time
+  GARAGE_BUY_TEXT: Buy
+  CLAN_INCOMING: Requests
+  BACK_BUTTON: Back
+  GARAGE_CATEGORY_BUTTON_PAINTS: Paints
+  INVITES_YOU_TO_A_BATTLE_LABEL: Invites you to a battle
+  EXPERIENCE_BAR_TOOLTIP: Your current experience. Participate in battles to gain
+    experience and unlock new equipment.
+  MAP_THEME_NAME_DAY: Day
+  GAME_ACTION_USE_MINE: Drop Mine
+  PARTNER_REGISTARTION_FORM_LOGIN_LINK_TEXT: Already registered? <a href='event:haveAcc'><font
+    color='#59ff32'><u>Enter the game</u></font></a>.
+  FORMAT_NAME_NONE: Without Format
+  GAME_ACTION_SCREEN_SIZE_INCREASE: Increase battle screen size
+  SETTINGS_SHOW_LOCAL_DRONE: Show your drone
+  GAME_PRIVACY_POLICY: "Privacy and Cookies Policy\n\nTanki Online Europe Ltd., 60/2,
+    Melita Street, Valletta VLT 1122, Malta (hereinafter referred to as the ‘’Company’’
+    or the ‘’Administration’’), the owner of exclusive rights to the Game respects
+    the right of Users to the confidentiality of Personal Information. The Company
+    understands the importance of protecting the information received from Users.
+    The Company approved this Privacy and Cookies Policy (hereinafter referred to
+    as the ‘’Policy’’) to inform Users about the collection and use of their Personal
+    Information.\n\nThis Policy provides the conditions, procedures, and purposes
+    of collecting, using, processing, storing, disclosing, transferring and deleting
+    of the User(s)’s Personal Information, as well as the conditions of the User(s)’s
+    Personal Information protection. This Policy explains how a User can view, update
+    and request to delete Personal Information as stipulated under the Governing Law.
+    This Policy also provides the conditions, procedures, and purposes of the use
+    and storage of cookies by the Administration.\n\nThe End User License Agreement
+    (hereinafter referred to as the ‘’Agreement’’), Game Rules and other documents
+    published in the Game and Game Services are an integral part of this Policy. In
+    its turn, this Policy is an integral part of the Agreement, Game Rules and other
+    documents of the Game and game services.\n\nThis Policy is only applied for the
+    websites and other services of the Game and does not cover other websites and
+    services.\n\nAny use of the Game and its Online Facilities and/or clicking “Accept”
+    at the registration form means that you are acquainted and agree with this Policy,
+    and unconditionally accept all its terms. \nIf you do not agree with any conditions
+    of this Policy, you have no right to further use of the Game and its services,
+    please leave this website and do not use the Game.\n\n\nDefinitions\n\nAny capitalized
+    terms contained herein shall have the same meaning as has been assigned to them
+    in the Agreement.\n\n\nObligations\n\n1.       The Company is committed to respecting
+    the privacy of the User whilst complying with all applicable data protection laws
+    as established under the Governing Law. The Company ensures that the User’s Personal
+    Information is processed fairly, lawfully and in accordance with good practice
+    and it is only collected for specific purposes which are known and accepted by
+    the User when the User chooses to make use of the Software, the Game and the Internet
+    Site.\n2.\tThe Company is registered with the Data Protection Commissioner in
+    Malta and adheres to the Data Protection Act, Chapter 440 of the Laws of Malta
+    and any other relevant regulations, legal notices and/or similar rules in Malta.\n3.\tThis
+    Policy covers the following resources of the Game: the interactive multi-user
+    online game «Tanki Online. Version 2» , the chat room of the Game, the forum of
+    the Game, Tanki Online Wiki, Tanki Online News (hereinafter collectively referred
+    to as the “Game Services”), as well as all the online forms, internal forms and
+    means of communication used in the game services and in the Game client for collection
+    of personal information.\n4.\tThe Company assures that all that is reasonably
+    possible has been put in place in order that Personal Data is at all times:\na.\tprocessed
+    in accordance with User’s rights; \nb.\tprocessed fairly and lawfully; \nc.\tobtained
+    only for a specific and lawful purpose; \nd.\tadequate, relevant and not excessive
+    to the purpose of collection; \ne.\taccurate and updated; \nf.\tkept in a secure
+    manner; \ng.\tnot kept longer than is necessary for the purpose of collection;
+    \nh.\tnot transferred to jurisdictions which do not ensure adequate protection
+    of Your Personal Data; and\ni.\tis only utilized for the reasons disclosed herein.
+    \n\n5.\tPersonal Information received by the Company can only be accessed by the
+    Company’s employees and representatives as well as the affiliates of the Company
+    in possession of the required clearance. All persons who have access to such Personal
+    Information  are required to comply with the terms of this Policy and are contractually
+    obliged through their employment contract or other agreement to keep such information
+    strictly confidential even after the employment with the Company has been terminated.\n6.\tThe
+    Company is committed to take all possible organizational and technical measures
+    to protect the User’s Personal Information from illegal or accidental access,
+    destruction, alteration, blocking, copying, distribution, as well as other illegal
+    actions of third parties.\n7.\tThe Company has adopted the best practices when
+    it comes to the principle of protection of e-mail communication with User and
+    protection of any other method of communication which might be necessary from
+    time to time.\n8.\tData protection legislation may differ in different countries.
+    The Company will aspire to follow the conditions of this Policy as much as possible
+    and will protect the User’s Personal Information as much as possible, regardless
+    of where it has been collected and/ or how it has been transmitted.\n9.\tThe Company
+    may only transfer Personal Information to third countries if the third country
+    has an adequate level of Personal Information protection or if such transfer is
+    required for conclusion or performance of the Agreement or other contract in the
+    User’s interests, or if such transfer is required to protect the User’s interests,
+    or if the Company provides adequate guarantees in relation to Personal Information
+    protection.\n\nCollection of Personal Information\n\n10.\tThe Administration shall
+    have the right to request from the User any information in order to enable the
+    use of the Game, which may include the  information provided in the course of
+    filling special forms in the Game and Game Services, including the information
+    provided during registration, subscription to services, publication of materials
+    and request for other services, including e-mail, phone number, identification
+    data (ID) in social networks, username and password.\n11.\tThe Administration
+    may request any information required to organize and conduct events in the Game
+    when the User registers to participate in such events initiated by the Administration.\n12.\tIf
+    User starts correspondence with the Administration or submits a report about problems
+    with the Game or Game Services, the Administration has a right to store all this
+    correspondence.\n13.\tThe Administration may ask the User to take part in surveys
+    and request certain information in the course of surveys, but this is not a mandatory
+    procedure and any User may refuse to participate.\n14.\tThe Administration may
+    collect and process the details of transactions and the User’s payment data when
+    a User avails himself of any Paid Service.\n15.\tThe User’s browser or a client
+    program may transfer certain information about the details of visits to websites
+    of the Game and Game Services, including the information about traffic, log-files,
+    the data about geographical location of the User’s computer and its possibilities,
+    and other information. The User hereby accepts that the Administration may use
+    this information for the purposes and in the procedure established in this Policy.\n16.\tThe
+    Administration may request other information from the User to perform some actions,
+    such as sex, age, date of birth, and game preferences.\n17.\tThe Administration
+    may collect, process and use other information specified in the Agreement, and
+    any of the documents forming an integral part of the EULA.\n\n\nUser’s Consent\n\n18.\tIf
+    in the registration form of the Paid Services or any other registration form used
+    in the Game or Game Services, the User furnishes any Personal Information, such
+    provision means that the User has expressly given his direct and definite consent
+    to this Policy, to the Agreement and to any document forming part of the Agreement,
+    and such provision means that the User has expressly given his direct and definite
+    consent on collecting, processing, using, storage, disclosure, transferring, cross-border
+    transfer (transferring to third countries) and destruction of any User’s personal
+    information, for the purposes of provided by this Policy, the Agreement and any
+    documents forming part of the Agreement \n19.\t Personal Information shall only
+    be collected for legal purposes and in particular shall be collected for the hereunder
+    reasons:\na.\tverification of  User’s details;\nb.\tregistering an Account with
+    the Company;\nc.\tpromotion and marketing of activities; \nd.\tcompliance with
+    applicable laws;\ne.\tappropriate and qualitative providing the User with any
+    additional services that the Company may offer, such as technical support relating
+    to the Game; and\nf.\tperformance and fulfillment of the Agreement and of all
+    the documents forming an integral part of the Agreement by the Company, by its
+    suppliers and/or by any third party acting on its behalf.\n20.\tThe Administration
+    shall have the right to collect and make any use it deems fit of any information
+    which is not deemed to be Personal Information according to the Governing Law,
+    and the User hereby accepts that the Company may disclose to any third parties
+    such non-Personal Information.\n21.\tThe User has the right to object to the processing
+    and collection of his Personal Information and has the right to withdraw such
+    consent at any time, except where otherwise determined by the Governing Law. Whenever
+    such a User withdraws his consent, he understands and accepts that this may have
+    a negative influence on the quality of the Game and Online Facilities as well
+    as may cause the impossibility of access to the Game and/ or Game Services and
+    the User hereby agrees that the Company shall have no liability for any loss and/
+    or damage to the User’s Personal Information in such case.\n\nUse and processing
+    of Personal information\n\n22.\tThe User hereby further accepts that the Company
+    shall have the right to store and process the Personal Information provided, which
+    the Company deems necessary in order to make use of the Game. The User further
+    accepts and understands that all activities within the Game are logged.\n23.\tThe
+    Personal Information that is disclosed by the User is collected and processed
+    by the Administration for the purposes of appropriate and qualitative provision
+    of Game Services to the User, for the purpose of development and improvement,
+    to perform the Agreement and other actions specified in the Agreement, Game Rules
+    and this Policy. The processing of Personal Information are collection, recording,
+    systematization, classification, storage, accumulation, updating, modification,
+    grouping, blocking, use, disclosure, transfer to the third parties, dissemination,
+    destruction, deletion, and other actions necessary for the performance of the
+    Agreement.\n24.\tThe Company does not sell the User's Personal Information and
+    does not disclose such information to third parties, except as provided in this
+    Policy. The Company may disclose the general demographic and statistical information
+    to business partners or advertisers. This is not directly related with the Personal
+    Information and cannot identify a specific User.\n25.\tTo ensure proper provision
+    of services, the Company has the right to transfer Personal Information to other
+    persons or organizations that provide hosting services, payment services, services
+    related to sending e-mails, and to moderators. These persons and organizations
+    have the right to use the received personal information for the sole purpose of
+    providing services to Users and are to be bound by the terms ensuring the proper
+    use of the Personal Information.\n26.\tThe User accepts that the Company shall
+    have the right to transfer the Personal Information provided to any affiliates
+    of the Company for the purpose of appropriate and high-quality provision and improvement
+    of Game Services and for the purpose of improving of Game Services, for the performance
+    of the Agreement, Game Rules and this Policy.\n27.\tIf the Company merges with
+    another company in the future through the process of reorganization and/ or merger
+    and/ or sale and/ or acquisition and/ or liquidation and/ or through any other
+    process, the User(s)'s Personal Information may be transferred along with the
+    Company or its part, or it may be sold as part of the Company.\n28.\tThe User
+    accepts that the Company shall have the right and the obligation to disclose Personal
+    Information when ordered to do so by a decision deriving from the Governing Law
+    and/or any other reputable jurisdiction and/ or when ordered to do so by order
+    of the Regulatory Authority and/or when ordered to do so by order of the Data
+    Protection Commissioner and/or in the event of User being directly and/or indirectly
+    involved in any crime which somehow involves the Game and/or the Company’s services.\n29.\tThe
+    User agrees that if the Company receives a claim from third parties (copyright
+    holders) concerning the User’s infringement of the rights to Materials placed
+    in the Game and/ or Game Services, the Company shall have the right to transfer
+    the information about such User to the third party (copyright holder).\n30.\tIf
+    the User enters in the Game and/or registers in the Game through sites of third
+    parties and/ or through sites of partners of the Company, such persons can request,
+    collect and process personal information of the User for the purpose of appropriate
+    and high-quality service. Privacy and cookies policies of the third parties will
+    be applied in that case. User accepts that the Company shall have the right to
+    transmit User’s Personal information to such persons for the purpose of appropriate
+    and high-quality provision of Game Services, performance of the Agreement, Game
+    Rules and this Policy.\n\n\nStorage of Personal information\n\n31.\tThe Company
+    will take all the necessary measures for the proper and safe storage of the User’s
+    collected Personal Information in accordance with the conditions of this Policy.
+    All information provided by User is stored on the servers of the Company .\n32.\tThe
+    Company shall use a standard technology which includes firewalls to ensure the
+    safety of the Personal Information.\n33.\tThe User is obliged not to disclose
+    or transfer his/her identity or account details, which are used for authorization
+    in the Game, to third parties. User is fully responsible for storage of his account
+    information.\n34.\tIf User becomes aware that his/her account information have
+    been stolen and/ or are in the possession of any third party, User shall immediately
+    inform the Company about such circumstances so that the Company can take the necessary
+    measures. In such cases the Company cannot guarantee the safety of User’s Personal
+    Information and User hereby accepts that the Company shall not be held liable
+    for any use of this Personal Information.\n35.\tWhen User communicates inside
+    the Game or Game Services (using a chat room, forum, etc.), the User understands
+    that such communication takes place through the Company ’s Server and agrees that
+    this data may be collected, stored and studied by the Administration. The Administration
+    is not responsible for the confidentiality of the Personal Information and/ or
+    other information which the User discloses to other User(s) through the Game,
+    Game Services or other services associated with the Game (using a chat room, forum,
+    social networks, etc.) and the Administration shall have the right to consider
+    such information as being available within the public domain.\n\n\n\nCookies,
+    IP-addresses and log-files\n\n36.\tThe Administration may collect and process
+    information about the User’s computer, log files, including IP-address, type of
+    operating system, browser and e-mail client, information about the traffic, date
+    and time, details of visits to game services, user activity, information about
+    accesses, settings, system notifications. This information about the Users’ actions
+    in the Internet Site, is collected and stored for the purposes of systems administration,
+    ensuring due functioning of the Game and Game Services, for the purposes of safety
+    and strengthening of protection and ensuring system integrity (prevention of hacker
+    attacks, unauthorized access.\n37.\tThe Administration makes use of cookies in
+    order for the Game to function properly. Cookies are small bit record-keeping
+    text information that are automatically created and stored in User’s computer/
+    other equipment in order to associate and identify activity with User (hereinafter
+    referred to as ‘’Cookies’’). Cookies do not typically include names and/or email
+    addresses and/or other Personal Information. in fact they typically contain anonymous
+    information which is required for the better functionality of the Game and/or
+    Game Services.\n38.\tCookies stored in a User’s computer/ any other equipment
+    through which the User makes use of the Game and/or its Materials have amongst
+    others but without limitation, the following functions: \na.\tthe provision of
+    access to secured areas which User has requested, without these Cookies, services
+    you have requested like secure login areas cannot be provided;\nb.\tVisit Cookies
+    - remembering the choices and/ or settings User has made and to enable User recognition
+    when making use of the Game. Without such Cookies the functionality of the Game
+    may be impaired;\nc.\tVoting (Survey) Cookies - marking the items of any survey
+    for which User has cast a vote and prevent User from voting again in the same
+    survey;\nd.\tLoading Balancing Session Cookies- improving the Game’s loading time
+    by spreading workload and timing optimization of game services. Without these
+    Cookies the functionality of the Game may be lost;\ne.\tUser Interface customization
+    cookies which make it possible to save the User’s interface settings in case of
+    repeat entry to the Game and game services.\nf.\tCookies placed and used for synchronization
+    with the User’s data in social networks.\ng.        Performance (Analytics) Cookies
+    - collecting anonymous information on how User makes use of the Game.\nh.\tAdvertising
+    Cookies - delivering User with the most relevant advertisement and help improve
+    the effectiveness of advertisement campaigns. User hereby accepts and agrees that
+    the Company may make use of these cookies for its own advertisement campaigns.
+    \n39.\tThe Administration may also allow certain third parties to put and make
+    use of their own web performance (analytics) and advertisement cookies on the
+    User’s equipment and to collect information from the Company’s Cookies, for the
+    purposes of storage and analysis of information about the Users’ preferences and
+    to improve the quality of services. At this case such third parties are bound
+    by this Policy. The Administration guarantees that it shall exclusively allow
+    reputable third parties to make such use.\n40.\tUser understands that by making
+    use of the Game through any Social Networking Site, such as Facebook, User may
+    be required to adhere to the particular Social Networking Site’s cookie policy
+    and User agrees that the Administration shall have no liability for any such use
+    of cookies.\n41.\tUsing the Game and/ or the Internet Facilities or accepting
+    the Agreement  (including this Policy) and/or clicking “Accept” User has understood
+    and accepted this Policy and  expresses his/her direct and definite consent that
+    the Administration  may  put, storage and make use of cookies in User’s computer/
+    any other equipment through which User make use of the Game and/or its Materials.
+    The Administration may continue to presume that User consents to this Policy until
+    and/ or unless User has disabled cookies through browser settings as provided
+    herein. By providing this consent, User gives Administration a possibility to
+    better understand Users and their preferences, develop and improve the quality
+    of services all the time considering Users’ interests. User hereby agrees that
+    without enabling Cookies the Game may not function properly.\n42.\tAdministration
+    guarantees that the stored cookies are safe for Users and absolutely necessary
+    for normal functioning of the Game and game services and for providing of services
+    to Users by the Administration.\n43.\tThe cookies are stored for no more than
+    one year. The terms of cookies storage by the third party shall be established
+    by such third party.\n44.\tUser may at any time refuse to accept cookies and disable
+    cookies by changing his/her browser settings. Disabling Cookies may have a negative
+    influence on the quality of the Game and the Online Facilities and may also cause
+    the impossibility to access the Game and the Online Facilities and User hereby
+    agrees that the Company shall have no liability for any loss and/ or damage to
+    User information in case User has disabled cookies.\n\n\nObtaining and Changing
+    User’s Personal Information\n\n45.\tUser shall have the right to contact the Administration
+    at any time in order to obtain a copy of User’s Personal Information which the
+    Company has stored and to have any inaccuracies corrected where appropriate. User
+    shall have a right to request that his Personal Information be erased, rectified,
+    amended or completed. To contact the Administration regarding User’s Personal
+    Information User  should send e-mail on help@tankionline.com.\n\nRefusal to provide
+    any Personal Information\n\n46.\tAny Personal Information provided by the User
+    to the Administration is provided on a voluntary basis. Nonetheless the Company
+    cannot guarantee that the Game and/ or game services shall function properly and/or
+    shall function at all in case of failure to provide any Personal Information when
+    requested.\n\nSocial Network Sites\n\n47.\tUser hereby confirms that he understands
+    and accepts that by making use of the Game through any Social Networking Site
+    or other site of third party may also subject User to their terms and conditions.\n\n\nChanges
+    of the Policy\n\n48.\tThis Policy is valid as of the date of the last version.
+    This Policy may be changed, amended, replaced in any form and at any time without
+    prior or following notification of User, so we recommend to look through this
+    Policy from time to time to be informed of all changes. Any further use of the
+    Game and game services means unconditional acceptance of the modified version
+    of this Policy.\n\nContacts with Administration\n\n49.\tIf you have any questions,
+    remarks, complaints or comments regarding this Policy, please contact us at help@tankionline.com.
+    We will consider your questions as soon as possible.\n50.\tThe Administration
+    may decline unreasonably frequent requests, which require disproportionate technical
+    efforts, jeopardize the privacy of other Users or are extremely impractical.\n51.\tIf
+    User starts any correspondence with the Administration or submits a report about
+    problems with the Game or game services, the Administration shall have the right
+    to store all this correspondence."
+  AUTOCOMPLETION_ROUND_MIGHT_END_EARLIER: Round might end earlier
+  SETTINGS_MOUSE_CONTROL_CHECKBOX: Mouse controls
+  REARM_BATTLE_EVENT: has changed equipment
+  GROUP_INVITE_RESPONSE_DECLINE: Doesn't join the group
+  CLAN_BUTTON_TOOLTIP: Here you can join and manage your Clan, or join an existing
+    Clan.
+  CLAN_INVITE: Invite
+  DISABLED_CHAT_LABEL_TEXT: Chat is turned off. Go to Settings to turn it back on.
+  SMART_SUPPLIES: Smart Supplies
+  OPEN_ALL_CONTAINERS: Open all
+  BATTLE_CREATE_PANEL_MAP_THEME_LABEL: 'Theme:'
+  GAME_ACTION_DROP_FLAG: Drop Flag
+  CLAN_POSITION_PRIVATE: Private
+  CHALLENGE_BUY_BATTLE_PASS_TIP: Buy the battle pass to claim all the rewards you've
+    earned
+  ASSAULT_DELIVER_FLAG: The base is successfully attacked
+  PARTNER_REGISTARTION_FORM_CHOOSE_NAME_TEXT: 'Choose your nickname in the game:'
+  AUTOCOMPLETION_BALANCE_RESTORED_PART1: The teams are balanced again
+  LOADING_PAYMENT_PAGE: Loading the payment page...
+  AUTOCOMPLETION_BALANCE_RESTORED_PART2: Round will proceed normally
+  CLAN_NOT_RECRUITING: This clan is currently not recruiting
+  MAP_THEME_NAME_NIGHT: Night
+  REARM_APPLY: Changes in equipment are being applied
+  PARTNER_HELP_PANEL_BUTTON_BAR_HELPER_TEXT: Settings. Sound.
+  RUGBY_BALL_LOST_BLUE: Blue team has lost the ball
+  RUGBY_GOAL_USER: has scored the goal
+  BATTLE_EXIT: Exit
+  BATTLE_TEAM_BLUE: blue
+  BATTLE_CREATE_PANEL_STEPPER_TIME_LIMIT: Time limit
+  BATTLE_CREATE_PANEL_BUTTON_CAPTURE_THE_FLAG: |-
+    Capture
+    The Flag
+  ASIASOFT_YOUR_BALANCE: You have %1 ATC
+  TOURNAMENT_BATTLE_TRAINING_LABEL: Preparing for battle
+  SETTINGS_SHOW_DROP_ZONES_LABEL_TEXT: Show drop zones
+  HEADER_COMMUNICATOR: COMMUNICATOR
+  CLAN_ALERT_CLAN_FULL: Clan is full
+  CLAN_NUMBER_MEMBERS_WITH_COLON: 'Total number of players:'
+  JGR_BOSS_KILLED: Juggernaut %1 has been destroyed
+  DRONE_BONUS_RADIUS: Shared effects radius
+  STATISTICS_HEADER_RANK: Rank
+  ACCEPT_CONDITIONS: Accept conditions
+  GARAGE_CONFIRM_ALERT_BUY_QEUSTION_TEXT: Do you confirm the purchase?
+  REARM_TEAM_WIN: Your team won!
+  NEED_OF_EMAIL_CONFIRMATION: |-
+    You entered your email but haven't verified it yet. The bonus crystals will only be sent once your email is verified.
+
+    If you can't find the letter with the verification link, check your spam folder or enter your email once again. We'll send you a new letter with a verification link.
+
+    Remember that having a verified email address increases your account's security and allows you to communicate with Tanki Online customer service.
+  STATISTICS_HEADER_KILLS: Destroyed
+  GAME_ACTION_USE_DOBLE_DAMAGE: Use Double Damage supply
+  FITTING_BUTTON_TEXT: Preview
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_TEXT: Click to make a payment.
+  BATTLE_BUTTON_TOOLTIP: Here you can join new battles to earn more crystals and new
+    ranks.
+  PAYMENT_SMS_DESCRIPTION_CO_TEXT: ''
+  REDUCE_DAMAGE_GAUSS: Gauss
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_ARROW_LENGTH: '30'
+  SERVER_IS_RESTARTING_LOGIN_TEXT: Server is restarting right now. You can't login.
+  HEADER_CHAT: CHAT
+  CURRENT_WAITING_TIME_LABEL: Current waiting time
+  STATISTICS_HEADER_WEALTH: Wealth
+  AS_MODE_DESCRIPTION: Playing for the blue team, protect your base from attacks by
+    the enemies. Playing for the red team, drop your flag at the base of the blue
+    team to get points. The team that earns more points wins.
+  PAYMENT_BUG_REPORT_INFO: If your payment did not reach us, or there is a problem
+    with your transaction, please report the matter to us.
+  CLAN_NAME_ALREADY: Clan name already in use
+  CLAN_SEARCH_CLAN_IN_LIST: Search clan in list...
+  FRIENDS_DECLINE_REQUEST: Decline request
+  ACCEPT_OFFER_BUTTON: Accept
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_ENTER: Enter
+  CHAT_SHARP_NEWS: news|News|https://news.tankionline.com/en/
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  CHECK_YOU_LOCATION_TEXT: 'Your location:'
+  VOTE_USER_LABEL: Vote
+  GARAGE_CATEGORY_BUTTON_SPECIAL: Special
+  BATTLE_CREATE_PANEL_STEPPER_MAX_PLAYERS: Max players
+  CTF_LOST_ENEMY_FLAG: has lost enemy flag
+  CURRENT_PASSWORD: 'Current Password:'
+  DRONE_REPAIR_RADIUS: Healing Radius
+  PARTNER_LOGIN_FORM_ENTER_USERNAME_TEXT: Enter your Tanki Online username and password
+    to play through the partner network.
+  GAME_ACTION_SCREEN_SIZE_DECREASE: Decrease battle screen size
+  HELP_PANEL_SCORE_HELPER_TEXT: |-
+    Your current experience
+    / Experience required
+    to obtain next rank
+  CLAN_POSITION_SERGEANT: Sergeant
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_DONT_ENTER: Do not enter
+  UNBLOCK_USER_CONTEXT_MENU_LABEL: Show
+  REDUCE_DAMAGE_SMOKY: Smoky
+  GARAGE_CATEGORY_BUTTON_KITS: Kits
+  KEYBOARD_KEY_PG_DN: PgDn
+  BATTLE_CREATE_PANEL_BUTTON_CONTROL_THE_POINT: |-
+    Control
+    Points
+  BATTLE_RESTART: Battle restarts in
+  CLAN_SEND_REQUEST_TO_CLAN: Send request to a clan...
+  MAIN_PANEL_UPDATE_RANK_NOTICE: |-
+    Congratulations!
+    You have reached the rank of %1
+  DEVICE: Augment
+  CLAN_INVITE_TO_CLAN: Invite to Clan
+  MESSAGE_ALERT_PERSONAL_DISCOUNT: |-
+    $USERNAME$, right now you can purchase $ITEM-NAME$ at $DISCOUNT$% off.
+    But hurry up! This offer ends in $DISCOUNT_TIMER$.
+  CTF_OUR_FLAG_RETURNED: Our flag is returned
+  GARAGE_CATEGORY_BUTTON_PRESENTS: Gifts
+  MODULE: Module
+  GO_TO_BATTLE_LABEL: Go to battle
+  CHALLENGE_BUY_PREMIUM_TIP: Buy premium account to get twice as many stars for finishing
+    battles.
+  CLAN_TAG: Clan tag
+  PRESENT_INFO_DATE_LABEL: 'Date:'
+  PREMIUM_NOTIFICATION_COMPLETE: Your Premium Account has expired.
+  SETTINGS_TAB_NAME_GRAPHICS: Graphics
+  FRIENDS_FIND_TO_SEND: Send a request to a friend...
+  CLAN_MY_CLAN: My clan
+  VKONTAKTE_NAME: VKontakte
+  CLAN_BUTTON_PROFILE: Clan profile
+  DAILY_QUEST_GET_PRIZE: Claim reward
+  CLAN_REMOVE_REQUEST_TO_CLAN: Withdraw your request
+  PROFILE: Profile
+  PAYMENT_BUTTON_PROCEED_TEXT: Next
+  PAYMENT_OPERATORS_LABEL_TEXT: 'Operator:'
+  BATTLE_CREATE_PANEL_CHECKBOX_PRIVATE_BATTLE: Private battle
+  PREMIUM_COMPLETION: 'Expiring: '
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_HEADER: Payment method with discount
+  CTF_GOT_OUR_FLAG: has taken our flag
+  NOT_ENOUGH_MONEY_FOR_BUY_ITEM: You don't have enough crystals to make this purchase.
+  SETTINGS_ANTIALIASING: Antialiasing
+  DRONE_OVERDRIVE_BOOST: Overdrive recharge time reduction per kill
+  FREE_UIDS_FORM_HEADER: |-
+    This name is already used.
+    These options are available:
+  SETTINGS_LINK: Link
+  HEADER_NEWS: NEWS
+  GARAGE_CATEGORY_BUTTON_SUPPLIES: Supplies
+  GOLD_CHECKBOX: Show who has dropped the gold box
+  GAME_ACTION_CAMERA_UP: Move camera up
+  FATAL_ERROR_WIKI_LINK: http://en.tankiwiki.com/Battle_error
+  REARM_DM_END_BATTLE: The battle is over
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_TEXT: |-
+    Click to create a custom battle
+    by choosing a map and game play.
+  HELP_PANEL_MAIN_MENU_HELPER_ARROW_LENGTH: '60'
+  CAUSES_AND_SOLUTIONS: Causes and solutions
+  ERROR_FATAL_DEBUG: An error occurred
+  CTF_GOT_ENEMY_FLAG: has taken enemy flag
+  CLAN_DOES_NOT_ACDEPT_REQUEST: This clan does not accept requests
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_COMPENSATION: 'Compensation for this Item:'
+  CTF_CAPTURED_FLAG_NEUTRAL: has captured flag
+  HEADER_SECURITY: ACCOUNT SECURITY
+  CLAN_PLAYER_IS_CLAN_MAMBER: Player %USERNAME% is already a member of this clan
+  AUTOCOMPLETION_ENEMY_TEAM_IS_EMPTY: The enemy team is empty
+  CLAN_FLAG: Flag
+  DECLINE_OFFER_BUTTON: Decline
+  REARM_BATTLE_EXIT: Leave the battle
+  CHANGE_UID_FORM_NEW_PASSWORD_TEXT: 'New password:'
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTTON_ARROW_LENGTH: '30'
+  DM_SHORT_NAME: DM
+  ALERT_EMAIL_CONFIRMED_WRONG_LINK: |-
+    You have used an incorrect link.
+    Repeat the recovery proceedure, to recieve a new link.
+  GARAGE_RICOCHET_PROTECTION_PROPERTY: Protection from Ricochet
+  REARM_BATTLE_PRIZE: You received {crystals}
+  IS_JOINING_THE_BATTLE_AT_YOUR_INVITATION_LABEL: 'Is joining the battle at your invitation
+
+    '
+  FRIENDS_PLAYER_ALREADY_IN_LIST_ALERT: "%USERNAME% is already in your friends list."
+  DRONE_MINES_ACTIVATION_DELAY: Mine activation duration
+  REARM_BATTLE_STARS_PRIZE: You received {stars}
+  DRONE_CONSTANT_POWER_PERCENT: Bonus damage
+  SHOP_FEATURING_HEADER: Special offer
+  SETTINGS_MOUSE_INVERSION_CHECKBOX_LABEL: Mouse look vertical inversion
+  HEADER_SETTINGS: SETTINGS
+  CREATE_FAILED_YOU_ARE_BANNED: "Dear player, you are banned in the chat channel \n
+    so you can't create battles. But you still can \n participate in battles, created
+    by other players."
+  WEEKLY_QUEST_COMPLETED: |-
+    This mission was completed.
+
+    Come back to the game next week for a new mission.
+  ALERT_EMAIL_CONFIRMED: Your e-mail confirmed
+  POSTFIX_OFFER_EXIT_BATTLE: Test Drive will be over.
+  GARAGE_SPEED_UP_TEXT: Speed up
+  NEED_OF_EMAIL_SET: |-
+    Please enter your email address to increase your account's security.
+
+    You'll receive an email with a verification link. Follow it and you will be rewarded with free crystals.
+  RUGBY_GOAL_BLUE: Blue team has scored the goal!
+  FULLSCREEN_BUTTON_TOOLTIP: Toggle full screen on/off.
+  DESCRIPTION: Description
+  HELP_PANEL_BUTTON_BAR_HELPER_ARROW_LENGTH: '116'
+  FOLLOW_EXTERNAL_LINK: 'Attention! You are about to follow an external link: %link%'
+  AUTOCOMPLETION_BALANCE_DISTURBED_LOSERS_PART1: Our team doesn't have enough players
+  BATTLE_LIST_NAME: Battle list
+  GAME_ACTION_TANK_MOVE_BACKWARD: Move tank backwards
+  PAYMENT_SMSTEXT_HEADER_LABEL_TEXT: 'Text:'
+  REGISTER_FORM_PASSWORD_INPUT_LABEL_TEXT: 'Password:'
+  TOTAL_PRICE_KIT: 'Total:'
+  GARAGE_TURN_PROPERTY: Turning speed
+  REARM_BATTLE_RETURN: Return to the battle
+  CLAN_VS_CLAN: Clan vs Clan
+  CTF_MODE_NAME: Capture the Flag
+  BATTLE_PLAYER_SUICIDED: self-destructed
+  CONNECTION_CLOSED_WIKI_LINK: http://en.tankiwiki.com/Connection_Closed
+  HELP_PANEL_RATING_INDICATOR_HELPER_ARROW_LENGTH: '48'
+  FRIENDS_CLOSE: Close
+  ALERT_CHAT_PROCEED_EXTERNAL_LINK: |-
+    You are going to proceed the link which is not connected with Tanki Online game.
+    Project Administration doesn't bear responsibility for outer content
+    and strongly recommends not to specify your e-mail, login, password
+    and other data from Tanki Online on unfamiliar sites.
+    These sites may harm your PC and steal confidential information
+    including Tanki Online account data through different viruses and other malware.
+    If you do not want to proceed the link, press «Cancel».
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTON_TEXT: |-
+    Click and make your first purchase.
+    Your reward - 200 crystals!
+  FRIENDS_DECLINE_ALL_BUTTON: Decline all
+  ALERT_ANSWER_RETURN_TO_BATTLE: Return into battle
+  ALERT_ANSWER_NO: 'No'
+  FRIENDS_BATTLE: Battle
+  SAVE_BUTTON_LABEL: Save
+  KEYBOARD_KEY_DOWN: Down
+  GARAGE_ISIDA_PROTECTION_PROPERTY: Protection from Isida
+  SHOP_BUTTON_TOOLTIP: Here you can buy crystals and other goods. Make sure to check
+    often for special offers!
+  ALERT_ANSWER_OK: Ok
+  CAPTCHA_INCORRECT: The control characters are entered incorrectly
+  HEADER_CHANGE_UID: NICKNAME CHANGE
+  ERROR_FATAL: An error occurred
+  SETTINGS_MESSAGE_ONLY_FROM_FRIENDS: PM from friends only
+  ALERT_ANSWER_PROCEED: Proceed
+  CLAN_SEARCH_BLOCKED_HINT: You are temporarily blocked from joining any clans
+  RENAME_FAILED_ALERT: Renaming failed, please try again later
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_ARROW_LENGTH: '30'
+  MEESAGE_ALERT_OFFER: "$USERNAME$, you have just been given the rare opportunity
+    \nto test out $ITEM-NAME$ in combat!"
+  SETTINGS_BACKGROUND_SOUND_CHECKBOX_LABEL_TEXT: Background sound
+  REGISTER_FORM_REGISTER_VIA: Register in the game using
+  CHECK_PASSWORD_FORM_CALLSIGN: 'Login or email:'
+  SETTINGS_ENABLE_ADAPTIVE_FPS_CHECKBOX_LABEL_TEXT: Adaptive FPS
+  GAME_ACTION_TANK_TURN_LEFT: Turn tank left
+  GAME_ACTION_USE_NITRO: Use Speed Boost supply
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_TEXT: |-
+    Click to go to the Garage
+    and make your first purchase.
+    Your reward - 200 crystals!
+  FRIENDS_SEND_REQUEST_BUTTON: Send
+  DRONE_INVENTORY_COOLDOWN_SUBTRACTION: Supply reload speed increase in sec.
+  SETTINGS_NEW_PASSWORD_LABEL_TEXT: 'New password:'
+  TJR_RED_BOSS_KILLED: Red Juggernaut has been destroyed
+  FRIENDS_CONFIRM_REQUEST: Confirm request
+  GARAGE_INFO_PANEL_BUTTON_BUY_TEXT: Buy
+  DRONE_CRITICAL_HEALTH: Healing
+  NEWS_TAB_HEADER: News
+  SETTINGS_MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION: Mouse view vertical inversion for
+    Shaft Sniping Mode
+  TJR_MODE_DESCRIPTION: Attack the enemy team's Juggernaut and protect your own. The
+    team that destroys the most enemy Juggernauts, wins.
+  GARAGE_CATEGORY_BUTTON_TURRETS: Turrets
+  SHOP_WINDOW_HEADER_DESCRIPTION: This is where you can buy various goods to improve
+    your gaming experience. You agree that the purchased goods will be credited to
+    your Account upon completion of the payments process. Purchased goods that have
+    been credited to Your account are not subject to the user's right of withdrawal.
+  CLAN_PLAYER_IS_REQUEST_LIST: Player %USERNAME% has already applied to join the clan
+  TDM_MODE_DESCRIPTION: Destroy enemy tanks and protect your teammates. The team who
+    makes the most kills, wins.
+  FRIENDS_NAME: Name
+  ALERT_ANSWER_YES: 'Yes'
+  CHANGE_UID_FORM_EXPLANATION_TEXT: |-
+    Welcome back, tanker!
+
+    Your name was automatically changed due to prolonged inactivity, but you can change it to something else using this form.
+
+    Your new username will also serve as your login.
+  MANY_STARS_SHOP_BUTTON_LABEL: stars
+  HEADER_YOUR_TANK: YOUR TANK
+  IS_CONSIDERING_YOUR_INVITE_LABEL: |-
+    Is considering your invite
+    Wait for a reply
+  GARAGE_EQUIPPED_TEXT: Equipped
+  CLAN_ACCEPT_REQUEST: Accept invitation
+  REARM_PAUSE_ALERT: |-
+    Pause time is nearly over. You will automatically leave the battle in {time}
+    Return to the battle?
+  CHALLENGE_STARS: Stars
+  DRONE_ADDITIONAL_MINES: Number of mines
+  COIN_CONFIRMATION_HEADER: Confirmation of purchase
+  CLAN_CREATION_DATE_WITH_COLON: 'Clan creation date:'
+  NOT_ENOUGH_COINS: Not enough Tankoins!
+  CLAN_BLOCK: This clan has been blocked
+  STATISTICS_HEADER_RATIO: Ratio
+  CHAT_SHARP_THEFT: theft|What if my tank was stolen|http://help.tankionline.com/topics/2358-what-to-do-if-your-account-has-been-stolen/
+  CLAN_EDIT_PROFILE: Edit profile
+  CLAN_USER_CLAN_NUMBER_MEMBERS: Number of players
+  SGE_BLUE_CAPTURED_POINT: Blue team has captured point {point}
+  GAME_RULES: "Brief  Rules\n\nThe following in-game activities are prohibited in
+    the Game:\n- use of bots, use of third-party software, bugs;\n- pretending to
+    be a member of Administration;\n- power-levelling, creating obstructions for other
+    users;\n- advertisement, political propaganda;\n- violation of laws, including
+    intellectual property laws;\n- sale, purchase, exchange, transfer of Accounts,
+    other game values;\n- fraud, other dishonest actions.\n \nThe following activities
+    are prohibited in the Game chats and on the Forum:\n- using insults, threats,
+    slander;\n- obscene language, including in the implied form;\n- flooding, flaming,
+    spam, printing in capital letters (CAPS LOCK);\n- swindling passwords, other Account
+    information;\n- trolling;\n- instigating others to violate the Game Rules;\n-
+    public discussion of the Administration and moderators;\n- publication of information
+    forbidden by legislation;\n- publication of links to third-party resources;\n-
+    any forms of discrimination.\n \nGame Rules\nYou are in Tanki Online game where
+    people from all over the world enjoy operating huge battle machines, taking part
+    in fierce battles! Players can fight by themselves or team up to fight for victory
+    side by side. They can also socialize and find new friends.\nTanki Online is an
+    easy-to-learn multiplayer action game, a stage for serious battles, and a great
+    social network.\nAfter completing the registration process, User receives a virtual
+    tank and 500 crystals (the in-game currency). By winning battles, User increase
+    their rating and earn new ranks and crystals. Crystals can be used to purchase
+    useful ammunition and buy or upgrade tanks, guns and armor.\nTanki Online isn't
+    merely an exciting online Game. It's a community of people who share the same
+    interests. We encourage mutual respect and politeness and strongly discourage
+    offensive behavior and/or violating other Users' rights. The Administrators reserves
+    the right to limit users' communication abilities, lower their ratings, and/or
+    block their Accounts if they violates these Game Rules.\n \n\nGeneral Terms\n\nThe
+    Game Rules are an integral part of the End User License Agreement (hereinafter
+    referred to as the ‘’Agreement’’ or EULA) and other documents of the Game and
+    Game services. In their turn, the Agreement, the Privacy and cookies policy, as
+    well as other documents published in the Game and Game services, are an integral
+    part of these Game Rules.\nAny terms and notions used in the Game Rules have the
+    same meaning as has been assigned to them in the Agreement.\nAny use of the Game
+    and its Online Facilities and/or clicking “Accept” at the registration form means
+    that you are acquainted and agree with this Game Rules, and unconditionally accept
+    all its terms.\nThe Game Rules are obligatory for all Users.\nIf you disagree
+    with any conditions of these Game Rules, you have no right to further use of the
+    Game and its services, please leave this Site and do not use the Game.\n\n \n1.
+    It is forbidden to create nicknames (User names) that:\n\n1.1. Contain bad or
+    strong language, insults/provocations for insult (in the form of words, abbreviations,
+    expressions or phrases);\n1.2. Contain elements of racism, fascism, insults or
+    nicknames based on racial, national or religious identity, or those inciting hatred,
+    intolerance, ethnic discord;\n1.3. Contain calls for violence, terrorism, extremism
+    and/or mass disturbances;\n1.4. Contain political solicitation, propaganda, political
+    advertisement of any kind;\n1.5. Are directly or indirectly related to political
+    organizations (persons), including those that committed political crimes or crimes
+    against humankind, terrorist acts;\n1.6. Contain discrimination by gender, age,
+    religion or other characteristics;\n1.7. Сontain direct or indirect propaganda,
+    calls to consume alcoholic and alcohol-containing drinks, beer, tobacco products,
+    drugs, toxic, psychotropic and/or intoxicating substances, their precursors, contain
+    information about the places and methods of their production, acquisition, cultivation
+    and use;\n1.8. Contain the information about calls for participation in gambling
+    games, prostitution, vagabondage, begging;\n1.9. Contain information about methods
+    of committing suicide, incitements to commit suicide, violence, or other actions
+    that pose a threat to life or health;\n1.10. Contain incitement to unlawful behavior,
+    crime, violence, cruelty, infliction of harm that instigate to commit the actions
+    prohibited by laws;\n1.11. Contain parts of User names of the Administration employees
+    or contain the information that may entail erroneous perception of the User as
+    an Administration representative;\n1.12. Contain criticism of the Game, the Administration
+    or moderators;\n1.13. Are directly or indirectly connected with sexual intercourse,
+    violation, pornography, pedophilia;\n1.14. Contain description of the body and
+    its lower biological functions or reflexes;\n1.15. Contain advertisement and hyperlinks;\n1.16.
+    Contain references to cheat codes, cheat sites, resources that violate the rights
+    of the Administration;\n1.17. Consist of unpronounceable random sets of letters
+    (flood User names);\n1.18. Fully or partially consist of trademarks elements that
+    are protected by copyright and/or registered;\n1.19. Contain other information
+    prohibited by these Game Rules, the Agreement and/or the effective laws.\n1.20.
+    If User name does not comply with the requirements above, other requirements specified
+    in these Game Rules, the Agreement or effective laws, the Administration shall
+    have the right, upon its discretion:\n- to demand from the User to change the
+    User name for an acceptable one and block the User's Account for the period required
+    to change the User name;\n- to irrevocably block the User's Account.\n\n\n2. The
+    following activities are prohibited, and will lead to (upon the Administration
+    discretion) a permanent or temporary User’s Account blocking, cutdown of all the
+    virtual Game values of the User by 10% to 100% (garage, crystals, game statistics)
+    or setting the User’s Account to zero, temporary or permanent limitation of access
+    to game chats and to the Forum (ban):\n\n2.1. Any forms of unsporting or impolite
+    behavior in the Game:\n\n2.1.1. Botting (use of software that imitates the actions
+    of Users in the Game), use of clicker programs, macros that control mouse and
+    keyboard, use of other third-party software for obtaining advantages in the Game;\n2.1.2.
+    Application or distribution of third-party software or other means for improvement/automation
+    of game possibilities (bots, cheats), as well as the programs that may deteriorate
+    the functioning of the Game and/or the functioning of electronic devices of third
+    persons;\n2.1.3. Exploitation of software bugs of the Game and transferring the
+    information about them to third persons, except for the Administration;\n2.1.4.
+    Achieving experience points by deliberate inaction or help from the other team's
+    players in 'Capture the Flag' or 'Control Points' or 'Team Deathmatch' modes or
+    from opponents in 'Deathmatch' mode (so-called power-leveling);\n2.1.5. Battles
+    between accounts owned by the same User;\n2.1.6. Creation of additional accounts
+    to power-level the main Account;\n2.1.7. Making arrangements with other Users
+    to fight half-steam to fight 'half-heartedly' with the purpose of power-leveling
+    (the Administration will impose restrictions to all the members of such arrangements);\n2.1.8.
+    Any acts or omissions aimed at creating obstructions for the team where the User
+    is a member, including in CTF, TDM and CP modes, fighting against the team of
+    which you are a member, doing harm to/ destruction of an ally's tank, fighting
+    in interests of the opponent’s team, as well as the conspiracy with the enemy,
+    sabotage;\n2.1.9. Discrimination of inexperienced players (newbies): misinformation,
+    intimidation, mockery;\n2.1.10. Insults, slander (dissemination of misleading
+    information) in relation to other Users, Administration, moderators, other persons;\n2.1.11.
+    Any forms of manipulation or conspiracy in the Game;\n2.1.12. Performance of any
+    actions that have a negative influence on the Game development and image;\n2.1.13.
+    Other forms of unsporting behavior that hinder the normal game process which will
+    be recognized as such by the Administration.\n\n\n2.2. Any forms of fraudulent
+    actions, in particular:\n\n2.2.1. Use of the Game and/or Game services for fraudulent
+    actions, including without limitation fraudulent in-game financial operations,
+    fraud in the course of transactions, payments, including any refund, prohibited
+    transactions;\n2.2.2. Transfer of the Account or other game values to third persons;
+    publication of any offers to sell, buy, or transfer the Account or game values,
+    both free of charge and for crystals or funds, as well as instigations to the
+    said actions;\n2.2.3. Attempts to obtain the password, other Account information
+    or other personal information from any other User, including in the form of extortion
+    by using moral, physical or technical threats;\n2.2.4. Dissemination of any personal
+    information about other Users or about third persons (unless such information
+    is publicly accessible);\n2.2.5. Fraud — receiving in-Game currency using any
+    fraudulent means;\n2.2.6. Any attempts to pretend to be former or current employee
+    of the Administration or project assistant (moderator, consultant, etc.), including
+    sending messages on behalf of the Administration or moderators;\n2.2.7. Begging
+    in any form, including requests to transfer funds, game values or crystals;\n2.2.8.
+    Publication of links to external resources disguised as official resources of
+    the Game.\n\n2.3. Other violations:\n\n2.3.1. Use of bad or strong language, other
+    bad or rude words (phrases) not classified as bad language, including in the implied
+    form;\n2.3.2. Publication of the information and materials of sexual, erotic or
+    pornographic nature, picturing or describing sexual relations between a man and
+    a woman;\n2.3.3. Publication of the information or symbols that insult or humiliate
+    the feelings of believers, raises hatred, enmity, racial, international or ethnic
+    discord, intolerance (including insults, giving nicknames on the basis of racial,
+    national, ethnic, religious characteristics), and also provocation of the interlocutor
+    to commit the specified actions;\n2.3.4. Propaganda or demonstration of Nazi emblems,
+    symbols, abbreviations or designations, names and surnames of Nazi activists;\n2.3.5.
+    Publication of the information that negates historical events;\n2.3.6. Publication
+    of the information in which one may see the elements of calling for violence,
+    war, terrorism, overthrow of power; extremist activity and/or mass disturbances;\n2.3.7.
+    Publication of information about political organizations (political leaders) that
+    committed political crimes or crimes against humankind, terrorist acts, or otherwise
+    violated the international laws;\n2.3.8. Publication of the information that contains
+    political solicitation, political advertisement, election propaganda of any kind;\n2.3.9.
+    Discussion of present-day political issues as provocative conflicts;\n2.3.10.
+    Any form of discrimination by gender, age, religion or other characteristics;\n2.3.11.
+    Threats in any form related to Users, Administration or third persons;\n2.3.12.
+    Publication of information containing methods of committing suicide, calls to
+    commit suicide, violence, or other actions that pose a threat to life or health,
+    descriptions of dangerous fighting techniques, stunts, methods of weapons production,
+    description of body modification methods;\n2.3.13. Publication of the information
+    that describes, instigates or justifies unlawful or antisocial behavior, crime,
+    violence, mutilation, psychic or physical cruelty to people, animals, inflicting
+    damage on other’s   property;\n2.3.14. Publication of  the information that causes
+    fear, horror or panic in children, including pictures or descriptions of death,
+    diseases, suicide, accidents, emergencies or disasters and (or) their consequences,
+    other information that may damage health or development of minors;\n2.3.15. Publication
+    of the information about a minor that suffered as a result of unlawful actions
+    (omissions);\n2.3.16. Publication of  information that contains direct or indirect
+    propaganda, calls to consume alcoholic and alcohol-containing drinks, beer, tobacco
+    products, smoking accessories, drugs, toxic, psychotropic and/or intoxicating
+    substances, their precursors, contains information about the places and methods
+    of their production, acquisition, cultivation and use;\n2.3.17. Publication of
+    the information that can raise the desire to participate in gambling games, prostitution,
+    vagrancy or beggary;\n2.3.18. Any use of intellectual property objects (software,
+    art, video and other objects or their parts, trademarks, etc.), or other materials
+    without the right holder's permission; posting links to pirated content; deletion
+    or change of the information on intellectual property rights, in particular links
+    to the right holders, authors and other confirmation of intellectual property
+    rights;\n2.3.19. Publication of any advertising materials or information without
+    the Administration's approval;\n2.3.20. Publication of information that may cause
+    to  harm/losses for Users or the Administration;\n2.3.21. Unconstructive criticism
+    of the Game and/or its authors, the Owner;\n2.3.22. Express or implicit public
+    discussion of the Administration or moderators of the Game;\n2.2.23. Provision
+    of false or fictitious information, documents or evidence. The Administration
+    warns User about the criminal and other responsibility for such activities;\n2.3.24.
+    Commission or instigation (provocation) to the actions (inaction) that are prohibited
+    by these Game Rules, the Agreement and/or applicable law.\n \n3. It is prohibited
+    to start topics and/or create messages in game chats and/or on the Forum that:\n3.1.
+    Reproduce already existing topics or messages, as well as the topics that have
+    recently been discussed and/or the answers to which are available in the information
+    sections (the Game Rules, FAQ, Plans, etc.). Do not forget to use the Search to
+    find answers to your questions. Be attentive and make sure you look through the
+    existing topics before making a new one.\n3.2. Do not correspond to the theme
+    of the section/category;\n3.3. Contain CAPS LOCK or A LOT OF CaPITAL LeTTERS in
+    the title and/or content of the topic or message;\n3.4. Have irrelevant or repeated
+    symbols, characters, emoticons, messages in the title and/or description of the
+    topic or message that complicate understanding of the topic or section or do not
+    have any meaning (Flood), for example == - My topic - ==;\n3.5. Contain text with
+    font size more than 24;\n3.6. Lack information and do not reflect a sense of the
+    matter in the title or description of the topic;\n3.7. Quote too large texts of
+    previous messages and/or images without any special necessity (overquoting);\n3.8.
+    Continue to discuss the topics that were closed or deleted by the Administration
+    (necroposting);\n3.9. Have a character of a personal appeal to the Forum or game
+    chats participants. For personal communication please use Private Messages. Personal
+    discussions are allowed in parallel with solving issues.\n3.10. Contain spam,
+    that is, distribute the information which the addressee did not request, showed
+    no interest in receiving and/or gave no consent to receiving;\n3.11. Flame (\"arguing
+    for the sake of arguing\", an exchange of messages which is just a war of words
+    that often bears no relation to the original cause of the dispute);\n3.12. Contain
+    trolling (incitement of community participants to the actions having adverse effects
+    and conflicts for them);\n3.13. Aimed at provocation of other Users, the Administration,
+    moderators, as well as obstructing communication at the Forum or game chats;\n3.14.
+    Contain referral links, \"cheat codes\" (addscore, Buy_krictals_in_the_panzer);\n3.15.
+    Contain other information or violations that are prohibited by these Game  Rules,
+    the Agreement and/or applicable laws.\n3.16. For the mentioned violations the
+    Administration shall be entitled, upon its own discretion, to apply to the User
+    restrictions in the form of permanent or temporary Account blocking or temporary
+    or permanent restriction of access to game chats and Forum (ban).\n3.17. The Administration
+    shall be entitled, upon its own discretion, to delete any information or message;
+    delete/move the topic created in the wrong Forum's section, without notification.\n3.18.
+    Private messages are intended for User's personal communication in game services
+    and on the Forum. While processing complaints about violation of the Game Rules,
+    the Administration shall not consider complaints about private messages. User
+    may stop receiving private messages from another user by adding him/her to the
+    Black List in the appropriate section of the User’s profile on the Forum.\n \n4.
+    Application of restrictions to the User\n4.1. If User violates these Game Rules,
+    the Administration shall be entitled to apply the restrictions stipulated in the
+    relevant section of the Game Rules to this User.\n4.2. Types of restrictions:\n4.2.1.
+    Permanent or temporary Account blocking — blocking (limitation) of access to the
+    Game.\n4.2.2. Cutdown of all the User's virtual values in the Game (garage, crystals,
+    game statistics) by 10% to 100%  or setting the Account to zero.\n4.2.3. Temporary
+    or permanent restriction of the User's access to game chats and Forum (ban) —
+    restriction of the possibility to leave messages in chats and on the Forum.\n4.2.4.
+    Deletion or change without notice of any information or messages posted in any
+    part of the Game or game services; transfer of the Forum's topics to another section
+    or deletion of topics.\n4.3. These restrictions may be applied to any Account
+    of the User that violates these Game Rules.\n4.4. The Administration shall be
+    entitled, upon its own discretion, to apply one or several restrictions simultaneously
+    to the User, or give a warning.\n4.5. When choosing restrictions, the Administration
+    considers the type and number of violations, as well as previous violations of
+    these Game Rules by the User.\n4.6. As it is not always possible to precisely
+    identify the particular violations of the Game Rules, the final decision always
+    remains with the Administration.\n4.7. Violation of these Game Rules means that
+    the User may be immediately, without any prior notice, denied game services provision
+    or such services may be restricted in full or in part.\n4.8. If  User violates
+    the Game Rules several times or in an integrated manner, the Administration shall
+    be entitled, upon its own discretion, to repeat the restrictions applied to the
+    User.\n4.9. The Administration shall in no way responsible for any loss or damage,
+    direct or indirect, that User or a third party might have suffered as a result
+    of the User’s use or the third party’s use of the Internet Site, the Game and
+    /or the Online Facilities including but not limited to damages caused by inability
+    to use the Game and the Online Facilities, or caused by application by the Administration
+    of restrictions to the User, direct or indirect damages arising out of third party
+    actions, including other users of the Game, lack of access to internet, theft,
+    destruction of Materials, loss of information related to User’s Account and any
+    harm to User’s honour, dignity and business reputation arising in connection to
+    the Game.\n\n5. Moderators\n5.1. Moderators are the Administration's assistants
+    and are selected by the Administration among Users.\n5.2. A moderator is a person
+    acting on behalf and in the interests of the Administration. Moderators shall
+    maintain and control the order in the Game and game services, as well as on the
+    Forum and game chats.\n5.3. Moderator shall be entitled to apply temporary or
+    permanent restriction of access to game chats and Forum (ban) to User in the event
+    of violation of these Game Rules by the User.\n5.4. A moderator shall be honest
+    and objective in making decisions, and shall also comply with the provisions of
+    these Game Rules and the Agreement, be polite to Users, perform his/her duties
+    efficiently and regularly.\n5.5. It is strictly prohibited for the moderator to
+    abuse his/her powers. All moderators' actions are logged. If one of the moderators
+    does not justify the reposed confidence, he/she will be dismissed without discussions
+    or warnings by the internal decision of the Administration.\n5.6. The activity
+    of moderators is performed on a voluntary basis. User shall not be entitled to
+    commit a moderator to apply any restriction.\n \n6. Complaints and Appeals\n6.1.
+    User has the right to report violations of the Game Rules by creating a new forum
+    topic in <a href=\"http://en.tankiforum.com/index.php?showforum=76\" target=\"_blank\"><u>Violators
+    section</u></a>. It is necessary to specify the nature of violation clearly in
+    the new topic and attach a chat screenshot or a video which clearly shows the
+    violation.\n6.2. User may send any questions, comments or complaints regarding
+    these Game Rules to help@tankionline.com. The Administration will make every effort
+    to consider such requests as soon as possible.\n6.3. When sending a complaint,
+    the User shall describe the nature of the situation in as much detail and as clearly
+    as possible and attach facts of evidence, screenshots, etc. Complaints about groundless
+    restrictions are considered solely for the purpose of internal evaluation of work
+    of the Administration and the moderator. Decisions on the application of restrictions
+    are not subject to revision.\n6.4. If the User starts correspondence with the
+    Administration or provides a report about  problems with the Game or game services,
+    the Administration shall be entitled to store all such correspondence.\n\n7. Other
+    provisions:\n7.1. The Administration manages the Game and applies these Game Rules
+    upon its sole discretion, but takes into account the community's opinion.\n7.2.
+    These Game Rules may be changed by the Administration without any prior notice.
+    User is obliged to check these Game Rules  for changes at least once every seven
+    days (i.e weekly). If such a check was not made within the specified period and
+    the User continues to use the Game, the User is considered to have read and agreed
+    with the amended version of these Game Rules.\n7.3. The Administration pursues
+    \"zero tolerance\" policy to cheating and fraud. If, in the Administration's opinion,
+    the User cheated or tried to cheat the Administration or another User, or provided
+    false or fictitious information, documents, evidence and otherwise violated the
+    applicable laws, the Administration reserves the right to block the User's Account
+    and transfer such information upon its own discretion (along with the User's personal
+    data) to any third party and/or law enforcement authorities if the Administration
+    deems it necessary.\n7.4. The Administration may issue other provisions and restrictions
+    in the Cybersport Rules, the rules of competitions, tournaments, and championships.
+    At the same time, these Game Rules are an integral part of other rules adopted
+    by the Administration."
+  GROUP_INVITE_RESPONSE_ACCEPT: Joins the group
+  SHOP_WINDOW_PAYMENT_CATEGORY_HEADER: Payment method
+  ALERT_QUIT_TEXT: Are you sure you want to quit?
+  PREMIUM_ALERT_WELCOM: Welcome to the ranks of Premium tankers!
+  HEADER_DM_TOURNAMENT: DEATHMATCH TOURNAMENT
+  CP_SHORT_NAME: CP
+  MAIN_PANEL_BUTTON_SHOP: Shop
+  GAME_ACTION_TURRET_CENTER: Center turret
+  HEADER_NEW_PRESENTS_ALERT: NEW GIFTS!
+  CLAN_LICENSE: Clan license
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_ARROW_LENGTH: '30'
+  CHAT_SHARP_COMMANDS: teams|Teams|http://en.tankiforum.com/index.php?showforum=123
+  BUY_PRO_ABONEMENT: Buy the Pass
+  CHECK_PASSWORD_FORM_REMEMBER: Remember me
+  GARAGE_POWER_PROPERTY: Power
+  REFERAL_WINDOW_SUMMARY_LABEL: 'Total bonus:'
+  PAYMENT_SMSNUMBERS_COST_HEADER_LABEL_TEXT: Cost
+  CHALLENGE_BUY_BATTLE_PASS: Buy battle pass
+  REARM_OPTION_TEXT: Weapon change
+  WARM_UP_LABEL: Prepare for battle
+  SETTINGS_BUTTON_CANCEL_TEXT: Cancel
+  REARM_TEAM_LOOSE: Your team lost
+  RUGBY_GOAL_RED: Red Team has scored the goal!
+  DRONE_ARMOR_BOOST: Additional supply power
+  DOM_BLUE_LOST_POINT: Blue team has lost point {point}
+  RUGBY_BALL_TAKEN_USER: has captured the ball
+  CLAN_USER_CREATION_DATE: Clan creation date
+  GROUP_BUTTON: Group
+  PROMO_CODE_INVALID_LABEL: The code you have entered is either incorrect or expired.
+    Please enter a different code.
+  RENAME_FORM_CURRENT_PASSWORD_INPUT: Enter the current password for your account
+  STATISTICS_HEADER_RATING: Rating
+  DATE_FORMAT: MM/dd/yyyy
+  CLAN_POSITION_NOVICE: Novice
+  GUI_LANG: en
+  TJR_BLUE_BOSS_KILLED: Blue Juggernaut has been destroyed
+  HELP_PANEL_RANK_BAR_HELPER_ARROW_LENGTH: '116'
+  KEYBOARD_KEY_RIGHT: Right
+  GARAGE_UPGRADE_COMPLETE_TEXT: 'Item has been upgraded:'
+  FORMAT_NAME_PARKOUR: Parkour
+  HEADER_LOGIN: LOGIN
+  REDUCE_DAMAGE_FREEZE: Freeze
+  CLAN_PLAYER_ALREADY_IN_CLAN: Player %USERNAME% is already a member of a clan
+  GARAGE_ARTILLERY_PROTECTION_PROPERTY: Protection from Magnum
+  HELP_SYMBOL_IS_NOT_ALLOWED: |-
+    Nickname should consist of A-Z, 0-9
+    and special symbols.
+  CLAN_CREATION_RULES: "<textformat leading='5'>Confirm that you are familiar with
+    the <a href='http://tankionline.com/en/rules/' target='_blank'><font color='#59ff32'><u>rules</u></font></a></textformat>"
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_AGREEMENT: I agree to receive Tankoins as compensation
+    in case this item had been already purchased on this account.
+  QUICK_PLAY_MODE_NAME: Quick battle
+  CLAN_DISBAND: Disband clan
+  DAILY_QUEST_CHANGE: Change
+  NOT_ENOUGH_COINS_NOTIFICATION: You don't have enough Tankoins to make this purchase
+  PAYMENT_TIANXIAFU_TERMS_TEXT: "???"
+  CLAN_PROFILE: Clan profile menu
+  SHOP_FEATURING_DESCRIPTION: Temporary offer featuring a special item or special
+    price.
+  CLAN_INCORECT_CLAN_NAME: Incorrect clan name
+  CLAN_DESCRIPTION: |-
+    Here you can create your own clan, team up with your friends and get access to special clan bonuses.
+
+    Remember, as your clan grows stronger, the bonuses for clan members will be bigger and better.
+  SETTINGS_TAB_NAME_ACCOUNT: Account
+  CLAN_RANK_LOW_TO_SEND_REQUEST: Your rank is too low to join this clan
+  DEVICES: Augments
+  GARAGE_PRICE: Garage price
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_ARROW_LENGTH: '30'
+  SHOP_WINDOW_YOUR_CHOICE: Your Choice
+  HELP_NAME_IS_FORBIDDEN: Entered name cannot be used for registration
+  GAME_ACTION_TURRET_TURN_RIGHT: Rotate turret right
+  FRIENDS_NEW_FRIEND: New!
+  ERROR_PASSWORD_INCORRECT: Password is incorrect
+  KEYBOARD_KEY_SPACE: Space
+  ACCOUNT_RECOVERY_FORM_BUTTON_RECOVER_TEXT: Recover
+  GAME_ACTION_TANK_TURN_RIGHT: Turn tank right
+  BATTLE_STAT_STARS_REWARD: Bonus
+  BATTLE_PLAYER_KILLED: destroyed
+  ITEMS_IN_KIT: Items in Kit
+  CHALLENGE_BUY_PREMIUM: Buy premium account
+  BATTLE_CREATE_PANEL_CHECKBOX_FRIENDLY_FIRE: Friendly fire
+  REDUCE_DAMAGE_SHOTGUN: Hammer
+  CHAT_SHARP_FORUM: forum|Forum|http://en.tankiforum.com/
+  SETTINGS_BUTTON_CHANGE_PASSWORD_TEXT: Change password and e-mail
+  GAME_ACTION_USE_DOUBLE_ARMOR: Use Double Armor supply
+  SGE_MODE_NAME: Siege
+  HEADER_REGISTRATION: REGISTRATION
+  ERROR_EMAIL_DOMAIN_IS_FORBIDDEN: Mailing address banned
+  CLAN_MEMBER_NAME: Name
+  REDIRECT_ALERT_TEXT: |-
+    SERVER RESTART!
+
+    You will be moved to one of the accessible servers in %1 sec.
+  SHOP_PAYMENT_CATEGORY_HEADER_FOR_ODNOKLASSNIKY: ''
+  PAYMENT_SMS_DESCRIPTION_TEXT_INCLUDING_VAT: |-
+    Choose your country and mobile operator. Select desired crystals quantity, and send SMS with shown text to according number. Usually the account updates in seconds.
+
+    Attention! According to the rules of sms-server we introduce anti-fraud restrictions. To avoid loss of your payment please observe the following rules:
+    1. Do not send SMS to the sum of more than 13 USD per hour.
+    2. Do not send more than 3 SMS to one player's nick from one and the same number within one hour.
+
+    <font color='#ff4e00'>Make sure of consent of those who pay for your crystals!</font>
+  HEADER_BATTLE_INFO_TEXT: BATTLE INFO
+  BATTLE_CREATE_PANEL_BUTTON_RUGBY: Rugby
+  FRIENDS_ALREADY_HAVE_INCOMING: You've already received a request from %USERNAME%.
+    Accept it?
+  GARAGE_CONFIRM_ALERT_CONFIRM_BUTTON_TEXT: 'Yes'
+  BATTLE_CREATE_PANEL_STEPPER_MAX_TEAM_SIZE: Max team size
+  GAME_TERMS: "END USER LICENSE AGREEMENT\n \nAny use of this Game and its Online
+    Facilities and/or clicking “Accept” at the registration form means that you are
+    acquainted and agree with the underwritten Agreement, and unconditionally accept
+    all this terms.\n \nIf you do not agree with the entire Agreement you have no
+    right to use the Game and its services and you are obliged to leave the site immediately.\n
+    \nThis End User License Agreement (‘’EULA’’) constitutes and governs the contractual
+    relationship between the parties; APL Publishing Ltd, registration no. C 85285,
+    registered under the laws of Malta, 157, Archbishop Street Valletta, VLT1440,
+    Malta (hereinafter referred to as “Tanki Online” or “Company” or “Administration”);
+    and you, as the user, hereinafter referred to as “You” or “User”.\n \nDocuments
+    forming part of this EULA\n \nThe hereunder list of documents forms an integral
+    part of this EULA:\n<a href=\"http://tankionline.com/en/privacy/\" target=\"_blank\"><u>Privacy
+    and Cookies Policy</u></a>;\n<a href=\"http://tankionline.com/en/rules/\" target=\"_blank\"><u>Game
+    Rules</u></a>; and\n<a href=\"http://en.tankiforum.com/index.php?showtopic=163769\"
+    target=\"_blank\"><u>Crystal Purchase Instruction</u></a>\n \nDefinitions\n \nThe
+    following words and terms, should be interpreted as follows, unless, the context
+    clearly implies otherwise and shall apply to all the sections of this EULA and
+    to every document forming part of this EULA:\n \n“Account/ User’s Account” shall
+    mean a personal account opened by User and maintained by the Administration, which
+    shall contain Account Information.\n \n“Account Information’’ shall mean the Login
+    and Password, Username and other data which enable User identification in the
+    Game.\n \n“Administration” shall mean the persons acting in the name and on behalf
+    of the Company for the provision of operation of the Game.\n \n“Agreement’’ shall
+    refer to this EULA, the present license agreement with the User on granting the
+    right to use the Game on terms of the simple non-exclusive and revocable license,
+    including all documents forming an integral part of this EULA, and also other
+    rules, instructions placed by the Administration on the Internet Site or sites
+    of the Company’s partners.\n \n“Crystals” shall refer to the in-Game currency
+    which is used in the Game and/or Internet Site and by means of which the Services
+    can be availed of.\n \n“Tanki Online / Company” shall refer to APL Publishing
+    Ltd, registration no. C 85285, registered under the laws of Malta, 157, Archbishop
+    Street Valletta, VLT1440, Malta.\n \n“EULA” shall refer to this End User License
+    Agreement.\n \n“Game” shall refer to the interactive multi-user online game ‘Tanki
+    Online. Version 2’, including all its components, game services, chat-room, forum,
+    Tanki Online Wiki, Tanki Online News, official communities on social networks,
+    and all materials, images, sounds, sites, computer programs and any web resources
+    which are placed on the Internet Site`s sub-domains with address /en/, /de/ and
+    at game servers at addresses beginning with /battle-en, /battle-de, on the domain
+    name http://tankionline.com.br with its game servers  or available through sites
+    of Company’s partners for use by Users.\n \n“Governing Law” shall refer to the
+    Laws of Malta.\n \n“Identified” or “Identifiable Natural Person” shall mean a
+    person who can be identified, directly or indirectly, in particular by reference
+    to an identification number or to one or more factors specific to his identity.\n
+    \n“Internet Site” shall mean the totality of all the Materials and web-resources
+    located at the address http://tankionline.com and at all its sub-domains with
+    address /en/, /de/, at the game servers with the addresses beginning with /battle-en,
+    /battle-de, on the domain name http://tankionline.com.br with its game servers
+    and other websites connected to it and accessible through links or other access
+    paths and the services available through such sites which have been legally and
+    officially recognized by the Company.\n \n“License” shall mean a simple non-exclusive
+    and revocable license which the Company grants to the User for the personal and
+    non-commercial use of the Game.\n \n“Login and Password” shall mean the login
+    and password details that are chosen by User upon registering with the Game.\n
+    \n“Material(s)” shall mean the different objects in the form of texts, drawings,
+    images, sounds, programs, commands, names, subjects, stories, dialogues, phrases,
+    concepts, illustration, animations, sounds, musical compositions and effects,
+    documentation, game chats or any other form and include any other derivative material,
+    placed in the Game by User or the Company /the Administration.\n \n“Minor/s” means
+    individuals who are under the age of 18 and/or who have otherwise not yet reached
+    the age of majority which is established under the laws of their nationality and
+    who have registered with the Game and in whose name an Account has been opened.\n
+    \n“Online Facilities” shall collectively mean the Account, the Game and the Internet
+    Site.\n \n“Paid Service” shall mean any purchase of Crystals used for any in-Game
+    and/or Internet Site additional services or possibilities on terms of the simple
+    non-exclusive and revocable license, in extent and on conditions provided by the
+    Company.\n \n“Parties’’ shall collectively mean the User and the Company.\n \n“Payment
+    Agent’’ shall mean third parties which are authorized by the Company to receive
+    and process payments from Users in the interests of the Company via the various
+    payment methods provided by such authorized third parties.\n \n“Payment’’ shall
+    mean the license fee paid by the User to Payment Agents to avail himself of the
+    Paid Services requested, which order and amount shall be determined and regulated
+    by the Crystal Purchase Instruction.\n \n“Personal Information” and/ or “Personal
+    Data” shall mean any information relating to an Identified or Identifiable Natural
+    Person.\n \n“User’’ / “You/r’’ shall mean the individual who has accessed the
+    Internet Site including access through the sites of the Company’s partners and
+    plays the Game and/or its trial versions and/or uses the Online Facilities, game
+    services, Materials, other services, as before the registration procedure in the
+    Game, and after the registration procedure.\n \n“Privacy and Cookies Policy” means
+    the document covering the privacy of Users and the storage of cookies.\n \n“Server’’
+    shall mean the hardware-software support of the Company used for the virtual interactive
+    User interaction.\n \n“Service’’ shall mean the granting to a User of the right
+    to use the Game both on free, and on paid basis, on terms of the simple non-exclusive
+    and revocable license, in the extent and on the conditions provided by the EULA.\n
+    \n“Software” shall mean the software licensed by the Company including all programs
+    and databases and any other derived content which may require download, whether
+    accessible or otherwise used by User through the Internet Site and allowing User
+    to participate in the Game.\n \n“Use of Game’’ shall mean all authorized and possible
+    types of use of the Game which shall include Game initiation by Users and/ or
+    use of technical possibilities of the Game on a free and on a paid basis and/
+    or Game installation and/ or any other actions which are necessary for the operation
+    of the Game.\n \n“User name” shall mean the nickname chosen by User on Account
+    registration.\n \nOther terms, definitions and word combinations used in the Game
+    shall have the meaning and interpretation which established practice has assigned
+    to such terms, definitions and word combinations at work in the field of Internet
+    technologies, digital gaming and according to the Governing Law.\n \nGeneral conditions\n
+    \nAccepting this EULA:\n \n1. By using the Game and/or the Online Facilities in
+    any manner and/or clicking “Accept” at the registration form, User confirms that
+    he has read, understood, agreed and unconditionally accepted this EULA as set
+    out below and accepted any documents forming an integral part of this EULA and
+    User hereby guarantees that he is a Person vested with all the powers to use the
+    Game according to the Governing Law and any other applicable law.\n2. If User
+    does not agree with this EULA, he has no right to use the Game and the Internet
+    Site and he is to immediately leave the Internet Site and refrain from making
+    use of the Game.\n3. On accepting this Agreement, User confirms and guarantees
+    that he is natural person and he has all powers to enter into the Agreement and
+    to use the Game, that there are no legislative restrictions to use the Game and
+    game services concerning him, and that he has obtained all necessary permits in
+    the form required by law.\n4. By using the Game and/or the Online Facilities in
+    any manner and/or clicking “Accept” at the registration form, User confirms that
+    he wishes and agrees to receive electronic messages (e-mails), short messaging
+    services (messages about news and/or on updates in Game, advertising and promotional
+    materials of the Company or partners of the Company) (hereinafter referred to
+    as ‘’Electronic Mailing’’) distributed by the Administration/the Company and/or
+    partners of the Company, including, but not limited to, telecommunication networks,
+    using telephone, facsimile, mobile, radio communications and other means. Providing
+    e-mail address and/or phone number by User is additional confirmation of User's
+    consent to receive electronic mailing by any means and to transfer the User's
+    Personal information to partners of the Company.\nFrom the moment of User's consent
+    to receive electronic mailing, the Administration /the Company and/or partners
+    of the Company have the right to send out to User messages of any nature (including,
+    but not limited to e-mails and short messaging services).\n5. If User does not
+    want to receive electronic mailing from partners of the Company, he may refuse
+    to receive electronic mailing at any time by following the link specified in the
+    lower part of the electronic message. If User does not want to receive electronic
+    mailing from the Administration/the Company, User may refuse to receive electronic
+    mailing at any time, by changing the appropriate personal settings in the Game
+    and, thereby, refusing to receive news.\n6. Use of the Game, the Internet Site,
+    the Materials and any other information contained in the Game is used solely in
+    accordance with this EULA and this EULA together with the documents forming an
+    integral part of this EULA, constitutes the entire Agreement between the User
+    and the Company for the use of the Game.\n7. This EULA together with the documents
+    forming an integral part of this EULA shall become immediately effective as from
+    the moment of any use of the Game and/or the Online Facilities and/or clicking
+    “I agree” at the registration form. This EULA and the documents forming an integral
+    part of this EULA shall be the official source of reference for any complication/dispute
+    related to the use of the Game, the Internet Site, the Software and /or the Company’s
+    services.\n8. The Company does not guarantee the unerring and uninterrupted functionality
+    of the Game; nor does it guarantee that the Game will conform to the User’s expectations
+    and also doesn't give any other guarantees which are not specified (fixed) in
+    this EULA. User hereby accepts that the Company shall not be held responsible
+    for any direct or indirect damage causing impossibility to make use of the Game.\n
+    \nAmendments to this EULA\n \n1. The Company hereby reserves the right to suspend,
+    add, end, amend and/or supplement this EULA together with the documents forming
+    an integral part of this EULA at any time as the Company may deem appropriate,
+    provided the prior notice as follows: the Company will post updated version of
+    this EULA on the Internet Site, and may provide such other notice as Company may
+    elect in its sole discretion. Any changes will enter into force ten (10) days
+    from the moment of making the corresponding changes. Any further use of the Game
+    and/ or of the Internet Site together with any other Online Facilities shall mean
+    unconditional acceptance of the modified version of this EULA and/or of the documents
+    forming an integral part of this EULA.\n2. All changes and additions made to this
+    EULA and to the documents forming an integral part of this EULA may have retroactive
+    application and may extend to the previous relationship between the Parties.\n3.
+    The Company highly recommends that from time to time User takes a look at this
+    EULA in order to have knowledge of any modified version of this EULA. Should User
+    disagrees with any part of this EULA he should immediately cease use of the Game
+    and/ or Internet Site and it shall be User’s responsibility to inform the Company
+    of his disagreement in order that the Company may take the necessary measures,
+    which might include User’s impossibility of making use of the Game and/ or Internet
+    Site and any Online Facility.\n4. The Company is under no obligation to verify
+    if User uses the Game and/ or Internet Site according to the updated version of
+    this EULA. The version posted on the Internet Site is the effective version, and
+    that which User should use as reference. It is User’s responsibility to inform
+    himself of this EULA, as well as being familiarised with the modifications that
+    affect User and/or will and/or might affect User.\n \nGrant of License\n \n1.
+    Subject to the terms contained herein, the Company hereby grants the User a limited,
+    simple non-exclusive and revocable license relating to use of the Game for User’s
+    personal and non-commercial use.\n2. The Company has the right to use the Game
+    independently and to provide licenses for use to other persons.\n3. User hereby
+    acknowledges that the Game is being licensed only to User and that User shall
+    not transfer and/or assign this License to any third party.\n4. The term of this
+    License shall commence on User’s first use of the Game and shall end when User
+    stops making use of the Game or when this EULA is otherwise terminated by the
+    Company. Provided this License shall immediately terminate if User is in breach
+    of this EULA and/or any document forming part of this EULA.\n5. The License shall
+    be valid for the period of validity of the Company’s exclusive right to the Game.\n6.
+    The License shall be valid in all jurisdictions.\n7. Transfer of the exclusive
+    right to the Game to a new owner is not a cause which shall necessitate the amendment
+    or cancellation of this EULA.\n \nIntellectual Property Rights\n \n1. The Company
+    (or its affiliates as the case may be) is the sole and exclusive owner of the
+    Game, of all the Material(s) and of all the other property available in or in
+    connection with the Game that is covered by the relevant copyrights, patent rights,
+    know-how, trademarks and other proprietary and intellectual property rights and
+    of any other material generally found in the Game and Online Facilities.\n2. User
+    has a right to send Materials to the Administration, to place Material(s) within
+    the Game, on the Site and in other game services provided that User has all the
+    necessary rights to such Materials and he shall be solely responsible for any
+    Material which is placed therein and User hereby accepts that he shall be solely
+    held liable for any damages which might arise in connection with any such Material(s).
+    User confirms that he has all required rights to such Materials and he is completely
+    responsible for placement and use of such Materials.\n3. Placing Materials, site
+    links in Game by Users or the third parties doesn't mean that the Company has
+    approved such placing and recommends it. The Company doesn't bear any responsibility
+    for content of this Materials and sites, nor for any direct or indirect damage
+    caused by usage of this Materials or sites.\n4. User hereby accepts that the Company
+    may make any use it deems fit of the Material(s) which User has placed in the
+    Game or has sent to the Administration (including for participating in a competition)
+    and that from the moment of placement (publication) or sending by Users of these
+    Material(s) in the Game the Company shall receive all intellectual rights to use
+    these Material(s) by any ways in any country of the world, including for commercial
+    purposes, and shall have the right to place, modify, adapt, transfer to third
+    parties, create derived Materials, redevelop Materials, distribute, delete, reproduce,
+    show publicly, make available to the public and effect any changes, reductions,
+    additions, comments, explanations to the Material, to publish Materials, to use
+    Materials and/or otherwise without specifying User and without any royalty or
+    other compensation.\nUser undertakes to provide legal grounds of exclusive rights’
+    transfer to the Company concerning the Materials placed by the User in the Game
+    or on the Site.\n5. Any use of intellectual property objects placed in the Game,
+    on the Site or other game services, entirely or in parts, without the prior consent
+    of the Company is forbidden, except cases when the Company explicitly expressed
+    the consent to use of the Material(s) by other persons.\n6. User confirms that
+    he will not create any works based on the Game or on the Game Materials, except
+    for cases established by the Company. If User creates works based on the Game
+    or the Materials without written permission of the Company he can not realize
+    and use his author's rights and copyright on the derivative work.\n7. User hereby
+    acknowledges and accepts that he shall have no interest in the number of hours
+    spent playing the Game and all activity developed during the playing of the Game
+    shall be the Company’s sole and exclusive property.\n8. The Administration shall
+    have the right to display and publish any information relating to User activity
+    on the Internet Site and/or the Game in any list without any notice or compensation
+    to User whatsoever.\n9. The Company holds all proprietary and intellectual property
+    rights to all Materials contained within the Game, and User agrees that he owns
+    no rights to the Material within the Game, or other content contained within the
+    Game, including, but not limited to, virtual goods or currency which is used in
+    the Game. The Company does not allow any intentional transfer of the virtual property
+    outside the Game, as well as intentional sale, granting, or exchange outside of
+    the Game of any Materials and objects used in Game, except for actions explicitly
+    permitted by the Company in writing.10. The Administration provides to User a
+    non-exclusive and non-transferable right to use Materials of other Users by viewing,
+    reproduction (including copyings), processing (including printout of copies) and
+    other rights only for the purpose of noncommercial use, except cases when such
+    use can harm to protected interests of the Company.\n  \nUser’s rights and obligations\n
+    \nUser hereby acknowledges and agrees that:\n \n1. User is obliged to comply with
+    conditions of this EULA, Rules of Game, rules of other annexes to this EULA, any
+    other documents forming an integral part of this EULA, and rules of applicable
+    law.\n2. User shall not adapt, create derivative works of, display, distribute,
+    lease, loan, modify, rent, sublicense, translate and/or transfer the Game without
+    obtaining the Company’s prior written consent.\n3. User shall not decompile, disassemble,
+    prepare derivative works based on, derive source code from, reverse engineer and/or
+    attempt to reverse engineer the Game, make other actions with the object code
+    or source code of the Game, violate any protection system, perform illegal use
+    of the Game and obtaining information about realization of algorithms used in
+    Game, create derivative software products by using of the Game without written
+    consent of the Company.\n4. User shall not derive code, nor attempt to derive
+    code from any packet stream transmitted to or from the Game, whether encrypted
+    or not.\n5. User shall not disclose and/or transfer Account data to any third
+    parties.\n6. User shall maintain an adequate internet connection and that access
+    to such internet connection shall be provided at his own expense.\n7. User is
+    obliged to check and review conditions of the Agreement and other documents forming
+    an integral part of this Agreement regularly.\n8. User shall desist from making
+    use of the Game if User is in breach of this EULA and/or any other documents forming
+    part of the EULA.\n9. User has a right to use the Game for any personal and non-commercial
+    purposes,\nto use all facilities and services of the Game, to make all actions
+    provided by the Game, to participate in communication on the Internet Site by
+    sending messages, to direct complaints and proposals for Game improvement to the
+    Company, to make any other actions provided by the Game and/or approved by the
+    Company.\n10. User may obtain the limited non-exclusive and revocable license
+    for use of improvements and virtual items in the Game by means of the Crystals
+    earned in the Game (intra-game currency).\n \nCompany’s rights and obligations\n
+    \n1. The Company shall be entitled to take any action necessary against any User(s)
+    who violate the terms of this EULA and/or documents forming part of this EULA
+    including the restriction and blocking of access to the Game. Such actions shall
+    be taken at the Company’s sole discretion.\n2. The Company shall be entitled to
+    remove and/or change any information, content and Material(s) which forms part
+    of the Game and/ or Online Facilities without any prior warning or notification.\n3.
+    The Company is entitled to close and/or to limit the functionality of the Game
+    and/or game services at any time convenient to the Company, without the prior
+    or following notice to User.\n4. The Company is entitled to change the quality
+    and the amount of Services granted unilaterally, at any time and in any extent
+    and volume and if there is any sufficient basis to stop Service rendering, the
+    Company shall have the right to stop such Service rendering without the prior
+    and/ or following notification to User.\n5. The Company shall be entitled to unilaterally
+    terminate this EULA granted herein and to desist from offering the Game to User
+    at its sole discretion and without prior notice and without returning to User
+    any payments.\n6. The Company doesn't bear any responsibility for any direct or
+    indirect damage caused as a result of use or inability of use of the Game, game
+    services or information about the Game, as well as in connection with the third
+    parties actions, including other Users of Game.\n7. The Company transfers to User
+    the access to the Game subject to the observance of this Agreement by the User.\n
+    \nCollection and Use of Information\n \n1. The Company is entitled to collect
+    Personal Information about User, to keep track of and store information about
+    IP-addresses and use files of technical information (cookies), placed on the User’s
+    equipment. The conditions, procedures and purposes of collection, use, processing,
+    storage, disclosure (transfer) and deletion of the Users’ Personal Information,
+    and conditions about the bases, purposes and the procedures of placement, use,
+    storage and deletion of cookies on the Users’ equipment are regulated by Privacy
+    and Cookies policy which forms an integral part of this EULA.\n2. By accepting
+    this EULA the User hereby unconditionally accepts the Privacy and Cookies Policy
+    and all its terms. Any collection, storage, transfer and use by the Company of
+    User’s Personal information shall be subject to compliance with the Privacy and
+    Cookies Policy which forms an integral part of this EULA.\n \nWarranties\n \n1.
+    The Game and all other Material(s) provided in connection therewith, is provided
+    on an ‘as is’ basis, including any faults and without any warranty of any kind.
+    User shall bear all risks associated with the access and/or playing of the Game
+    as well as with the use of the Online Facilities.\n2. While all efforts are made
+    by the Company to have the Game and the Online Facilities available at all times,
+    the Company does not guarantee that the Game and the Online Facilities will be
+    always available or that User will not encounter any faults.\n \nMisuse of the
+    Internet Site\n \n1. The Internet Site may only be used for lawful purposes. Use
+    of the Internet Site for transmission, distribution, publication or storage of
+    any material on or via the Internet Site which is in violation of any applicable
+    law or regulation or any third party's rights is strictly prohibited. This includes
+    (without limitation) the use of the Internet Site for the transmission, distribution,
+    publication or storage of any material on or via the Internet Site in a matter
+    or for a purpose which infringes copyright, trademark, trade secret or other intellectual
+    property rights, is obscene or harmful to Minor(s) or constitutes an illegal act
+    or harassment, is libellous or defamatory, violates any privacy or data protection
+    laws, is fraudulent or breaches any exchange control or gambling law.\n2. In the
+    event of misuse and/or abuse of the Internet Site, the Administration reserves
+    the right to block User’s Account and to prevent User’s future use and/ or access
+    of the Game and Internet Site and/or to proceed on instituting any other legal
+    action that the Company may deem fit.\n \nChatting Rules\n \n1. The forum, chat-room
+    and/or community services offered by Tanki Online are intended to offer a fun
+    and pleasant experience. Therefore, any abusive and obscene language is not tolerated,
+    and Users who insist on using offensive and/or obscene language will have their
+    chat privileges revoked and any Account cancelled.\n2. User is aware that when
+    posting or uploading any personal information onto the Internet Site, such content
+    will become public and accessible by other Users. Tanki Online does not endorse
+    in anyway such content and shall not be responsible for any damages arising from
+    the publicizing of such information. Users should be aware that information which
+    they post on the Internet Site may also affect their life offline.\n3. Content
+    stored on the Company’s severs is not meant for permanent or temporary archival
+    purposes. Therefore Tanki Online may but is not obliged to maintain back-up copies
+    of any material posted on the Internet Site. The Company reserves the right to
+    impose a limit on the maximum storage capacity for each User.\n4. The Company
+    reserves the right to delete, move or edit, at its sole discretion, content that
+    it deems to amount to offensive behaviour or to be in violation of any laws and/or
+    regulations and/or the Game Rules. User shall remain solely responsible for the
+    content posted on the Internet Site. Failure by the Administration to remove particular
+    material shall in no circumstance be constituted as an endorsement or acceptance
+    of it by the Company.\n \nUser’s Accounts\n \nOpening of a User’s Account\n \n1.A
+    User’s Account must be registered personally by a User and the Administration
+    hereby reserve the right to refuse registration of a User’s Account on its Internet
+    Site to any User for any reason whatsoever and without any prior explanation.\n2.It
+    is the Users’ responsibility to ensure that their records with the Game are kept
+    up to date, especially email address. It is User’s responsibility to inform the
+    Administration immediately of any changes to User’s personal information.\n3.Tanki
+    Online strictly prohibits the User from selling, transferring and/or acquiring
+    Account(s) to or from other Users and third parties. User is prohibited to transfer
+    funds/Crystals amongst different User Account(s).\n4.The Administration reserves
+    the right not to register and/or to cancel the registration of a User’s Account
+    in the event that the information provided to the Administration is found to be
+    false, inaccurate, deceitful or incomplete.\n \nUser Name\n \n1. Upon registration
+    of an Account a User shall be granted the right to choose a Username. The Administration
+    reserves the right to deny and/or retract, for whatever reason deemed necessary
+    by the Administration, any Usernames, whether before, during and after these names
+    have been issued or validated.\n2. In the event that apart from the Username chosen,
+    the User’s Account is otherwise in order in accordance to this EULA, the Administration
+    will give the User the opportunity to create another nickname and/or new screen
+    and/or Username.\n \nPassword Security\n \n1. The Company is in no way responsible
+    for the eventual access to an Account by a third person and shall not be held
+    responsible for any eventual loss suffered due to the illicit use of a User’s
+    Login and Password by a third person, of unauthorized access, and/or for any transaction
+    in which the Login and Password of a User was registered correctly.\n2. The Company
+    is in no way responsible if a User forgets, misplaces, or loses the password,
+    except for in the case where such loss arises as a result of an error on the Company’s
+    part and the Company shall not, at any time during the relationship with User,
+    be responsible to store any Login and Password.\n \nBlocking of Accounts\n \n1.
+    User is entitled to ask the Administration to block the User’s Account by sending
+    e-mail on help@tankionline.com.\n2. Failure to log in to the Game for six (6)
+    consecutive months entitles the Administration to block User’s Account and terminate
+    this Agreement immediately on notice (or attempted notice) to User.\n3. The Administration
+    is entitled to block User’s Account at any time at discretion, and also in case
+    of violation by the User of conditions of the EULA, Game Rules, other documents
+    which form an integral part of this EULA.\n \nFraudulent Activity and Misuse of
+    Accounts\n \n1. The Company has a zero tolerance policy towards inappropriate
+    play and fraudulent activity and it prohibit all User collusion. If, in the Administration’s
+    sole determination, User is found to have cheated or attempted to defraud the
+    Administration or any other User of the Game in any way including, but not limited
+    to, game manipulation or payment fraud, User collusion or if the Administration
+    suspects the User of fraudulent payment, including use of stolen credit cards,
+    or any other fraudulent activity (including any chargeback or other reversal of
+    a payment) or prohibited transaction (including money laundering), it reserves
+    the right of the Administration to block the User’s Account and to share this
+    information (together with User’s identity) to any other third party and/or law
+    enforcement agencies which the Administration deems fit and required.\n2. In the
+    event of misuse and/or the abuse of the Internet Site and/or the Game and/or the
+    Software, the Administration reserves the right to block the User’s Account in
+    question until the matter between the Administration and this User is resolved
+    and to pursue any other legal remedy the Company may deem fit.\n \nPaid Service\n
+    \n1. Users can avail themselves of Paid Services in the Game by purchasing Crystals.
+    The Purchase of Crystals can be undertaken only from authorised third parties.\n2.
+    Tanki Online does not allow any transfer of virtual property/Crystals outside
+    the Game. The sale, granting, or exchange of any Materials, Crystals and/or objects
+    used within the Game outside the Game is prohibited.\n3. Paid Services are to
+    be deemed provided as from the moment of the transfer of Crystals to the User's
+    Account. User is aware that he will lose his right of withdrawal from Paid Service
+    from the moment of transferring Crystals to the User’s Account.\n \nPurchase of
+    Crystals\n \nPricing\n \n1. Listing and pricing of any Paid Service is at the
+    Company’s sole discretion and can be changed at any given time.\n2. Tanki Online
+    shall not be liable for the reception and/or processing of User’s payment(s),
+    including for any delays which may occur or any failure of reception. All payments
+    made by User are voluntary, definitive, and non-refundable.\n \nPayment Methods\n
+    \n1. The purchase of Crystals may only be purchased from the Payment Agents by
+    one of the following methods and/or any other method which the Internet Site provides:\na.
+    Credit cards;\nb. Prepaid cards;\nc. PayPal;\nd. SMS;\ne. Mobile payments; and\nf.
+    Other.\n2. User certifies that the funds used in the Account are not from any
+    illegal source. User is declaring that he shall in no way use the Internet Site
+    or the Software with the purpose of transferring such funds from illegal sources.
+    User will not use the Internet Site and/or the Game for any illicit or fraudulent
+    activity, or for any unlawful or fraudulent transaction (including money laundering),
+    in accordance to the laws of all the jurisdictions having authority over User.
+    The Administration reserves the right to discontinue or block User’s Account(s),
+    at any time, and until the matter has been resolved, if the Administration has
+    the slightest doubt as to the legality of the source of funds used by the User.\n
+    \nPayment Currency\n \nAll payments to and from the Account must be paid in the
+    currencies provided by the Payment Agents from time to time and all payments into
+    the Account must be from a payment source on which the User is the named holder
+    of the Account.\n \nMinor Safety\n \n1. The Company guarantees that it is committed
+    in ensuring Minor’s safety. The Company advises the parent(s) and/ or legal representative(s)
+    of the Minor to spend more time with their children while they are on the Internet
+    and to keep control on the use of the Game, the Internet Site, the Account, any
+    means of communication and/or any payment for services available.\n2. If User
+    is a Minor, he may only register an Account with the Company with the prior consent
+    of his parent or legal guardian. Use of any method of payment on the Internet
+    Site by a Minor presumes such consent.\n3. If User is a Minor, his parent or legal
+    guardian will need to complete the registration process to register the User’s
+    Account with the Company on his behalf. Provided that in such cases, User’s parent
+    or legal guardian hereby accepts that s/he is taking full responsibility for all
+    the obligations arising out of this EULA and for any other activities of the Minor
+    which are related to the use of the Game, the Internet Site and/or Account, including
+    any indirect use and including any payments which may be effected using the Login
+    and/or the Account.\n4. The Company reserves the right to request documentation
+    from the parent or legal guardian of a Minor, requesting any other written confirmation
+    that the Company deems necessary for the Minor to play the Game or make payments
+    on the Internet Site.\n5. The Minor and the legal guardian and/ or parent(s) hereby
+    guarantee that the required consent to the use of the Game and/ or the registration
+    of an Account on behalf of the Minor has been given by the legal guardian and/
+    or parent(s) of the Minor.\n6. The legal guardian and/ or parent(s) hereby give
+    their consent to this EULA and documents forming an integral part of this EULA,
+    and confirm that they shall control and bear full responsibility for the use of
+    the Game and game services, the Internet Site and the Account by the Minor as
+    well as for any payments made through the Account. Use of any Payment Method confirms
+    that legal guardian and/ or parent(s) have given such consent. The legal guardian
+    and/ or parent(s) and Users hereby accept that the Company shall bear no responsibility
+    for any use of the Game, the Internet Site and the Account by any Minor who does
+    not possess such permission.\n7. Game services may include age restrictions which
+    are recommendations in nature. The legal guardian and/ or parent(s) and Users
+    decide on their own, whether to follow these recommendations The Company is not
+    responsible for the actual using of the Game by Users who not reached the established
+    age.\n8. If necessary, the parents or legal representatives of the children may
+    use special programs to limit children's access to certain services that will
+    help make the Internet space safer for children.\n \nResponsibility of the Parties\n
+    \n1. The Company shall in no way responsible for any loss or damage, direct or
+    indirect, that User or a third party might have suffered as a result of the User’s
+    use or the third party’s use of the Internet Site, the Game and /or the Online
+    Facilities including but not limited to damages caused by inability to use the
+    Game and the Online Facilities, direct or indirect damages arising out of third
+    party actions, including other users of the Game, lack of access to internet,
+    theft, destruction of Materials, loss of information related to User’s Account
+    and any harm to User’s honour, dignity and business reputation arising in connection
+    to the Game.\n2. In the event that the Company is found liable in any way, by
+    a Court of Law and/or a similar authority, with legal competence and/or jurisdiction
+    over it, then it's liability is limited to the amount of 100 EUR cumulatively
+    for any and all claims arising from one particular User.\n3. User shall bear all
+    responsibility and/ or liability which may arise from the Materials placed by
+    User in the Game and in relation to any use which User makes of the Online Facilities.\n4.
+    Neither party hereto shall be liable to the other in respect of anything which,
+    apart from this provision, may constitute breach of this EULA arising by reason
+    of force majeure, namely circumstances beyond the control of either party which
+    shall include (but shall not be limited to) acts of God, perils of the sea or
+    air, fire, flood, drought, explosion, sabotage, accident, embargo, riot, civil
+    commotion or civil authority, including acts of local government and parliamentary
+    authority.\n5. User shall fully indemnify the Company and any of the Company’s
+    affiliates against all claims, losses, damages and demands arising out of User’s
+    use and access of the Game and Online Facilities.\n \nDispute resolution and Governing
+    law\n \n1. The parties hereby agree that this EULA, together with the other documents
+    forming an integral part of this EULA shall be construed in accordance with the
+    Laws of Malta and shall be subject to the jurisdiction of the Courts of Malta.\n2.
+    The Pre-trial dispute resolution procedure is obligatory. User's claims should
+    be sent to 60/2, Melita Street, Valletta VLT 1122, Malta and e-mail copy to help@tankionline.com,
+    and such claim should contain the specific list of violations made by the Company
+    and/or the Administration, Account information, contact information and User signature.
+    Non-compliance with the form or content of the claim entails non-compliance with
+    the Pre-trial dispute resolution procedure and the term for claim consideration
+    and for sending the answer may take up to thirty (30) business days from the moment
+    of its acceptance.\n \nLegal Compliance\n \nUser hereby confirms understanding
+    and accept that the Company is unable to provide the User with any legal advice
+    or assurances and that it is User’s sole responsibility to ensure that at all
+    times the User complies with the laws that govern the User and that the User has
+    the complete legal right to open an Account with the Game and to play the Game.
+    Any participation in the Game is at the User’s sole option, discretion and risk.
+    By playing the Game, User acknowledges that he does not find the Game or services
+    to be offensive, objectionable, unfair, or indecent in any way.\n \nWaiver\n \nThe
+    Company’s failure or neglect to enforce, at any time, any of the provisions hereof
+    shall not be construed nor shall be deemed to be a waiver of its rights herein,
+    nor in any way affect the validity of the whole or any part of this EULA, nor
+    prejudice the Company’s rights to take subsequent action.\n \nOther conditions\n
+    \n1.This EULA represent the entire Agreement between User and the Company in relation
+    to its subject matter and supersedes and voids all prior agreements between such
+    parties relating to such subject matter.\n2.The headings contained in this EULA
+    are inserted for convenience of reference only and are not intended to be part
+    of or to affect the meaning or interpretation of any of the terms and conditions.
+    Words in the singular mean and include the plural and vice versa. Words in the
+    masculine mean and include the feminine and vice versa.\n3.In the event that any
+    of these terms, conditions or provisions shall be determined by any competent
+    authority to be invalid, unlawful or unenforceable to any extent, such term, condition
+    or provision shall to that extent be severed from the remaining terms, conditions
+    and provisions which shall continue to be valid to the fullest extent permitted
+    by law.\n \nContacts with Administration\n \n1. User can send any questions, remarks,
+    complaints or comments regarding this Agreement at help@tankionline.com. The Administration
+    will consider your questions as soon as possible.\n2. If User starts any correspondence
+    with Administration or submit a report about problems with the Game or game services,
+    the Administration shall have the right to store all this correspondence.\n \n"
+  QUICK_PLAY_MODE_DESCRIPTION: Play a battle with other tankers to beat the opposing
+    team. The mode of the team battle will be chosen randomly.
+  THANKS_FOR_PURCHASE_INFO_ABOUT_EMAIL: |-
+    Tanker! Please provide an email address
+    for receiving payment receipts.
+  STATISTICS_HEADER_CALLSIGN: Nickname
+  ACCOUNT_RECOVERY_FORM_BUTTON_CANCEL_TEXT: Cancel
+  GARAGE_RAILGUN_PROTECTION_PROPERTY: Protection from Railgun
+  WEEKLY_QUEST_BUTTON: Weekly
+  HEADER_CAUTION_EXTERNAL_LINK: EXTERNAL LINK
+  RENAME_FORM_INSTRUCTION: To rename your account, you must choose a new nickname
+    that is also available. You might also be asked to enter your current account
+    password to confirm the change. This new nickname will be used as your new login
+    for entering the game, and accessing other official services in Tanki Online such
+    as the forum.
+  BATTLE_ENTER_WARNING_PARKOUR_BUTTON_ENTER: Join Battle
+  GAME_ACTION_PAUSE: Pause
+  CP_MODE_NAME: Control Points
+  INVITE_TO_BATTLE_LABEL: Invite to battle
+  HEADER_MISSIONS: MISSIONS
+  PAYMENT_SMS_UK_DESCRIPTION_ENDING_TEXT: Customer Support helpline - 0-808-189-1038
+  CLAN_MEMBER_POSITION: Position
+  LOOT_2_OPEN_BUTTON: Open 5
+  CLAN_DESCRIPTION_LABEL: Clan description
+  DEVICES_STANDARD_SETTINGS: Standard settings
+  REDUCE_DAMAGE_CRITICAL: Critical damage
+  RENAME_BUTTON_LABEL_IN_GARAGE: Use
+  FRIENDS_DECLINE_ALL_REQUESTS_ALERT: Decline all incoming requests?
+  PAYMENT_BUTTON_SEND_BUG_REPORT_TEXT: Report
+  RUGBY_SHORT_NAME: RGB
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTOBALANCE: Autobalance
+  BATTLE_STAT_REWARD: Reward
+  CTF_BLUE_FLAG_RETURNED: Blue flag is returned
+  TJR_MODE_NAME: Juggernaut
+  TIME_LABEL_DAY: d
+  CLAN_PROFILE_OPEN: Open
+  SPECTATE_TEXT: Spectate
+  CTF_CAPTURED_ENEMY_FLAG: has captured enemy flag

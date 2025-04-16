@@ -1,0 +1,2286 @@
+type: Localization
+images:
+  FULL_BATTLE_HELP: FULL_BATTLE_HELP.png
+  HELP_CONTROLS_MINI: HELP_CONTROLS_MINI.png
+  TURNOVER_HINT_DELETE_BUTTON: TURNOVER_HINT_DELETE_BUTTON.png
+  GARAGE_ADD_MORE_CRYSTALS: GARAGE_ADD_MORE_CRYSTALS.png
+  HELP_MOUSE_MINI: HELP_MOUSE_MINI.png
+strings:
+  LINK_EXTERNAL_LOGIN_FORM_ADVICE: |-
+    Введите данные вашего аккаунта в "Танках Онлайн", чтобы
+    привязать его к сервису %1
+  MATCHMAKING_TIMEOUT_MESSAGE: Время ожидания боя истекло. Попробуй ещё раз.
+  AS_SHORT_NAME: ASL
+  HELP_PANEL_RANK_HELPER_TEXT: |-
+    Это ваш ранг.
+    Чем больше уничтожено
+    танков, тем выше ранг.
+  RUGBY_BALL_LOST_RED: Красная команда потеряла мяч
+  ONLINE_LABEL: В сети
+  HEADER_PAYMENTS: ПЛАТЕЖИ
+  HELP_PANEL_SCORE_HELPER_ARROW_LENGTH: '48'
+  REDUCE_DAMAGE_RAILGUN: Рельсы
+  FRIENDS_MENU: Меню друзей
+  DRONE_MINE: Число сохраняемых мин
+  DEVICES_STANDARD_SETTINGS_DESCRIPTION: Стандартные заводские настройки без специальных
+    эффектов
+  CONSEQUENCES_EXTERNAL_LINK_FOLLOWING: "Мы не несём ответственности за содержимое
+    сайта и настоятельно рекомендуем НЕ указывать на нём данные, имеющие отношение
+    к вашему аккаунту (особенно e-mail и пароль). \n\nЕсли у вас нет серьёзных оснований
+    доверять этому сайту, лучше всего на него не переходить.\n\nПомните, мы никогда
+    не раздаём кристаллы через внешние сайты и не спрашиваем ваш пароль."
+  TYPE_MESSAGE_WITH_PRESENT: Введи текст к подарку...
+  SETTINGS_UNLINK_ACCOUNT: Закрыть доступ к игровому аккаунту для сервиса
+  REGISTER_FORM_CALLSIGN_INPUT_LABEL_TEXT: 'Имя:'
+  GARAGE_SHOTGUN_PROTECTION_PROPERTY: Защита от Молотa
+  HEADER_PREMIUM: ПРЕМИУМ АККАУНТ
+  GARAGE_ROCKET_LAUNCHER_PROTECTION_PROPERTY: Защита от Страйкера
+  ULTIMATES: Овердрайвы
+  GARAGE_HELPER_SWITCHING_ITEM_CATEGORIES: "Переключение \nкатегорий вещей"
+  CHAT_SHARP_PLANS: plans|Задачи и планы разработчиков|http://ru.tankiwiki.com/%D0%9F%D0%BB%D0%B0%D0%BD%D1%8B_%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8
+  HEADER_INFORMATION: ИНФОРМАЦИЯ
+  PAYMENT_SMSNUMBERS_SMSTEXT_HEADER_LABEL_TEXT: Текст SMS
+  DRONE_RELOAD: Время перезарядки дрона
+  ALERT_ERROR_EXTERNAL_ENTER: Ошибка входа в игру, попробуйте позже
+  REFERAL_WINDOW_COUNT_LABEL: 'Всего зарегистрировалось:'
+  MAP_THEME_NAME_SPACE: Космос
+  DM_MODE_DESCRIPTION: Все вокруг — твои враги. Побеждает игрок, уничтоживший больше
+    всего танков.
+  REDUCE_DAMAGE_MACHINE_GUN: Вулкана
+  GROUP_INVITE_BUTTON: Пригласить в группу
+  YOUR_FRIEND_IS_ALREADY_IN_THIS_BATTLE_LABEL: |-
+    Приглашение не отправлено
+    Друг уже в этой битве
+  CLAN_MEMBER_COLUMN_KILL_DEATH_RATIO: У/П
+  KEYBOARD_KEY_UP: Вверх
+  GAME_ACTION_TURRET_TURN_LEFT: Повернуть башню влево
+  YOUR_FRIEND_IS_OFFLINE_LABEL: |-
+    Приглашение не отправлено
+    Друг не в сети
+  ALERT_ANSWER_SEND_BUG_REPORT: Отправить отчёт и вернуться в битву
+  REDUCE_DAMAGE_MINE: Мины
+  BATTLE_PRO_BATTLE_SUBSCRIBE: PRO Абонемент — твой пропуск в профессиональные битвы!
+  SHOW_DAMAGE: Отображать урон
+  TDM_MODE_NAME: Командный бой
+  BATTLE_LIST_DESCRIPTION: Создавай битвы по собственным правилам и участвуй в них.
+  CLAN_TAG_WITH_COLON: 'Тэг клана:'
+  CLAN_PROFILE_MIN_RANK: Минимальное звание приёма
+  BATTLE_CREATE_PANEL_STEPPER_FLAG_LIMIT: Флаги
+  JGR_SHORT_NAME: SJR
+  STATISTICS_HEADER_SCORE: Очки
+  HEADER_ACCOUNT_RECOVERY: ВОССТАНОВЛЕНИЕ ПАРОЛЯ
+  BATTLE_PLAYER_LEFT: покинул бой
+  LOBBY_CHAT_WRITE_PRIVATELY: Написать лично
+  GARAGE_MACHINE_GUN_PROTECTION_PROPERTY: Защита от Вулкана
+  REGISTER_FORM_TO_LOGIN_PAGE_TEXT: Уже зарегистрированы? <a href='event:'><font color='#59ff32'><u>Авторизуйтесь!</u></font></a>
+  SGE_NEW_POINT_TO_CAPTURE: Атакуй новую точку {point}
+  FACEBOOK_NAME: Фейсбук
+  MAP_THEME_NAME_SUMMER_DAY: Лето день
+  LINK_IS_NO_LONGER_VALID_TEXT: Ссылка некорректна или устарела.
+  CTF_LOST_FLAG_NEUTRAL: потерял флаг
+  HEADER_CHANGE_PASSWORD_EMAIL: СМЕНА ПАРОЛЯ И ПОЧТЫ
+  DOM_POINT: Точка {point}
+  CHAT_PANEL_BUTTON_SEND: Сказать
+  RUGBY_BALL_LOST_USER: потерял мяч
+  HELP_PANEL_RANK_HELPER_ARROW_LENGTH: '104'
+  REDUCE_DAMAGE_SHAFT: Шафта
+  HEADER_CONGRATULATION: ПОЗДРАВЛЯЕМ!
+  REGISTER_FORM_CONTINUE: Завершить
+  BATTLE_CREATE_PANEL_BUTTON_TEAM_DEATHMATCH: |-
+    Команда
+    на команду
+  ALERT_GO_TO_BATTLE_IS_UNAVAILABLE_RANK_FUND: "Ты собираешься перейти в битву, которая
+    недоступна тебе по званию. \nПокинуть текущую битву? Очки и кристальный фонд будут
+    потеряны."
+  REFUSED_TO_JOIN_THE_BATTLE_AT_YOUR_INVITATION_LABEL: 'Не переходит в битву по твоему
+    приглашению
+
+    '
+  TJR_NEW_BLUE_BOSS: Синий Джаггернаут вступил в бой
+  PAYMENT_PRESENT_LABEL_TEXT: В ПОДАРОК!
+  CHAT_SHARP_FEEDBACK: feedback|Идеи и предложения|https://help.tankionline.com/communities/1-idei
+  HELP_PANEL_MAIN_MENU_HELPER_TEXT: Главное меню
+  DOM_WE_LOST_POINT: Мы потеряли точку {point}
+  CRYSTALS_PACKAGE_AS_GIFT: в подарок!
+  CLAN_FOUNDER: Основатель
+  DISCOUNTED_AT_KIT: Со скидкой {0}
+  BATTLE_CANNOT_BE_FOUND_ALERT: Ссылка устарела. Битва не найдена в списке, она уже
+    завершилась.
+  SETTINGS_CHANGE_PASSWORD_BUTTON: Изменить
+  REDUCE_DAMAGE_TWINS: Твинса
+  MAP_THEME_NAME_WINTER_NIGHT: Зима ночь
+  MAP_THEME_NAME_WINTER_EVENING: Зима вечер
+  SETTINGS_LINK_ACCOUNT: Привязать игровой аккаунт к сервису
+  ESTIMATED_WAITING_TIME_LABEL: Среднее время ожидания
+  MAIN_PANEL_UPDATE_RANK_NOTICE_GIFT: Ваш подарок %1
+  REFERRALS_BUTTON_LABEL: Рефералы
+  HEADER_VK_ENTERING_GROUP: ВСТУПЛЕНИЕ В ГРУППУ ИГРЫ
+  LINK_IS_COPIED_BUTTON_LABEL: |-
+    Ссылка
+    скопирована
+  HEADER_CREATE_BATTLE: СОЗДАНИЕ БИТВЫ
+  BATTLE_SUPPLIES_TEXT: Припасы
+  HEADER_MONEYSHOP: МАГАЗИН
+  GARAGE_GAUSS_PROTECTION_PROPERTY: Защита от Гаусса
+  CLAN_PROFILE_CLOSE: Закрыт
+  DRONE_DEFEND: Время действия усиления
+  CLAN_MEMBER_COLUMN_DESTROYED: Уничтожено
+  ALERT_ACCOUNT_UNLINKED: Доступ к вашему игровому аккаунту для сервиса %1 был успешно
+    закрыт
+  GARAGE_TWINS_PROTECTION_PROPERTY: Защита от Твинса
+  PROGRESS: Прогресс
+  MAIN_QUEST_BUTTON: Особые
+  SETTINGS_INVERSE_TURN_CONTROL_CHECKBOX_LABEL_TEXT: Инверсное управление при движении
+    назад
+  MAP_THEME_NAME_SUMMER: Лето
+  TURRET: Пушка
+  HEADER_DISCOUNT: СКИДКА!
+  GARAGE_THUNDER_PROTECTION_PROPERTY: Защита от  Грома
+  YOU_WERE_KICKED_LOGIN_TEXT: |-
+    Вы были принудительно отключены от игры.
+    Причина: {0}.
+    Вы можете вернуться в игру через
+    {1}.
+  GAME_ACTION_DROP_GOLD_BOX: Сбросить золотой ящик
+  BUG_REPORT_BUTTON_SEND_TEXT: Отправить
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_DESCRIPTION: 'На данный момент вы можете
+    получить скидку при оплате указанными ниже способами. Пожалуйста, выберите наиболее
+    удобный для вас способ оплаты. '
+  ERROR_EMAIL_NOT_UNIQUE: E-mail не уникален
+  ACCEPTED_LIMIT_EXCEEDED_ALERT: Невозможно принять заявку. Список друзей игрока %USERNAME%
+    переполнен.
+  CLOSE_LABEL: Закрыть
+  BUY_FOR_COIN_LABEL: 'Купить за '
+  HEADER_INVITE_A_FRIEND: ПРИГЛАСИТЬ ДРУГА
+  BUTTON_LABEL_RESTORE_DEFAULT_BUTTONS: Восстановить кнопки по умолчанию
+  SERVER_STOP_ALERT_TEXT: |-
+    ОБНОВЛЕНИЕ СЕРВЕРА!
+
+    Сервер будет остановлен через %1 сек.
+  SETTINGS_ALTERNATE_CAMERA_LABEL_TEXT: Альтернативное поведение камеры
+  DRONE_DEPENDENT_INVENTORY_COOLDOWN: Скорость переключения
+  VK_ENTER_GROUP_BONUS: Благодарим вас за вступление в официальную группу <a href='https://vk.com/tankionline'
+    target='_blank'><font color='#59ff32'><u>Танков Онлайн</u></font></a>. Бонусные
+    кристаллы уже начислены на ваш аккаунт.
+  GAME_ACTION_CAMERA_DOWN: Опустить камеру
+  CTF_GOT_FLAG_NEUTRAL: взял флаг
+  GARAGE_DISTANT_DAMAGE_PROPERTY: Урон на макс. расстоянии
+  OK_ENTER_GROUP_BONUS: Благодарим вас за вступление в официальную группу <a href='https://ok.ru/tankionline'
+    target='_blank'><font color='#59ff32'><u>Танков Онлайн</u></font></a>. Бонусные
+    кристаллы уже начислены на ваш аккаунт.
+  INVITE_FRIEND_BUTTON_LABEL: |-
+    Пригласить
+    друга
+  RUGBY_MODE_NAME: Регби
+  CLAN_CREATE: Создать клан
+  FRIENDS_REMOVE_USER: Удалить игрока %USERNAME% из списка друзей?
+  RENAME_FORM_NEW_UID_INPUT: Введите ваше новое имя
+  CLAN_PLAYER_RANK_TOO_LOW: Слишком низкое звание
+  GROUP_INVITE_RESPONSE_USER_IN_BATTLE: Этот игрок в бою
+  HEADER_CURRENT_BATTLES: СПИСОК БИТВ
+  CONNECTION_CLOSED_MESSAGE: Соединение с сервером разорвано
+  DOM_BLUE_CAPTURED_POINT: Синие захватили точку {point}
+  DOM_ENEMIES_CAPTURED_POINT: Враги захватили точку {point}
+  LOADER_HEADER: Загрузка
+  GARAGE_CONFIRM_ALERT_COST_PREFIX: за
+  BATTLE_CREATE_PANEL_BUTTON_START: Запустить
+  GROUP_INVITE_RESPONSE_USER_IN_OTHER_GROUP: Этот игрок уже в группе
+  FRIENDS_IN_BATTLE: В бою
+  GARAGE_RELOAD_PROPERTY: Перезарядка
+  FRIENDS_BUTTON_TOOLTIP: Твой список друзей. Отсюда ты можешь перейти в битву с участием
+    друга или посмотреть его профиль.
+  PHONE_NUMBER: Номер телефона
+  JGR_NEW_BOSS: "%1 — новый Джаггернаут!"
+  CLAN_POSITION_SUPREME_COMMANDER: Главнокомандующий
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_TEXT: |-
+    Нажми, чтобы выбрать битву
+    и принять в ней участие.
+    Награда - 200 кристаллов!
+  SHOP_GOLDBOX_ONE: Ящик
+  ALERT_GARAGE_AVAILABLE: Теперь вы можете делать покупки в гараже.
+  SETTINGS_TAB_NAME_CONTROLS: Управление
+  BATTLE_PLAYER_JOINED: вступил в бой
+  SETTINGS_EMAIL_LABEL_TEXT: 'E-mail:'
+  HEADER_BUG_REPORT: СООБЩИТЬ ОБ ОШИБКЕ
+  DRONE_ARMOR_PERCENT: Бонусная защита
+  BATTLEINFO_PANEL_COPY_LINK_TEXT: Скопировать ссылку
+  NEED_EMAIL_ALERT_MESSAGE: Чтобы купить этот товар, привяжите к вашему аккаунту почту
+    и подтвердите её. Для этого откройте настройки игры (кнопка-шестерёнка в правом
+    верхнем углу экрана) и перейдите в раздел «Аккаунт». Подробную инструкцию можно
+    найти  <a href="https://ru.tankiwiki.com/%D0%9F%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0_%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D0%B0_%D0%BA_%D0%BF%D0%BE%D1%87%D1%82%D0%B5"
+    target="_blank"><u>здесь</u></a>.
+  GARAGE_CRITICAL_CHANCE_PROPERTY: Шанс критического урона
+  SETTINGS_ACCOUNT_ACCESS: Доступ к игровому аккаунту
+  SHOP_GOLDBOX_MANY: Ящиков
+  GROUP_INVITE: Приглашает тебя в группу
+  SETTINGS_SHOW_CHAT_CHECKBOX_LABEL_TEXT: Показывать чат
+  OPEN_BATTLE_LIST_BUTTON: Смотреть
+  DRONE_BONUS_ADD: Бонус ко времени работы припасов
+  REDUCE_DAMAGE_FIREBIRD: Огнемёта
+  JGR_MODE_NAME: Соло Джаггернаут
+  INCOMING_LIMIT_EXCEEDED_ALERT: Невозможно отправить заявку. Список входящих заявок
+    у игрока переполнен.
+  CLAN_IS_ALREADY_IN_REQUEST_LIST: Клан %CLANNAME% уже есть в списке исходящих
+  BATTLE_STAT_KILLS: Уничтожено
+  CLAN_ALERT_LEAVE_CLAN: Выйти из клана?
+  CLAN_USER_CLAN_NAME: Название клана
+  TOURNAMENT_BATTLE_STARTING_LABEL: Битва начинается, будь готов!
+  DAILY_QUEST_ALL_MISSIONS_COMPLETED: |-
+    Это были все миссии на сегодня!
+    Возвращайся в игру завтра, чтобы получить новые.
+  GAME_ACTION_SHOOT: Выстрелить
+  CLAN_OUTGOUNG: Исходящие заявки
+  CLAN_MEMBER_DAYS: Время в клане
+  CLAN_REQUEST_IS_ALREADY_SENT: Вы уже отправили заявку в этот клан
+  RUGBY_FACE_OFF: Мяч в игре
+  CLAN_KILL_DEATH_RATION: У/П клана
+  ERROR_CALLSIGN_NOT_SINGLE_DEVIDERS: Имя не должен содержать несколько символов "."
+    или "_" или "-" подряд
+  COMPLETE_BUTTON: Завершить
+  DOM_ENEMIES_LOST_POINT: Враги потеряли точку {point}
+  CHAT_SHARP_RANKS: ranks|Звания|http://ru.tankiwiki.com/%D0%97%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F
+  PRESENT_INFO_FROM_LABEL: 'Прислал:'
+  HEADER_UPGRADE: УЛУЧШЕНИЕ
+  CLAN_POSITION_VETERAN: Ветеран
+  SELECTED_SERVER_UNAVAILABLE: Сервер, на который вы пытаетесь перейти, временно недоступен.
+    Попробуйте позже.
+  REARM_TEAM_TIE: Битва закончилась с равным счётом
+  LOBBY_CHAT_WRITE_PUBLICLY: Написать в общем чате
+  CONFIRM_RENT_QUESTION: Вы подтверждаете аренду?
+  SETTINGS_DYNAMIC_SHADOWS_LABEL_TEXT: Динамические тени
+  ALERT_ANSWER_CANCEL: Отмена
+  FRIENDS_FIND_IN_LIST_HINT: Найти в списке...
+  PAYMENT_SHENG_FENG_CONFIRMATION_CHECK_BOX_TEXT: "???"
+  TIP_2: Не говори никому свой пароль! Иначе потеряешь танк навсегда.
+  TIP_3: Покупай премиум аккаунт и получай больше опыта, кристаллов и звёзд в челленджах
+    за каждый бой.
+  TIP_0: Опыт даёт новые звания, а звания открывают новое вооружение в Гараже!
+  TIP_1: Собирай ящики, которые падают с неба — они делают танк сильнее. А из золотых
+    ящиков ты получишь кристаллы.
+  TIP_6: Иконка звезды над твоим танком означает, что у тебя зарядился овердрайв.
+    Нажми Shift, чтобы активировать мощную способность.
+  SPECTATOR_NAME: Наблюдатель
+  TIP_7: Припасы дают временное усиление для твоего танка. Активируй их с помощью
+    клавиш 1 — 5, чтобы получить мгновенное преимущество в бою.
+  TIP_4: Лежишь гусеницами вверх? Взорви свой танк, нажав Delete, и продолжай игру.
+  TIP_5: Жми Enter в бою, чтобы открыть боевой чат! Кнопка Tab переключает между общим
+    и командным чатами.
+  TIP_8: Удерживай R или V, чтобы посмотреть, какие защитные модули используют танки
+    поблизости. Также ты увидишь их коэффициент GS — уровень прокачанности танка.
+  TIP_9: Каждая пушка имеет уникальные особенности. Попробуй их все и найди свой стиль
+    игры!
+  CHAT_LABEL_TEAM: Команде
+  CHECK_PASSWORK_FORM_LOGIN_VIA: Войти в игру через сервис
+  DECLINE_LABEL: Отказаться
+  SETTINGS_CHANGE_PASSWORD_WRONG_LINK_TEXT: Ссылка для изменения пароля - некорректна.
+    Повторите попытку.
+  CLAN_PLAYERS_IN_CLAN: Игроков в клане
+  CHAT_SHARP_HELP: help|Помощь|http://help.tankionline.com/ru/
+  ERROR_CALLSIGN_WRONG_LAST_SYMBOL: Последний символ имени должен быть буквой или
+    цифрой
+  BATTLE_TEAM_ALERT: Вы играете за %1 команду
+  CLAN_ALREADY_INVITED_PLAYER: Приглашение от этого клана есть у вас во входящих
+  WEEKLY_QUEST_HINT: Выполняй ежедневные миссии каждый день в течение недели и ты
+    получишь дополнительный <a href='event:'><font color='#59ff32'><u>бонус</u></font></a>
+  ACCOUNT_RECOVERY_FORM_HELP_LABEL_TEXT: |-
+    Введите ваш действительный email,
+    чтобы получить ссылку для входа без пароля
+  LEAVE_GROUP_BUTTON: Покинуть группу
+  CTF_RETURNED_ENEMY_FLAG: возвратил вражеский флаг
+  PREMIUM_BUTTON_EXTEND: Продлить
+  PAYMENT_SMSNUMBERS_NUMBER_HEADER_LABEL_TEXT: Номер
+  ASIASOFT_CHECKING_BALANCE: Проверка баланса...
+  OK_ENTER_GROUP_REMINDER: Пожалуйста, вступите в официальную группу <a href='https://ok.ru/tankionline'
+    target='_blank'><font color='#59ff32'><u>Танков Онлайн</u></font></a>. За вступление
+    в официальную группу вам будут начислены бонусные кристаллы.
+  MAP_THEME_NAME_WINTER: Зима
+  BATTLE_UPGRADES_TEXT: Улучшения
+  SETTINGS_DUST_LABEL_TEXT: Пыль
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_TEXT_MIDDLE_RANK: Теперь за каждое новое звание
+    в «Танках Онлайн» вручаются кристаллы. Только что тебе были начислены кристаллы
+    за все ранее полученные звания. Двигайся дальше по карьерной лестнице и зарабатывай
+    больше!
+  DM_MODE_NAME: Каждый сам за себя
+  CHAT_SHARP_NICK: nick|Изменить ник|http://help.tankionline.com/topic/619560-smena-nika-kak-pomenyat-nik
+  BATTLE_BONUS_BOX_TEXT: Ящики с бонусами
+  BATTLE_STAT_KDRATIO: У/П
+  DAILY_QUEST_BUTTON: Ежедневные
+  CLAN_JOINED_CLAN: Вы приняты в клан
+  PARTNER_REGISTARTION_FORM_CONTINUE: Подтвердить
+  CLAN_TANKS_DESTROYED: Уничтожено танков
+  GARAGE_CATEGORY_BUTTON_DRONES: Дроны
+  HELP_PANEL_MONEY_HELPER_TEXT: |-
+    Покупка кристаллов
+    за реальные деньги.
+  GARAGE_SNIPING_DAMAGE_PROPERTY: Урон прицельный
+  GARAGE_WEIGHT_PROPERTY: Масса
+  CLAN_PURCHASE_INFORMATION: |-
+    Для создания собственного клана необходимо приобрести клановую лицензию.
+    Лицензия даёт право на создание одного клана.
+  BATTLE_CREATE_PANEL_STEPPER_TEAM_SCORE_LIMIT: Счет
+  GAME_ACTION_TANK_MOVE_FORWARD: Двигаться вперёд
+  SERVER_IS_RESTARTING_CREATE_BATTLE_TEXT: |-
+    В данный момент происходит рестарт сервера.
+    Создание и подключение к битвам временно заблокировано.
+  CLAN_BUY_LICENCE: Купить лицензию
+  GARAGE_BURN_PROPERTY: Время горения
+  CLAN_CHAT: Чат клана
+  CHECK_PASSWORD_FORM_PLAY_BUTTON: Играть
+  CLAN_IS_ALREADY_IN_INVITE_LIST: Клан %CLANNAME% уже есть в списке входящих
+  PREMIUM_NOTIFICATION_SOON_COMPLETE: Действие Премиума скоро заканчивается.
+  GARAGE_SNIPING_IMPACT_PROPERTY: Сила прицельного удара
+  BATTLE_CREATE_PANEL_BUTTON_JGR: Джаггернаут
+  BATTLE_CREATE_PANEL_BUTTON_DEATHMATCH: "Каждый\nза себя "
+  SETTINGS_UNLINK: Отвязать
+  CLAN_SEND_REQUEST: Подать заявку
+  BATTLE_CREATE_PANEL_FLOOD_ALERT_TEXT: Вы можете создавать не более трех битв в течение
+    5 минут.
+  PRESENT_RECIPIENT_NAME: Имя получателя...
+  REDUCE_DAMAGE_THUNDER: Грома
+  CAPTCHA_PROCEED_BUTTON: Далее
+  CHALLENGE_BUY_STARS_TIP: Получи дополнительные звёзды, чтобы завершить челлендж
+    быстрее.
+  COIN_CONFIRMATION_DESCRIPTION: Нажимая кнопку «Купить», вы подтверждаете покупку
+    предмета за танкоины
+  RUGBY_MODE_DESCRIPTION: Подхвати мяч в центре карты и привези его на базу противника.
+    Не дай противнику пробиться с мячом к твоей базе. Побеждает команда, забившая
+    больше всего мячей.
+  HELP_PASSWORDS_DO_NOT_MATCH: Пароли не совпадают
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION: Вы собираетесь купить пакет, который
+    можно купить только один раз. При повторной покупке этого пакета вместо предметов
+    в пакете вам будет начислена компенсация в виде внутриигровой валюты.
+  CTF_MODE_DESCRIPTION: Атакуй базу противников, привези их флаг на свою базу и защищай
+    свой флаг от неприятелей. Побеждает команда, доставившая больше всего флагов.
+  VK_ENTER_GROUP_REMINDER: Пожалуйста, вступите в официальную группу <a href='https://vk.com/tankionline'
+    target='_blank'><font color='#59ff32'><u>Танков Онлайн</u></font></a>. За вступление
+    в официальную группу вам будут начислены бонусные кристаллы.
+  CLAN: Клан
+  HEADER_WELCOME_BACK: С ВОЗВРАЩЕНИЕМ!
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_ARROW_LENGTH: '48'
+  CHECK_PASSWORD_FORM_RESTORE_LINK_TEXT: "<a href='event:lost'><font color='#59ff32'><u>Забыли
+    имя или пароль?</u></font></a>"
+  HOLIDAY_MODE_NAME: Специальный режим
+  SETTINGS_FOG_LABEL_TEXT: Туман
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  CHAT_SHARP_WIKI: wiki|Энциклопедия игры|http://ru.tankiwiki.com/%D0%97%D0%B0%D0%B3%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F_%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0
+  DRONE_COOLDOWN_RADIUS: Дальность действия
+  SETTINGS_SSAO: Глубокие тени
+  BATTLE_STAT_DEATHS: Подбит
+  OPEN_GARAGE: Открыть гараж
+  ERROR_PASSWORD_CHANGE: Невозможно сменить пароль
+  CODE_CONFIRM: Код подтверждения
+  CONTINUE_BATTLE_TEXT: Продолжить
+  CTF_SHORT_NAME: CTF
+  FRIENDS_YOU_ARE_HERE_BATTLE_INDICATOR: "(Ты здесь)"
+  REDUCE_DAMAGE_ROCKET_LAUNCHER: Страйкера
+  GARAGE_HEAL_PROPERTY: Лечение
+  DRONE_INVENTORY_COOLDOWN_BOOST: Ускорение перезарядки припасов в сек.
+  SETTINGS_CHANGE_PASSWORD_CONFIRMATION_SENT_TEXT: Письмо с инструкциями отправлено
+    на ваш почтовый ящик
+  FRIENDS: Друзья
+  PROMO_CODE_SHOP_LABEL: Промокоды
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_SUM: Тебе начислено %1
+  CLAN_YOU_ALREADY_IN_CLAN: Вы уже состоите в клане
+  CHALLENGE_BUY_STARS: Купить звёзды
+  TJR_SHORT_NAME: TJR
+  HEADER_OFFER: ТЕСТ-ДРАЙВ
+  GATE_2_SHOP_EMAIL_INPUT_DESCRIPTION: Пожалуйста, укажите адрес электронной почты,
+    на которую вы хотите получить чек об оплате покупки.
+  BATTLE_FINISH_IN: Битва автоматически завершится через
+  FRIENDS_ADD: Добавить в друзья
+  CHECK_PASSWORD_FORM_PASSWORD: 'Пароль:'
+  PARTNER_PARAMETRS_ERROR: Вы пытаетесь выполнить вход в игру, используя неверные
+    параметры.
+  CLAN_ALERT_REMOVE_PLAYER: Исключить %USERNAME% из клана?
+  BATTLE_CREATE_PANEL_DRONES: Дроны
+  CLAN_YOUR_RANK_TOO_LOW: Ваше звание ниже допустимого для вступления в этот клан
+  FREE_BONUSES_WINDOW_BUTTON_CLOSE_TEXT: Закрыть
+  JGR_MODE_DESCRIPTION: Один из участников боя управляет сверхмощным танком «Джаггернаут».
+    Тот, кто уничтожит Джаггернаута, сам становится им. Побеждает игрок, уничтоживший
+    больше всего танков.
+  DOM_WE_CAPTURED_POINT: Мы захватили точку {point}
+  DAILY_QUEST_PRIZE: 'Приз:'
+  CHAT_SHARP_RULES: rules|Правила|http://ru.tankiwiki.com/%D0%9F%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D0%B0
+  GARAGE_CATEGORY_BUTTON_HULLS: Корпуса
+  CLAN_POSITION_COMMANDER: Командир
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_ARROW_LENGTH: '30'
+  GROUP_INVITE_RESPONSE_INVITATIONS_DISABLED: Приглашения в группу отключены
+  MAIN_PANEL_BUTTON_GARAGE: 'Гараж '
+  SHOP_PAYMENT_BUG_REPORT_LINK: http://tankionline.com/forms/payment/ru/
+  TIME_LABEL_SECOND: с
+  REARM_SELFDISTRUCTION: Самоуничтожение через {time}
+  BATTLE_TEAM_RED: красную
+  HEADER_CLAN_LICENSE: КЛАНОВАЯ ЛИЦЕНЗИЯ
+  GARAGE_RANGE_PROPERTY: Дальность
+  OFFLINE_LABEL: Не в сети
+  CHAT_LABEL_SPECTATORS: Наблюдателям
+  HELP_PANEL_MONEY_FIRST_HELPER_TEXT: |-
+    Купить кристаллы за реальные деньги.
+    При первой покупке - 100 кристаллов в подарок!
+  CLAN_POSITION_OFFICER: Офицер
+  DRONE_INVENTORY_ADD: Бонус ко времени работы припасов
+  GARAGE_CATEGORY_BUTTON_RESISTANCE_MODULES: Защита
+  CHANGE_SERVER_HELPER: Выбор сервера
+  HEADER_LINK: ПРИВЯЗКА
+  USERS_IN_QUEUE_LABEL: Пользователей в очереди
+  SETTINGS_SHOW_FPS_CHECKBOX: Показывать FPS и ping
+  GARAGE_SMOKY_PROTECTION_PROPERTY: Защита от Смоки
+  CURRENT_CRYSTALL_TOOLTIP: Твоё текущее количество кристаллов. Кристаллы нужны для
+    покупки и улучшения вооружения в Гараже.
+  TDM_SHORT_NAME: TDM
+  TIME_LABEL_MINUTE: м
+  REENTER_TO_GAME: Перезайти в игру
+  REARM_BATTLE_PLACE: 'Твоё место: {your_place} из {places}'
+  SEND_PRESENT_BUTTON: Отправить
+  STATISTICS_HEADER_DEATHS: Подбит
+  SETTINGS_SOUND_VOLUME_LABEL_TEXT: 'Громкость:'
+  CLAN_MEMBERS: Игроки
+  REGISTER_FORM_REPEAT_PASSWORD_INPUT_LABEL_TEXT: 'Повтор:'
+  KEYBOARD_KEY_LEFT: Влево
+  CHALLENGE_REWARD_NOTIFICATION: Ты получил награды за %number% уровень челленджа
+  ERROR_PASSWORD_LENGTH: Пароль должен содержать больше одного символа
+  LOOT_1_OPEN_BUTTON: Открыть 1
+  SETTINGS_BUTTON_SAVE_TEXT: Сохранить
+  LOOT_3_OPEN_BUTTON: Открыть 15
+  CLAN_MEMBER_COLUMN_LOST: Подбит
+  FRIENDS_EXIT_FROM_BATTLE_ALERT: Покинуть битву? Очки и кристальный фонд будут потеряны.
+  CHAT_PANEL_COMMAND_UNBLOCK: Игрок %1 исключен из игнора
+  BATTLE_CANNOT_BE_FOUND_LABEL: |-
+    Приглашение не отправлено
+    Битва не найдена
+  CLAN_USER_CLAN_TAG: Тэг
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION_WITH_LIMIT: |-
+    Вы собираетесь купить билет на встречу «Танки в городе», которая пройдёт 9 сентября в Москве .
+    Внимание!
+      - Независимо от типа билета Вы можете купить только один билет на один аккаунт.
+      - Все бонусы, входящие в билет, вы получите только при личном визите на встречу.
+    При повторной покупке билета или неявке на встречу вам будет начислена компенсация в виде внутриигровой валюты. Нажимая «Далее», вы соглашаетесь с  <a href="http://tankionline.com/ru/event_rules" target="_blank"><u>Условиями заказа</u></a>.
+  SETTINGS_GRAPHICS_AUTO_QUALITY: Автоматическая настройка качества графики
+  RANK_ICON_TOOLTIP: Твоё текущее звание. Нажми, чтобы посмотреть свой профиль.
+  AS_MODE_NAME: Штурм
+  GARAGE_BUTTON_TOOLTIP: Здесь ты можешь собрать свой идеальный танк и улучшить его.
+  HELP_PANEL_RANK_BAR_HELPER_TEXT: |-
+    Индикатор ранга.
+    Уничтожая чужие
+    танки, вы заполняете
+    его и получаете более
+    высокий ранг.
+  SHOP_PAYMENT_CATEGORY_DESCRIPTION_FOR_ODNOKLASSNIKY: Для приобретения выбранного
+    пакета нажмите на кнопку купить ниже
+  GARAGE_BULLET_SPEED_PROPERTY: Скорость снаряда
+  CLAN_FOUNDER_WITH_COLON: 'Основатель:'
+  CHAT_PANEL_COMMAND_UNBLOCK_ALL: Игнор лист очищен
+  GARAGE_INFO_PANEL_BUTTON_UNEQUIP_TEXT: Снять
+  CLAN_SEARCH: Найти клан
+  GARAGE_IMPACT_PROPERTY: Сила удара
+  REGISTER_FORM_AGREEMENT_NOTE_TEXT: "<textformat leading='5'>Я принимаю условия <a
+    href='http://tankionline.com/ru/eula/' target='_blank'><font color='#59ff32'><u>Лицензионного
+    соглашения</u></font></a>, <a href='http://tankionline.com/ru/rules/' target='_blank'><font
+    color='#59ff32'><u>Правил игры</u></font></a>, <a href='http://tankionline.com/ru/privacy/'
+    target='_blank'><font color='#59ff32' ><u>Политики конфиденциальности и cookies</u></font></a></textformat>"
+  SGE_MODE_DESCRIPTION: |-
+    Удерживай контроль над точкой, не давая противнику приблизиться к ней, и выдвигайся к новой точке после захвата.
+    Побеждает команда, захватившая больше всего точек.
+  SGE_RED_CAPTURED_POINT: Красные захватили точку {point}
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_TEXT: |-
+    Введи свой e-mail
+    и получи 5 кристаллов!
+  SHOP_WINDOW_EULA_LINK: <a href="http://tankionline.com/ru/eula/" target="_blank"><font
+    color='#59ff32'><u>Лицензионное соглашение</u></font></a>
+  FRIENDS_CANCEL_BUTTON_TEXT: Отмена
+  PRESENT_WILL_BE_REMOVED_ALERT: Подарок будет удалён навсегда. Продолжить?
+  GARAGE_DAMAGE_PROPERTY: Урон
+  GARAGE_GAUSS_AIMING_DAMAGE_PROPERTY: Урон прицельный
+  ERROR_EMAIL_INVALID: E-mail неверный
+  FRIENDS_IN_GROUP: В группе
+  GARAGE_FREEZE_PROTECTION_PROPERTY: Защита от Фриза
+  ERROR_CALLSIGN_WRONG_FIRST_SYMBOL: 1-й символ имени должен быть буквой или цифрой
+  RENT: Аренда
+  DAILY_QUEST_COMPLETED: |-
+    Эта миссия была выполнена.
+
+    Возвращайся в игру завтра за новой миссией.
+  HELP_NAME_IS_NOT_UNIQUE: Имя уже используется
+  CHAT_TAB_HEADER: Чат
+  FRIENDS_REQUEST_EXIST_ALERT: 'Заявка для игрока %USERNAME% уже есть в списке отправленных. '
+  CLAN_LEAVE: Выйти
+  REDUCE_DAMAGE_RICOCHET: Рикошета
+  GARAGE_CRITICAL_DAMAGE_PROPERTY: Критический урон
+  BATTLE_CREATE_PANEL_BUTTON_ASSAULT: Штурм
+  GARAGE_MINE_PROTECTION_PROPERTY: Защита от Мины
+  GARAGE_PENETRATING_PROPERTY: Прострел
+  SHOW_NOTIFICATIONS_LABEL: Показывать уведомления
+  HEADER_BATTLES: БИТВЫ
+  CAPTCHA_FORM_TITLE: 'Введите символы, изображённые на картинке:'
+  DELETE_PRESENT_BUTTON: Удалить
+  HELP_PANEL_BUTTON_BAR_HELPER_TEXT: |-
+    Пригласить друга.
+    Настройки. Звук.
+  GAME_ACTION_USE_FIRST_AID: Использовать ремкомплект
+  HELP_PANEL_RATING_INDICATOR_HELPER_TEXT: |-
+    Индикатор
+    изменения
+    рейтинга.
+  ALERT_ACCOUNT_SUCCESS_LINKED: Аккаунт успешно привязан
+  SETTINGS_BUTTON_TOOLTIP: В настройках ты можешь изменить параметры графики, клавиши
+    управления и многое другое.
+  CLAN_PLAYER_IS_INVITE_LIST: Игрок %USERNAME% есть в списке исходящих заявок
+  SETTINGS_TAB_NAME_GAME: Игра
+  SETTINGS_TITLE: Настройки
+  CTF_RETURNED_FLAG_NEUTRAL: возвратил флаг
+  GARAGE_BUY_BUTTON_RANK_LABEL: Ранг
+  MATCHMAKING_NEED_A_HIGHER_RANK: В разработке
+  DAILY_QUEST_GOAL: 'Миссия:'
+  BATTLE_CREATE_PANEL_STEPPER_KILLS_LIMIT: Уничтожений
+  CHAT_LABEL_ALL: Всем
+  CTF_RETURNED_OUR_FLAG: возвратил наш флаг
+  PARTNER_USERNAME_ALREDY_USED_ERROR: Имя, которое вы ввели, уже привязано к другому
+    профилю этой партнёрской сети.
+  KEYBOARD_KEY_PG_UP: PgUp
+  FRIENDS_COPY_NAME: Скопировать имя
+  DRONE_REPAIR_HEALTH: Бонус HP
+  BATTLEINFO_PANEL_BUTTON_PLAY: Играть
+  GARAGE_FIREBIRD_PROTECTION_PROPERTY: Защита от Огнемёта
+  SETTINGS_DYNAMIC_LIGHTING: Динамическое освещение
+  ERROR_CALLSIGN_LENGTH: 'Имя должен содержать больше одного символа '
+  DOM_RED_CAPTURED_POINT: Красные захватили точку {point}
+  STATISTICS_HEADER_NUMBER: "#"
+  LOOT_OPEN_BUTTON: Открыть
+  FRIENDS_MENU_ARROW_LENGTH: '73'
+  ALERT_ACCOUNT_CANT_BE_UNLINKED: |-
+    Внимание!
+    Прежде чем вы сможете закрыть доступ для сервиса %1, вам
+    необходимо установить пароль для аккаунта "Танков Онлайн" в настройках
+  HULL: Корпус
+  CHANGE_UID_FORM_REPEAT_PASSWORD_TEXT: 'Повторите пароль:'
+  HELP_PASSWORD_IS_TOO_SIMPLE: Введенный пароль слишком простой
+  PIECE_1: штука
+  PIECE_2: штуки
+  PIECE_3: штук
+  PREMIUM_COMPLETION_IN: 'Заканчивается в '
+  CLAN_PROFILE_INVATION_CLAN: Приём в клан
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTO_COMPLETION: Автозавершение
+  GAME_ACTION_SHOW_TANK_STATS: Показать параметры танков в бою
+  NEWBIES_ABONEMENT_WINDOW_TEXT: |-
+    Добро пожаловать в ряды танкистов!
+
+    Теперь ты будешь получать на EXPERIENCE_BONUS% опыта и CRYSTAL_BONUS% кристаллов больше в каждой сыгранной битве, пока у тебя есть абонемент новичка. Этот специальный абонемент поможет тебе в течение первых нескольких дней освоиться в игре.
+
+    Используй его максимально эффективно, сыграв как можно больше битв!
+  ERROR_EMAIL_NOT_SENDED: Письмо не отправлено
+  SETTINGS_REENTER_PASSWORD_LABEL_TEXT: 'Повтор:'
+  BATTLE_ENTER_ERROR_EQUIPMENT_NOT_MATCH_CONSTRAINTS: "В эту битву можно войти только
+    с определённым вооружением. \nВаш танк не соответствует правилам формата. <a href='http://ru.tankiwiki.com/%D0%A4%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%BD%D1%8B%D0%B5_%D0%B1%D0%B8%D1%82%D0%B2%D1%8B'
+    target='_blank'><u>Подробности</u></a>."
+  DRONE_POWER_DURATION: Время действия усиления
+  ALERT_ANSWER_GO_TO_GARAGE: Перейти в гараж
+  FRIENDS_NEW: Новая
+  CHAT_PANEL_COMMAND_BLOCK: Игрок %1 добавлен в игнор
+  MAIN_PANEL_BUTTON_BATTLES: Битвы
+  GARAGE_ROTATION_PROPERTY: Скорость поворота
+  GARAGE_ARCADE_DAMAGE_PROPERTY: Урон навскидку
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_TEXT: |-
+    Нажми, чтобы выбрать битву
+    и принять в ней участие.
+    Награда - 200 кристаллов!
+  CLAN_TANKS_LOST: Подбито танков
+  ONE_STAR_SHOP_BUTTON_LABEL: звезда
+  COPY_LINK_BUTTON_LABEL: |-
+    Скопировать
+    ссылку
+  CHALLENGE_FINISH: Ты достиг максимального уровня, все награды получены
+  HEADER_DEVICES: УСТРОЙСТВА
+  PAYMENT_BUTTON_BACK_TEXT: Пакеты
+  NO_PLACES_AVAILABLE_LABEL: Нет свободных мест
+  ALERT_INVITE_TO_BATTLE_IS_UNAVAILABLE_RANK: Ты уверен, что хочешь позвать друга
+    в битву, которая недоступна ему по званию?
+  CLAN_MEMBER_COLUMN_EXPERIENCE: Опыт
+  PARTNER_GAME_TERMS: ''
+  BLOCK_USER_CONTEXT_MENU_LABEL: Игнорировать
+  RUGBY_BALL_TAKEN_BLUE: Синяя команда владеет мячом
+  CLAN_MEMBER_LAST_VISIT: Последний вход
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_TEXT: |-
+    Эта битва недоступна вам
+    по рангу. Выберите одну из битв,
+    подсвеченных зелёным цветом.
+  AUTOCOMPLETION_BALANCE_DISTURBED_WINNERS_PART1: У нас численное преимущество!
+  TJR_NEW_RED_BOSS: Красный Джаггернаут вступил в бой
+  REARM_PAUSE_1: Танк на паузе
+  REARM_PAUSE_2: Нажми любую кнопку, чтобы вернуться
+  SETTINGS_MOUSE_SENSITIVITY_CHECKBOX_LABEL: Чувствительность мыши
+  REARM_PAUSE_3: Автовыход из битвы через {time}
+  GAME_ACTION_FULL_SCREEN: Включить/выключить полноэкранный режим
+  GARAGE_RESISTANCE_DESCRIPTION_PREFIX: 'Защита от:'
+  TYPING_SPEED_BANNED: Вам временно запрещено писать в чате
+  PREMIUM_ALERT_RETURN: С возвращением в ряды Премиум танкистов!
+  SHOP_WINDOW_PRIVACY_AND_COOKIES_POLICY_LINK: <a href="http://tankionline.com/ru/privacy/"
+    target="_blank"><font color='#59ff32'><u>Политика конфиденциальности и cookies</u></font></a>
+  TIP_10: Краски меняют внешний вид твоего танка. Одни делают его незаметнее, другие,
+    наоборот, выделяют твой танк на фоне остальных.
+  DOM_RED_LOST_POINT: Красные потеряли точку {point}
+  TIP_12: Дроны — твои помощники в бою. Одни улучшают эффект от припасов, другие усиливают
+    твой танк. Используй с умом!
+  ALERT_EMAIL_REGISTRATION: |-
+    Поздравляем с регистрацией! Танк готов к битвам!
+    Ваш пароль отправлен на указанный почтовый адрес.
+  TIP_11: Защитные модули снижают урон от определённых типов вооружения. Комбинируй
+    их, чтобы устоять против самых опасных противников в бою!
+  CHALLENGE_TIER: Уровень
+  SERVER_FROZEN_ALERT_TEXT: Извините, в данный момент игровой сервер, который вы выбрали,
+    перегружен. Попробуйте выбрать другой сервер.
+  TIP_14: Меняй вооружение прямо в бою! Для перехода в Гараж нажми клавишу G или кнопку
+    «Гараж» в верхней части экрана.
+  TIP_13: Жми клавишу 6 и сбрасывай золотые ящики, чтобы поднять настроение участникам
+    битвы или отвлечь внимание врагов. Золотые ящики можно купить в Магазине или выбить
+    из контейнеров.
+  GARAGE_CLOSE_TEXT: Закрыть
+  CHAT_SHARP_CLANS: clans|Кланы|http://ru.tankiwiki.com/%D0%9A%D0%BB%D0%B0%D0%BD%D1%8B
+  DRONE_HULL_SPEED_PERCENT: Бонусное ускорение
+  RUGBY_BALL_TAKEN_RED: Красная команда владеет мячом
+  CHAT_PANEL_COMMAND_BLOCK_LIST: 'Игнор лист:'
+  HEADER_CLAN_MANAGMENT: УПРАВЛЕНИЕ ЗАЯВКАМИ
+  DRONE_POWER_BOOST: Дополнительная сила припаса
+  GARAGE_NEW_ITEMS_ALERT: 'Поздравляем! Теперь вы можете купить следующие предметы
+    в Гараже:'
+  RESTORE_PASSWORD_INFO: <a href="http://help.tankionline.com/topic/910382-nevozmozhno-zajti-na-akkaunt-net-dostupa-k-pochte/"
+    target="_blank"><font color='#59ff32'><u>Информация</u></font></a>
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_CONGRATULATIONS: Поздравляем, %1!
+  MAP_THEME_NAME_SUMMER_NIGHT: Лето ночь
+  MAP_THEME_NAME_SUMMER_EVENING: Лето вечер
+  GARAGE_INFO_PANEL_BUTTON_EQUIP_TEXT: Установить
+  MAP_THEME_NAME_WINTER_DAY: Зима день
+  HEADER_TOURNAMENT_PREPARE: ПОДГОТОВКА К БОЮ
+  CLAN_ALERT_DISBAND_CLAN: |-
+    Распустить клан?
+
+    Внимание!
+    Для создания нового клана вам нужно будет получить новую лицензию.
+  DRONE_DAMAGE_PERCENT: Бонусный урон
+  REFERAL_STATISTICS_HEADER_CALLSIGN: Друг
+  SETTINGS_LINK_EMAIL_BUTTON: Привязать
+  GARAGE_SHAFT_PROTECTION_PROPERTY: Защита от Шафта
+  JGR_YOU_ARE_THE_BOSS: Ты следующий Джаггернаут, приготовься!
+  HEADER_FRIENDS: ДРУЗЬЯ
+  SGE_SHORT_NAME: SGE
+  AUTOCOMPLETION_ENEMY_IS_BACK: Противник вернулся в бой!
+  YOUR_ACCEPTED_LIMIT_EXCEEDED_ALERT: Невозможно принять заявку. Ваш список друзей
+    переполнен.
+  GARAGE_HELPER_TANK_PARTS: "Части танка \nи другие \nполезные вещи"
+  PAYMENT_COUNTRIES_LABEL_TEXT: 'Страна:'
+  RANK_NAMES: Новобранец,Рядовой,Ефрейтор,Капрал,Мастер-капрал,Сержант,Штаб-сержант,Мастер-сержант,Первый
+    сержант,Сержант-майор,Уорэнт-офицер 1,Уорэнт-офицер 2,Уорэнт-офицер 3,Уорэнт-офицер
+    4,Уорэнт-офицер 5,Младший лейтенант,Лейтенант,Старший лейтенант,Капитан,Майор,Подполковник,Полковник,Бригадир,Генерал-майор,Генерал-лейтенант,Генерал,Маршал,Фельдмаршал,Командор,Генералиссимус
+  SETTINGS_SHOW_SKYBOX_CHECKBOX_LABEL_TEXT: Показывать небо
+  BATTLEINFO_PANEL_NONAME_TEXT: Пусто
+  FIND_BATTLE_BUTTON_TEXT: Матчмейкинг
+  BATTLE_CREATE_PANEL_MAP_TYPE_LABEL: 'Карта:'
+  HEADER_CLAN_EDIT_PROFILE: РЕДАКТИРОВАТЬ
+  PROMO_CODE_DESCRIPTION_TEXT: |-
+    Промокоды позволяют получать кристаллы, дни премиум аккаунта, золотые ящики, краски и некоторые предметы из Гаража. Бонусные предметы будут немедленно зачислены на текущий аккаунт.
+
+    Получить промокод можно во время специальных акций.
+  SETTINGS_SOFT_PARTICLES_LABEL_TEXT: Мягкие частицы
+  BATTLE_STAT_CALLSIGN: Имя
+  REDUCE_DAMAGE_ISIDA: Изиды
+  PLAY_BUTTON: Играть!
+  GARAGE_MAX_SPEED_PROPERTY: Максимальная скорость
+  MISSION_BUTTON_TOOLTIP: Твой список ежедневных миссий. Выполняй их и получай дополнительные
+    награды.
+  YOURE_LOCATION_TEXT: Мы указали его верно? Вы можете выбрать свой вариант и подтвердить
+    кнопкой «ОК»
+  CREATE_BATTLE_PANEL_GOLD_BOXES: Золотые ящики
+  RENAME_ITEM_SHOP_DESCRIPTION: Покупка этого предмета позволяет вам переименовать
+    ваш аккаунт. Чтобы воспользоваться абонементом после покупки, активируйте его
+    в Гараже в разделе «Особое» и следуйте дальнейшим инструкциям.
+  ALERT_GAME_ACCOUNT_ALREADY_LINKED: Данный игровой аккаунт уже привязан к %1
+  ERROR_EMAIL_NOT_FOUND: |-
+    Такой email не зарегистрирован.
+    Возможно, вы регистрировали другой.
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_TEXT: |-
+    Нажми, чтобы создать битву,
+    самостоятельно выбрав карту и режим.
+    Награда - 200 кристаллов!
+  YOUR_FRIEND_DISABLED_INVITES_LABEL: |-
+    Друг отключил показ приглашений
+    Отправка невозможна
+  PRESENT_INFO_MESSAGE_LABEL: 'Текст:'
+  HEADER_ATTENTION: ВНИМАНИЕ!
+  RENT_TIME: 'Срок аренды:'
+  HEADER_CLAN: КЛАН
+  NEW_PRESENTS_ALERT_ACCEPT_BUTTON: Посмотреть
+  THERE_ARE_PLACES_AVAILABLE_LABEL: Есть свободные места
+  BATTLE_IS_UNAVAILABLE_AT_YOUR_RANK_LABEL: Битва недоступна по званию
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_HEADER: Особые условия
+  BATTLE_ENTER_WARNING_PARKOUR: "Внимание! Это битва в формате «Паркур». \nВ ней не
+    начисляются опыт и кристальный фонд."
+  CLAN_TAG_ALREADY: Тэг уже занят
+  BATTLE_GOLD_TAKEN: " взял золотой ящик"
+  CHECK_PASSWORD_FORM_BUTTON_NEW_PLAYER_TEXT: Новый игрок
+  CTF_ENEMY_FLAG_RETURNED: Вражеский флаг возвращён
+  ALERT_ACCOUNT_ALREADY_LINKED: Данный аккаунт %1 уже привязан
+  RUGBY_READY_TO_FACE_OFF: Мяч скоро будет в игре
+  GARAGE_CONFIRM_ALERT_CANCEL_BUTTON_TEXT: Нет
+  SETTINGS_RECEIVE_PRESENTS: Принимать подарки от всех
+  GARAGE_PROTECTION_PROPERTY: Броня
+  FRIENDS_NO: Нет
+  CHANGE_UID_FORM_NEW_UID_TEXT: 'Новое имя:'
+  SETTINGS_SHADOWS_LABEL_TEXT: Тень под танком
+  BATTLE_FUND: Фонд битвы
+  SETTINGS_SHOW_REMOTE_DRONES: Показывать прочие дроны
+  SHOP_WINDOW_PAYMENT_CATEGORY_DESCRIPTION: Пожалуйста, выберите наиболее удобный
+    для вас способ оплаты
+  CHAT_SHARP_UPDATES: updates|Обновления|http://ru.tankiwiki.com/%D0%9E%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D1%8F
+  CLAN_INCORECT_CLAN_TAG: Некорректный тэг клана
+  GARAGE_UPGRADE_TEXT: Улучшить
+  TIME_LABEL_HOUR: ч
+  GARAGE_ALL_PROTECTION_PROPERTY: Защита от всего
+  YOUR_FRIEND_IS_ENTERING_THE_GAME_LABEL: |-
+    Приглашение не отправлено
+    Друг в процессе входа в игру
+  CTF_LOST_OUR_FLAG: потерял наш флаг
+  MUTE_BUTTON_TOOLTIP: Включи/отключи звук.
+  TURNOVER_HINT_1: Попробуй перевернуться, используя отдачу пушки,
+  BATTLE_STAT_SCORE: Счёт
+  QUEST_BUTTON: Миссии
+  TURNOVER_HINT_2: или включи самоуничтожение, нажав
+  CP_MODE_DESCRIPTION: Захватывай вражеские и защищай союзные стратегические точки
+    на карте. Побеждает команда, заработавшая больше всего очков владения точками.
+  CHALLENGE_QUEST_BUTTON: Челленджи
+  DAILY_QUEST_INFORMATION: <a href="http://ru.tankiwiki.com/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F"
+    target="_blank"><font color='#59ff32'><u>Информация</u></font></a>
+  ERROR_CALLSIGN_NOT_UNIQUE: Такое имя уже есть
+  BATTLELIST_PANEL_BUTTON_CREATE: Создать
+  GROUP_INVITE_RESPONSE_USER_OFFLINE: Этот игрок не в сети
+  ALERT_ACCOUNT_LINKING_ERROR: Ошибка привязки аккаунта, попробуйте позже
+  CLAN_SEND_INVITE: Отправить заявку игроку...
+  SETTINGS_MIPMAPPING_LABEL_TEXT: Мип-маппинг
+  CTF_RED_FLAG_RETURNED: Красный флаг возвращен
+  REGISTER_FORM_SKIP_REGISTRATION_TEXT: Попробуй игру до регистрации!
+  PURCHASE_ERROR_NOTIFICATION: Произошёл сбой при покупке. Попробуйте снова
+  REFERAL_STATISTICS_HEADER_INCOME: Кристаллы
+  REGISTER_FORM_TITLE_SKIP_REGISTRATION_TEXT: Зарегистрироваться можно будет позднее.
+    Первая загрузка займёт несколько минут.
+  REDUCE_DAMAGE_ARTILLERY: Магнума
+  HELP_PANEL_MONEY_HELPER_ARROW_LENGTH: '61'
+  CTF_CAPTURED_OUR_FLAG: доставил наш флаг
+  SHOP_WINDOW_PURCHASE_INSTRUCTION: <a href="http://tankionline.com/ru/crystals/"
+    target="_blank"><font color='#59ff32'><u>Платёжная инструкция</u></font></a>
+  FRIENDS_YES: Да
+  HELP_PANEL_BUTTON_BAR_FULLSCREEN_TEXT: |2-
+
+    Полноэкранный режим.
+  DRONE_CONSTANT_ARMOR_PERCENT: Дополнительная защита
+  ALERT_CRYSTALS_ADDED_FOR_CONFIRMED_EMAIL: Благодарим вас за привязку игрового аккаунта
+    «Танков Онлайн» к адресу электронной почты. Бонусные кристаллы уже начислены на
+    ваш аккаунт.
+  DRONE_INVENTORY: Время работы припасов
+  GARAGE_BUY_TEXT: Купить
+  CLAN_INCOMING: Входящие заявки
+  BACK_BUTTON: Назад
+  GARAGE_CATEGORY_BUTTON_PAINTS: Краски
+  INVITES_YOU_TO_A_BATTLE_LABEL: Приглашает тебя в битву
+  EXPERIENCE_BAR_TOOLTIP: Твой текущий опыт. Участвуй в битвах, чтобы получать очки
+    опыта и открывать новое вооружение.
+  MAP_THEME_NAME_DAY: День
+  GAME_ACTION_USE_MINE: Использовать мину
+  PARTNER_REGISTARTION_FORM_LOGIN_LINK_TEXT: |-
+    Уже зарегистрированы в игре?
+    <a href='event:haveAcc'><font color='#59ff32'><u>Выполните вход</u></font></a>.
+  FORMAT_NAME_NONE: Без формата
+  GAME_ACTION_SCREEN_SIZE_INCREASE: Увеличить размер окна битвы
+  SETTINGS_SHOW_LOCAL_DRONE: Показывать свой дрон
+  PAYMENT_MTS_ADDITIONAL_INFO: |-
+    Стоимость услуги для абонентов ОАО «МТС» включает НДС.
+    С размером Стоимости услуги и порядком ее списания можно ознакомиться на Сайте Оператора  <a href="http://www.mts.ru" target="_blank"><u>www.mts.ru</u></a> в разделе «Услуги по коротким номерам», введя короткий номер в строке поиска, а также позвонив по единому номеру 88002500890.
+    Контент предоставляется компанией SMS Online.
+    Контакты службы технической поддержки: сайт  <a href="http://smshelp.me" target="_blank"><u>http://smshelp.me</u></a>, тел.: 8-800-555-12-00, адрес электронной почты to@sms-online.com.
+  GAME_PRIVACY_POLICY: "Политика конфиденциальности и cookies\n \nКомпания «Танки
+    Онлайн» – 614081, Пермь, Кронштадская 10, а/я 5720, ООО «Танки Онлайн», правообладатель
+    исключительных прав на Игру (далее – Администрация, Правообладатель) уважает право
+    Пользователей на конфиденциальность личной информации. Администрация осознаёт
+    важность защиты информации, полученной от Пользователей, и утвердила данную Политику
+    конфиденциальности и cookies (далее – «Политика») для информирования Пользователей
+    об использовании их личной информации.\n \nНастоящая Политика включает положения
+    о порядке и целях сбора, использования, обработки, хранения, распространения (передачи)
+    и удаления личной информации Пользователей, положения о защите личной информации
+    Пользователей. Политика объясняет, каким образом можно просматривать, обновлять,
+    корректировать или удалять личную информацию при возникновении соответствующей
+    необходимости.\nПолитика также устанавливает положения о видах, целях, порядке
+    размещения, хранения и использования файлов cookies на оборудовании Пользователей.\n
+    \nЛицензионное соглашение с пользователем (далее – Соглашение), Правила Игры,
+    и иные документы, размещённые в Игре и игровых сервисах, являются неотъемлемой
+    частью данной Политики. В свою очередь, данная Политика, является неотъемлемой
+    частью Соглашения, Правил Игры и иных документов Игры и игровых сервисов.\n \nДанная
+    Политика применяется только для сайтов и иных сервисов Игры и не распространяется
+    на другие сайты и сервисы.\n \nИспользуя Игру любым способом и/или проходя процедуру
+    регистрации в Игре и нажимая кнопку «Подтвердить», Пользователь подтверждает,
+    что прочитал, понял, согласился и безоговорочно принял настоящую Политику и все
+    её условия.\n \nЕсли вы не согласны с какими-либо положениями настоящей Политики,
+    у вас нет права на дальнейшее пользование Игрой и её сервисами, и вы обязаны немедленно
+    покинуть Сайт.\n \nТермины и понятия\n \nЛюбые термины и понятия, используемые
+    в настоящей Политике, имеют такое же значение, которое было определено для них
+    Соглашением.\n \nОбязательства\n \n1. Администрация обязуется при сборе и обработке
+    любой Личной информации соблюдать положения законов и настоящей Политики и принимать
+    все возможные организационные и технические меры по защите личной информации Пользователей
+    от неправомерного или случайного доступа, уничтожения, изменения, блокирования,
+    копирования, распространения, а также от иных неправомерных действий с ней третьих
+    лиц.\n2. Действие данного документа распространяется на следующие ресурсы Игры:
+    непосредственно Игра, чаты Игры, форум Игры, Танки Онлайн Wiki , Tanki Online
+    News (далее вместе называемые «игровые сервисы»), а также все онлайновые формы,
+    внутренние формы и средства коммуникации, используемые на игровых сервисах и в
+    клиенте Игры для сбора личной информации.\n3. К Личной информации, полученной
+    Правообладателем от Пользователей, могут получить доступ только сотрудники и представители
+    Правообладателя, а также филиалы и любые аффилированные лица Правообладателя,
+    которые также будут связаны положениями настоящей Политики и обязаны обеспечить
+    конфиденциальность любой переданной им Личной информации.\n5. Законодательство
+    о защите личной информации может отличаться в разных странах. Администрация будет
+    стремиться максимально следовать положениям данной Политики и максимально защищать
+    личную информацию Пользователей, вне зависимости от того, где она собрана и как
+    передана.\n6. Администрация может осуществлять передачу личной информации третьей
+    стороне, только если третья сторона обеспечивает адекватный уровень защиты личной
+    информации, или если такая передача является необходимой для заключения или исполнения
+    Соглашения или иного контракта в интересах Пользователя, или если такая передача
+    необходима для защиты интересов Пользователя, или если Администрация осуществляет
+    адекватные гарантии в отношении защиты личной информации.\n \nСбор личной информации\n
+    \n1. По общему правилу Пользователь не предоставляет личную информацию Администрации,
+    а Администрация не производит её обработку или хранение.\n2. В целях исполнения
+    Соглашения, надлежащего и качественного предоставления игровых сервисов Пользователям,
+    и осуществления иных действий, предусмотренных Соглашением, Правилами Игры и настоящей
+    Политикой, Администрация вправе собирать и обрабатывать следующую информацию о
+    Пользователе (далее – «личная информация»):\n2.1. Информация, предоставляемая
+    во время заполнения специальных форм в Игре и игровых сервисах, в том числе информация,
+    предоставляемая во время регистрации, подписки на услуги, публикации материала
+    и запроса на другие услуги, включая электронный адрес, телефонный номер, идентификационные
+    данные в социальной сети, имя пользователя и пароль.\n2.2. Администрация может
+    запрашивать любую информацию, необходимую для организации и проведения мероприятий
+    в Игре, когда Пользователь регистрируется для участия в конкурсе или мероприятии,
+    инициированном Администрацией.\n2.3. Если Пользователь вступает в переписку с
+    Администрацией или отсылает отчет о проблемах с Игрой или игровыми сервисами,
+    то Администрация оставляет за собой право сохранять всю корреспонденцию.\n2.4.
+    Администрация может попросить Пользователей участвовать в опросах и запрашивать
+    в ходе опросов определенные сведения, однако это не является обязательной процедурой,
+    и Пользователь вправе отказаться от этого.\n2.5. Администрация может собирать
+    и обрабатывать детали проводимых транзакций, платежные данные Пользователя.\n2.6.
+    Браузер Пользователя или клиентская программа может передавать Администрации определённую
+    информацию о деталях визитов на сайты Игры и игровых сервисов, включая данные
+    трафика, лог-файлы, данные о географическом положении компьютера Пользователя,
+    его возможностях, и другие коммуникационные данные. Администрация может использовать
+    эту информацию в целях и в порядке, предусмотренных настоящей Политикой.\n2.7.
+    Для некоторых действий Администрация может запросить у Пользователя другую информацию,
+    такую как возраст, дата рождения, пол и/или игровые предпочтения.\n2.8. Администрация
+    вправе собирать, обрабатывать и использовать иную информацию, предусмотренную
+    Соглашением, Правилами Игры и настоящей Политикой.\n \nСогласие Пользователя\n
+    \n1. В случае если формой регистрации в Игре или иными условиями Игры, установленными
+    Администрацией, будет предусмотрено предоставление Пользователями любой личной
+    информации, то Пользователь, осуществляя фактические действия по входу в Игру
+    или игровые сервисы, или проходя процедуры регистрации в Игре и/или предоставляя
+    такие данные, безоговорочно принимает все условия настоящей Политики, выражает
+    свое прямое и определённое согласие на сбор, обработку, использование, хранение,
+    распространение (передачу) и уничтожение Администрацией любой Личной информации
+    Пользователя, на трансграничную передачу Личной информации Пользователя (на передачу
+    в третьи страны), в целях регистрации Аккаунта Пользователя в Игре, в целях надлежащего
+    и качественного предоставления игровых сервисов и дополнительных услуг Пользователям,
+    в целях их постоянного развития и улучшения, в целях исполнения Соглашения и осуществления
+    иных действий, предусмотренных Соглашением, Правилами Игры и настоящей Политикой,
+    а также в целях соблюдения действующего законодательства.\n2. Администрация вправе
+    собирать и использовать информацию, которая не относится к Личной (персональной)
+    информацией согласно применимому праву, и Пользователь настоящим признает, что
+    Администрация вправе раскрыть любым третьим лицам такую информацию.\n3. Пользователь
+    вправе в любое время высказывать свои возражения против сбора и обработки его
+    личной информации, отозвать согласие на обработку личной информации, кроме случаев,
+    когда законодательством определено иное.\n4. Если Пользователь отзывает такое
+    согласие, он понимает и признает, что это может отрицательно повлиять на качество
+    Игры и игровых сервисов, а также может вызвать невозможность доступа к Игре и
+    / или к игровым сервисам, и Пользователь настоящим соглашается, что Администрация
+    не несет ответственности за повреждение Личной информации Пользователя в таком
+    случае.\n \nИспользование и обработка личной информации\n \n1. Личная информация,
+    которая может быть раскрыта Пользователями, собирается и обрабатывается Администрацией
+    в целях надлежащего и качественного предоставления Пользователям игровых сервисов,
+    в целях их развития и улучшения и в целях осуществление иных действий предусмотренных
+    Соглашением и настоящей Политикой. Использование личной информации Администрацией
+    регулируется настоящей Политикой. Под обработкой личной информации понимается:
+    сбор, запись, систематизация, накопление, хранение, актуализация, изменение, группировка,
+    блокирование, использование, раскрытие, передача третьим лицам, распространение,
+    уничтожение, стирание, и иные действия, необходимые для исполнения Соглашения.\n2.
+    Администрация не торгует личной информацией Пользователей и не раскрывает эту
+    информацию третьим лицам, за исключением случаев, предусмотренных настоящей Политикой.
+    Администрация может раскрыть общую демографическую и статистическую информацию
+    бизнес-партнерам или рекламодателям. Это никак не связано напрямую с личной информацией
+    и  не может идентифицировать отдельного Пользователя.\n3. Для надлежащего оказания
+    услуг Администрация вправе передать личную информацию иным лицам или организациям,
+    оказывающим услуги хостинга, услуги по проведению расчетных операций, услуги по
+    пересылке электронной корреспонденции, модераторам. Данные лица и организации
+    вправе использовать полученную информацию исключительно для предоставления услуг
+    Пользователям Игры.\n4. Пользователь даёт своё согласие на передачу его личной
+    информации любым аффилированным лицам Правообладателя в целях надлежащего и качественного
+    предоставления игровых сервисов Пользователям, в целях постоянного развития и
+    улучшения игровых сервисов, в целях исполнения Соглашения и осуществления иных
+    действий, предусмотренных Соглашением, Правилами игры и настоящей Политикой.\n5.
+    Если в будущем Правообладатель объединится с другой компанией через процесс реорганизации,
+    слияния, продажи, приобретения, ликвидации или через другие процессы, то Личная
+    информация Пользователей может быть передана вместе с компанией или её частью,
+    или может быть продана как часть компании.\n6. В случае если Пользователь заходит
+    в Игру и/или регистрируется в Игре через сайты третьих лиц, через сайты партнеров
+    Правообладателя, такие лица могут запрашивать, собирать и обрабатывать личную
+    информацию Пользователя в целях надлежащего и качественного предоставления услуг.
+    В таком случае будут применяться положения о конфиденциальности и куки третьих
+    лиц. Пользователь даёт свое согласие на передачу Администрацией личной информации
+    Пользователя таким лицам в целях надлежащего и качественного предоставления игровых
+    сервисов, в целях исполнения Соглашения и осуществления иных действий, предусмотренных
+    Соглашением, Правилами игры и настоящей Политикой.\n7. Пользователь даёт свое
+    согласие на раскрытие Администрацией личной информации уполномоченным органам
+    власти по их требованию, по решению суда, а также в случаях, предусмотренных законодательством.\n8.
+    Пользователь соглашается, что в случае получения Администрацией претензий третьих
+    лиц (правообладателей) о нарушении Пользователем прав на Материалы, размещенные
+    в Игре или игровых сервисах, Администрация вправе передать третьему лицу (правообладателю)
+    информацию о таком Пользователе.\n \n Хранение личной информации\n \n1. Администрация
+    предпримет все необходимые меры для должного и безопасного хранения собираемой
+    личной информации Пользователя в соответствии с положениями настоящей Политики.
+    Вся предоставляемая Пользователями информация хранится на серверах Администрации
+    (Правообладателя).\n2. Администрация (Правообладатель) использует стандартную
+    технологию, включающую файерволы, для обеспечения безопасности личной информации
+    Пользователей.\n3. Пользователь обязуется не раскрывать и не передавать третьим
+    лицам свои идентификационные данные, банковские или иные платежные реквизиты,
+    данные своего Аккаунта, по которым возможна авторизация Пользователя в Игре. Пользователь
+    полностью ответственен за хранение данных своего Аккаунта.\n4. В случае если Пользователю
+    станет известно о фактах завладения данными его Аккаунта или иной Личной информации
+    третьими лицами, Пользователь немедленно должен сообщить о таких обстоятельствах
+    Администрации для принятия должных мер безопасности. При этом Администрация не
+    несет ответственность за использование такой информации.\n5. Когда Пользователь
+    общается внутри Игры или игровых сервисов (посредством чата, форума и др.), Пользователь
+    осознает, что такая коммуникация проходит через Сервер Администрации, и соглашается
+    с тем, что эти данные могут быть собраны, сохранены и исследованы Администрацией.
+    Администрация не несет ответственность за сохранение конфиденциальности личной
+    информации и/или другой информации, которую Пользователь раскрыл для других пользователей
+    через Игру, игровые сервисы и через другие сервисы (через чат, форум, социальные
+    сети и пр.). Такая информация считается общедоступной.\n \nCookies, IP-адреса
+    и лог-файлы\n \n1. Администрация может собирать и обрабатывать информацию о компьютере
+    Пользователя, лог-файлы, включая IP адреса, тип операционной системы, браузера
+    и почтового клиента, данные трафика, дату и время, детали визитов на игровые сервисы,
+    пользовательскую активность, информацию о доступах, настройках, системных уведомлениях.
+    Это статистические данные о действиях Пользователей в сети Интернет, они не идентифицируют
+    Пользователя, являются обезличенными, собираются и хранятся для целей системной
+    администрации, обеспечения надлежащего функционирования Игры и игровых сервисов,
+    для целей безопасности и усиления защиты, обеспечения системной целостности (предотвращений
+    хакерских атак, несанкционированных доступов и т. д.).\n2. Администрация посредством
+    Сервера может размещать и хранить на локальном оборудовании Пользователя файлы
+    cookies - идентификационные текстовые файлы, которые автоматически создаются и
+    хранятся на компьютере Пользователя, если браузер устанавливает соединение с соответствующей
+    страницей, которую посещает Пользователь (далее – «куки-файлы»).\n3. Администрация
+    вправе размещать на оборудовании Пользователя куки-файлы, выполняющие без ограничения
+    следующие функции::\n3.1. Куки-файлы посещения – размещаются при вводе данных
+    Пользователем и помогают распознавать и отслеживать визиты Пользователя при авторизации
+    в Игре и игровых сервисах. Без таких куки может ухудшиться функциональность Игры
+    и игровых сервисов.3.2. Куки-файлы голосования (опроса) – отмечают пункты опроса,
+    за которые Пользователь отдал свой голос, и не дают возможности повторно голосовать
+    в одном и том же опросе.\n3.3. Куки-файлы, распределяющие рабочую нагрузку сервера
+    и оптимизирующие время загрузки игровых сервисов. Без таких куки может быть утрачена
+    функциональность Игры.\n3.4. Куки-файлы, позволяющие сохранить настройки интерфейса
+    Пользователя при повторном входе в Игру и игровые сервисы.\n3.5. Куки-файлы, размещаемые
+    и используемые для  синхронизации с данными Пользователя в социальных сетях.\n3.6.
+    Куки-файлы аналитики – куки-файлы, предназначенные для сбора анонимной информации
+    относительно того, как Пользователь использует Игру.\n3.7. Куки рекламы – размещаются
+    на оборудовании Пользователя при просмотре рекламных материалов, повышают эффективность
+    рекламных компаний.\n4. Администрация также может позволить определенным третьим
+    лицам размещать и использовать их собственные куки-файлы веб-аналитики и рекламы
+    на оборудовании Пользователя, в целях хранения и анализа информации о предпочтениях
+    Пользователей и улучшения качества сервисов. В таком случае будут применяться
+    положения о конфиденциальности и куки третьих лиц.\n5. Пользователь понимает,
+    что, используя Игру через любой сайт социальной сети, Пользователь может быть
+    обязан придерживаться политики данного сайта относительно куки-файлов, и Пользователь
+    соглашается, что Администрация не ответственна ни за какое подобное использование
+    куки-файлов.\n6. Администрация гарантирует, что размещаемые куки-файлы являются
+    безопасными для Пользователя и абсолютно необходимы для нормального функционирования
+    Игры и игровых сервисов и для предоставления Администрацией услуг Пользователям.\n7.
+    Осуществляя фактические действия по входу в Игру или игровые сервисы и/или проходя
+    процедуры регистрации в Игре, Пользователь выражает свое прямое и определенное
+    согласие на размещение, хранение и использование Администрацией куки-файлов, предусмотренных
+    настоящей Политикой. Предоставляя данное согласие, Пользователь дает возможность
+    Администрации лучше понять Пользователей, их предпочтения, и все время развивать
+    и улучшать качество обслуживания с учетом интересов Пользователей.\n8. Сроки хранения
+    куки-файлов составляют не более одного года. Сроки хранения куки-файлов третьей
+    стороны определяются такой третьей стороной.\n9. Пользователь вправе отказаться
+    принимать куки-файлы или удалить на своем оборудовании уже размещенные куки-файлы,
+    изменив настройки своего браузера. Это может негативно сказаться на качестве предоставления
+    услуг Пользователю и к невозможности для Пользователя получить доступ к Игре и
+    к некоторым игровым сервисам.\nПользователь настоящим соглашается, что Администрация
+    не несет никакой ответственности за потерю или повреждение информации Пользователя
+    в случае, если Пользователь отказывается принимать куки-файлы.\n \nОтказ от предоставления
+    информации\n \nПользователь предоставляет Администрации любую информацию исключительно
+    на добровольной основе. Тем не менее, Администрация не может гарантировать, что
+    Игра и / или игровые сервисы должны функционировать должным образом и/или должны
+    функционировать вообще в случае отказа предоставить любую информацию, когда это
+    необходимо.\n \nВносимые изменения\n \nНастоящая Политика действительна на дату
+    последней редакции. Настоящая Политика может быть изменена, дополнена, заменена
+    в любой форме и в любое время без предварительного и последующего уведомления
+    Пользователя, поэтому рекомендуем Пользователю иногда просматривать настоящую
+    Политику, чтобы быть в курсе всех изменений. Любое дальнейшее пользование Игрой
+    и игровыми сервисами означает безоговорочное принятие измененной версии настоящей
+    Политики.\n \nСвязь с Администрацией\n \n1. Если у вас возникли какие-то вопросы,
+    замечания, жалобы или комментарии относительно данной Политики, пожалуйста, пишите
+    нам на help@tankionline.com. Мы рассмотрим ваши вопросы в кратчайшие сроки.\n2.
+    Администрация может отклонить запросы, которые являются необоснованно частыми,
+    требуют непропорциональных технических усилий, подвергают угрозе конфиденциальность
+    других Пользователей или являются крайне непрактичными.\n3. Если Пользователь
+    начинает переписку с Администрацией, или отправляет отчет о проблемах с Игрой
+    или игровыми сервисами, то Администрация вправе сохранить всю такую корреспонденцию.\n\n"
+  AUTOCOMPLETION_ROUND_MIGHT_END_EARLIER: Раунд может завершиться досрочно
+  SETTINGS_MOUSE_CONTROL_CHECKBOX: Управление мышью
+  REARM_BATTLE_EVENT: изменил вооружение
+  GROUP_INVITE_RESPONSE_DECLINE: Не присоединяется к группе
+  CLAN_BUTTON_TOOLTIP: Здесь ты можешь создать клан и управлять им или вступить в
+    уже существующий.
+  CLAN_INVITE: Пригласить
+  DISABLED_CHAT_LABEL_TEXT: Чат отключен. Его можно включить в «Настройках».
+  SMART_SUPPLIES: Зависимые припасы
+  OPEN_ALL_CONTAINERS: Открыть всё
+  BATTLE_CREATE_PANEL_MAP_THEME_LABEL: 'Тема:'
+  GAME_ACTION_DROP_FLAG: Сбросить флаг
+  CLAN_POSITION_PRIVATE: Рядовой
+  CHALLENGE_BUY_BATTLE_PASS_TIP: Приобрети боевой пропуск и получи все награды, которые
+    ты уже заработал.
+  ASSAULT_DELIVER_FLAG: База успешно атакована
+  PARTNER_REGISTARTION_FORM_CHOOSE_NAME_TEXT: 'Выберите себе имя в игре:'
+  AUTOCOMPLETION_BALANCE_RESTORED_PART1: Силы снова равны
+  LOADING_PAYMENT_PAGE: Ожидание платёжной ссылки...
+  AUTOCOMPLETION_BALANCE_RESTORED_PART2: Досрочное завершение раунда остановлено
+  CLAN_NOT_RECRUITING: Набор в клан закрыт
+  MAP_THEME_NAME_NIGHT: Ночь
+  REARM_APPLY: Применяется изменение вооружения
+  PARTNER_HELP_PANEL_BUTTON_BAR_HELPER_TEXT: Настройки. Звук.
+  RUGBY_BALL_LOST_BLUE: Синяя команда потеряла мяч
+  RUGBY_GOAL_USER: забил гол
+  BATTLE_EXIT: Выйти
+  BATTLE_TEAM_BLUE: синюю
+  BATTLE_CREATE_PANEL_STEPPER_TIME_LIMIT: Время
+  BATTLE_CREATE_PANEL_BUTTON_CAPTURE_THE_FLAG: |-
+    Захват
+    флага
+  ASIASOFT_YOUR_BALANCE: У вас есть %1 ATC
+  TOURNAMENT_BATTLE_TRAINING_LABEL: Подготовка к бою
+  SETTINGS_SHOW_DROP_ZONES_LABEL_TEXT: Показывать зоны ящиков
+  HEADER_COMMUNICATOR: КОММУНИКАТОР
+  CLAN_ALERT_CLAN_FULL: В клане нет свободных мест!
+  CLAN_NUMBER_MEMBERS_WITH_COLON: 'Количество игроков в клане:'
+  JGR_BOSS_KILLED: Джаггернаут %1 уничтожен
+  DRONE_BONUS_RADIUS: Радиус распространения эффектов
+  STATISTICS_HEADER_RANK: Ранг
+  ACCEPT_CONDITIONS: Принять условия
+  GARAGE_CONFIRM_ALERT_BUY_QEUSTION_TEXT: Вы подтверждаете покупку?
+  REARM_TEAM_WIN: Твоя команда победила!
+  NEED_OF_EMAIL_CONFIRMATION: |-
+    Вы указали почту, но ещё не подтвердили её. Бонусные кристаллы не будут начислены, пока вы не подтвердите почту.
+
+    Если вы не можете найти письмо на вашей почте, проверьте раздел «спам» или укажите вашу почту повторно. Мы отправим вам новое письмо с подтверждением.
+
+    Помните, подтверждённая почта усиливает защиту вашего аккаунта и позволяет вам связаться со службой поддержки игры.
+  STATISTICS_HEADER_KILLS: Уничтожил
+  GAME_ACTION_USE_DOBLE_DAMAGE: Использовать двойной урон
+  FITTING_BUTTON_TEXT: Примерить
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_TEXT: Нажми, чтобы совершить платёж.
+  BATTLE_BUTTON_TOOLTIP: Здесь ты найдёшь новые битвы, в которых сможешь заработать
+    кристаллы и получить новые звания.
+  PAYMENT_SMS_DESCRIPTION_CO_TEXT: ''
+  REDUCE_DAMAGE_GAUSS: Гаусса
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_ARROW_LENGTH: '30'
+  SERVER_IS_RESTARTING_LOGIN_TEXT: |-
+    В данный момент происходит рестарт сервера.
+    Вход на сервер временно закрыт.
+  HEADER_CHAT: ЧАТ
+  CURRENT_WAITING_TIME_LABEL: Текущее время ожидания
+  STATISTICS_HEADER_WEALTH: Богатство
+  AS_MODE_DESCRIPTION: Играя за синюю команду, защищай свою базу от атак противника.
+    Играя за красную команду, установи свой флаг на базу синей команды, чтобы получить
+    очки. Побеждает команда, заработавшая больше всего очков.
+  PAYMENT_BUG_REPORT_INFO: Если ваш платёж не дошел или возникла проблема — сообщите
+    нам об этом.
+  CLAN_NAME_ALREADY: Имя клана уже занято
+  CLAN_SEARCH_CLAN_IN_LIST: Найти клан в списке...
+  FRIENDS_DECLINE_REQUEST: Отклонить заявку
+  ACCEPT_OFFER_BUTTON: Принять
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_ENTER: Войти
+  CHAT_SHARP_NEWS: news|News|http://news.tankionline.com/
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  CHECK_YOU_LOCATION_TEXT: 'Ваше местоположение:'
+  VOTE_USER_LABEL: Пожаловаться
+  GARAGE_CATEGORY_BUTTON_SPECIAL: Особое
+  BATTLE_CREATE_PANEL_STEPPER_MAX_PLAYERS: Max игроков
+  CTF_LOST_ENEMY_FLAG: потерял вражеский флаг
+  CURRENT_PASSWORD: 'Текущий пароль:'
+  DRONE_REPAIR_RADIUS: 'Радиус лечения '
+  PARTNER_LOGIN_FORM_ENTER_USERNAME_TEXT: Введите ваше Имя и Пароль в «Танках Онлайн»
+    для игры через партнёрскую сеть.
+  GAME_ACTION_SCREEN_SIZE_DECREASE: Уменьшить размер окна битвы
+  HELP_PANEL_SCORE_HELPER_TEXT: |-
+    Ваши    /    Нужно для
+    очки          следующего
+                        ранга
+  CLAN_POSITION_SERGEANT: Сержант
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_DONT_ENTER: Не входить
+  UNBLOCK_USER_CONTEXT_MENU_LABEL: Показывать
+  REDUCE_DAMAGE_SMOKY: Смоки
+  GARAGE_CATEGORY_BUTTON_KITS: Комплекты
+  KEYBOARD_KEY_PG_DN: PgDn
+  BATTLE_CREATE_PANEL_BUTTON_CONTROL_THE_POINT: |-
+    Контроль
+    точек
+  BATTLE_RESTART: Битва начнётся через
+  CLAN_SEND_REQUEST_TO_CLAN: Отправить заявку клану...
+  MAIN_PANEL_UPDATE_RANK_NOTICE: |-
+    Поздравляем!
+    Вы получили звание %1
+  DEVICE: Устройство
+  CLAN_INVITE_TO_CLAN: Пригласить в клан
+  MESSAGE_ALERT_PERSONAL_DISCOUNT: |-
+    $USERNAME$, успей купить вещь $ITEM-NAME$ со скидкой $DISCOUNT$%
+    Предложение будет действовать $DISCOUNT_TIMER$
+  CTF_OUR_FLAG_RETURNED: Наш флаг возвращён
+  GARAGE_CATEGORY_BUTTON_PRESENTS: Подарки
+  MODULE: Модуль
+  GO_TO_BATTLE_LABEL: Перейти
+  CHALLENGE_BUY_PREMIUM_TIP: Приобрети премиум-подписку, чтобы получать в 2 раза больше
+    звёзд за битвы
+  CLAN_TAG: Тэг клана
+  PRESENT_INFO_DATE_LABEL: 'Дата:'
+  PREMIUM_NOTIFICATION_COMPLETE: Действие Премиума закончилось.
+  SETTINGS_TAB_NAME_GRAPHICS: Графика
+  FRIENDS_FIND_TO_SEND: Отправить заявку другу...
+  CLAN_MY_CLAN: Мой клан
+  VKONTAKTE_NAME: ВКонтакте
+  CLAN_BUTTON_PROFILE: Профиль
+  DAILY_QUEST_GET_PRIZE: Забрать приз
+  CLAN_REMOVE_REQUEST_TO_CLAN: Отозвать заявку
+  PROFILE: Профиль
+  PAYMENT_BUTTON_PROCEED_TEXT: Далее
+  PAYMENT_OPERATORS_LABEL_TEXT: 'Оператор:'
+  BATTLE_CREATE_PANEL_CHECKBOX_PRIVATE_BATTLE: Закрытая битва
+  PREMIUM_COMPLETION: 'Заканчивается: '
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_HEADER: Способ оплаты со скидкой
+  CTF_GOT_OUR_FLAG: взял наш флаг
+  NOT_ENOUGH_MONEY_FOR_BUY_ITEM: Недостаточно кристаллов для совершения покупки.
+  SETTINGS_ANTIALIASING: Сглаживание
+  DRONE_OVERDRIVE_BOOST: Сокращение времени зарядки овердрайва за фраг
+  FREE_UIDS_FORM_HEADER: |-
+    Введённое имя занято.
+    Эти варианты свободны:
+  SETTINGS_LINK: Привязать
+  HEADER_NEWS: НОВОСТИ
+  GARAGE_CATEGORY_BUTTON_SUPPLIES: Припасы
+  GOLD_CHECKBOX: Показывать, что это я сбросил ящик
+  GAME_ACTION_CAMERA_UP: Поднять камеру
+  FATAL_ERROR_WIKI_LINK: http://ru.tankiwiki.com/%D0%9E%D1%88%D0%B8%D0%B1%D0%BA%D0%B0_%D0%B2_%D0%B1%D0%BE%D1%8E
+  REARM_DM_END_BATTLE: Битва завершена
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_TEXT: |-
+    Нажми, чтобы создать битву,
+    самостоятельно выбрав карту и режим.
+  HELP_PANEL_MAIN_MENU_HELPER_ARROW_LENGTH: '73'
+  CAUSES_AND_SOLUTIONS: Причины и способы устранения
+  ERROR_FATAL_DEBUG: Произошла ошибка
+  CTF_GOT_ENEMY_FLAG: взял вражеский флаг
+  CLAN_DOES_NOT_ACDEPT_REQUEST: Этот клан не принимает заявки
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_COMPENSATION: 'Для этого пакета компенсация составит:'
+  CTF_CAPTURED_FLAG_NEUTRAL: доставил флаг
+  HEADER_SECURITY: БЕЗОПАСНОСТЬ АККАУНТА
+  CLAN_PLAYER_IS_CLAN_MAMBER: Игрок %USERNAME% состоит в этом клане
+  AUTOCOMPLETION_ENEMY_TEAM_IS_EMPTY: Противники отсутствуют
+  CLAN_FLAG: Флаг
+  DECLINE_OFFER_BUTTON: Отклонить
+  REARM_BATTLE_EXIT: Выйти из битвы
+  CHANGE_UID_FORM_NEW_PASSWORD_TEXT: 'Новый пароль:'
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTTON_ARROW_LENGTH: '30'
+  DM_SHORT_NAME: DM
+  ALERT_EMAIL_CONFIRMED_WRONG_LINK: |-
+    Вы воспользовались некорректной ссылкой.
+    Повторите процедуру восстановления, чтобы получить новую ссылку.
+  GARAGE_RICOCHET_PROTECTION_PROPERTY: Защита от Рикошета
+  REARM_BATTLE_PRIZE: Ты получил {crystals}
+  IS_JOINING_THE_BATTLE_AT_YOUR_INVITATION_LABEL: 'Переходит в битву по твоему приглашению
+
+    '
+  FRIENDS_PLAYER_ALREADY_IN_LIST_ALERT: Игрок %USERNAME% уже в списке друзей.
+  DRONE_MINES_ACTIVATION_DELAY: Время активации мин
+  REARM_BATTLE_STARS_PRIZE: Ты получил {stars}
+  DRONE_CONSTANT_POWER_PERCENT: Дополнительный урон
+  SHOP_FEATURING_HEADER: Специальное предложение
+  SETTINGS_MOUSE_INVERSION_CHECKBOX_LABEL: Инверсия мыши по вертикали
+  HEADER_SETTINGS: НАСТРОЙКИ
+  CREATE_FAILED_YOU_ARE_BANNED: "Уважаемый пользователь, в настоящее время вы забанены
+    в чате \n и поэтому не можете создавать битвы. Но вы по-прежнему можете \n участвовать
+    в битвах, созданных другими игроками."
+  PAYMENT_UKRAINE_SMS_INFO: |-
+    Выберите страну и вашего оператора мобильной связи. Выберите желаемое количество кристаллов, и отправьте SMS с указанным текстом на соответствующей номер. В случае отсутствия проблем связи кристаллы зачисляются в течение нескольких секунд.
+
+    Внимание! Согласно правилам работы SMS-сервиса у нас действуют антифродовые ограничения. Чтобы избежать потери Ваших платежей, пожалуйста, соблюдайте следующие правила:
+    1. Не отправляйте SMS на сумму более чем 400 руб/час.
+    2. Не отправляйте на один ник игрока более 3-х SMS с одного и того же номера в течение часа.
+
+    <font color='#ff4e00'>Убедитесь в согласии того, кто оплачивает счёт!</font>
+
+    Дополнительно удерживается сбор в Пенсионный фонд в размере 7,5% от стоимости услуги без учета НДС (в отображаемой сумме НДС уже учтён).
+    Вы можете отправить не более 10 SMS сообщений в день. Услуга действительна для абонентов всех национальных GSM операторов Украины и предоставляется только совершеннолетним.
+    SMS биллинг осуществляет компания ООО "СМС ОНЛАЙН".
+    Тех. поддержка абонентов с 9-00 до 18-00 по рабочим дням, тел. 0443832090.
+  WEEKLY_QUEST_COMPLETED: |-
+    Эта миссия была выполнена.
+
+    Возвращайся в игру на следующей неделе за новой миссией.
+  ALERT_EMAIL_CONFIRMED: Адрес подтвержден
+  POSTFIX_OFFER_EXIT_BATTLE: Тест-драйв вещи будет закончен.
+  GARAGE_SPEED_UP_TEXT: Ускорить
+  NEED_OF_EMAIL_SET: |-
+    Пожалуйста, укажите вашу действующую почту, чтобы усилить безопасность вашего аккаунта.
+
+    За подтверждение почты по ссылке, которую вы получите в письме, вам будут начислены бонусные кристаллы.
+  RUGBY_GOAL_BLUE: Синяя команда забила гол!
+  FULLSCREEN_BUTTON_TOOLTIP: Включи/отключи полноэкранный режим.
+  DESCRIPTION: Описание
+  HELP_PANEL_BUTTON_BAR_HELPER_ARROW_LENGTH: '116'
+  FOLLOW_EXTERNAL_LINK: 'Внимание! Вы собираетесь перейти по внешней ссылке: %link%'
+  AUTOCOMPLETION_BALANCE_DISTURBED_LOSERS_PART1: У противника численное преимущество!
+  BATTLE_LIST_NAME: Список битв
+  GAME_ACTION_TANK_MOVE_BACKWARD: Двигаться назад
+  PAYMENT_SMSTEXT_HEADER_LABEL_TEXT: 'Текст:'
+  REGISTER_FORM_PASSWORD_INPUT_LABEL_TEXT: 'Пароль:'
+  TOTAL_PRICE_KIT: 'Итого:'
+  GARAGE_TURN_PROPERTY: Скорость поворота
+  REARM_BATTLE_RETURN: Вернуться в битву
+  CLAN_VS_CLAN: Клан против клана
+  CTF_MODE_NAME: Захват флага
+  BATTLE_PLAYER_SUICIDED: самоуничтожился
+  CONNECTION_CLOSED_WIKI_LINK: http://ru.tankiwiki.com/%D0%A0%D0%B0%D0%B7%D1%80%D1%8B%D0%B2_%D1%81%D0%BE%D0%B5%D0%B4%D0%B8%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F_%D1%81_%D1%81%D0%B5%D1%80%D0%B2%D0%B5%D1%80%D0%BE%D0%BC
+  HELP_PANEL_RATING_INDICATOR_HELPER_ARROW_LENGTH: '48'
+  FRIENDS_CLOSE: Закрыть
+  ALERT_CHAT_PROCEED_EXTERNAL_LINK: |-
+    Вы собираетесь перейти по ссылке, не связанной с игрой «Танки Онлайн».
+    Администрация проекта не несёт ответственности за содержимое сторонних сайтов
+    и настоятельно рекомендует не указывать на них какие-либо данные,
+    относящиеся к вашей учетной записи в игре - e-mail, логин, пароль и прочие.
+    Кроме того, посторонний ресурс может оказаться источником вирусов и вредоносных программ,
+    угрожающих конфиденциальности ваших данных и безопасности аккаунта в «Танках Онлайн».
+    Если вы передумали переходить по ссылке, нажмите «Отмена».
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTON_TEXT: |-
+    Нажми и сделай свою первую покупку.
+    Награда - 200 кристаллов!
+  FRIENDS_DECLINE_ALL_BUTTON: Отклонить все
+  ALERT_ANSWER_RETURN_TO_BATTLE: Вернуться в битву
+  ALERT_ANSWER_NO: Нет
+  FRIENDS_BATTLE: Битва
+  SAVE_BUTTON_LABEL: Сохранить
+  KEYBOARD_KEY_DOWN: Вниз
+  GARAGE_ISIDA_PROTECTION_PROPERTY: Защита от Изиды
+  SHOP_BUTTON_TOOLTIP: Здесь ты можешь купить кристаллы и другие товары. Не забывай
+    проверять выгодные предложения!
+  ALERT_ANSWER_OK: ОК
+  CAPTCHA_INCORRECT: Контрольные символы введены неверно
+  HEADER_CHANGE_UID: ИЗМЕНЕНИЕ ИМЕНИ
+  ERROR_FATAL: Произошла ошибка
+  SETTINGS_MESSAGE_ONLY_FROM_FRIENDS: ЛС только от друзей
+  ALERT_ANSWER_PROCEED: Перейти
+  CLAN_SEARCH_BLOCKED_HINT: Действует ограничение на вступление в клан
+  RENAME_FAILED_ALERT: Изменить имя не удалось, попробуйте позднее
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_ARROW_LENGTH: '30'
+  MEESAGE_ALERT_OFFER: "$USERNAME$, тебе выпал редкий шанс \nиспытать в бою вещь $ITEM-NAME$!"
+  SETTINGS_BACKGROUND_SOUND_CHECKBOX_LABEL_TEXT: Фоновый звук
+  REGISTER_FORM_REGISTER_VIA: Зарегистрироваться в игре через сервис
+  CHECK_PASSWORD_FORM_CALLSIGN: 'Имя или email:'
+  SETTINGS_ENABLE_ADAPTIVE_FPS_CHECKBOX_LABEL_TEXT: Адаптивный FPS
+  GAME_ACTION_TANK_TURN_LEFT: Повернуть танк влево
+  GAME_ACTION_USE_NITRO: Использовать ускорение
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_TEXT: |-
+    Нажми, чтобы перейти в Гараж
+    и сделать свою первую покупку.
+    Награда - 200 кристаллов!
+  FRIENDS_SEND_REQUEST_BUTTON: Отправить
+  DRONE_INVENTORY_COOLDOWN_SUBTRACTION: Ускорение перезарядки припасов в сек.
+  SETTINGS_NEW_PASSWORD_LABEL_TEXT: 'Новый пароль:'
+  TJR_RED_BOSS_KILLED: Красный Джаггернаут уничтожен
+  FRIENDS_CONFIRM_REQUEST: Принять заявку
+  GARAGE_INFO_PANEL_BUTTON_BUY_TEXT: Купить
+  DRONE_CRITICAL_HEALTH: Лечение
+  NEWS_TAB_HEADER: Новости
+  SETTINGS_MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION: Инверсия мыши по вертикали в снайперском
+    режиме Шафта
+  TJR_MODE_DESCRIPTION: Атакуй вражеского Джаггернаута и защищай союзного Джаггернаута.
+    Побеждает команда, уничтожившая больше всего вражеских Джаггернаутов
+  GARAGE_CATEGORY_BUTTON_TURRETS: Пушки
+  SHOP_WINDOW_HEADER_DESCRIPTION: Здесь вы можете купить различные предметы, которые
+    помогут вам разнообразить игру и могут быть полезными в битвах. Вы соглашаетесь
+    с тем, что купленные предметы будут зачислены на ваш аккаунт после завершения
+    оплаты. Купленные предметы, которые были зачислены на ваш аккаунт, не подлежат
+    возврату.
+  CLAN_PLAYER_IS_REQUEST_LIST: Игрок %USERNAME% есть в списке входящих заявок
+  TDM_MODE_DESCRIPTION: Уничтожай противников и защищай союзников. Побеждает команда,
+    уничтожившая больше всего вражеских танков.
+  FRIENDS_NAME: Имя
+  ALERT_ANSWER_YES: Да
+  CHANGE_UID_FORM_EXPLANATION_TEXT: |-
+    С возвращением, танкист!
+
+    Из-за долгого отсутствия ваше имя было изменено, но вы можете выбрать другое с помощью этой формы. Оно будет использоваться как новый логин для входа в игру.
+  MANY_STARS_SHOP_BUTTON_LABEL: звёзд
+  HEADER_YOUR_TANK: МОЙ ТАНК
+  IS_CONSIDERING_YOUR_INVITE_LABEL: |-
+    Уже рассматривает твоё приглашение
+    Дождись ответа
+  GARAGE_EQUIPPED_TEXT: Установлено
+  CLAN_ACCEPT_REQUEST: Принять заявку
+  REARM_PAUSE_ALERT: |-
+    Пауза заканчивается. Автовыход из битвы через {time}
+    Вернуться в бой?
+  CHALLENGE_STARS: Звёзды
+  DRONE_ADDITIONAL_MINES: Число мин
+  COIN_CONFIRMATION_HEADER: Подтверждение покупки
+  CLAN_CREATION_DATE_WITH_COLON: 'Дата создания:'
+  NOT_ENOUGH_COINS: Не хватает танкоинов!
+  CLAN_BLOCK: Этот клан заблокирован
+  STATISTICS_HEADER_RATIO: У/П
+  CHAT_SHARP_THEFT: theft|Что делать, если угнали танк|http://ru.tankiwiki.com/%D0%A7%D1%82%D0%BE_%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C,_%D0%B5%D1%81%D0%BB%D0%B8_%D1%83_%D0%B2%D0%B0%D1%81_%D1%83%D0%BA%D1%80%D0%B0%D0%BB%D0%B8/%D0%B2%D0%B7%D0%BB%D0%BE%D0%BC%D0%B0%D0%BB%D0%B8_%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82
+  CLAN_EDIT_PROFILE: Редактировать
+  CLAN_USER_CLAN_NUMBER_MEMBERS: Число игроков
+  SGE_BLUE_CAPTURED_POINT: Синие захватили точку {point}
+  GAME_RULES: "Краткие правила\n \nВ Игре запрещены:\n- боты, использовать стороннее
+    ПО, баги;\n- выдавать себя за Администрацию;\n- прокачка, учинение помех другим
+    игрокам;\n- реклама, политическая агитация;\n- нарушение законодательства, в т.ч.
+    о праве интеллектуальной собственности;\n- продажа, покупка, обмен, передача Аккаунта,
+    иных игровых ценностей;\n- фрод, иные мошеннические действия.\n \nВ чатах Игры
+    и на Форуме запрещены:\n- оскорбления, угрозы, клевета;\n- мат, в том числе завуалированный;\n-
+    флуд, флейм, спам, печать заглавными буквами (CAPS LOCK);\n- выманивание паролей,
+    иных данных Аккаунта;\n- троллинг;\n- подстрекательство других к нарушению настоящих
+    Правил;\n- публичное обсуждение Администрации и модераторов Игры.\n- размещение
+    информации, запрещенной законодательством;\n- размещение ссылок на сторонние ресурсы;\n-
+    дискриминация в любой форме.\n\n \nПравила Игры\nВы находитесь в игре «Танки Онлайн»,
+    где люди со всего мира весело проводят время, управляя многотонными боевыми машинами
+    и участвуя в ожесточенных баталиях! Игроки могут воевать каждый сам за себя, объединяться
+    в команды, сражаясь бок о бок с друзьями ради общей победы, общаться и заводить
+    новые знакомства. «Танки Онлайн» — это и простой в освоении многопользовательский
+    боевик, и арена для серьёзных состязаний, и площадка для приятного общения.\nПосле
+    регистрации Игрок получает в свое распоряжение виртуальный танк и 500 кристаллов
+    (внутри-игровую валюту). Побеждая в боях, Игрок растёт в рейтинге, зарабатывает
+    новые звания и кристаллы. Кристаллы тратятся на приобретение полезных в бою припасов,
+    а также на покупку и модернизацию орудий и корпусов для танка.\n«Танки Онлайн»
+    — не только увлекательная игра, но и сообщество людей, объединённых схожими интересами.
+    В общении мы приветствуем взаимоуважение и вежливость и не одобряем поведения,
+    нарушающего права и оскорбляющего других пользователей. Администрация «Танки Онлайн»
+    оставляет за собой право ограничивать пользователя в общении, снижать набранные
+    им показатели и блокировать его аккаунт, если он нарушает настоящие Правила.\n
+    \nОбщие положения\nНастоящие Правила Игры являются неотъемлемой частью Лицензионного
+    соглашения с Пользователем (далее – Соглашение) и иных документов Игры и игровых
+    сервисов. В свою очередь, Соглашение, Политика конфиденциальности и cookies и
+    иные документы, размещённые в Игре и игровых сервисах, являются неотъемлемой частью
+    настоящих Правил.\nЛюбые термины и понятия, используемые в настоящих Правилах,
+    имеют такое же значение, которое было определено для них Соглашением.\nИспользуя
+    Игру любым способом и/или проходя процедуру регистрации в Игре и нажимая кнопку
+    «Подтвердить», Пользователь подтверждает, что прочитал, понял, согласился и безоговорочно
+    принял настоящие Правила Игры и все их условия.\nНастоящие Правила Игры являются
+    обязательными для соблюдения всеми Пользователями.\nЕсли вы не согласны с какими-либо
+    положениями настоящих Правил Игры, у вас нет права на дальнейшее пользование Игрой
+    и её сервисами, и вы обязаны немедленно покинуть Сайт.\n \n1. Запрещено создавать
+    игровые ники (Имена Пользователей):\n1.1. Содержащие ненормативную лексику, нецензурную
+    брань, оскорбления/провокацию на оскорбление (в форме слов, аббревиатур, выражений
+    или словосочетаний);\n1.2. Содержащие элементы расизма, фашизма, оскорбления или
+    прозвища по расовому, национальному, религиозному признаку, либо ведущие к разжиганию
+    ненависти, нетерпимости, межнациональной розни;\n1.3. Содержащие призывы к насилию,
+    терроризму, к экстремизму  и/или к массовым беспорядкам;\n1.4. Содержащие политическую
+    агитацию, политическую рекламу в любом виде;\n1.5. Прямо или косвенно связанные
+    с политическими организациями (деятелями), в том числе совершившими политические
+    преступления или преступления против человечества, террористические акты.\n1.6.
+    Содержащие дискриминацию по половому, возрастному, религиозному или иным признакам;\n1.7.
+    Содержащие прямую или косвенную пропаганду, призывы к употреблению алкогольной
+    и спиртосодержащей продукции, пива, табачных изделий, наркотических средств, токсических,
+    психотропных и/или одурманивающих веществ, их прекурсоров,  информацию о способах
+    и местах их изготовления, приобретения, культивирования и использования;\n1.8.
+    Содержащие информацию о призывах к участию в азартных играх, к проституции, бродяжничеству,
+    попрошайничеству;\n1.9. Содержащие информацию о способах совершения самоубийства,
+    призывы к совершению самоубийства, насилия, иных действий, представляющих угрозу
+    жизни или здоровью;\n1.10. Содержание призывы к противоправному поведению, преступлению,
+    насилию, жестокости, причинению вреда, подстрекающие к совершению действий, запрещенных
+    законодательством;\n1.11. Содержащие отрицание семейных ценностей и/или пропаганду
+    нетрадиционных сексуальных отношений, неуважение к родителям и/или другим членам
+    семьи;\n1.12. Содержащие части ников сотрудников Администрации, либо содержащие
+    информацию, которая может повлечь ошибочное восприятие Пользователя как представителя
+    Администрации;\n1.13. Содержащие критику Игры, Администрации или модераторов;\n1.14.
+    \ Прямо или косвенно связанные с половым актом, насилием, порнографией, педофилией;\n1.15.
+    Содержащие описание тела и его низших биологических функций или рефлексов;\n1.16.
+    \  Содержащие рекламу, гиперссылки;\n1.17. Содержащие отсылки к читам, читерским
+    сайтам, к ресурсам, нарушающим права Администрации;\n1.18. Имена, состоящие из
+    труднопроизносимого произвольного набора букв (флудо-ники);\n1.19. Полностью или
+    частично содержащие защищённые авторским правом и (или) зарегистрированные элементы
+    торговых марок;\n1.20. Содержащие иную информацию, запрещенную настоящими Правилами,
+    Соглашением и/или действующим законодательством.\n1.21. В случае если Имя Пользователя
+    (игровой ник) не соответствует указанным требованиям, иным требованиям, предусмотренным
+    настоящими Правилами, Соглашением или действующим законодательством,  Администрация
+    вправе по своему усмотрению:\n     - потребовать у Пользователя переименовать
+    игровой ник на допустимый и заблокировать Аккаунт Пользователя на срок, необходимый
+    для проведения операции переименования;\n     - безвозвратно заблокировать Аккаунт
+    Пользователя.\n \n2. Запрещается и грозит (по усмотрению Администрации) постоянной
+    или временной блокировкой Аккаунта, уменьшением от 10% до 100% всех виртуальных
+    ценностей Пользователя в Игре (гараж, кристаллы, игровая статистика) или обнулением
+    Аккаунта, временным или постоянным ограничением доступа к чатам Игры и к Форуму
+    (бан):\n2.1.  Любые формы неспортивного или некорректного поведения в Игре:\n2.1.1.
+    Ботоводство (использование программ, имитирующих действия Пользователей в Игре),
+    использование программ-кликеров, макросов управления клавиатурой и мышью, иного
+    стороннего программного обеспечения для получения преимуществ в Игре;\n2.1.2.
+    Применение или распространение сторонних программ или иных средств для улучшения/автоматизации
+    игровых возможностей (т.н. боты, читерство), а также программ, которые могут ухудшить
+    функционирование Игры, электронных устройств третьих лиц;\n2.1.3. Использование
+    программных ошибок Игры (багов) и передача информации об их наличии третьим лицам,
+    за исключением Администрации;\n2.1.4. Получение очков за счёт умышленного бездействия
+    или помощи игрокам другой команды в режимах «Захват флага», «Командный бой» и
+    «Контроль точек» или соперника в режиме игры «Каждый за себя» (так называемая
+    «прокачка»);\n2.1.5. Сражение между аккаунтами одного Пользователя;\n2.1.6. Создание
+    дополнительных аккаунтов для прокачки основного Аккаунта;\n2.1.7. Соглашение с
+    другими пользователями о сражении не в полную силу с целью прокачки Пользователя
+    (Администрация примет меры ко всем участникам такого сговора);\n2.1.8. Действия
+    или бездействия, направленные на создание помех команде, за которую сражается
+    Пользователь, в том числе, в режимах CTF, TDM и CP, сражение против своей команды,
+    нанесение урона / уничтожение танка союзника, сражение в интересах команды противника,
+    сговор с противником, саботаж;\n2.1.9. Дискриминация неопытных игроков (нубов):
+    дезинформирование, запугивание, насмешки;\n2.1.10. Оскорбления, клевета (распространение
+    заведомо ложной информации) в отношении других Пользователей Игры, Администрации,
+    модераторов, иных лиц;\n2.1.11. Любые формы манипулирования или сговора в Игре;\n2.1.12.
+    Осуществление любых действий, негативно влияющих на развитие или имидж Игры;\n2.1.13.
+    Иные формы неспортивного поведения, препятствующего нормальному ходу игрового
+    процесса, которые будут признаны таковыми Администрацией.\n2.2. Любые формы мошеннических
+    действий, в частности:\n2.2.1. Использование Игры и/или игровых сервисов для мошеннических
+    действий, включая, но не ограничиваясь, мошенническими внутри-игровыми финансовыми
+    операциями, мошенничеством при совершении транзакций, оплате, включая какой-либо
+    возвратный платеж, запрещенные транзакции;\n2.2.2. Передача Аккаунта или игровых
+    ценностей Пользователя третьим лицам; размещение  Пользователем информации о намерении
+    продать, купить, передать Аккаунт или игровые ценности, как безвозмездно, так
+    и за кристаллы или за денежные средства, а также побуждение к указанным действиям;\n2.2.3.
+    Попытки получить пароль, иные данные Аккаунта или иную личную информацию любого
+    другого Пользователя, в том числе в форме вымогательства с применением угроз морального,
+    физического или технического воздействия;\n2.2.4. Распространение любой личной
+    информации о других пользователях или о третьих лицах (если такая информация не
+    является общедоступной);\n2.2.5.  Фрод — получение внутри-игровой валюты любыми
+    мошенническими способами;\n2.2.6. Любые попытки выдать себя за бывшего или действующего
+    сотрудника Администрации или помощника проекта (модератора, консультанта и пр.),
+    в том числе рассылка сообщений от имени Администрации или модераторов;\n2.2.7.
+    Попрошайничество в любой форме, в том числе просьбы о переводах денежных средств,
+    о передаче игровых ценностей, кристаллов;\n2.2.8. Размещение ссылок на сторонние
+    ресурсы, замаскированные под официальные ресурсы Игры.\n2.3. Иные нарушения:\n2.3.1.
+    Использование нецензурной брани (мата), ненормативной лексики, иных бранных или
+    грубых слов (выражений), не относящихся к нецензурной брани, в т.ч. в завуалированном
+    виде;\n2.3.2. Размещение информации и материалов  сексуального, эротического или
+    порнографического характера, изображения или описание половых отношений между
+    мужчиной и женщиной;\n2.3.3. Размещение информации или символики, оскорбляющей
+    или унижающей чувства верующих, ведущей к разжиганию ненависти, вражды, расовой,
+    межнациональной или этнической розни, нетерпимости (включая оскорбления, применение
+    прозвищ по расовому, национальному, этническому, религиозному,  признакам), а
+    также провоцирование собеседника на указанные действия;\n2.3.4. Пропаганда или
+    демонстрация нацистской атрибутики, символики, сокращений или обозначений, имен
+    и фамилий нацистских деятелей;\n2.3.5. Размещение информации, отрицающей исторические
+    события;\n2.3.6. Размещение информации, в которой можно распознать элементы призыва
+    к насилию, к войне, к терроризму, к свержению власти; к экстремистской деятельности
+    и/или к массовым беспорядкам;\n2.3.7. Размещение информации о политических организациях
+    (политических деятелях), совершивших политические преступления или преступления
+    против человечества, террористические акты, иным образом нарушивших международное
+    законодательство;\n2.3.8. Размещение информации, содержащей политическую агитацию,
+    политическую рекламу, предвыборную агитацию в любом виде;\n2.3.9. Обсуждение вопросов
+    современной политики как заведомо провоцирующих конфликты;\n2.3.10. Любая форма
+    дискриминации по половому, возрастному, религиозному, иным признакам;\n2.3.11.
+    Угрозы в любой форме в отношении Пользователей, Администрации или третьих лиц;\n2.3.12.
+    Содержащие информацию о способах совершения самоубийства, призывы к совершению
+    самоубийства, насилия, иных действий, представляющих угрозу жизни или здоровью,
+    описание опасных боевых методов, трюков, оружия, способов изготовления оружия,
+    описание методов модификации тела;\n2.3.13. Размещение информации, описывающей,
+    побуждающей или оправдывающей противоправное или антиобщественное поведение, преступление,
+    насилие, членовредительство, психическую или физическую жестокость по отношению
+    к людям, животным, причинение вреда чужому имуществу;\n2.3.14. Размещение информации,
+    вызывающей у детей страх, ужас или панику, в том числе изображение или описание
+    смерти, заболевания, самоубийства, несчастного случая, аварии или катастрофы и
+    (или) их последствий, иная информация, которая может повредить здоровью или развитию
+    несовершеннолетних;\n2.3.15. Размещение информации о несовершеннолетнем, пострадавшем
+    в результате противоправных действий (бездействия);\n2.3.16. Размещение информации,
+    отрицающей семейные ценности, пропагандирующей нетрадиционные сексуальные отношения
+    и формирующей неуважение к родителям и (или) другим членам семьи;\n2.3.17. Размещение
+    информации, содержащей прямую или косвенную пропаганду, призывы к употреблению
+    алкогольной и спиртосодержащей продукции, пива, табачных изделий, курительных
+    принадлежностей, наркотических средств, токсических, психотропных и/или одурманивающих
+    веществ, их прекурсоров,  информацию о способах и местах их изготовления, приобретения,
+    культивирования и использования;\n2.3.18. Размещение информации, способной вызвать
+    желание принять участие в азартных играх, заниматься проституцией, бродяжничеством
+    или попрошайничеством;\n2.3.19. Любое использование объектов интеллектуальных
+    прав (компьютерных программ, арта, видео, иных произведений или их частей, товарных
+    знаков и пр.), иных материалов без разрешения правообладателя; размещение ссылок
+    на пиратский контент; удаление или изменение информации об интеллектуальных правах,
+    в частности, ссылок на Правообладателей, авторов, иных подтверждений интеллектуальных
+    прав;\n2.3.20. Размещение любых рекламных материалов или информации  без согласования
+    с Администрацией;\n2.3.21. Размещение информации, которая может нанести вред /
+    убытки Пользователям или Администрации;\n2.3.22. Неконструктивная критика Игры
+    и/или ее авторов, Правообладателя;\n2.3.23. Публичное обсуждение Администрации
+    или модераторов Игры в явной или завуалированной форме;\n2.2.24. Предоставление
+    подложных или поддельных сведений, документов, доказательств. Администрация предупреждает
+    Пользователя об уголовной и иной ответственности за совершение указанных действий;\n2.3.25.
+    Совершение или подстрекательство (провокации) к совершению действий (бездействий),
+    запрещенных настоящими Правилами, Соглашением и/или действующим законодательством;\n
+    \n3. Не разрешается создавать темы и/или сообщения в чатах Игры и/или на Форуме,
+    которые:\n3.1. Дублируют по тематике уже существующие темы или сообщения, а также
+    темы, которые недавно уже обсуждались и/или ответы на которые есть в информационных
+    разделах (Правила, FAQ, Планы и др.). Не забывайте использовать Поиск для нахождения
+    ответов на интересующие Вас вопросы, при создании темы просмотрите уже имеющиеся.\n3.2.
+    Не соответствуют тематике раздела/категории;\n3.3. Содержат в названии и/или содержании
+    темы или сообщения  ТОЛЬКО ЗАГЛАВНЫЕ БУКВЫ или БоЛЬШОЕе ИХ КОлИЧЕСТВО (CAPS LOCK);\n3.4.
+    Имеют в названии и/или описании темы или сообщения посторонние или повторяющиеся
+    символы, знаки, смайлы, сообщения, затрудняющие восприятие соответствующей темы
+    или раздела, либо не несущие смысловой нагрузки (Флуд),  например, ==- Моя тема
+    -==;\n3.5. Содержат текст, размером шрифта более 24;\n3.6. Содержат в названии
+    или описании темы малосодержательную информацию, не отражающую суть обсуждаемого
+    вопроса (например, «Вася, ответь»);\n3.7. Цитируют слишком большие тексты предыдущих
+    сообщений и/или изображений в них без особой на то необходимости (оверквокинг);\n3.8.
+    Продолжают обсуждения тем, закрытых или удалённых Администрацией (некропостинг);\n3.9.
+    Имеют характер личного обращения к участникам Форума или Чата. Для личного общения
+    используйте Private Messages. Параллельно с решением вопросов личные дискуссии
+    допустимы.\n3.10. Содержат спам – осуществление рассылки информации, которую адресат
+    не запрашивал, не проявлял заинтересованности в ее получении и/или на получение
+    которой не давал согласия;\n3.11. Флейм («спор ради спора», обмен сообщениями,
+    представляющий собой словесную войну, нередко уже не имеющую отношения к первоначальной
+    причине спора);\n3.12. Содержат троллинг (подстрекание участников сообщества к
+    действиям, имеющим для них неблагоприятные последствия, конфликты);\n3.13. Направлены
+    на провокацию иных Пользователей, Администрации, модераторов, а также на создание
+    помех к общению на Форуме или в чатах Игры;\n3.14. Содержат реферальные ссылки,
+    \ «чит-коды» (addscore, Buy_krictals_in_the_panzer_);\n3.15. Содержат иную информацию
+    или нарушения, которые запрещены настоящими Правилами, Соглашением и/или действующим
+    законодательством.\n3.16. За указанные нарушения Администрация вправе по своему
+    усмотрению применить к Пользователю ограничения по постоянной или временной блокировке
+    Аккаунта, постоянным или временным ограничением доступа к чатам Игры  и Форуму
+    \ (бан).\n3.17. Администрация имеет право по своему усмотрению без предупреждения
+    удалить любую информацию или сообщение; удалить/перенести тему, созданную в несоответствующем
+    разделе Форумa, в другой раздел.\n3.18. Приватные сообщения (Private Messages)
+    предназначены для личного общения Пользователя в игровых сервисах и на Форуме.
+    При рассмотрении жалоб на нарушение Правил, Администрация не рассматривает жалобы
+    на приватные сообщения. Пользователь вправе отказаться от получения приватных
+    сообщений от другого пользователя, добавив его в Черный список в соответствующем
+    разделе своего профиля на Форуме.\n \n4. Применение ограничений к Пользователю\n4.1.
+    В случае нарушения Пользователем настоящих Правил, Администрация вправе применять
+    к Пользователю ограничения, предусмотренные соответствующим разделом настоящих
+    Правил.\n\n4.2. Виды ограничений: \n4.2.1. Постоянная или временная блокировка
+    Аккаунта – блокировка (ограничение) доступа к Игре.\n4.2.2. Уменьшение от 10%
+    до 100% всех виртуальных ценностей Пользователя в Игре  (гараж, кристаллы, игровая
+    статистика) или обнуление Аккаунта.\n4.2.3. Временное или постоянное ограничение
+    доступа Пользователя к чатам Игры и к Форуму (бан) – ограничение возможности оставлять
+    сообщения в чатах Игры и на Форуме.\n4.2.4. Удаление или изменение без предупреждения
+    любой информации или сообщений, размещенных в любой части Игры или игровых сервисов;
+    перенос тем на Форуме в другой раздел или удаление тем;\n4.3.  Указанные ограничения
+    могут быть применены в отношении любого Аккаунта Пользователя, нарушающего настоящие
+    Правила.\n4.4. Администрация вправе по своему усмотрению применить к Пользователю
+    как одно, так и несколько ограничений одновременно, либо ограничиться предупреждением.\n4.5.
+    При выборе ограничения Администрация учитывает вид и количество нарушений, а также
+    предыдущие нарушения Пользователем настоящих Правил.\n4.6. Поскольку не всегда
+    возможно точно определить те или иные нарушения Правил, то окончательное решение
+    всегда остаётся за Администрацией.\n4.7. За нарушение настоящих Правил Пользователю
+    \ может быть незамедлительно, без какого-либо предварительного уведомления отказано
+    в предоставлении игровых сервисов или такие услуги могут быть ограничены полностью
+    или частично.\n4.8. В случае совершения Пользователем неоднократных или комплексных
+    нарушений Администрация вправе по своему усмотрению продублировать ограничения,
+    применённые к Пользователю.\n4.9. Администрация не несёт ответственность ни за
+    какие прямые или косвенные убытки Пользователя или третьего лица, которые явились
+    результатом использования Сайта, Игры или игровых сервисов, включая (без ограничения),
+    убытки, причинённые неспособностью использовать Сайт, Игру или игровые сервисы,
+    убытки, вызванные применением Администрацией ограничений к Пользователю, прямые
+    или косвенные убытки, возникающие из действий третьих лиц, включая других пользователей
+    Игры, убытки, вызванные отсутствием доступа к Интернету, а также убытки, являющиеся
+    следствием воровства, разрушения Материалов, потери информации, связанной с Аккаунтом
+    Пользователя и любого вреда чести, достоинству и деловой репутации Пользователя.\n
+    \n5. Модераторы\n\n5.1. Модераторы являются помощниками Администрации и выбираются
+    Администрацией из числа игроков.\n5.2. Модератор является лицом, действующим от
+    имени и в интересах Администрации, и призванным поддерживать и контролировать
+    порядок в Игре и игровых сервисах, а также на Форуме и в чатах Игры.\n5.3. Модератор
+    имеет право применить к Пользователю временное или постоянное ограничение доступа
+    к чатам Игры и к Форуму (бан) в случае нарушения Пользователем настоящих Правил.\n5.4.
+    Модератор обязан соблюдать честность и беспристрастность в отношении принимаемых
+    им решений, а также соблюдать положения настоящих Правил и Соглашения, быть корректным
+    по отношению к Пользователям, выполнять свои обязанности качественно и регулярно.\n5.5.
+    Модератору строго запрещается злоупотреблять своими полномочиями.  Все действия
+    модераторов логируются. Если кто-то из модераторов не оправдает оказанного доверия,
+    он покинет свой пост без обсуждений и предупреждений, по внутреннему решению Администрации.\n5.6.
+    Деятельность модераторов осуществляется на добровольной основе. Пользователь не
+    вправе обязать Модератора применить какое-либо ограничение.\n \n\n\n\n\n6. Жалобы
+    и обращения\n\n6.1. Пользователь вправе сообщить о нарушении Правил посредством
+    создания новой темы на форуме в <a href=\"http://ru.tankiforum.com/index.php?showforum=41\"
+    target=\"_blank\"><u>разделе Нарушители</u></a>. В новой теме необходимо четко
+    указать суть нарушения и обязательно приложить скриншот чата или видео, где четко
+    видно нарушение.\n6.2. Пользователь вправе направлять любые свои вопросы, комментарии
+    или жалобы относительно настоящих Правил на help@tankionline.com. Администрация
+    приложит все усилия, чтобы рассмотреть такие обращения как можно быстрее.\n6.3.
+    При отправке жалобы Пользователь должен максимально подробно и четко описать суть
+    ситуации и приложить доказательства, скриншоты и пр.  Жалобы на безосновательное
+    применение ограничений рассматриваются исключительно с целью внутренней оценки
+    работы Администрации и модераторов. Решения о применении ограничений не подлежат
+    пересмотру.\n6.4. Если Пользователь начинает переписку с Администрацией, или предоставляет
+    отчет о проблемах с Игрой или игровыми службами, то Администрация имеет право
+    сохранить всю такую корреспонденцию.\n \n7. Иные положения:\n\n7.1. Администрация
+    управляет Игрой и применяет настоящие Правила исключительно по своему усмотрению,
+    однако прислушивается к мнению сообщества.\n7.2. Настоящие правила могут быть
+    изменены Администрацией без какого-либо предварительного уведомления. Игрок обязуется
+    проверять данные правила на предмет изменений не менее чем один раз в семь дней
+    (то есть еженедельно). В случае, если такой проверки не будет произведено в указанные
+    сроки, а Игрок продолжает пользоваться сервисом игры, то считается, что Игрок
+    ознакомлен и согласен с данными Правилами в их изменённой за это время редакции.\n7.3.
+    У Администрации действует политика «нулевой терпимости» по отношению к нечестной
+    игре и мошенническим действиям. Если, по мнению Администрации, Пользователь обманул
+    или попытался обмануть Администрацию или другого Пользователя, либо предоставил
+    подложные или поддельные сведения, документы, доказательства, иным образом нарушил
+    действующее законодательство, Администрация сохраняет право заблокировать Аккаунт
+    Пользователя и передать такую информацию по своему усмотрению (вместе с личными
+    данными Пользователя) любому третьему лицу и/или правоохранительным органам, если
+    Администрация посчитает это необходимым.\n7.4. Администрация может предусматривать
+    иные положения и ограничения в Правилах Киберспорта, в правилах конкурсов, турниров,
+    чемпионатов. При этом настоящие Правила являются неотъемлемой частью иных правил,
+    принимаемых Администрацией."
+  GROUP_INVITE_RESPONSE_ACCEPT: Присоединяется к группе
+  SHOP_WINDOW_PAYMENT_CATEGORY_HEADER: Способ оплаты
+  ALERT_QUIT_TEXT: Выйти из игры?
+  PREMIUM_ALERT_WELCOM: Добро пожаловать в ряды Премиум танкистов!
+  HEADER_DM_TOURNAMENT: ТУРНИР В РЕЖИМЕ DM
+  CP_SHORT_NAME: CP
+  MAIN_PANEL_BUTTON_SHOP: Магазин
+  GAME_ACTION_TURRET_CENTER: Центрировать башню
+  HEADER_NEW_PRESENTS_ALERT: НОВЫЕ ПОДАРКИ!
+  CLAN_LICENSE: Клановая лицензия
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_ARROW_LENGTH: '30'
+  CHAT_SHARP_COMMANDS: teams|Команды|http://ru.tankiwiki.com/%D0%9A%D0%BB%D0%B0%D0%BD%D1%8B
+  BUY_PRO_ABONEMENT: Купить абонемент
+  CHECK_PASSWORD_FORM_REMEMBER: Запомнить
+  GARAGE_POWER_PROPERTY: Мощность
+  REFERAL_WINDOW_SUMMARY_LABEL: 'Суммарный бонус:'
+  PAYMENT_SMSNUMBERS_COST_HEADER_LABEL_TEXT: Цена
+  CHALLENGE_BUY_BATTLE_PASS: Купить боевой пропуск
+  REARM_OPTION_TEXT: Переодевание
+  WARM_UP_LABEL: Подготовка к бою
+  SETTINGS_BUTTON_CANCEL_TEXT: Отмена
+  REARM_TEAM_LOOSE: Твоя команда проиграла
+  RUGBY_GOAL_RED: Красная команда забила гол!
+  DRONE_ARMOR_BOOST: Дополнительная сила припаса
+  DOM_BLUE_LOST_POINT: Синие потеряли точку {point}
+  RUGBY_BALL_TAKEN_USER: взял мяч
+  CLAN_USER_CREATION_DATE: Время создания
+  GROUP_BUTTON: Группа
+  PROMO_CODE_INVALID_LABEL: Введённый код неверен или уже был использован. Пожалуйста,
+    введите другой код.
+  RENAME_FORM_CURRENT_PASSWORD_INPUT: Введите текущий пароль от аккаунта
+  STATISTICS_HEADER_RATING: Рейтинг
+  DATE_FORMAT: dd.MM.yyyy
+  CLAN_POSITION_NOVICE: Новичок
+  GUI_LANG: ru
+  TJR_BLUE_BOSS_KILLED: Синий Джаггернаут уничтожен
+  HELP_PANEL_RANK_BAR_HELPER_ARROW_LENGTH: '116'
+  KEYBOARD_KEY_RIGHT: Вправо
+  GARAGE_UPGRADE_COMPLETE_TEXT: 'Улучшение вооружения завершено:'
+  FORMAT_NAME_PARKOUR: Паркур
+  HEADER_LOGIN: ВХОД В ИГРУ
+  REDUCE_DAMAGE_FREEZE: Фриза
+  CLAN_PLAYER_ALREADY_IN_CLAN: Игрок %USERNAME% уже состоит в клане
+  GARAGE_ARTILLERY_PROTECTION_PROPERTY: Защита от Магнума
+  HELP_SYMBOL_IS_NOT_ALLOWED: |-
+    Имя должно состоять из A-Z, 0-9
+    и специальных символов.
+  CLAN_CREATION_RULES: "<textformat leading='5'>Подтверждаю ознакомление с <a href='http://tankionline.com/ru/rules/'
+    target='_blank'><font color='#59ff32'><u>правилами</u></font></a></textformat>"
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_AGREEMENT: Я подтверждаю свое согласие на компенсацию
+    в виде Танкоинов при повторной покупке пакета.
+  QUICK_PLAY_MODE_NAME: Быстрый бой
+  CLAN_DISBAND: Распустить
+  DAILY_QUEST_CHANGE: Сменить
+  NOT_ENOUGH_COINS_NOTIFICATION: Недостаточно танкоинов для совершения покупки
+  PAYMENT_TIANXIAFU_TERMS_TEXT: "???"
+  CLAN_PROFILE: Профиль клана
+  SHOP_FEATURING_DESCRIPTION: Здесь вы можете найти уникальные или временные предложения
+    товаров по выгодной цене. Действие карты «Двойной кристалл» не распространяется
+    на эту категорию.
+  CLAN_INCORECT_CLAN_NAME: Некорректное имя клана
+  CLAN_DESCRIPTION: |-
+    Здесь вы сможете создать собственный клан, объединиться с друзьями и получить доступ к специальным клановым бонусам.
+
+    Чем сильнее клан, тем больше бонусов получает каждый участник клана.
+  SETTINGS_TAB_NAME_ACCOUNT: Аккаунт
+  CLAN_RANK_LOW_TO_SEND_REQUEST: Слишком низкое звание для вступления в этот клан
+  DEVICES: Устройства
+  GARAGE_PRICE: Цена в гараже
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_ARROW_LENGTH: '30'
+  SHOP_WINDOW_YOUR_CHOICE: Ваш выбор
+  HELP_NAME_IS_FORBIDDEN: Введенное имя недоступно для регистрации
+  GAME_ACTION_TURRET_TURN_RIGHT: Повернуть башню вправо
+  FRIENDS_NEW_FRIEND: Новый!
+  ERROR_PASSWORD_INCORRECT: Пароль неверный
+  KEYBOARD_KEY_SPACE: Пробел
+  ACCOUNT_RECOVERY_FORM_BUTTON_RECOVER_TEXT: Восстановить
+  GAME_ACTION_TANK_TURN_RIGHT: Повернуть танк вправо
+  BATTLE_STAT_STARS_REWARD: Звёзды
+  BATTLE_PLAYER_KILLED: уничтожил
+  ITEMS_IN_KIT: Состав комплекта
+  CHALLENGE_BUY_PREMIUM: Купить премиум
+  BATTLE_CREATE_PANEL_CHECKBOX_FRIENDLY_FIRE: Огонь по своим
+  REDUCE_DAMAGE_SHOTGUN: Молотa
+  CHAT_SHARP_FORUM: forum|Форум|http://ru.tankiforum.com/
+  SETTINGS_BUTTON_CHANGE_PASSWORD_TEXT: Изменить пароль и e-mail
+  GAME_ACTION_USE_DOUBLE_ARMOR: Использовать двойную защиту
+  SGE_MODE_NAME: Осада
+  HEADER_REGISTRATION: РЕГИСТРАЦИЯ
+  ERROR_EMAIL_DOMAIN_IS_FORBIDDEN: Почтовый адрес запрещен
+  CLAN_MEMBER_NAME: Имя
+  REDIRECT_ALERT_TEXT: |-
+    РЕСТАРТ СЕРВЕРА!
+
+    Вы будете подключены к одному из работающих серверов через %1 сек.
+  SHOP_PAYMENT_CATEGORY_HEADER_FOR_ODNOKLASSNIKY: Подтверждение покупки
+  PAYMENT_SMS_DESCRIPTION_TEXT_INCLUDING_VAT: |-
+    Выберите страну и вашего оператора мобильной связи. Выберите желаемое количество кристаллов, и отправьте SMS с указанным текстом на соответствующей номер. В случае отсутствия проблем связи кристаллы зачисляются в течение нескольких секунд.
+
+    Внимание! Согласно правилам работы SMS-сервиса у нас действуют антифродовые ограничения. Чтобы избежать потери Ваших платежей, пожалуйста, соблюдайте следующие правила:
+    1. Не отправляйте SMS на сумму более чем 400 руб/час.
+    2. Не отправляйте на один ник игрока более 3-х SMS с одного и того же номера в течение часа.
+
+    <font color='#ff4e00'>Убедитесь в согласии того, кто оплачивает счёт!</font>
+  HEADER_BATTLE_INFO_TEXT: ИНФОРМАЦИЯ О БИТВЕ
+  BATTLE_CREATE_PANEL_BUTTON_RUGBY: Регби
+  FRIENDS_ALREADY_HAVE_INCOMING: Заявка от игрока %USERNAME% уже есть в списке входящих.
+    Принять её?
+  GARAGE_CONFIRM_ALERT_CONFIRM_BUTTON_TEXT: Да
+  BATTLE_CREATE_PANEL_STEPPER_MAX_TEAM_SIZE: Max команды
+  GAME_TERMS: "ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ С ПОЛЬЗОВАТЕЛЕМ\n \nЛюбое пользование Игрой
+    и её отдельными объектами, означает, что вы ознакомлены и согласны с нижеизложенным
+    Соглашением, и безоговорочно принимаете все его условия.\n \nЕсли вы не согласны
+    с данным Соглашением, у вас нет права на дальнейшее пользование Игрой и её сервисами,
+    и вы обязаны немедленно покинуть сайт.\n \nНастоящее Лицензионное соглашение с
+    Пользователем («Соглашение») устанавливает и регулирует договорные отношения между
+    сторонами: ООО «Альтернатива Гейм» (далее – «Правообладатель» или «Администрация»)
+    и пользователем Игры (далее – «Пользователь»).\n \nДокументы, являющиеся неотъемлемой
+    частью настоящего Соглашения:\n- <a href=\"http://tankionline.com/ru/privacy/\"
+    target=\"_blank\"><u>Политика конфиденциальности и cookies</u></a>;\n- <a href=\"http://tankionline.com/ru/rules/\"
+    target=\"_blank\"><u>Правила Игры</u></a>;\n- <a href=\"http://ru.tankiforum.com/index.php?showtopic=12852\"
+    target=\"_blank\"><u>Инструкция по покупке кристаллов</u></a>.\n \nОсновные термины
+    и понятия\n \nВо всех разделах настоящего Соглашения и в документах, являющихся
+    неотъемлемой частью настоящего Соглашения, нижеперечисленные термины и понятия
+    должны быть интерпретированы следующим образом, если контекст настоящего Соглашения
+    чётко не подразумевает иное толкование:\n \nАдминистрация – лица, действующие
+    от имени и в интересах Правообладателя и обеспечивающие функционирование Игры.\n
+    \nАккаунт / Аккаунт Пользователя – учётная запись Пользователя в Игре, управляемая
+    Администрацией и содержащая Данные Аккаунта.\n \nДанные Аккаунта - Логин, Пароль,
+    Имя Пользователя (игровой ник).\n \nИгра – интерактивная многопользовательская
+    онлайн игра «Танки Онлайн», в том числе ее компоненты, как отдельно, так и в совокупности,
+    игровые сервисы, чаты, форум, Tanki Online Wiki, Tanki Online News, официальные
+    сообщества Игры в социальных сетях, вся совокупность Материалов, изображений,
+    звуков, сайтов, программного обеспечения, веб-ресурсов, расположенных на поддоменах
+    Сайта с адресом /ru/ и на игровых серверах в адресах, начинающихся с /battle-ru/
+    или доступных через сайты партнеров Правообладателя.\n \nИмя Пользователя – игровой
+    ник, выбранный Пользователем при регистрации Аккаунта.\n \nКристаллы – внутри-игровая
+    валюта, которая используется в Игре и/или на Сайте и с помощью которой могут быть
+    доступны сервисы Игры.\n \nЛичная информация – любая информация, относящаяся прямо
+    или косвенно к определенному или определяемому Пользователю.\n \nЛицензия – простая
+    неисключительная и отзывная лицензия, которую Правообладатель предоставляет пользователю
+    для личного и некоммерческого использования Игры.\n \nЛогин и Пароль – детали
+    логина и пароля, выбранные Пользователем при регистрации в Игре.\n \nМатериалы
+    – различного рода виртуальные объекты в форме текстов, рисунков, изображений,
+    звуков, программ, команд, названий, предметов, историй, диалогов, фраз, концепций,
+    видеороликов, фотографий, иллюстраций, анимации, звуков, музыкальных произведений,
+    звуковых и музыкальных эффектов, документации, игровых чатов, а также производных
+    и/или переработанных Материалов, и иных Материалов, размещённых Администрацией
+    или Пользователями в Игре.\n \nПлатный сервис – любая покупка Кристаллов, используемых
+    для любых дополнительных возможностей Игры на условиях простой неисключительной
+    и отзывной лицензии, в размере и на условиях предусмотренных Администрацией (Правообладателем).\n
+    \nПлатёж – лицензионное вознаграждение, оплаченное Пользователем для доступа к
+    Платным сервисам. Порядок определения размера лицензионного вознаграждения регулируется
+    Инструкцией по покупке кристаллов.\n \nПлатёжный Агент – третье лицо, которое
+    уполномочено Правообладателем принимать и обрабатывать платежи от Пользователей
+    в интересах Правообладателя через различные способы (системы) оплаты, предоставленные
+    такими третьими лицами.\n \nПользовательское соглашение (или Соглашение) – настоящее
+    лицензионное соглашение с Пользователем на предоставление права пользования Игрой
+    на условиях простой неисключительной и отзывной лицензии, со всеми документами,
+    являющимися неотъемлемой частью настоящего Соглашения, в том числе, но не за исключением,
+    Правила Игры, Политика конфиденциальности и cookies, Инструкция по покупке кристаллов,
+    а также иные правила, инструкции, размещенные Администрацией на Сайте или на сайтах
+    партнеров Правообладателя.\n \nПользователь (Лицензиат) – физическое лицо, зашедшее
+    в Игру через Сайт или через сайты партнеров Правообладателя, пользующееся Игрой
+    и /или её пробными версиями, игровыми сервисами, Материалами, иными сервисами,
+    в том числе платными, как до прохождения процедуры регистрации в Игре, так и после
+    прохождения процедуры регистрации.\n \nПравообладатель (Лицензиар) – Общество
+    с ограниченной ответственностью «Альтернатива Гейм», 614081, Пермь, Кронштадская
+    10, а/я 5720, правообладатель исключительных прав на игру.\n \nПрограммное обеспечение
+    – программное обеспечение, лицензируемое Правообладателем, включающее все программы
+    для ЭВМ, базы данных и любой другой производный контент, который может требовать
+    загрузки, или доступный или иначе используемый Пользователем через Сайт и позволяющий
+    Пользователю участвовать в Игре.\n \nПолитика конфиденциальности и cookies – документ,
+    регулирующий порядок и цели сбора, использования, обработки, хранения, распространения
+    (передачи) и удаления личной информации Пользователей, положения о защите личной
+    информации Пользователей, о видах, целях и порядке размещения, хранения, использования
+    и удаления файлов cookies на оборудовании Пользователей.\n \nПользование Игрой
+    – разрешённые виды использования Игры: запуск Игры Пользователями; пользование
+    техническими возможностями Игры на бесплатной и на платной основе, установка Игры;
+    осуществления действий, необходимых для функционирования Игры в соответствии с
+    её назначением.\n \nСайт – Игра, вся совокупность Материалов и веб-ресурсов, расположенных
+    в домене http://tankionline.com, на его поддоменах с адресом /ru/ и на игровых
+    серверах в адресах, начинающихся с /battle-ru/, а также на других сайтах, связанных
+    с ним и доступных через ссылки или другие пути доступа, и на сервисах, доступных
+    через такие сайты, которые официально были признаны Правообладателем или Администрацией.\n
+    \nСервер – это программное (аппаратное) обеспечение Правообладателя, посредством
+    которого осуществляется виртуальное интерактивное взаимодействие с Пользователем.\n
+    \nСервис – предоставление права пользования Игрой, как на платной, так и на бесплатной
+    основе, на условиях простой неисключительной и отзывной лицензии, в размере и
+    на условиях, предусмотренных настоящим Соглашением.\n \nСтороны – Пользователь
+    и Правообладатель (Администрация).\n \nИные термины, определения и словосочетания,
+    используемые в Игре, имеют значение и подлежат толкованию Сторонами в соответствии
+    со сложившейся практикой использования данных терминов, определений и словосочетаний
+    при работе в области Интернет-технологий, а также в соответствии с действующим
+    законодательством Российской Федерации.\n  \nОбщие положения\n \nПринятие Соглашения\n
+    \n1. Настоящее Соглашение является письменной офертой, то есть предложением заключить
+    настоящее Соглашение, устанавливающее правоотношения между Правообладателем и
+    Пользователем, на указанных условиях. Акцептом, то есть принятием всех условий
+    оферты, считается осуществление Пользователем фактических действий по использованию
+    Игры, игровых сервисов и/или прохождение процедуры регистрации в Игре.\n2. Осуществляя
+    фактические действия по использованию Игры любым способом и/или проходя процедуру
+    регистрации в Игре и нажимая кнопку «Подтвердить», Пользователь подтверждает,
+    что прочитал, понял, согласился и безоговорочно принял настоящее Соглашение, как
+    изложено ниже, и принял любые документы, являющиеся неотъемлемой частью настоящего
+    Соглашения.\n3. Если Пользователь не согласен с настоящим Соглашением, он не имеет
+    никакого права использовать Игру и Сайт, и он обязан немедленно покинуть Сайт
+    и воздержаться от использования Игры.\n4. Настоящее Соглашение и документы, являющиеся
+    неотъемлемой частью настоящего Соглашения, должны быть официальным источником
+    для любого спора, связанного с использованием Игры, Сайта, Программного обеспечения
+    и/или сервисов Правообладателя.\n5. Пользователь настоящим гарантирует, что он
+    – физическое лицо, наделённое всеми правомочиями вступить в настоящее Соглашение
+    и использовать Игру, согласно применимому законодательству, на него не распространяются
+    какие-либо законодательные ограничения на пользование Игрой, игровыми сервисами,
+    им получены все необходимые разрешения в требуемой законом форме. Принимая условия
+    настоящего Соглашения, Пользователь подтверждает, что соответствует указанным
+    требованиям, и/или он получил необходимые разрешения в требуемой законом форме.\n6.
+    Использование Игры, Сайта, Материалов и любой другой информации, содержавшейся
+    в Игре, осуществляется исключительно в соответствии с настоящим Соглашением и
+    документами, являющимися неотъемлемой частью настоящего Соглашения.\n7. Осуществляя
+    фактические действия по использованию Игры любым способом и/или проходя процедуру
+    регистрации в Игре и нажимая кнопку «Подтвердить», Пользователь подтверждает,
+    что желает и соглашается получать электронную рассылку (Электронные сообщения,
+    письма, короткие сообщения), содержащую информацию о новостях и/или об обновлениях
+    в Игре, рекламные материалы Правообладателя или партнёров Правообладателя (далее
+    – «электронная рассылка»), распространяемую Администрацией/Правообладателем и
+    (или) партнёрами Правообладателя, в том числе, но не за исключением, по сетям
+    электросвязи, посредством использования телефонной, мобильной, факсимильной, подвижной
+    радиотелефонной связи и другими способами.\nДополнительным подтверждением согласия
+    Пользователя на получение электронной рассылки любыми способами и на передачу
+    информации о Пользователе рекламным партнёрам Правообладателя является предоставление
+    Пользователем Правообладателю (Администрации) адреса электронной почты и (или)
+    номера телефона, средствами, предусмотренными Игрой.\nС момента согласия Пользователя
+    на получение электронной рассылки Администрация (Правообладатель) и/или партнёры
+    Правообладателя вправе осуществлять рассылку Пользователям сообщений любого характера,
+    соответствующих законодательству (в том числе, но не за исключением, сообщений
+    по электронной почте, sms-сообщений и т.п.).\n8. Если Пользователь не хочет, чтобы
+    партнёры Правообладателя направляли ему электронную рассылку, Пользователь может
+    отказаться от рассылки в любой момент, если пройдёт по ссылке, указанной в нижней
+    части электронного сообщения.\nЕсли Пользователь не хочет, чтобы Администрация
+    (Правообладатель) направляли ему электронную рассылку, Пользователь может отказаться
+    от рассылки в любой момент, изменив соответствующие личные настройки в Игре и,
+    тем самым, отказавшись от получения новостей. \n \nВнесение изменений в настоящее
+    Соглашение\n \n1. Правообладатель настоящим сохраняет за собой право приостановить,
+    дополнить, прекратить, исправить и/или доработать настоящее Соглашение и/или документы,
+    являющиеся неотъемлемой частью настоящего Соглашения, в любое время, когда сочтёт
+    необходимым, уведомив Пользователя путём размещения обновленной версии настоящего
+    Соглашения на Сайте.\nЛюбые изменения, дополнения вступают в силу в течение 10
+    (Десяти) дней с момента соответствующих изменений, дополнений.\nДальнейшее использование
+    Игры и/или Сайта означает полное и безоговорочное принятие изменённой версии настоящего
+    Соглашения и/или документов, являющихся неотъемлемой частью настоящего Соглашения\n2.
+    Все изменения и дополнения, сделанные к настоящему Соглашению и/или к документам,
+    являющимся неотъемлемой частью настоящего Соглашения, имеют обратную силу и распространяются
+    на предыдущие отношения Сторон.\n3.Администрация настоятельно рекомендует Пользователю
+    время от времени просматривать настоящее Соглашение, чтобы быть в курсе любых
+    изменений и дополнений. Если Пользователь не согласен с любой частью настоящего
+    Соглашения, он должен немедленно прекратить использование Игры и/или Сайта, и
+    сообщить Администрации о его несогласии, чтобы Администрация могла принять необходимые
+    меры, которые могут включать невозможность для Пользователя использовать Игру
+    и/или Сайт.\n4. Администрация не обязана проверять, использует ли Пользователь
+    Игру и/или Сайт согласно обновленной версии настоящего Соглашения. Версия, размещенная
+    на Сайте, является действующей и актуальной версией, которой обязан руководствоваться
+    Пользователь. Пользователь обязан самостоятельно знакомиться с последними версиями
+    настоящего Соглашения и с последними версиями иных документов, являющихся неотъемлемой
+    частью настоящего Соглашения.\n \nПредмет Соглашения\n \n1. В соответствии с условиями
+    настоящего Соглашения, Правообладатель предоставляет Пользователю право лично
+    использовать Игру на условиях простой неисключительной, ограниченной и отзывной
+    лицензии, с сохранением за Правообладателем права самостоятельно использовать
+    Игру и выдавать лицензии на использование другим лицам.\n2. Пользователь вправе
+    пользоваться Игрой исключительно в личных некоммерческих целях, и не вправе передавать
+    право пользования Игрой третьим лицам.\n3. Срок действия настоящей Лицензии начинается
+    с момента первого использования Пользователем Игры, и заканчивается, когда Пользователь
+    прекращает использовать Игру или когда настоящее Соглашение расторгается или прекращается
+    Правообладателем иным образом. Настоящая Лицензия немедленно прекращает действие,
+    если Пользователь нарушит настоящее Соглашение и/или какой-либо документ, являющийся
+    частью настоящего Соглашения.\n4. Настоящая Лицензия действительна в течение срока
+    действия исключительного права Правообладателя на Игру, при условии, что настоящее
+    Соглашение не будет прекращено или расторгнуто ранее.\n5. Правообладатель предоставляет
+    право пользования Игрой по настоящему Соглашению на территории всего мира.\n6.
+    Переход исключительного права на Игру к новому правообладателю не является основанием
+    для изменения или расторжения настоящего Соглашения.\n \nИнтеллектуальная собственность\n
+    \n1. Интеллектуальные и иные права на Игру, Материалы, их части, являющиеся объектами
+    интеллектуальных прав (авторских, патентных прав, ноу-хау, товарными знаками и
+    пр.), включая (без ограничения) право на обнародование, переработку, право на
+    создание производных продуктов, а также право на внесение любых изменений, сокращений,
+    дополнений, комментариев, пояснений, иные права на Игру и Материалы принадлежат
+    Правообладателю Игры.\n2. Пользователь вправе размещать Материалы в Игре, на Сайте
+    и в иных игровых сервисах, при условии, что интеллектуальные права, на такие Материалы
+    в полном объеме принадлежат Пользователю. Размещая Материалы в Игре и/или на Сайте,
+    отправляя Материалы Администрации, Пользователь подтверждает, что ему в полном
+    объёме принадлежат интеллектуальные права на такие Материалы, и он в полном объёме
+    несет ответственность за размещение и использование таких Материалов, а также
+    за любые убытки, которые могут возникнуть в связи с размещением или использованием
+    таких Материалов.\n3. Размещение в Игре Материалов, ссылок на сайты Пользователями
+    или третьими лицами не означает, что Правообладатель одобрил такое размещение
+    и даёт рекомендацию данным Материалам или сайтам. Правообладатель не несёт ответственность
+    за содержание данных Материалов и сайтов, любой прямой или косвенный ущерб, нанесённый
+    в связи с размещением или использованием данными Материалами или данными сайтами.\n4.
+    Интеллектуальные и исключительные права на любые Материалы, размещённые в Игре
+    и/или на Сайте, переданные Пользователями Администрации, в том числе для конкурса
+    или мероприятия, организованного Администрацией, автоматически передаются Правообладателю
+    Игры с момента их размещения в Игре и/или на Сайте или с момента получения их
+    Администрацией, с правом, в том числе в коммерческих целях, размещать, модифицировать,
+    адаптировать, передавать третьим лицам, создавать производные Материалы, перерабатывать
+    Материалы, распространять, воспроизводить, производить публичный показ, доводить
+    до всеобщего сведения, удалять Материалы, вносить любые изменения, сокращения,
+    дополнения, комментарии, пояснения, обнародовать Материалы, использовать Материалы
+    иными способами в любой стране мира, без указания имени автора и без какого-либо
+    лицензионного или авторского вознаграждения или иной компенсации.\nПользователь
+    обязуется обеспечивать юридические основания передачи Правообладателю исключительных
+    прав на Материалы, размещенные Пользователем в Игре и/или на Сайте.\n5. В любом
+    случае запрещается любое использование Материалов, объектов интеллектуальных прав,
+    находящихся в Игре и/или на Сайте, без согласия Правообладателя, кроме случаев,
+    когда Правообладатель явно выразил свое согласие на использование Материалов третьими
+    лицами.\n6. Правообладателю принадлежат все права собственности, интеллектуальные
+    права, исключительные права и иные права на все Материалы, размещенные в Игре
+    и/или на Сайте. Пользователь соглашается с тем, что не имеет никаких прав на Материалы
+    и иной контент Игры, включая без ограничений виртуальные товары или внутри-игровую
+    валюту, имеющиеся в Игре, а также на любые иные атрибуты, связанные с Аккаунтом
+    или имеющиеся в рамках Игры. Администрация не допускает любую намеренную передачу
+    виртуальной собственности за пределами Игры, а также намеренную продажу, дарение
+    или обмен в «реальном мире» любых Материалов, объектов, встречающихся в Игре,
+    за исключением явно разрешенных в письменном виде Администрацией действий.\n7.
+    Пользователь подтверждает, что не будет создавать какие-либо произведения, иные
+    работы, основанные на Игре и/или на Материалах, за исключением случаев, прямо
+    предусмотренных Правообладателем или Администрацией. Если Пользователь без письменного
+    разрешения Правообладателя создаёт на основе Игры или Материалов какие-либо произведения
+    или иные объекты интеллектуальных прав, он не сможет реализовать и использовать
+    права автора, интеллектуальные и исключительные права на такие производные произведения.\n8.
+    Пользователь настоящим подтверждает и признает, что у него нет какого-либо и интереса
+    в количестве часов, потраченных в Игре, и все действия и материалы, разработанные
+    во время Игры, должны быть единственной и монопольной собственностью Правообладателя.\n9.
+    Администрация имеет право любым способом демонстрировать и опубликовать любую
+    информацию, касающуюся любых действий Пользователя на Сайте и/или в Игре без какого-либо
+    уведомления или компенсации Пользователю.\n10. Правообладатель предоставляет Пользователю
+    неисключительное непередаваемое и отзывное право использовать Материалы других
+    Пользователей путём просмотра, обработки и другими способами исключительно в целях
+    личного некоммерческого использования, кроме случаев, когда такое использование
+    может навредить защищенным правам и интересам Правообладателя.\n \nПрава и обязанности
+    Пользователя\n \nПользователь настоящим подтверждает и соглашается что:\n \n1.
+    Пользователь обязан соблюдать условия настоящего Соглашения, Правил Игры, правила
+    иных документов, являющихся неотъемлемой частью настоящего Соглашения, а также
+    положения применимого права.\n2. Пользователь не вправе адаптировать, создавать
+    производные работы, демонстрировать, распространять, арендовать, предоставлять
+    взаймы, изменять, сублицензировать, переводить, передавать или иным образом распоряжаться
+    правом пользования Игрой способами, не предусмотренными и/или запрещенными настоящим
+    Соглашением.\n3. Пользователь не вправе изменять, декомпилировать, дизассемблировать,
+    дешифровывать и производить иные действия с объектным или с исходным кодом Игры,
+    имеющие целью нарушение системы защиты Игры от несанкционированного использования
+    и получение информации о реализации алгоритмов, используемых в Игре; создавать
+    производные программные продукты с использованием Игры без письменного согласия
+    Правообладателя.\n4. Пользователь не должен получать или пытаться получить код
+    из любого потока данных, передаваемых через Игру, зашифрованных или нет.\n5. Пользователь
+    обязан не раскрывать и не передавать данные своего Аккаунта каким-либо третьим
+    лицам.\n6. Пользователь обязан обеспечить доступ к Игре за свой счет, в том числе
+    поддерживать Интернет-соединение, нести все расходы за предоставление доступа
+    в Интернет.\n7. Пользователь обязан регулярно проверять и знакомиться с условиями
+    настоящего Соглашения и иных документов, являющихся неотъемлемой частью настоящего
+    Соглашения.\n8. Пользователь имеет право использовать Игру для любых личных и
+    некоммерческих целей, использовать все возможности Игры, игровые сервисы, участвовать
+    в общении на Сайте, отправляя сообщения, направлять Администрации жалобы, предложения
+    по усовершенствованию Игры и её сервисов, а также осуществлять иные действия,
+    предусмотренные Игрой, Правилами Игры и/или разрешённые Администрацией.\n9. Пользователь
+    может получить ограниченную неисключительную лицензию на использование улучшений
+    в Игре и виртуальных элементов посредством заработанных в игре кристаллов (внутри-игровой
+    валюты).\n10. В случае нарушения какой-либо обязанности, предусмотренной настоящим
+    Соглашением и/или иным документом, являющимся неотъемлемой частью настоящего Соглашения,
+    Пользователь обязан немедленно прекратить любое пользование Игрой.\n \nПрава и
+    обязанности Администрации и Правообладателя\n \n1. Администрация вправе по личному
+    усмотрению и без объяснений предпринять любые меры по ограничению или закрытию
+    доступа к Игре, игровым сервисам для Пользователя, нарушающего условия настоящего
+    Соглашения и/или условия документов, являющихся неотъемлемой частью настоящего
+    Соглашения.\n2. Администрация вправе без предварительного или последующего уведомления
+    Пользователя удалить или изменить любую информацию, контент, Материалы, размещенные
+    в Игре и/или на Сайте, а также на других ресурсах.\n3. Администрация вправе закрыть
+    и/или ограничить функциональность Игры, игровых сервисов, в любое удобное для
+    Администрации время, без предварительного или последующего уведомления Пользователя.\n4.
+    Администрация вправе в одностороннем порядке, в любое время, в любом размере,
+    степени и объеме изменить качество, скорость и объем предоставления сервисов,
+    а при наличии достаточного основания — прекратить предоставление сервисов без
+    предварительного и последующего уведомления Пользователя.\n5. Правообладатель
+    вправе в одностороннем порядке отказаться от Соглашения, от предоставления Сервисов,
+    и прекратить обслуживание Игры без предварительного уведомления Пользователя и
+    без возвращения произведенных Пользователем Платежей.\n6. Правообладатель не несет
+    ответственности за причинение прямого или косвенного ущерба, возникшего в результате
+    использования или невозможности использования Игры, игровых сервисов или информации
+    об Игре, а также в результате действий третьих лиц, включая других Пользователей
+    Игры.\n7. Администрация передает Пользователю доступ к Игре при условии соблюдения
+    Пользователям настоящего Соглашения.\n8. Правообладатель не несёт ответственности
+    за действия, предусмотренные в п. 1 – 7 настоящего раздела.\n \nСбор и использование
+    информации\n \n1. По общему правилу Пользователь не предоставляет Личные данные
+    Администрации, а Администрация не производит их обработку или хранение.\n2. Формой
+    регистрации в Игре или иными условиями Игры может быть предусмотрено предоставление
+    Пользователями Личной информации.\n3. Правообладатель вправе собирать Личную информацию
+    о Пользователе, отслеживать и хранить информацию об IP-адресах и файлах использования
+    технической информации (cookies), размещаемых на оборудовании Пользователя. Условия,
+    процедура и цели сбора, использования, обработки, хранения, раскрытия (передачи)
+    и удаления Личной информации Пользователей и условия об основаниях, целях и процедуре
+    размещения, использования, хранения и удаление cookie-файлов на оборудовании Пользователей,
+    регулируются Политикой конфиденциальности и Cookies, которая является неотъемлемой
+    частью настоящего Соглашения.\n4. Принимая настоящее Соглашение, Пользователь
+    настоящим явно и безоговорочно принимает Политику конфиденциальности и cookies
+    и все её условия. Любой сбор, хранение, передача и использование Правообладателем
+    Личной информации Пользователя должны производиться в соответствии с Политикой
+    конфиденциальности и cookies, являющейся неотъемлемой частью настоящего Соглашения.\n5.
+    Правообладатель обязуется принимать необходимые организационные и технические
+    меры для защиты Личной информации Пользователя от неправомерного или случайного
+    доступа, уничтожения, изменения, блокирования, копирования, распространения, а
+    также от иных неправомерных действий с ней третьих лиц.\n \nГарантии\n \n1.Право
+    пользования Игрой и другими Материалами предоставляется на условиях «как есть»
+    (“AS IS”). Правообладатель не предоставляет никаких гарантий в отношении безошибочной,
+    бесперебойной, непрерывной работы Игры, игровых сервисов, соответствия Игры требованиям
+    и ожиданиям Пользователя, не несёт ответственность за любой прямой или косвенный
+    ущерб в связи с пользованием или невозможностью использования Игры, игровых сервисов,
+    а также не предоставляет никаких иных гарантий, прямо не указанных в настоящем
+    Соглашении.\n2. Пользователь несёт все риски, связанные с доступом к Игре и к
+    любым Материалам Игры.\n \nНеправомерное использование Сайта\n \n1. Сайт может
+    использоваться исключительно в законных целях. Использование Сайта для передачи,
+    распространения, публикации или хранения любого Материала, который нарушает любое
+    действующее законодательство или права третьих лиц, строго запрещено. Неправомерное
+    использование Сайта включает (без ограничения) использование Сайта с непристойной
+    или противоправной целью, для передачи, распространения, публикации или хранения
+    любого Материала с нарушением авторских или иных интеллектуальных прав третьих
+    лиц или Правообладателя, с нарушением любой конфиденциальности и законодательства
+    о защите данных, для совершения противоправного действия.\n2. В случае неправомерного
+    использования Сайта Администрация сохраняет за собой право закрыть Аккаунт Пользователя
+    и предотвратить дальнейшее использование и/или доступ Пользователя к Игре и/или
+    Сайту, а также вправе принять иные меры защиты, предусмотренные действующим законодательством.\n
+    \nПравила общения\n \n1. Форум, чат-комнаты и/или сервисы игрового сообщества,
+    предлагаемые Администрацией для общения, предназначены для забавного и приятного
+    общения и обмена игровым опытом Пользователями друг с другом.\nЛюбая оскорбительная
+    и непристойная брань не допускается, и к Пользователям, которые нарушают правила
+    общения, предусмотренные настоящим Соглашением и Правилами Игры, Администрация
+    вправе применить меры, предусмотренные настоящим Соглашением и Правилами Игры.\n2.
+    Пользователь осознаёт, что при регистрации или размещении любой личной информации
+    на Сайте, такая информация станет достоянием общественности и доступной другим
+    Пользователям.\nПравообладатель не несёт ответственность за какие-либо убытки,
+    являющиеся результатом разглашения или распространения такой информации.\nПользователи
+    должны осознавать, что информация, которую они размещают на Сайте, может влиять
+    на их жизнь оффлайн.\n3. Правообладатель не обязан сохранять резервные копии Материалов,
+    размещаемых Пользователями на Сайте, и сохраняет за собой право наложить предел
+    на максимальную емкость хранения для каждого Пользователя.\n4. Правообладатель
+    сохраняет за собой право удалить, переместить или отредактировать, по собственному
+    усмотрению, любые Материалы, которые посчитает оскорбительными или нарушающими
+    любые законы, нормы и/или Правила Игры. Пользователь является исключительно ответственным
+    за содержание любых материалов, размещенных им на Сайте. Отказ Администрацией
+    удалить определенный Материал не должен ни при каких обстоятельствах рассматриваться
+    как одобрение или принятие его Администрацией.\n \nАккаунт Пользователя\n\nОткрытие
+    аккаунта Пользователя\n \n1. Аккаунт Пользователя должен быть зарегистрирован
+    лично Пользователем. Администрация настоящим сохраняет за собой право отказать
+    любому Пользователю в регистрации Аккаунта на Сайте по любой причине и без любого
+    предварительного объяснения.\n2.Пользователь гарантирует актуальность данных Аккаунта.
+    Пользователь обязан немедленно сообщить Администрации о любых изменениях в данных
+    Аккаунта Пользователя.\n3. Правообладатель строго запрещает Пользователю передавать
+    или продавать Аккаунт третьим лицам, передавать и/или получать Аккаунт от других
+    Пользователей и третьих лиц. Пользователю запрещается переводить Кристаллы на
+    Аккаунты других Пользователей.\n4. Администрация сохраняет за собой право не зарегистрировать
+    и/или отменить регистрацию Аккаунта Пользователя, если выяснилось, что при регистрации
+    Аккаунта Пользователем была предоставлена ложная, неточная, недостоверная или
+    неполная информация.\n \nИмя Пользователя\n \n1. После регистрации Аккаунта Пользователю
+    предоставляется право выбрать Имя Пользователя в Игре (игровой ник). Администрация
+    сохраняет за собой право по любой причине по своему усмотрению отклонить и/или
+    отказать Пользователю в выдаче любого имени, независимо от того, были ли прежде,
+    в течение или после такие имена выданы или утверждены.\n2. Если помимо выбранного
+    Имени Пользователя, Аккаунт Пользователя соответствует настоящему Соглашению и
+    Правилами Игры, Администрация предоставит Пользователю возможность выбрать другое
+    Имя Пользователя (игровой ник).\n \nБезопасность пароля\n \n1. Администрация никоим
+    образом не ответственна за возможный доступ третьего лица к Аккаунту Пользователя
+    и не должна считаться ответственной ни за какие-либо убытки, причиненные в результате
+    незаконного использования Логина и Пароля Пользователя третьим лицом, несанкционированного
+    доступа Логина и Пароля, и/или ни за какую транзакцию, в которой Логин и Пароль
+    Пользователя были зарегистрированы (введены) правильно.\n2. Администрация никоим
+    образом не ответственна, если Пользователь забывает или теряет Пароль, за исключением
+    случаев, где такая потеря возникает в результате ошибки Администрации. Администрация
+    ни при каких обстоятельствах не должна быть ответственной за сохранность Логина
+    и Пароля Пользователя.\n  \nБлокировка Аккаунтов\n \n1. Пользователь вправе обратиться
+    к Администрации с просьбой заблокировать свой Аккаунт, написав электронное письмо
+    на help@tankionline.com.\n2. Если Пользователь не заходит в Игру в течение шести
+    (6) месяцев подряд Администрация вправе заблокировать Аккаунт Пользователя и немедленно
+    расторгнуть настоящее Соглашение.\n3. Администрация вправе заблокировать Аккаунт
+    Пользователя в любое время по своему усмотрению, а также в случае нарушения Пользователем
+    условий настоящего Соглашения, Правил Игры, иных документов, являющихся неотъемлемой
+    частью настоящего Соглашения.\n \nМошеннические действия и неправильное неправомерное
+    использование Аккаунтов\n \n1. У Администрации действует политика «нулевой терпимости»
+    по отношению к нечестной игре и мошенническим действиям, и запрещён любой сговор
+    Пользователей. Если, по мнению Администрации, Пользователь, обманул или попытался
+    обмануть Администрацию или какого-либо другого Пользователя Игры, включая, но
+    не ограничиваясь, путем манипулирования в Игре, мошенничества при оплате, сговора
+    Пользователей, или если Администрация подозревает Пользователя в мошенничестве
+    при оплате, включая использование краденных кредитных карт или какое-либо другое
+    мошенническое действие (включая какой-либо возвратный платеж или другое аннулирование
+    оплаты), или запрещенные транзакции (включая отмывание денег), Администрация сохраняет
+    право заблокировать Аккаунт Пользователя и передать такую информацию по своему
+    усмотрению (вместе с идентификационными данными Пользователя) любому третьему
+    лицу и/или правоохранительным органам, если Администрация считает это необходимым.\n2.
+    В случае неправомерного использования и/или злоупотребления Сайтом и/или Игрой
+    и/или Программным обеспечением, Администрация сохраняет за собой право заблокировать
+    Аккаунт Пользователя до тех пор, пока вопрос между Администрацией и Пользователем
+    не будет разрешён, и применить любое другое юридическое средство, которое Администрация
+    посчитает уместным.\n \nПлатные Сервисы\n \n1. Пользователи могут пользоваться
+    Платными Сервисами в Игре, покупая Кристаллы. Покупка Кристаллов может быть произведена
+    только через уполномоченных Правообладателем лиц.\n2. Правообладатель не разрешает
+    передавать виртуальную собственность/Кристаллы вне Игры. Продажа, предоставление
+    или обмен любыми Материалами, Кристаллами и/или объектами, используемыми в Игре,
+    вне Игры строго запрещены.\n3. Платные Сервисы считаются предоставленными Пользователю
+    с момента зачисления Кристаллов на Аккаунт Пользователя. Пользователь осознаёт
+    и соглашается, что утрачивает свое право на отказ из Платных Сервисов с момента
+    зачисления Кристаллов на Аккаунт Пользователя.\n \nПокупка Кристаллов\n \nЦеновая
+    политика\n \n1. Перечень и стоимость Платных Сервисов определяются по собственному
+    усмотрению Правообладателя и могут быть изменены в любой момент времени.\n2. Правообладатель
+    не несёт ответственность за действия Платёжных агентов при приёме и обработке
+    платежей от Пользователя, в том числе, но не ограничиваясь, за качество и сроки
+    приёма и обработки платежей, за информацию, предоставляемую или не предоставляемую
+    Платёжным агентом, ни за какие издержки, которые могут произойти, или за любой
+    отказ от приёма платежа. Все платежи, осуществлённые Пользователем, являются добровольными,
+    окончательными и возврату не подлежат.\n  \nСпособы оплаты\n \n1. Покупка Кристаллов
+    может быть осуществлена только через Платёжных агентов одним из следующих способов
+    и/или любым другим способом, который предусмотрен Сайтом:\na. Кредитные карты;\nb.
+    Карты предоплаты;\nc. PayPal;\nd. SMS;\ne. Мобильные платежи; и\nf. Другое.\n
+    \n2. Пользователь подтверждает, что средства, используемые для покупки Кристаллов,
+    получены из законных источников и законным путем. Пользователь заявляет, что никоим
+    образом не будет использовать Игру, Сайт или Программное обеспечение с целью передать
+    денежные средства из недопустимых источников. Пользователь не будет использовать
+    Сайт и/или Игру ни для какого незаконного или мошеннического действия, или ни
+    для какой незаконной или мошеннической транзакции (включая отмывание денег). Администрация
+    сохраняет за собой право прекратить или блокировать Аккаунт Пользователя, в любое
+    время, и пока вопрос не был разрешен, если у Администрации есть малейшее сомнение
+    относительно законности источника денежных средств, используемых Пользователем.\n
+    \nБезопасность детей\n \n1. Пользователь – несовершеннолетнее лицо гарантирует
+    наличие разрешения и одобрения от своих родителей или законных представителей
+    на заключение настоящего Соглашения, открытие Аккаунта, распоряжение денежными
+    средствами, предоставленными родителями, законными представителями или с их согласия
+    третьими лицами. Использование любого способа оплаты платных сервисов Игры является
+    подтверждением наличия вышеуказанного разрешения и одобрения.\n2. В пределах имеющихся
+    прав у родителей или законных представителей, настоящим они дают свое согласие
+    от своего лица и от лица несовершеннолетнего с положениями настоящего Соглашения
+    и иных документов, являющихся неотъемлемой частью настоящего Соглашения, а также
+    подтверждают, что контролируют и несут полную ответственность за любое использование
+    несовершеннолетним Аккаунта, Сайта, Игры, игровых сервисов, за все обязательства,
+    вытекающие из настоящего Соглашения, а также за совершение любых платежей несовершеннолетним
+    лицом, осуществляемых в рамках настоящего Соглашения. Использование любого Способа
+    оплаты подтверждает, что законный представитель и/или родитель (и) предоставили
+    такое согласие. Законный представитель и/или родитель и Пользователи настоящим
+    признают, что Правообладатель не должен нести ответственность ни за какое использование
+    Игры, Сайта и Аккаунта несовершеннолетним, который не обладает таким разрешением.\n3.
+    Игровые сервисы могут содержать возрастные ограничения, которые носят рекомендательный
+    характер. Администрация не несёт ответственности за фактический доступ к Игре
+    Пользователей, не достигших возраста, установленного соответствующим игровым сервисом.
+    Администрация призывает родителей давать своим детям инструкции о том, что не
+    следует раскрывать свою личную информацию в сети.\n4. Администрация серьёзно относится
+    к  детской безопасности и рекомендует родителям и законным представителям детей
+    проводить больше времени с детьми во время нахождения их в сети Интернет, чтобы
+    знать какую информацию получают их  дети, используя Интернет, а также, чтобы контролировать
+    использование игры и игровых сервисов, в том числе Платных Сервисов.\n5. Родители
+    и законные представители детей должны стараться контролировать использование детьми
+    электронной почты и других способов коммуникации, а также оплаты услуг. В случае
+    необходимости родители и законные представители детей могут использовать специальные
+    программы, позволяющие ограничить доступ детей к определенным сервисам, что поможет
+    сделать пространство в сети Интернет более безопасным для детей.\n6. Администрация
+    сохраняет за собой право запросить документацию от родителя или иного законного
+    представителя несовершеннолетнего Пользователя, потребовать от несовершеннолетнего
+    Пользователя любое другое письменное подтверждение или разрешение, которое Администрация
+    считает необходимым для использования Игры и осуществления платежей через Сайт.\n
+    \nОтветственность Cторон\n \n1. Пользователь несёт полную личную имущественную
+    ответственность за любые Материалы и информацию, которую он размещает в Игре,
+    и за любые действия по использованию Игры, Сайта и игровых сервисов.\n2. Пользователь
+    обязан возместить все убытки, причинённые Правообладателю и/или третьим лицам
+    в связи с нарушением настоящего Соглашения и/или иных документов, являющихся неотъемлемой
+    частью настоящего Соглашения.\n3. Правообладатель не несёт какую – либо ответственность
+    перед Пользователем или третьими лицами, в том числе за действия третьих лиц,
+    за качество и скорость доступа в Интернет, за кражу, уничтожение материалов и
+    Аккаунтов Пользователей, за любой ущерб или вред, включая вред чести, достоинству,
+    деловой репутации, за полное или частичное неисполнение обязательств, если такое
+    неисполнение или частичное неисполнение явилось следствием обстоятельств непреодолимой
+    силы, то есть чрезвычайных и непредотвратимых при данных условиях обстоятельств,
+    факт наступления и продолжения которых подтвержден актом соответствующего компетентного
+    органа.\n4. Правообладатель не несёт ответственность ни за какие прямые или косвенные
+    убытки Пользователя или третьего лица, которые явились результатом использования
+    Сайта, Игры или игровых сервисов, включая (без ограничения), убытки, причинённые
+    неспособностью использовать Сайт, Игру или игровые сервисы, прямые или косвенные
+    убытки, возникающие из действий третьих лиц, включая других пользователей Игры,
+    убытки, вызванные отсутствием доступа к Интернету, а также убытки, являющиеся
+    следствием воровства, разрушения Материалов, потери информации, связанной с Аккаунтом
+    Пользователя и любого вреда чести, достоинству и деловой репутации Пользователя.\n5.
+    Если, несмотря на вышеизложенное, компетентный суд признает Правообладателя ответственным
+    за какие-либо убытки, размер ответственности Правообладателя ни при каких обстоятельствах
+    не будет превышать 3000 рублей кумулятивно для любого и всех требований, являющихся
+    результатом притязаний одного Пользователя.\n \nУрегулирование споров и Применимое
+    право\n \n1. К правоотношениям сторон, связанным с заключением, исполнением и
+    расторжением настоящего договора, применяется материальное и процессуальное право
+    Российской Федерации.\n2. Претензионный порядок досудебного урегулирования споров
+    обязателен. Претензия от Пользователя должна быть направлена на 614081, Пермь,
+    Кронштадская 10, а/я 5720, ООО «Танки Онлайн», включать конкретный перечень нарушений
+    со стороны Правообладателя или Администрации, данные Аккаунта , контактные данные
+    и подпись Пользователя, направившего претензию. Несоблюдение формы или содержания
+    претензии влечет несоблюдение претензионного порядка. Срок рассмотрения претензии
+    и направления ответа составляет 30 (Тридцать) рабочих дней с момента её получения.\n3.
+    В случае если спор не удаётся урегулировать в претензионном порядке, спор может
+    быть передан любой заинтересованной стороной в суд общей юрисдикции по месту нахождения
+    Правообладателя.\n4. В случае нарушения Пользователем Соглашения и Правил игры,
+    с него могут быть взысканы судебные расходы, понесённые Правообладателем в ходе
+    рассмотрения судебного дела в полном объёме, в том числе расходы на адвокатов
+    и представителей, командировочные расходы, расходы по уплате государственной пошлины
+    и иные подобные расходы, а также могут быть взысканы убытки, понесённые Правообладателем
+    в связи с нарушением Пользователем настоящего Соглашения и/или иных документов,
+    являющихся неотъемлемой частью настоящего Соглашения, в том числе, но не за исключением,
+    упущенная выгода, вред, нанесённый деловой репутации.\n \nДругие условия\n \n1.
+    Настоящее Соглашение представляет собой полное соглашение между Пользователем
+    и Правообладателем относительно его предмета, и заменяет все предшествующие соглашения
+    между Сторонами, касающимися такого предмета.\n2. Заголовки, содержащиеся в настоящем
+    Соглашении, предназначены исключительно для удобства отсылки и не предназначены,
+    чтобы влиять на значение или интерпретацию любого из положений и условий.\n3.
+    Недействительность одного или более условий Соглашения, признанная по решению
+    суда в соответствии с установленной процедурой, не влечёт за собой недействительность
+    Соглашения в целом.\n \nСвязь с Администрацией\n \n1. Пользователь может направлять
+    любые свои вопросы, комментарии или жалобы относительно настоящего Соглашения,
+    на help@tankionline.com. Администрация приложит все усилия, чтобы рассмотреть
+    такие обращения как можно быстрее.\n2. Если Пользователь начинает переписку с
+    Администрацией, или предоставляет отчет о проблемах с Игрой или игровыми службами,
+    то Администрация должна иметь право сохранить всю такую корреспонденцию.\n"
+  QUICK_PLAY_MODE_DESCRIPTION: Играй в команде с другими игроками для достижения победы
+    над противником. Режим командного боя будет выбран случайным образом.
+  THANKS_FOR_PURCHASE_INFO_ABOUT_EMAIL: |-
+    Танкист! Укажи адрес электронной почты
+    для получения платёжных чеков.
+  STATISTICS_HEADER_CALLSIGN: Имя
+  ACCOUNT_RECOVERY_FORM_BUTTON_CANCEL_TEXT: Отмена
+  GARAGE_RAILGUN_PROTECTION_PROPERTY: Защита от Рельсы
+  WEEKLY_QUEST_BUTTON: Еженедельные
+  HEADER_CAUTION_EXTERNAL_LINK: ВНЕШНЯЯ ССЫЛКА
+  RENAME_FORM_INSTRUCTION: Чтобы переименовать аккаунт, выберите новое доступное имя.
+    Для подтверждения может потребоваться указать текущий пароль от аккаунта. Новое
+    имя будет использоваться как новый логин для входа в игру и другие игровые сервисы.
+  BATTLE_ENTER_WARNING_PARKOUR_BUTTON_ENTER: Войти
+  GAME_ACTION_PAUSE: Пауза в битве
+  CP_MODE_NAME: Контроль точек
+  INVITE_TO_BATTLE_LABEL: Пригласить в битву
+  HEADER_MISSIONS: МИССИИ
+  PAYMENT_SMS_UK_DESCRIPTION_ENDING_TEXT: Поддержка клиентов телефон для помощи -
+    0-808-189-1038
+  CLAN_MEMBER_POSITION: Должность
+  LOOT_2_OPEN_BUTTON: Открыть 5
+  CLAN_DESCRIPTION_LABEL: Описание клана
+  DEVICES_STANDARD_SETTINGS: Стандартные настройки
+  REDUCE_DAMAGE_CRITICAL: Критического урона
+  RENAME_BUTTON_LABEL_IN_GARAGE: Использовать
+  FRIENDS_DECLINE_ALL_REQUESTS_ALERT: Отклонить все входящие заявки?
+  PAYMENT_BUTTON_SEND_BUG_REPORT_TEXT: Сообщить
+  RUGBY_SHORT_NAME: RGB
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTOBALANCE: Автобаланс
+  BATTLE_STAT_REWARD: Приз
+  CTF_BLUE_FLAG_RETURNED: Синий флаг возвращен
+  TJR_MODE_NAME: Джаггернаут
+  TIME_LABEL_DAY: д
+  CLAN_PROFILE_OPEN: Открыт
+  SPECTATE_TEXT: Наблюдать
+  CTF_CAPTURED_ENEMY_FLAG: доставил вражеский флаг
