@@ -1,0 +1,8 @@
+type: MultiframeTexture
+properties:
+  fps: 20
+  frame_height: 32
+  frame_width: 32
+  image_height: 32
+  image_width: 544
+  frames: 0
