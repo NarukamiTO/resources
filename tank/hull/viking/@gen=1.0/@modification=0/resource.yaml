@@ -1,0 +1,5 @@
+type: Object3D
+object: ../object.3ds
+images:
+  details.png: details.png
+  lightmap.jpg: lightmap.jpg
