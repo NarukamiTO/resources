@@ -1,0 +1,1003 @@
+type: Localization
+images: {}
+strings:
+  TOURNAMENT_BATTLE_TRAINING_LABEL: Préparation pour la bataille
+  GARAGE_ARTILLERY_PROTECTION_PROPERTY: Protection contre Magnum
+  BATTLE_CREATE_PANEL_CHECKBOX_FRIENDLY_FIRE: Tir allié
+  MISSION_BUTTON_TOOLTIP: Votre liste de Missions Quotidiennes. Complétez les missions journalières pour obtenir encore plus de récompenses.
+  CLAN_BLOCK: Ce clan a été bloqué
+  REARM_TEAM_WIN: Votre équipe a gagné!
+  PAYMENT_BUTTON_SEND_BUG_REPORT_TEXT: Rapport
+  REDUCE_DAMAGE_SMOKY: Smoky
+  RUGBY_BALL_TAKEN_USER: a attrapé le ballon
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_TEXT: Votre grade ne correspond pas à cette bataille. Sélectionnez une bataille de couleur verte.
+  ERROR_PASSWORD_CHANGE: Erreur de changement de mot de passe
+  SHOP_WINDOW_PAYMENT_CATEGORY_HEADER: Méthode de paiement
+  BATTLE_CREATE_PANEL_STEPPER_FLAG_LIMIT: Limite de drapeau
+  REFUSED_TO_JOIN_THE_BATTLE_AT_YOUR_INVITATION_LABEL: |
+    A refusé de rejoindre la bataille suite à votre invitation
+  CHAT_SHARP_RANKS: grades|Grades|https://en.tankiwiki.com/Ranks_and_Experience
+  KEYBOARD_KEY_PG_UP: PgUp
+  SETTINGS_SHOW_SKYBOX_CHECKBOX_LABEL_TEXT: Montrer le ciel
+  BATTLE_STAT_KDRATIO: Taux de destruction
+  CONNECTION_CLOSED_WIKI_LINK: http://en.tankiwiki.com/Connection_Closed
+  GATE_2_SHOP_EMAIL_INPUT_DESCRIPTION: Veuillez entrer votre email afin de recevoir le reçu de votre achat.
+  RENAME_FORM_INSTRUCTION: Pour renommer votre compte, vous devez choisir un nouveau pseudo qui est disponible. Vous serez également demandé d'entrer le mot de passe actuel de votre compte et confirmer le changement. Ce nouveau pseudo sera utilisé pour vous connecter au jeu et utiliser d'autres services officiels de Tanki Online comme le forum.
+  FRIENDS_FIND_TO_SEND: Envoyer une requête à un ami...
+  GROUP_INVITE_RESPONSE_DECLINE: Ne rejoint pas le groupe
+  CP_MODE_NAME: Contrôle de Points
+  REDUCE_DAMAGE_RAILGUN: Railgun
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION: This Item can only be purchased once. If purchased a second time, instead of the items in this pack, you will receive compensation in Tankoins.
+  PRESENT_INFO_MESSAGE_LABEL: 'Texte:'
+  ALERT_ACCOUNT_SUCCESS_LINKED: Votre compte a été lié avec succès
+  SHOW_NOTIFICATIONS_LABEL: Afficher les notifications
+  PARTNER_REGISTARTION_FORM_LOGIN_LINK_TEXT: Déjà inscrit? <a href='event:haveAcc'><font color='#59ff32'><u>Connectez-vous!</u></font></a>.
+  GARAGE_SPEED_UP_TEXT: Accélérer
+  REARM_OPTION_TEXT: Changer d'arme
+  GO_TO_BATTLE_LABEL: Aller à la bataille
+  ALERT_GAME_ACCOUNT_ALREADY_LINKED: Ce compte est déjà lié à %1
+  REGISTER_FORM_PASSWORD_INPUT_LABEL_TEXT: 'Mot de passe :'
+  REDUCE_DAMAGE_MACHINE_GUN: Vulcan
+  SETTINGS_CHANGE_PASSWORD_CONFIRMATION_SENT_TEXT: La lettre comprenant les instructions a été envoyée à votre adresse e-mail.
+  GARAGE_INFO_PANEL_BUTTON_UNEQUIP_TEXT: Unequip
+  BATTLEINFO_PANEL_BUTTON_PLAY: Jouer
+  CHAT_SHARP_PLANS: les plans | Objectifs et plans des développeurs | http://en.tankiwiki.com/Development_Plans
+  BATTLE_CREATE_PANEL_BUTTON_START: Commencer
+  CHALLENGE_BUY_PREMIUM_TIP: Buy premium account to get twice as many stars for finishing battles.
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  CHAT_LABEL_ALL: À tous
+  RUGBY_BALL_LOST_USER: a perdu le ballon
+  GARAGE_RANGE_PROPERTY: Portée
+  RENT: Louer
+  HELP_PASSWORD_IS_TOO_SIMPLE: Le mot de passe entré est trop simple
+  BATTLE_FUND: Fonds de bataille
+  CLAN_BUTTON_TOOLTIP: Ici, vous vous pouvez rejoindre et gérer votre Clan, ou rejoindre un Clan existant.
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_DONT_ENTER: N'entrez pas
+  GARAGE_CATEGORY_BUTTON_SUPPLIES: Ravitaillements
+  LABEL_MOUNTED_RESISTANCES_PANEL: Resistances
+  LOBBY_CHAT_WRITE_PUBLICLY: Écrire publiquement
+  FRIENDS_PLAYER_ALREADY_IN_LIST_ALERT: '%USERNAME% est déjà dans votre liste d''amis.'
+  IS_CONSIDERING_YOUR_INVITE_LABEL: |-
+    Est en train de considérer votre invitation
+    Attendez pour une réponse
+  REARM_PAUSE_ALERT: |-
+    Le temps de Pause est presque terminé. Vous quitterez automatiquement la bataille dans {time}
+    Retourner à la bataille?
+  SETTINGS_CHANGE_PASSWORD_WRONG_LINK_TEXT: Le lien que vous avez utilisé est corrompu
+  RATING_BUBBLE: Positions actuelles dans les classements hebdomadaire
+  KEYBOARD_KEY_LEFT: Gauche
+  TDM_MODE_NAME: Match à Mort en équipe
+  BATTLE_TEAM_ALERT: Vous jouez maintenant pour l’équipe %1
+  REENTER_TO_GAME: Re-entrer dans le jeu
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_HEADER: Conditions spéciales
+  EXPERIENCE_BAR_TOOLTIP: Votre expérience actuelle. Participez à des batailles à gagner de l'expérience et débloquer de nouveaux équipements.
+  CHAT_SHARP_NEWS: nouveautés|Nouveautés|https://news.tankionline.com/en
+  REARM_PAUSE_2: Appuyez sur une touche pour continuer
+  GAME_ACTION_TURRET_TURN_RIGHT: Faire pivoter la tourelle à droite
+  ITEMS_IN_KIT: Les éléments dans le kit
+  GARAGE_CATEGORY_BUTTON_KITS: Kits
+  CLAN_BUY_LICENCE: Acheter une licence
+  SHOP_PAYMENT_BUG_REPORT_LINK: http://tankionline.com/forms/payment/en/
+  REDUCE_DAMAGE_SHOTGUN: Hammer
+  GAME_TERMS: |
+    - developpers.
+  SELECTED_SERVER_UNAVAILABLE: Le serveur auquel vous essayez de vous connecter est temporairement indisponible. Réessayez ultérieurement.
+  FRIENDS_CLOSE: Fermer
+  SETTINGS_TAB_NAME_GRAPHICS: Graphismes
+  REARM_BATTLE_RETURN: Retourner dans la bataille
+  REGISTER_FORM_TO_LOGIN_PAGE_TEXT: Déjà inscrit? <a href='event:'><font color='#59ff32'><u>Connectez-vous!</u></font></a>
+  ACCEPT_CONDITIONS: Accepter les conditions
+  DEVICES_STANDARD_SETTINGS_DESCRIPTION: Paramètres par défaut sans effets spéciaux
+  SAVE_BUTTON_LABEL: Enregistrer
+  SETTINGS_MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION: Inversion verticale pour la vue de la souris pour le Shaft en mode Sniper
+  SERVER_STOP_ALERT_TEXT: |-
+    MISE À JOUR DU SERVEUR!
+
+    Le serveur s'arrête dans %1 secondes.
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_AGREEMENT: J’accepte de recevoir des cristaux en compensation dans le cas où cet article a été déjà acheté sur ce compte.
+  REDUCE_DAMAGE_FIREBIRD: Firebird
+  OFFLINE_LABEL: Hors ligne
+  BATTLE_CREATE_PANEL_STEPPER_MAX_TEAM_SIZE: Taille max de l’équipe
+  RUGBY_GOAL_BLUE: L’équipe bleue a marqué un but !
+  SETTINGS_SSAO: Ombres profondes
+  HELP_PANEL_RATING_INDICATOR_HELPER_TEXT: "Votre position actuelle \net changement permanent"
+  ALERT_ERROR_EXTERNAL_ENTER: Une erreur s’est produite lors d'une tentative pour entrer dans le jeu, veuillez réessayer ultérieurement
+  GARAGE_ISIDA_PROTECTION_PROPERTY: Protection contre Isida
+  CLAN_DISBAND: Dissoudre le clan
+  CHAT_LABEL_SPECTATORS: Aux spectateurs
+  GROUP_INVITE_RESPONSE_USER_IN_BATTLE: Ce joueur est dans une bataille
+  YOU_WERE_KICKED_LOGIN_TEXT: |-
+    Vous avez été déconnecté du jeu.
+    Raison: {0}.
+    Vous pourrez vous reconnecter dans {1}.
+  NEED_EMAIL_ALERT_MESSAGE: Afin d'acheter ce produit, liez votre e-mail à votre compte et confirmez le. Pour le faire, allez dans la partie "Compte" dans les Paramètres (l'engrenage dans le coin supérieur droit). Si vous rencontrez des problèmes, l'ensemble du processus est expliqué en détails <a href="https://en.tankiwiki.com/Registration#Linking_an_account_to_an_e-mail_address"><u>ici</u></a>.
+  PAYMENT_SMS_DESCRIPTION_CO_TEXT: ''
+  CHANGE_UID_FORM_REPEAT_PASSWORD_TEXT: 'Répétez le mot de passe:'
+  FRIENDS_DECLINE_ALL_BUTTON: Tout décliner
+  DRONE_REPAIR_HEALTH: HP Bonus
+  CHAT_PANEL_COMMAND_UNBLOCK: L'utilisateur %1 a été supprimé de la liste des ignorés
+  CLAN_ALERT_LEAVE_CLAN: Quitter le clan ?
+  GARAGE_SNIPING_DAMAGE_PROPERTY: Dégâts en mode sniper
+  SETTINGS_SHADOWS_LABEL_TEXT: Ombre sous le char
+  FRIENDS_YES: Oui
+  HEADER_OFFER: TEST D’ESSAI
+  ONLINE_LABEL: En ligne
+  BATTLELIST_PANEL_BUTTON_CREATE: Créer
+  REGISTER_FORM_AGREEMENT_NOTE_TEXT: <textformat leading='5'>J’accepte les conditions du<a href='http://tankionline.com/en/eula/' target='_blank'><font color='#59ff32'><u>contrat de licence</u></font></a>, <a href='http://tankionline.com/en/rules/' target='_blank'><font color='#59ff32'><u>les règles du jeu</u></font></a>, et <a href='http://tankionline.com/en/privacy/' target='_blank'><font color='#59ff32'><u>la politique de confidentialité ainsi que les témoins</u></font></a></textformat>
+  GARAGE_UPGRADE_COMPLETE_TEXT: 'L''élément suivant a été amélioré:'
+  CLAN_TANKS_LOST: Chars perdus
+  CLAN_ALREADY_INVITED_PLAYER: Ce clan vous a déjà invité à rejoindre
+  FRIENDS_NEW_FRIEND: Nouveau!
+  PROMO_CODE_SHOP_LABEL: Codes Promo
+  CONNECTION_CLOSED_MESSAGE: Connexion au serveur fermé
+  BATTLEINFO_PANEL_NONAME_TEXT: Aucun
+  ALERT_ANSWER_OK: Ok
+  REGISTER_FORM_REPEAT_PASSWORD_INPUT_LABEL_TEXT: 'Répéter :'
+  ALERT_INVITE_TO_BATTLE_IS_UNAVAILABLE_RANK: Êtes-vous sûr que vous voulez inviter votre ami(e) à une bataille qui n'est pas disponible à son grade?
+  SETTINGS_MOUSE_INVERSION_CHECKBOX_LABEL: Movement d’inversion verticale de la souris
+  CLAN_DESCRIPTION: |-
+    Ici, vous pouvez créer votre propre clan, faire équipe avec vos amis et obtenir l'accès a des bonus de clan.
+
+    Rappelez-vous, plus votre clan se renforce, plus les bonus pour les membres du clan seront meilleurs.
+  DOM_BLUE_LOST_POINT: L’équipe bleue a perdu le point {point}
+  CHAT_PANEL_BUTTON_SEND: Envoyer
+  SETTINGS_UNLINK: Dissocier
+  ERROR_EMAIL_INVALID: L’e-mail n'est pas valide
+  PREMIUM_COMPLETION: 'Expire le: '
+  GROUP_INVITE_RESPONSE_ACCEPT: Rejoint le groupe
+  KEYBOARD_KEY_PG_DN: PgDn
+  DRONE_INVENTORY: Active Supplies Time
+  PAYMENT_TIANXIAFU_TERMS_TEXT: ???
+  CLAN_LICENSE: Licence de clan
+  HELP_PANEL_RANK_BAR_HELPER_TEXT: "La barre d’expérience se remplit \nlorsque vous détruisez \nles autres joueurs."
+  GARAGE_ROTATION_PROPERTY: Vitesse de rotation
+  FRIENDS_MENU: Liste d'amis
+  JGR_SHORT_NAME: SJR
+  SMART_SUPPLIES: Activation intelligente de ravitaillements
+  BATTLE_UPGRADES_TEXT: Améliorations
+  SETTINGS_UNLINK_ACCOUNT: Dissocier votre compte de
+  PROGRESS: Progrès
+  HELP_PANEL_RANK_BAR_HELPER_ARROW_LENGTH: '116'
+  HEADER_DISCOUNT: PROMOS !
+  HEADER_CREATE_BATTLE: CRÉER UNE BATAILLE
+  HEADER_CLAN_EDIT_PROFILE: MODIFIER LE PROFIL
+  USERS_IN_QUEUE_LABEL: Les joueurs dans la file d'attente
+  PARTNER_REGISTARTION_FORM_CHOOSE_NAME_TEXT: 'Choisissez votre pseudo dans le jeu:'
+  DOM_BLUE_CAPTURED_POINT: L’équipe bleue a capturé le point {point}
+  MAIN_PANEL_UPDATE_RANK_NOTICE_GIFT: Votre cadeau %1
+  BATTLE_CREATE_PANEL_DRONES: Drones
+  GARAGE_RESISTANCE_DESCRIPTION_PREFIX: 'Protection:'
+  HEADER_CHANGE_PASSWORD_EMAIL: CHANGER LE MOT DE PASSE ET L'E-MAIL
+  SETTINGS_ALTERNATE_CAMERA_LABEL_TEXT: Alterner la caméra
+  MAP_THEME_NAME_WINTER: Hiver
+  RUGBY_BALL_TAKEN_RED: L’équipe rouge a attrapé le ballon
+  CLAN_SEND_REQUEST_TO_CLAN: Envoyer une demande à un clan...
+  GAME_ACTION_DROP_FLAG: Déposer le drapeau
+  GARAGE_BUY_BUTTON_RANK_LABEL: Grade
+  CLAN_POSITION_SERGEANT: Sergent
+  SETTINGS_LINK_EMAIL_BUTTON: Lien
+  CTF_BLUE_FLAG_RETURNED: Le drapeau bleu est retourné
+  HEADER_PAYMENTS: PAIEMENTS
+  GROUP_INVITE_RESPONSE_USER_IN_OTHER_GROUP: Ce joueur est déjà dans un groupe
+  GARAGE_BURN_PROPERTY: Durée de combustion
+  PAYMENT_SMS_DESCRIPTION_TEXT_INCLUDING_VAT: |-
+    Choisissez votre pays et votre opérateur de téléphonie mobile. Sélectionnez la quantité de cristaux, et envoyez un SMS avec le texte affiché au numéro correspondant. Normalement, le compte se met à jour en quelques secondes.
+
+    Attention! Selon les règles des serveurs SMS, nous introduisons des restrictions anti-fraude. Pour éviter la perte de votre paiement, veuillez lire les règles suivantes:
+    1. Ne pas envoyer de SMS avec une somme de plus de 13 dollars américains par heure.
+    2. N'envoyez pas plus de 3 SMS à un seul et même joueur à partir d'un seul et même numéro dans le délai d'une heure.
+
+    <font color='#ff4e00'>Assurez du consentement de ceux qui paient pour vos cristaux!</font>
+  PAYMENT_SHENG_FENG_CONFIRMATION_CHECK_BOX_TEXT: ???
+  HEADER_TOURNAMENT_PREPARE: PRÉPARATION POUR LA BATAILLE
+  PAYMENT_SMS_UK_DESCRIPTION_ENDING_TEXT: Assistance téléphonique - 0-808-189-1038
+  STATISTICS_HEADER_CALLSIGN: Pseudo
+  BATTLE_ENTER_WARNING_PARKOUR: Attention! Il s’agit d’une Bataille Parkour. Vous ne recevrez aucune expérience ou cristaux dedans.
+  DRONE_POWER_DURATION: Power up duration
+  LINK_IS_COPIED_BUTTON_LABEL: Lien copié
+  SHOP_GOLDBOX_ONE: Boîte
+  ACCEPT_OFFER_BUTTON: Accepter
+  GARAGE_POWER_PROPERTY: Puissance
+  AUTOCOMPLETION_BALANCE_RESTORED_PART2: La manche va se poursuivre normalement
+  GARAGE_SHAFT_PROTECTION_PROPERTY: Protection contre Shaft
+  GROUP_INVITE_BUTTON: Inviter au groupe
+  BATTLE_CREATE_PANEL_BUTTON_DEATHMATCH: Combat à Mort
+  CLAN: Clan
+  BATTLE_CREATE_PANEL_STEPPER_MAX_PLAYERS: Joueurs max
+  CLAN_TAG: Tag de Clan
+  ALERT_ANSWER_RETURN_TO_BATTLE: Retourner dans la bataille
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_TEXT: |-
+    Cliquez pour aller dans le Garage
+    et faire votre premier achat.
+    Votre récompense - 200 cristaux!
+  LOOT_1_OPEN_BUTTON: Ouvrir 1
+  CLAN_CREATION_RULES: <textformat leading='5'>Confirmez que vous avez lu les<a href='http://tankionline.com/en/rules/' target='_blank'><font color='#59ff32'><u>règles</u></font></a></textformat>
+  YOURE_LOCATION_TEXT: Si vous vous trouvez dans un autre pays, veuillez le sélectionner manuellement et cliquez sur OK
+  PREMIUM_NOTIFICATION_COMPLETE: Votre Compte Premium a expiré.
+  CLAN_FOUNDER: Fondateur du clan
+  KEYBOARD_KEY_UP: Vers le haut
+  STATISTICS_HEADER_WEALTH: Richesse
+  RANK_NAMES: Recrue,Private,Gefreiter,Caporal,Caporal-chef,Sergent,Sergent, Sergent-chef,Premier Sergent,Sergent-Major,Adjudant 1,Adjudant 2,Adjudant 3,Adjudant 4,Adjudant 5,Troisième Lieutenant,Second Lieutenant,Premier Lieutenant,Capitaine,Major,Lieutenant-Colonel,Colonel,Général de Brigade,Major Général,Lieutenant Général,Général,Maréchal,Maréchal,Commandant,Généralissime
+  STATISTICS_HEADER_RATIO: Ratio
+  SETTINGS_BUTTON_CHANGE_PASSWORD_TEXT: Changer le mot de passe et l’e-mail
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_DESCRIPTION: Les méthodes de paiement suivantes proposent actuellement une réduction. Veuillez choisir votre méthode de paiement préférée pour continuer.
+  CHECK_PASSWORK_FORM_LOGIN_VIA: Entrer dans le jeu à l'aide de
+  CTF_CAPTURED_OUR_FLAG: a capturé notre drapeau
+  BATTLE_TEAM_RED: rouge
+  FRIENDS_EXIT_FROM_BATTLE_ALERT: Quitter la bataille ? Votre score et fonds de bataille seront perdus.
+  BATTLE_CREATE_PANEL_STEPPER_KILLS_LIMIT: Limite de destruction
+  CLAN_IS_ALREADY_IN_INVITE_LIST: Le clan %CLANNAME% vous a déjà invité à le rejoindre
+  SETTINGS_SOUND_VOLUME_LABEL_TEXT: 'Volume sonore :'
+  CTF_RED_FLAG_RETURNED: Le drapeau rouge est retourné
+  PRESENT_WILL_BE_REMOVED_ALERT: Ce cadeau sera supprimé pour toujours. Continuer ?
+  VOTE_USER_LABEL: Voter
+  REGISTER_FORM_REGISTER_VIA: S'inscrire dans le jeu en utilisant
+  ALERT_ANSWER_YES: Oui
+  REDUCE_DAMAGE_ROCKET_LAUNCHER: Striker
+  GARAGE_GAUSS_AIMING_DAMAGE_PROPERTY: Dégâts en mode sniper
+  CLAN_TANKS_DESTROYED: Chars détruits
+  PRESENT_INFO_FROM_LABEL: 'Envoyé par:'
+  CTF_CAPTURED_FLAG_NEUTRAL: a capturé le drapeau
+  CHALLENGE_TIER: Tier
+  HEADER_CLAN_MANAGMENT: GESTION DES DEMANDES
+  FATAL_ERROR_WIKI_LINK: http://en.tankiwiki.com/Battle_error
+  ERROR_CALLSIGN_WRONG_LAST_SYMBOL: La dernière symbole du pseudo doit être une lettre ou un chiffre
+  BATTLE_STAT_DEATHS: Mort
+  HEADER_PREMIUM: COMPTE PREMIUM
+  RUGBY_MODE_DESCRIPTION: Attrapez le ballon au milieu de la carte et apportez-la à la base ennemie. Ne laissez pas l'équipe ennemie apporter le ballon à votre base. L'équipe avec le plus grande score gagne.
+  REARM_TEAM_TIE: La bataille s'est terminée sur un match nul
+  GARAGE_SMOKY_PROTECTION_PROPERTY: Protection contre Smoky
+  CHAT_TAB_HEADER: Tchat
+  HEADER_CLAN: CLAN
+  SETTINGS_SHOW_LOCAL_DRONE: Show your drone
+  CHALLENGE_BUY_BATTLE_PASS_TIP: Buy the battle pass to claim all the rewards you've earned
+  CLAN_PLAYER_IS_CLAN_MAMBER: Le joueur %USERNAME% est déjà membre de ce clan
+  SETTINGS_FOG_LABEL_TEXT: Brouillard
+  TOURNAMENT_BATTLE_STARTING_LABEL: Commencement de la bataille... accrochez-vous!
+  SETTINGS_GRAPHICS_AUTO_QUALITY: Qualité graphique automatique
+  NOT_ENOUGH_MONEY_FOR_BUY_ITEM: Vous n'avez pas assez de cristaux pour effectuer cet achat.
+  CHAT_SHARP_UPDATES: mises à jour|Mises à jour|http://en.tankiforum.com/index.php?showforum=246
+  DESCRIPTION: Description
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_ARROW_LENGTH: '30'
+  GROUP_BUTTON: Groupe
+  CODE_CONFIRM: Confirmation code
+  GUI_LANG: fr
+  ACCOUNT_RECOVERY_FORM_BUTTON_RECOVER_TEXT: Récupérer
+  TURNOVER_HINT_2: ou en s’autodétruisent en appuyant sur
+  FRIENDS_FIND_IN_LIST_HINT: Rechercher dans la liste...
+  MAP_THEME_NAME_WINTER_DAY: Journée d'hiver
+  ASSAULT_DELIVER_FLAG: La base est attaquée avec succès
+  BATTLE_TEAM_BLUE: bleu
+  MAP_THEME_NAME_SUMMER_DAY: Jour d'été
+  DEVICES_STANDARD_SETTINGS: Paramètres standard
+  RUGBY_SHORT_NAME: RGB
+  GARAGE_ROCKET_LAUNCHER_PROTECTION_PROPERTY: Protection contre Striker
+  GAME_ACTION_TANK_MOVE_FORWARD: Déplacer le char vers l’avant
+  STATISTICS_HEADER_RANK: Grade
+  DRONE_ARMOR_BOOST: Additional supply power
+  PAYMENT_BUG_REPORT_INFO: Si votre paiement ne nous est pas parvenu, ou il y a un problème avec votre transaction, veuillez le signaler.
+  GAME_ACTION_SCREEN_SIZE_DECREASE: Diminuer la taille d’écran
+  SHOP_WINDOW_YOUR_CHOICE: Votre choix
+  CLAN_INVITE: Inviter
+  HEADER_FRIENDS: AMIS
+  COMPLETE_BUTTON: Complète
+  PIECE_3: pièces
+  BATTLE_STAT_BONUS_REWARD: Bonus
+  CLAN_MEMBER_LAST_VISIT: Dernière visite
+  CREATE_BATTLE_PANEL_GOLD_BOXES: Gold boxes
+  CLAN_INCORECT_CLAN_TAG: Tag de clan incorrect
+  PIECE_1: pièce
+  REDUCE_DAMAGE_ARTILLERY: Magnum
+  BATTLE_CREATE_PANEL_BUTTON_CAPTURE_THE_FLAG: Capture Du Drapeau
+  HEADER_BUG_REPORT: RAPPORT DE BUG
+  CLAN_PLAYER_RANK_TOO_LOW: 'La grade est trop faible '
+  REARM_BATTLE_PLACE: 'Votre place: {your_place} sur {places}'
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_CONGRATULATIONS: Félicitations, %1!
+  CLAN_CHAT: Tchat de clan
+  HELP_PANEL_MONEY_HELPER_TEXT: |-
+    Achetez plus de
+    cristaux
+  GARAGE_HEAL_PROPERTY: Guérison
+  PHONE_NUMBER: Your phone number
+  POSTFIX_OFFER_EXIT_BATTLE: Le teste d’essai prendra fin.
+  CLAN_OUTGOUNG: Invitations
+  PARTNER_GAME_TERMS: ''
+  ERROR_CALLSIGN_NOT_UNIQUE: Le pseudo n'est pas unique
+  GARAGE_TWINS_PROTECTION_PROPERTY: Protection contre Twins
+  REGISTER_FORM_SKIP_REGISTRATION_TEXT: Essayer le jeu avant l'inscription!
+  BUG_REPORT_BUTTON_SEND_TEXT: Envoyer
+  AUTOCOMPLETION_ROUND_MIGHT_END_EARLIER: La manche pourrait finir plus tôt
+  ERROR_FATAL: Une erreur s'est produite
+  CURRENT_PASSWORD: 'Mot De Passe Actuel:'
+  KEYBOARD_KEY_RIGHT: Droite
+  GARAGE_INFO_PANEL_BUTTON_REMOVE_TEXT: Remove
+  SETTINGS_REENTER_PASSWORD_LABEL_TEXT: 'Entrez à nouveau:'
+  TIME_LABEL_MINUTE: m
+  CLAN_USER_CLAN_TAG: Tag de Clan
+  IS_JOINING_THE_BATTLE_AT_YOUR_INVITATION_LABEL: |
+    A accepté de rejoindre la bataille à votre invitation
+  HELP_NAME_IS_FORBIDDEN: Le pseudo saisi ne peut pas être utilisé pour l'inscription
+  PREMIUM_COMPLETION_IN: 'Expire le '
+  OK_ENTER_GROUP_REMINDER: ''
+  CTF_MODE_NAME: Capture Du Drapeau
+  GARAGE_INFO_PANEL_BUTTON_BUY_TEXT: Acheter
+  CTF_RETURNED_OUR_FLAG: a retourné notre drapeau
+  REFERAL_WINDOW_SUMMARY_LABEL: 'Bonus total:'
+  GARAGE_CONFIRM_ALERT_CONFIRM_BUTTON_TEXT: Oui
+  RUGBY_GOAL_USER: a marqué un but
+  GAME_ACTION_USE_DOBLE_DAMAGE: Utiliser le Double Dégâts
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_SUM: Vous avez reçu %1
+  GAME_ACTION_PAUSE: Pause
+  GARAGE_NEW_ITEMS_ALERT: 'Félicitations! Maintenant, vous pouvez acheter les articles suivants dans le Garage :'
+  FACEBOOK_NAME: Facebook
+  CLAN_USER_CLAN_NAME: Nom du Clan
+  RENAME_FORM_NEW_UID_INPUT: Entrez votre nouveau pseudo
+  DM_MODE_NAME: Match à Mort
+  AS_MODE_NAME: Assaut
+  GARAGE_ALL_PROTECTION_PROPERTY: Protection contre tout
+  DRONE_DEFEND: Power up duration
+  CLAN_MY_CLAN: Mon clan
+  ALERT_GO_TO_BATTLE_IS_UNAVAILABLE_RANK_FUND: |-
+    Vous allez dans une bataille qui n'est pas disponible à votre grade.
+    Quitter la bataille actuelle? Votre score et le fond de bataille seront perdus.
+  CLAN_REQUEST_IS_ALREADY_SENT: Vous avez déjà demandé à rejoindre ce clan
+  HEADER_YOUR_TANK: VOTRE CHAR
+  CLAN_USER_CLAN_NUMBER_MEMBERS: Nombre de joueurs
+  ALERT_ANSWER_PROCEED: Procéder
+  REGISTER_FORM_CALLSIGN_INPUT_LABEL_TEXT: 'Pseudo:'
+  FRIENDS_REQUEST_EXIST_ALERT: Vous avez déjà envoyé une requête à %USERNAME%.
+  SETTINGS_DUST_LABEL_TEXT: Poussière
+  RESTORE_PASSWORD_INFO: <a href="http://help.tankionline.com/topic/854487-what-to-do-if-you-forgot-your-e-mail/ " target="_blank"><font color='#59ff32'><u>Info</u></font></a>
+  GARAGE_BULLET_SPEED_PROPERTY: Vitesse du projectile
+  GARAGE_HELPER_TANK_PARTS: |-
+    Pièces de char
+    et autres
+    éléments utiles
+  STATISTICS_HEADER_NUMBER: '#'
+  GAME_PRIVACY_POLICY: '- developpers.'
+  CTF_OUR_FLAG_RETURNED: Notre drapeau est retourné
+  DRONE_DAMAGE_PERCENT: Bonus damage
+  RENAME_FAILED_ALERT: Le changement de nom a échoué, veuillez réessayer ultérieurement
+  CLAN_POSITION_NOVICE: Novice
+  HEADER_CAUTION_EXTERNAL_LINK: LIEN EXTERNE
+  RENAME_BUTTON_LABEL_IN_GARAGE: Utiliser
+  CTF_CAPTURED_ENEMY_FLAG: a capturé le drapeau ennemi
+  CTF_ENEMY_FLAG_RETURNED: Le drapeau ennemi est retourné
+  HEADER_SETTINGS: PARAMÈTRES
+  CLAN_JOINED_CLAN: Vous avez rejoint le Clan
+  NEED_OF_EMAIL_SET: |-
+    Veuillez saisir votre adresse email afin d'augmenter la sécurité de votre compte.
+
+    Vous recevrez un e-mail comprenant un lien de vérification. Suivez-le et vous serez récompensé avec des cristaux gratuits.
+  ALERT_GARAGE_AVAILABLE: Maintenant, vous pouvez acheter des articles dans le garage.
+  DRONE_ARMOR_PERCENT: Bonus armour
+  JGR_MODE_NAME: Solo Juggernaut
+  CLAN_MEMBER_COLUMN_KILL_DEATH_RATIO: Taux de destruction
+  PROMO_CODE_DESCRIPTION_TEXT: |-
+    Vous pouvez utiliser les Codes Promo pour obtenir des Cristaux, Compte Premium, Gold Boxes, peintures et des éléments du Garage. Ces éléments seront instantanément ajoutés à votre compte.
+
+    Vous pouvez obtenir des Codes Promo à partir d'événements spéciaux.
+  CLAN_TAG_ALREADY: Tag déjà en cours d'utilisation
+  CHALLENGE_STARS: Stars
+  CLAN_SEARCH: Rechercher un clan
+  ERROR_CALLSIGN_LENGTH: La longueur de votre pseudo doit être supérieure à 1
+  SETTINGS_SHOW_CHAT_CHECKBOX_LABEL_TEXT: Afficher le tchat
+  MAP_THEME_NAME_DAY: Jour
+  CHAT_PANEL_COMMAND_UNBLOCK_ALL: La liste des ignorés a été vidée
+  SETTINGS_ANTIALIASING: L'anticrénelage
+  VKONTAKTE_NAME: VKontakte
+  CLAN_SEARCH_BLOCKED_HINT: Vous avez été bloqué, il vous est temporairement impossible de rejoindre un clan
+  CLAN_PURCHASE_INFORMATION: |-
+    Pour créer votre propre clan, vous devez acheter une licence.
+    Cette licence vous permettra de créer un seul clan.
+  BATTLE_CREATE_PANEL_CHECKBOX_PRIVATE_BATTLE: Bataille en privé
+  HEADER_MISSIONS: MISSIONS
+  FRIENDS_REMOVE_USER: Supprimer %USERNAME% de votre liste d’amis ?
+  SPECTATE_TEXT: Observer
+  BATTLE_STAT_KILLS: Détruits
+  HEADER_REGISTRATION: INSCRIPTION
+  BATTLE_LIST_DESCRIPTION: Créez des batailles avec vos réglages préférés, ou rejoignez d'autres batailles personnalisées.
+  CLAN_REMOVE_REQUEST_TO_CLAN: Retirer votre demande
+  REARM_APPLY: Les changements d'équipement sont en train d'être appliqués
+  AS_MODE_DESCRIPTION: Si vous jouez pour l'équipe bleue, protégez votre base des attaques ennemis. Si vous jouez pour l'équipe rouge, déposez votre drapeau dans la base de l'équipe bleue pour obtenir des points. L'équipe avec le plus de points gagne.
+  REARM_PAUSE_1: Pause activée
+  HEADER_INFORMATION: INFORMATIONS
+  DECLINE_LABEL: Refuser
+  BATTLE_STAT_SCORE: Score
+  CLAN_NUMBER_MEMBERS_WITH_COLON: 'Nombre total de joueurs :'
+  REARM_BATTLE_EXIT: Quitter la bataille
+  CONFIRM_RENT_QUESTION: Confirmer la location?
+  CHECK_PASSWORD_FORM_PASSWORD: 'Mot de passe :'
+  GROUP_INVITE_RESPONSE_INVITATIONS_DISABLED: Invitations aux groupes sont désactivés
+  OPEN_BATTLE_LIST_BUTTON: Ouvrir
+  SETTINGS_ENABLE_ADAPTIVE_FPS_CHECKBOX_LABEL_TEXT: FPS Adaptative
+  RENAME_FORM_CURRENT_PASSWORD_INPUT: Entrez le mot de passe actuel de votre compte
+  BATTLE_ENTER_ERROR_EQUIPMENT_NOT_MATCH_CONSTRAINTS: "Cette bataille ne peut être jointe qu'avec un équipement spécifique. \nVotre char ne correspond pas aux critères de ce format. Plus d'informations <a href='http://en.tankiwiki.com/Format_Battles' target='_blank'><u>ici</u></a>."
+  GAME_ACTION_DROP_GOLD_BOX: Utiliser une Gold Box
+  CLAN_YOU_ALREADY_IN_CLAN: Vous êtes déjà un membre d'un clan
+  CLAN_PLAYER_IS_INVITE_LIST: Le joueur %USERNAME% a déjà été invité
+  PROFILE: Profile
+  PREMIUM_ALERT_WELCOM: Bienvenu parmi les rangs des tankistes Premium !
+  GARAGE_DAMAGE_PROPERTY: Dégâts
+  CTF_RETURNED_ENEMY_FLAG: a retourné le drapeau ennemi
+  CAPTCHA_FORM_TITLE: 'Écrivez les symboles de l’image:'
+  BATTLE_CREATE_PANEL_BUTTON_TEAM_DEATHMATCH: Match à Mort en équipe
+  REDUCE_DAMAGE_RICOCHET: Ricochet
+  DAILY_QUEST_GET_PRIZE: Réclamer la récompense
+  HELP_PANEL_MAIN_MENU_HELPER_ARROW_LENGTH: '60'
+  CLAN_DOES_NOT_ACDEPT_REQUEST: Ce clan n'accepte pas de requêtes
+  AUTOCOMPLETION_ENEMY_TEAM_IS_EMPTY: L'équipe adverse est vide
+  GAME_ACTION_TANK_TURN_RIGHT: Virez le char à droite
+  GARAGE_CONFIRM_ALERT_CANCEL_BUTTON_TEXT: Non
+  VK_ENTER_GROUP_BONUS: ''
+  DRONE_RELOAD: Drone Recharge Time
+  PAYMENT_BUTTON_BACK_TEXT: Paquets
+  DRONE_INVENTORY_COOLDOWN_SUBTRACTION: Supply reload speed increase in sec.
+  HEADER_DM_TOURNAMENT: TOURNOI COMBAT À MORT
+  ERROR_EMAIL_NOT_UNIQUE: L'E-mail n'est pas unique
+  CLAN_LEAVE: Quitter le clan
+  ERROR_CALLSIGN_NOT_SINGLE_DEVIDERS: Vous devez utiliser uniquement les signes "." ou "_" ou "-" dans votre pseudo
+  MAP_THEME_NAME_SPACE: Espace
+  FRIENDS_COPY_NAME: Copier le nom
+  CTF_RETURNED_FLAG_NEUTRAL: a retourné le drapeau
+  SETTINGS_MOUSE_SENSITIVITY_CHECKBOX_LABEL: Sensibilité de la souris
+  FRIENDS_DECLINE_REQUEST: Décliner la requête
+  BATTLE_CREATE_PANEL_BUTTON_RUGBY: Rugby
+  MODULE: Module
+  CLAN_ALERT_REMOVE_PLAYER: Expulser %USERNAME% du clan ?
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTTON_ARROW_LENGTH: '30'
+  STATISTICS_HEADER_KILLS: Détruits
+  DRONE_CRITICAL_HEALTH: Healing
+  CHAT_SHARP_THEFT: vol|Que faire si mon char est volé|http://help.tankionline.com/topics/2358-what-to-do-if-your-account-has-been-stolen/
+  PAYMENT_OPERATORS_LABEL_TEXT: 'Opérateur:'
+  SETTINGS_MOUSE_CONTROL_CHECKBOX: Contrôles de la souris
+  ALERT_EMAIL_REGISTRATION: |-
+    Félicitations pour votre inscription ! Le char est prêt pour la bataille !
+    Votre mot de passe a été envoyé à votre e-mail indiquée.
+  CHAT_SHARP_COMMANDS: équipes|Équipes|http://en.tankiforum.com/index.php?showforum=123
+  ERROR_PASSWORD_INCORRECT: Le mot de passe est incorrect
+  DOM_WE_LOST_POINT: Nous avons perdu le point {point}
+  DELETE_PRESENT_BUTTON: Supprimer
+  HEADER_UPGRADE: AMÉLIORER
+  GARAGE_THUNDER_PROTECTION_PROPERTY: Protection contre Thunder
+  FRIENDS_NAME: Nom
+  CLAN_PLAYERS_IN_CLAN: Joueurs dans le clan
+  ALERT_ACCOUNT_ALREADY_LINKED: Ce compte %1 a déjà été associé
+  YOUR_FRIEND_IS_OFFLINE_LABEL: |-
+    L'invitation n'a pas été envoyé
+    Votre ami(e) est actuellement hors ligne
+  CHAT_LABEL_TEAM: À l’équipe
+  GARAGE_MAX_SPEED_PROPERTY: Vitesse maximale
+  CLAN_BUTTON_PROFILE: Profile de clan
+  GAME_ACTION_SHOOT: Tirer
+  GARAGE_RICOCHET_PROTECTION_PROPERTY: Protection de Ricochet
+  BATTLE_PLAYER_SUICIDED: s'est autodétruit
+  SPECTATOR_NAME: Spectateur
+  MUTE_BUTTON_TOOLTIP: Basculer en sourdine activé/désactivé.
+  REFERAL_WINDOW_COUNT_LABEL: 'Tous les amis inscrits:'
+  BATTLE_PLAYER_LEFT: a quitté
+  GARAGE_BUY_TEXT: Acheter
+  SHOW_DAMAGE: Montrer les dégâts
+  DRONE_BONUS_RADIUS: Bonus radius
+  HELP_PASSWORDS_DO_NOT_MATCH: Les mots de passe ne correspondent pas
+  HEADER_BATTLES: BATAILLES
+  CTF_LOST_OUR_FLAG: a perdu notre drapeau
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_ARROW_LENGTH: '30'
+  PARTNER_LOGIN_FORM_ENTER_USERNAME_TEXT: Entrez votre pseudo Tanki Online et mot de passe pour jouer à partir du réseau partenaire.
+  CHANGE_UID_FORM_NEW_UID_TEXT: 'Nouveau pseudo:'
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_COMPENSATION: 'Compensation pour cet élément:'
+  MEESAGE_ALERT_OFFER: $USERNAME$, vous venez de recevoir une occasion rare de tester $ITEM-NAME$ au combat!
+  CHAT_SHARP_FORUM: forum|Forum|http://en.tankiforum.com/
+  CLAN_PROFILE_OPEN: Ouvrir
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_ARROW_LENGTH: '30'
+  REARM_PAUSE_3: Vous quitterez la bataille dans {time}
+  SETTINGS_SOFT_PARTICLES_LABEL_TEXT: Particules
+  NEW_PRESENTS_ALERT_ACCEPT_BUTTON: Vue
+  TURNOVER_HINT_1: Utilisez le recul de votre tourelle pour vous remettre sur vos roues
+  SETTINGS_SHOW_FPS_CHECKBOX: Afficher les FPS et le ping
+  HELP_PANEL_MAIN_MENU_HELPER_TEXT: Menu principal
+  NEWBIES_ABONEMENT_WINDOW_TEXT: |-
+    Bienvenue dans les rangs des joueurs de Tanki partout dans le monde!
+
+    Vous gagnerez EXPERIENCE_BONUS% de points d'expérience additionnels et CRYSTAL_BONUS% supplémentaires sur les cristaux pour chaque bataille que vous jouerez pendant que cette carte spéciale « Débutant » est active. Vous donnant un bon coup de pouce au cours de vos premiers jours en tant que recrue.
+
+    Assurez-vous de l'utiliser à son plein potentiel en jouant autant de batailles que possible !
+  REARM_BATTLE_PRIZE: Vous avez reçu {crystalls}
+  FRIENDS_CANCEL_BUTTON_TEXT: Annuler
+  CLAN_DESCRIPTION_LABEL: Description de clan
+  ESTIMATED_WAITING_TIME_LABEL: Temps d’attente moyen
+  DOM_ENEMIES_LOST_POINT: Les ennemis ont perdu le point {point}
+  REGISTER_FORM_CONTINUE: Complèter
+  PRESENT_RECIPIENT_NAME: Pseudo du destinataire...
+  PLAY_BUTTON: Jouer!
+  GARAGE_PROTECTION_PROPERTY: Protection
+  DRONE_POWER_BOOST: Additional supply power
+  GARAGE_UPGRADE_TEXT: Améliorer
+  WEEKLY_QUEST_HINT: Complétez au moins une mission par jour pour 7 jours de suite pour recevoir un <a href='event:'><font color='#59ff32'><u>bonus</u></font></a> additionnel
+  CHAT_PANEL_COMMAND_BLOCK: 'L''utilisateur %1 est ajouté à la liste des Ignorés '
+  TIME_LABEL_HOUR: h
+  SHOP_WINDOW_PURCHASE_INSTRUCTION: <a href="http://tankionline.com/en/crystals/" target="_blank"><font color='#59ff32'><u>Instructions d'achat</u></font></a>
+  CLAN_SEND_INVITE: Envoyer une invitation...
+  RUGBY_BALL_LOST_RED: L'équipe rouge a perdu le ballon
+  OPEN_ALL_CONTAINERS: Open all
+  REDUCE_DAMAGE_MINE: Mine
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_ENTER: Entrez
+  CLAN_USER_CREATION_DATE: Date de création du clan
+  ERROR_EMAIL_DOMAIN_IS_FORBIDDEN: Adresse postale interdite
+  HEADER_VK_ENTERING_GROUP: ''
+  BLOCK_USER_CONTEXT_MENU_LABEL: Ignorer
+  MESSAGE_ALERT_PERSONAL_DISCOUNT: |-
+    $USERNAME$, vous pouvez maintenant acheter $ITEM-NAME$ à $DISCOUNT$% off.
+    Mais dépêchez-vous! Cette offre se termine dans $DISCOUNT_TIMER$.
+  CLAN_FLAG: Drapeau
+  PARTNER_PARAMETRS_ERROR: Vous tentez d'entrer dans le jeu en vous servant de mauvais paramètres.
+  LEAVE_GROUP_BUTTON: Quitter le groupe
+  DOM_RED_CAPTURED_POINT: L’équipe rouge a capturé le point {point}
+  COPY_LINK_BUTTON_LABEL: Copier le lien
+  DISCOUNTED_AT_KIT: Avec une réduction de {0}
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_ARROW_LENGTH: '48'
+  ACCEPTED_LIMIT_EXCEEDED_ALERT: Vous ne pouvez pas accepter la demande d'amis. La Liste d'Amis de %USERNAME% a atteint le nombre maximum de joueurs.
+  NO_PLACES_AVAILABLE_LABEL: Pas de places disponibles
+  SETTINGS_MIPMAPPING_LABEL_TEXT: Mip-mapping
+  BATTLE_CREATE_PANEL_BUTTON_JGR: Juggernaut
+  DRONE_MINE: Number of saved up mines
+  FRIENDS_YOU_ARE_HERE_BATTLE_INDICATOR: (Vous êtes ici)
+  GAME_ACTION_FULL_SCREEN: Plein écran/réduire
+  FRIENDS: Amis
+  CLAN_MEMBER_COLUMN_LOST: Perdu
+  HEADER_COMMUNICATOR: COMMUNICATEUR
+  BATTLE_EXIT: Quitter
+  HOLIDAY_MODE_NAME: Event mode
+  GARAGE_CONFIRM_ALERT_BUY_QEUSTION_TEXT: Confirmez-vous l’achat ?
+  STATISTICS_HEADER_SCORE: Score
+  TOTAL_PRICE_KIT: 'Total:'
+  GARAGE_EQUIPPED_TEXT: Équipé
+  FITTING_BUTTON_TEXT: Aperçu
+  CHECK_PASSWORD_FORM_REMEMBER: Connexion automatique
+  PAYMENT_PRESENT_LABEL_TEXT: GRATUITEMENT!
+  ERROR_EMAIL_NOT_SENDED: Mail non envoyé
+  SETTINGS_BACKGROUND_SOUND_CHECKBOX_LABEL_TEXT: Fond sonore
+  WARM_UP_LABEL: Préparez-vous pour la bataille
+  CLAN_EDIT_PROFILE: Modifier le profile
+  STATISTICS_HEADER_RATING: Classement
+  PARTNER_REGISTARTION_FORM_CONTINUE: Accepter
+  CLAN_NOT_RECRUITING: Ce clan ne recrute pas actuellement
+  FORMAT_NAME_PARKOUR: Parcour
+  SETTINGS_TAB_NAME_ACCOUNT: Compte
+  HEADER_SECURITY: SÉCURITÉ DU COMPTE
+  ALERT_ACCOUNT_LINKING_ERROR: Une erreur s’est produite lors de la liaison à votre compte, veuillez réessayer ultérieurement
+  SHOP_WINDOW_PAYMENT_CATEGORY_DESCRIPTION: Veuillez choisir votre méthode de paiement préférée avant de procéder
+  CLAN_SEND_REQUEST: Rejoindre Le Clan
+  CLAN_NAME_ALREADY: Le nom du clan est déjà utilisé
+  HEADER_LINK: JONCTION
+  CTF_GOT_ENEMY_FLAG: a pris le drapeau ennemi
+  BATTLE_STAT_REWARD: Récompense
+  CHAT_SHARP_CLANS: clans|Clans|http://en.tankiforum.com/index.php?showforum=42
+  SETTINGS_SHOW_DROP_ZONES_LABEL_TEXT: Afficher les zones de largage
+  GAME_ACTION_TURRET_TURN_LEFT: Faire pivoter la tourelle à gauche
+  CHANGE_UID_FORM_NEW_PASSWORD_TEXT: 'Nouveau mot de passe:'
+  GAME_ACTION_USE_NITRO: Utiliser le Boost de Vitesse
+  KEYBOARD_KEY_SPACE: Espace
+  FRIENDS_ALREADY_HAVE_INCOMING: Vous avez déjà reçu une demande de %USERNAME%. L'accepter?
+  GARAGE_PRICE: Prix du garage
+  ALERT_ANSWER_NO: Non
+  HEADER_INVITE_A_FRIEND: INVITER UN(E) AMI(E)
+  BATTLE_CANNOT_BE_FOUND_LABEL: |-
+    L'invitation n’a pas été envoyée
+    La bataille est introuvable
+  ALERT_QUIT_TEXT: Êtes-vous sûr de vouloir quitter?
+  GARAGE_TURN_PROPERTY: Vitesse de virage
+  GAME_RULES: "Règles Brèves \n\nLes activités ci-dessous sont interdites dans le jeu, dans les tchat/lobby de discussion, dans les forums et tous les autres endroits officiels de communication :\n\n– utilisation des bots, utilisation de logiciel de tierces parties, exploitation des bugs ;\n– personnifier un membre d'administration ou un de ses assistants ;\n– créer des obstacles contre d'autres utilisateurs ;\n– la publicité, propagande politique ;\n– violation des lois, y compris des lois de propriété intellectuelle ;\n– vente, achat, échange, transfert des comptes ou toute autre propriété du jeu ;\n– fraude ou d'autres actions malhonnêtes.\n– insultes, menaces, calomnie ;\n– langue obscène, incluant sous la forme implicite ;\n– Spam, agacement, écrire en majuscules (FONCTION MAJUSCULE) ;\n– mots de passe escroquant ou d'autres données de compte ;\n– inciter les autres à enfreindre les Règles de Jeu ;\n– publication d'information interdite par la législation ;\n– publication des liens à de ressources de tierces parties ;\n– toutes formes de discrimination.\n\n\nRègles du Jeu\n\nVous êtes dans Tanki Online, un jeu où les gens à travers le monde prennent plaisir d’être aux commandes d’énorme machines de guerre et participent aux batailles féroces ! Les joueurs peuvent combattre seuls ou s'associer pour lutter pour la victoire côte à côte. Ils/elles peuvent également socialiser et trouver de nouveaux amis.\n\nTanki Online est un jeu d'action multijoueur facile à jouer. Des batailles sérieuses sont au rendez-vous ainsi qu'un excellent réseau social.\n\nAprès avoir complété la procédure d'enregistrement, l'utilisateur reçoit un char de combat virtuel et 1000 cristaux (la monnaie dans le jeu). En gagnant des batailles, les utilisateurs augmentent leur classement général et reçoivent de nouveaux Grades et des cristaux. Les cristaux peuvent être employés pour acheter des équipements utile aussi bien que pour acheter ou améliorer des armes à feu, des chars ou des couche de peintures.\n\nTanki Online est plus que juste un jeu passionnant sur l’Internet. C'est une communauté des personnes qui partagent les mêmes intérêts. Nous encourageons le respect et la courtoisie mutuels et décourageons fortement le comportement offensif et/ou la violation d'autres droits d'utilisateurs. Les administrateurs se réservent le droit de limiter les capacités de communication des utilisateurs, d'abaisser leurs classements généraux, et/ou de bloquer leurs comptes s'ils/elles enfreint ces Règles de Jeu.\n\nTermes généraux\n\nLes Règles du Jeu sont une partie intégrante du contrat de licence utilisateur final (ci-après désigné sous le nom de « l'Accord » ou d'EULA) et d'autres documents du Jeu et des services fourni dans le Jeu. À leur tour, l'accord, et la politique de confidentialité ainsi que les témoins, aussi bien que d'autres documents édités dans le Jeu et les services fourni dans le Jeu, sont une partie intégrante de ces Règles de Jeu. Tous les termes et notions utilisés dans les Règles du Jeu ont la même signification que leur a été assigné dans l'accord. N'importe quelle utilisation du Jeu et ses équipements en ligne et/ou cliquer sur « Accepte » à la fiche signifie que vous êtes au courant et êtes d'accord avec les Règles de ce Jeu, et acceptez sans réserve tous ses termes. Les Règles du Jeu sont obligatoires pour tous les utilisateurs. Si vous êtes en désaccord avec n'importe quelles conditions de ces Règles de Jeu, vous n’avez pas droit à l'utilisation prolongé du Jeu et de ses services, quittez s’il vous plait ce site et ne faites pas usage du Jeu.\n\n\n1. Il est interdit de créer des pseudos (noms d'utilisateur) qui : \n\n1,1. Contiennent des mauvaises paroles ou des paroles grossières, insultes/provocations pour l'insulte (sous forme de mots, d'abréviations, d'expressions ou de phrases) ; \n1,2. Contiennent des éléments raciste, du fascisme, les insultes ou les pseudos basés sur l'identité raciale, nationale ou religieuse, ou ceux qui incite la haine, l’intolérance, la discorde ethnique ; \n1,3. Contiennent des appels à la violence, le terrorisme, l'extrémisme et/ou les perturbations de masse ; \n1,4. Contiennent la sollicitation politique, la propagande, des publicités politique de tout genre ; \n1,5. Sont directement ou indirectement liés aux organisations politiques (des individus), y compris ceux qui ont commis des crimes politiques ou des crimes contre l'humanité, des actes terroriste ;\n1.6. Contiennent la discrimination entre les sexes, l’âge, la religion ou d'autres caractéristiques ;\n1.7. Contiennent la propagande directe ou indirecte, l’appel à la consommation de substances alcooliques et des boissons contenant de l'alcool, de bière, de produits du tabac, de drogues, de produit toxique, psychotropes et/ou des substances d'ivresse, leurs précurseurs, contiennent des informations sur les endroits et les méthodes de leur production, acquisition, culture et utilisation ;\n1.8. Contiennent les informations sur des appels pour la participation dans des jeux de hasard, la prostitution, le vagabondage, la mendicité ;\n1.9. Contiennent des informations sur des méthodes pour commettre le suicide, les incitations pour commettre le suicide, la violence, ou d'autres actions qui constituent une menace pour la vie ou la santé ;\n1.10. Contiennent l'incitation au comportement illégal, crime, violence, la cruauté, infliction de mal qui incitent de commettre des actes interdites par des lois ;\n1.11. Contiennent les parties de noms de l'utilisateur des employés d'administration ou Contiennent l'information qui peut nécessiter la perception incorrecte de l'utilisateur comme représentant d'administration ;\n1.12. Contiennent la critique sur le jeu, de l'administration ou des modérateurs ;\n1.13. Directement ou indirectement sont reliés aux rapports sexuels, à la violation, à la pornographie, à la pédophilie, et à n'importe quelle autre forme de violence ou de pratique sexuelle, déviant ou autrement ;\n1.14. Contiennent les descriptions du corps et de ses fonctions biologiques sexuelles ;\n1.15. Contiennent la publicité et les liens hypertextes ;\n1.16. Contiennent les références aux codes de fraude, sites de fraude, les ressources qui violent les droites de l'administration ;\n1.17. Consistent d’ensembles de lettres aléatoires imprononçables (noms de l'utilisateur de spam) ;\n1.18. Consistent entièrement ou partiellement des éléments de marque déposée qui sont enregistrés et/ou sont protégés par loi sur les Droits d'Auteur ;\n1.19. Contiennent d'autres informations interdites par ces Règles de Jeu, l'accord et/ou les lois en vigueur.\n1.20. Si un nom d'utilisateur n'est pas conforme aux conditions ci-dessus, d'autres conditions qui sont spécifiées dans ces Règles de Jeu, l'accord, ou les lois en vigueur, l'administration aura le droit, à sa discrétion :\n– d’exiger à l'utilisateur de changer le nom d'utilisateur en un plus acceptable et de bloquer le compte de l'utilisateur pendant la période requise de changer le nom d'utilisateur ;\n– de bloquer irrévocablement le compte de l'utilisateur.\n\n\n2. Activités et comportements qui sont interdits pour les utilisateurs du jeu :\n\n2.1. Les actions qui mèneront (à la discrétion de l'administration) au blocage permanent ou provisoire d'un compte d'utilisateur :\n2.1.1. L'automatisation de la jouabilité, y compris l’usage de « bots » (l’utilisation du logiciel qui imite les actions des utilisateurs dans le jeu), l’utilisation des programmes de « clicker », les macros qui commandent la souris et le clavier, l’utilisation de logiciel de tierces parties pour obtenir des avantages dans le jeu ;\n2.1.2. Application ou distribution de logiciel de tierces parties ou autres moyens pour l'amélioration/automation des possibilités de jeu (bots, fraudes), aussi bien que les programmes qui peuvent détériorer le fonctionnement du jeu et/ou le fonctionnement des appareils électroniques des troisième personnes ;\n2.1.3. Informations d'exploitation des erreurs de programmation dans le jeu, et de transfert sur elles aux troisièmes personnes, excepté l'administration ;\n2.1.4. Batailles entre les comptes possédés par le même utilisateur ;\n2.1.5. Sabotage — n’importe quelle actes ou des omissions visant de créer des obstructions pour l'équipe dont l'utilisateur est un membre,  ce qui inclut les modes de CTF, de TDM et de CP, luttant contre l'équipe dont vous êtes un membre (sélection intentionnelle d'équipement faible, pauses fréquentes, inactivité ou manque intentionnel de se conformer aux conditions du mode de la carte ou du jeu, imitation des questions avec la connexion internet), endommager/détruire le char de combat d'un allié, combattant dans l'intérêt de l'équipe adversaire (conspiration) ;\n2.1.6. L'utilisation des services du jeu et/ou des services du jeu pour des actions frauduleuses, incluant des opérations financières frauduleuses sans limite dans le jeu, fraude au cours des transactions, paiements, y compris n'importe quel remboursement, et des transactions interdit ;\n2.1.7. Fraude — réception de la devise du jeu en utilisant des moyens frauduleux. L'administration avertit les utilisateurs que de telles activités peuvent mener à une poursuite pénales ou autre responsabilités ;\n2.1.8. Le transfert de compte ou d'autres valeurs de jeu aux troisième personnes ; la publication de n’importe quelle offre à vendre, achat, ou transférer la propriété de compte ou dans le jeu, gratuitement et pour des cristaux ou des fonds, aussi bien que des instigations sur les actions soulignées ;\n\n\n2.2. Actions qui mèneront (à la discrétion de l'administration) à une limitation permanente de l'accès aux tchat/lobby de discussion du jeu et au forum (interdiction) :\n\n2.2.1. Hameçonnage/escroquerie — actions qui ont pour but d’accéder aux données confidentielles des utilisateurs, telles que des identifiants et des mots de passe ;\n2.2.2. Publication de liens liés aux tierces parties qui sont déguisées en tant que ressources officielles du jeu ;\n2.2.3. Publication de liens liés aux ressources qui promettent des cristaux gratuits, des cristaux fournis par l'administration, ou expliquent ou décrivent l'exploitation des bugs de cristal, etc. ;\n2.2.4. Publication de sites/pages d’accueille contenant le logiciel de tierces parties (fraudes, programmes, clients, etc.), propager des liens pour des sites contenant le logiciel qui change la fonctionnalité ou promet de faire ainsi ;\n2.2.5. D'autres cas de fraude, destinés à voler les comptes d'utilisateurs.\n\n\n2.3. Actions qui mèneront (à la discrétion de l'administration) à une limitation provisoire de l'accès aux tchat/lobby de discussion du jeu et du forum s’élevant jusqu'à 6 mois (interdiction) :\n\n2.3.1. Discrimination envers les joueurs inexpérimentés (novice d’internautes) : information fausse, intimidation, moquerie ;\n2.3.2. Insultes, calomnie (diffusion des informations mensongères) par rapport à d'autres utilisateurs, administration, présidents, d'autres personnes ;\n2.3.3. Performance de toutes actions qui ont une influence négative sur le développement et l'image du jeu ;\n2.3.4. D'autres formes de comportement qui gênent le processus normal du jeu qui sera identifié en tant que tels par l'administration.\n2.3.5. Tentatives d'obtenir le mot de passe, d'autres information de compte ou toute autre information personnelle de tout autre utilisateur, incluant sous forme d'extorsion à l'aide des menaces morales, physiques ou techniques ;\n2.3.6. Le partage du mot de passe de son propre compte\n2.3.7. Diffusion de toutes informations personnelles au sujet d'autres utilisateurs ou sur les troisième personnes (à moins qu'une telle information est publiquement accessible) ;\n2.3.8. L’utilisation d’un langage grossier et frappante, d'autres mauvais mots ou mots grossiers (expressions) non classifiées en tant que mauvaise langue, incluant sous la forme implicite ;\n2.3.9. Publication d'information et matériaux de nature sexuelle, érotique ou pornographique, visualisant ou décrivant des rapports sexuels ou des pratiques sexuelles déviantes, aussi bien que signalant des liens aux ressources contenant une telle information ;\n2.3.10. Publication d'information ou symboles qui insultent ou humilient les sentiments des croyants, incite la haine, la discorde, l'intolérance (insultes y compris, donnant des surnoms sur la base des caractéristiques raciales, nationales, ethniques, religieuses), et également la provocation d'hostilité, raciales, internationales ou ethniques du l'interlocuteur pour commettre les actions spécifiques ;\n2.3.11. Propagande ou démonstration des emblèmes Nazis, les symboles, les abréviations ou les désignations, les noms et les noms de famille des activistes Nazis ;\n2.3.12. Publication d'information dans lesquels on peut voir des éléments qui font appelle à la violence, à la guerre, au terrorisme, au renversement de puissance ; activité extrémiste et/ou perturbations de masse ;\n2.3.13. La publication d'informations sur des organisations politiques (chefs politiques) qui ont commis des crimes politiques ou des crimes contre l'humanité, des actes terroriste, ou ont autrement violé les lois internationales ;\n2.3.14. Toute forme de discrimination de sexes, d’âge, de religion ou d'autres caractéristiques ;\n2.3.15. Publication d'information contenant des méthodes pour commettre le suicide, les appels pour commettre le suicide, la violence, ou d'autres actions qui constituent une menace pour la vie ou la santé, descriptions des techniques de combat dangereuses, cascades, méthodes pour la production d'armes, description des méthodes de modification de corps ;\n2.3.16. La publication d'information qui décrit, incite ou justifie la cruauté illégale ou le comportement antisociale, de crime, de violence, de mutilation, psychique ou physique aux gens, animaux, infligeant des dégâts sur la propriété des autres ;\n2.3.17. Publication d'information qui cause la crainte, l'horreur ou la panique chez les enfants, y compris des photos ou des descriptions de la mort, des maladies, de suicide, d'accidents, des cas d'urgences ou de catastrophes et (ou) de leurs conséquences, d'autre information qui peut endommager la santé ou le développement des mineurs ;\n2.3.18. La publication d'information qui contient la propagande directe ou indirecte, appelle à la consommer des boissons alcooliques et contenant de l'alcool, la bière, les produits de tabac, les accessoires de tabagisme, de drogues, de produit toxique, psychotropes et/ou des substances d'ivresse, leurs précurseurs, contient des informations sur les endroits et les méthodes de leur production, acquisition, culture et utilisation ;\n2.3.19. Publication d'information qui peut encourager le désir de participer aux jeux de hasard, à la prostitution, au vagabondage ou à la mendicité ;\n2.3.20. Toute utilisation des objets de propriété intellectuelle (logiciel, art, vidéo et d'autres objets ou leurs pièces, marques déposées, etc.), ou d'autres matériaux sans autorisation du vrai propriétaire  ; publication de liens au contenu piraté ; la suppression ou le changement d'information sur des droits de propriété intellectuelle, en particulier des liens aux vrai propriétaires, aux auteurs et à toute autre confirmation des droits de propriété intellectuelle ;\n2.3.21. Publication d'information qui peut avoir comme conséquence du mal/une perte pour les utilisateurs ou l'administration ;\n2.3.22. Fournissement d'information, de documents ou de fausses preuves ou informations factices. L'administration avertit les utilisateurs au sujet des actes criminelles et toute autre responsabilité de telles activités ;\n2.3.23. Création des sujets et/ou des messages dans les tchat/lobby de discussion et/ou les forums du jeu qui sont exacerbant (« discuter dans l'intérêt d'argumenter », un échange des messages qui est juste une guerre des mots, n'ayant souvent aucune relation à la cause originale du conflit) ;\n2.3.24. Création des sujets et/ou des messages dans les tchat/lobby de discussion et/ou les forums du jeu, destinés à provoquer d'autres utilisateurs, l'administration, présidents, aussi bien qu'obstruer la communication au forum ou au discussion dans le jeu ;\n\n\n2.4. Actions qui mèneront (à la discrétion de l'administration) à une limitation provisoire de l'accès aux tchat/lobby de discussion du jeu et du forum pour jusqu'à 24 heures (interdiction) ou un avertissement officiel :\n\n2.4.1. Toutes tentatives d’imiter un ancien ou employé actuel de l'administration ou de l'assistant de projet (président, conseiller, etc.), y compris envoyer des messages au nom de l'administration ou des modérateurs ;\n2.4.2. La supplication sous toute forme, y compris des demandes de transférer des fonds, des valeurs de jeu ou des cristaux ;\n2.4.3. Publication d'information qui nie des événements historiques ;\n2.4.4. Publication d'information qui contient la sollicitation politique, la publicité politique, propagande d'élection de toute sorte ;\n2.4.5. Discussion des problèmes politiques actuels qui peuvent provoquer le conflit de n’importe quelque façon ;\n2.4.6. Les menaces sous n'importe quelle forme liées aux utilisateurs, à l'administration ou aux troisièmes personnes ;\n2.4.7. Publication d'informations sur un mineur qui a souffert en raison des actions illégales (omissions) ;\n2.4.8. Publication des tous matériels publicitaires ou information sans approbation de l'administration ;\n2.4.9. Critique non constructive du jeu et/ou de ses auteurs, le Propriétaire ;\n2.4.10. La Commission ou instigation (provocation) aux actions (inaction) qui sont interdites par ces Règles de Jeu, l'accord et/ou loi applicable.\n2.4.11. Commencer des sujets et/ou créer des messages dans des discussions du jeu et/ou sur le forum qui :\n2.4.11.1. Reproduisent les sujets ou les messages déjà existants, aussi bien que les sujets qui ont été récemment discutés et/ou auxquelles les réponses sont disponibles dans les rubriques d'informations (les Règles de Jeu, FAQ, plans, etc.).\n2.4.11.2. Ne correspondent pas au thème de la section/de catégorie ;\n2.4.11.3. Contiennent la fonction majuscule ou beaucoup de majuscules dans le titre et/ou le contenu du sujet ou du message ;\n2.4.11.4. Contiennent le suivant dans le titre et/ou la description du sujet ou du message : des symboles ou des caractères inutiles ou répétés, émoticônes, des liens de parrainage, « codes de triche », l'information qui complique la compréhension du sujet ou de la section, ou n'a aucune signification (Spam), par exemple == – mon sujet – == ;\n2.4.11.5. Contiennent le texte avec la taille de police plus grande que 24 ;\n2.4.11.6. Manque d'information et ne reflètent pas un sens du sujet en cause dans le titre ou la description du sujet ;\n2.4.11.7. Citent les parties de messages précédents qui sont trop élargis, et/ou d'images sans n'importe quelle nécessité spéciale (citation exagérée) ;\n2.4.11.8. Continuent à discuter sur des sujets qui ont été clos ou supprimés par l'administration (publication de sujet abouti) ;\n2.4.11.9. Ont la nature d'un appel personnel aux participants de forum. Pour la communication personnelle veillez employer les messages privés s’il vous plait. Les discussions personnelles sont parallèlement permit pour résoudre des problèmes.\n2.4.11.10. Contiennent le Spam, c’est-à-dire., distribuent l'information que le destinataire n'a pas demandée, n’a montrée aucun intérêt pour la réception, et/ou n'avait donné aucun consentement à la réception ;\n2.4.11.11. Contiennent d'autre information ou violations qui sont interdites par ces Règles de Jeu, l'accord et/ou des lois applicables.\n\n3. Application des restrictions à l'utilisateur\n\n3.1. Si un utilisateur viole ces Règles de Jeu, l'administration sera autorisée à appliquer les restrictions stipulées dans la section appropriée des Règles de Jeu à cet utilisateur. Les restrictions possibles ne sont pas limitées à celles mentionnées. L'administration se réserve le droit d'appliquer d'autres restrictions à sa propre discrétion, qui s’élève jusqu'au blocage permanent du compte, y compris la réduction partiel ou complète de la propriété virtuelle, de placements, des accomplissements et toutes possessions de l'utilisateur dans le jeu (garage, cristaux, statistiques de jeu).\n3.2. En choisissant des restrictions, l'administration considère le type et le nombre de violations, aussi bien que les violations précédentes de ces Règles de Jeu par l'utilisateur.\n3.3. L'administration sera autorisée, à sa propre discrétion, de supprimer n'importe quelle information ou message ; de supprimer/déplacer le sujet créé se trouvant dans la mauvaise section du forum, sans avis.\n3.4. L'administration sera autorisée, à sa propre discrétion, d’appliquer une ou plusieurs restrictions simultanément à l'utilisateur, ou de donner un avertissement.\n3.5. La violation de ces Règles de Jeu signifie que l'utilisateur peut être immédiatement, sans n'importe quelle communication préalable, rejeté pour la prestation des services du jeu ou de tels services peuvent être limités entièrement ou en partie.\n3.6. Si un utilisateur enfreint les Règles de Jeu plusieurs fois ou d'une façon intégrée, l'administration sera autorisée, à sa propre discrétion, de répéter les restrictions appliquées à l'utilisateur.\n3.7. Car il n'est pas toujours possible d'identifier avec précision les infractions particulières des Règles de Jeu, la conclusion définitive demeure toujours avec l'administration.\n3.8. Ces restrictions peuvent être appliquées à n'importe quel compte de l'utilisateur qui enfreint ces Règles de Jeu.\n3.9. Les messages privés sont prévus pour la communication personnelle des utilisateurs dans des services de jeu et sur le forum. Tout en traitant des plaintes au sujet de la violation des Règles de Jeu, l'administration ne considérera pas des plaintes au sujet des messages privés, excepté des infractions des Règles de Jeu dans les messages privés des membres ou des assistants de l'administration. Un utilisateur peut cesser de recevoir les messages privés d'un autre utilisateur en ajoutant cette personne sur la liste noire dans la section appropriée du profil de l’utilisateur sur le forum.\n3.10. L'administration sera nullement responsable de n'importe quels perte ou dégâts, directe ou indirecte, qu'un utilisateur ou une tierces partie pourrait avoir subit en raison de l'usage de l'utilisateur ou de l'utilisation du tierces parties du site Internet, du jeu et de /or les équipements en ligne y compris notamment des dégâts provoqués par l'incapacité d'employer le jeu et les équipements en ligne, ou provoqués par l’application par l'administration des restrictions à l’utilisateur, des dégâts directs ou indirects provenant des actions de tierces parties, y compris d'autres utilisateurs du jeu, de manque d'accès à l'Internet, de vol, de destruction des matériaux, de perte d'information relatif au compte d'utilisateur et de toute affliction sur l'honneur de l'utilisateur, dignité et réputation d'affaires surgissant dans la connexion au jeu.\n\n4. Assistants d'administration\n\n4.1. Les assistants de l'administration sont sélectionnés par l'administration parmi les utilisateurs.\n4.2. Un assistant d'administration est une personne agissant au nom et dans l'intérêt de l'administration. Les assistants de l'administration maintiendront et commanderont l'ordre dans le jeu et les services de jeu, aussi bien que sur le forum, les tchat/lobby de discussion et les pages sociales officielles de media et les comptes du jeu.\n4.3. Un assistant d'administration sera honnête et objectif en prenant des décisions, et se conformera également aux dispositions de ces règles de jeu et l'accord, seront poli envers les utilisateurs, rempliront leur fonctions efficacement et régulièrement. Les activités des assistants de l'administration sont déterminées et réglées par leurs directives internes.\n4.4. Il est interdit de discuter publiquement les activités des assistants de l'administration dans les forums du jeu, les tchat/lobby de discussion, les groupes officiels dans le media sociale. Toutes les plaintes contre le travail des assistants devraient être envoyées à un administrateur du groupe respectif d'assistants ;\n4.5. L'activité des assistants de la modération est exercée à titre volontaire. Un utilisateur n’a aucun droit d’imposer à un assistant d’appliquer une restriction.\n\n5. Plaintes et Faire appels\n\n5.1. L'utilisateur a le droit de rapporter des infractions des règles de jeu en créant un nouveau sujet de forum dans la section de violations. Il est nécessaire de spécifier clairement la nature de l’infraction dans le nouveau sujet et d'attacher une capture d'écran ou une vidéo qui montre clairement l’infraction.\n5.2. L'utilisateur peut envoyer toutes les questions, commentaires ou plaintes concernant ces Règles de Jeu à help@tankionline.com. L'administration fera tous les efforts pour considérer de telles demandes dès que possible.\n5.3. Pendant l’envoie d’une plainte, l'utilisateur décrira la nature de la situation dedans avec autant de détail et aussi clair que possible et attachera des faits en tant que preuves, des captures d’écran, les plaintes etc. Les plaintes au sujet des restrictions sans fondement sont considérées uniquement pour l’intérêt d'évaluation interne du travail de l'administration et du modérateur. Les décisions sur l'application des restrictions ne sont pas soumises à la révision.\n5.4. Si l'utilisateur commence une correspondance avec l'administration ou fournit un rapport au sujet des problèmes du jeu ou les services de jeu, l'administration sera autorisée de garder toute correspondance comme telle.\n\n6. D'autres dispositions\n\n6.1. L'administration contrôle le jeu et applique ces Règles de Jeu à sa seul discrétion, mais prend en considération l'opinion de la communauté.\n6.2. Ces Règles de Jeu peuvent être changées par l'administration sans n'importe quelle communication préalable. L'utilisateur est prié d'examiner ces Règles de Jeu pour rester au courant des changements au moins une fois tous les sept jours (c.-à-d. chaque semaine). Si une telle examinassions n'a pas été faite au cours de la période spécifique et l'utilisateur continue d’employer le jeu, l'utilisateur est considéré comme avoir lu et être d'accord avec la version modifiée de ces Règles de Jeu.\n6.3. L'administration maintient une politique de « tolérance zéro » à la tricherie et à la fraude. Si, selon l'opinion de l'administration, l'utilisateur trichait ou essayait de tromper l’administration ou un utilisateur différent, ou a fait part d'information fausse ou factice, de documents, preuves et autrement a violé les lois applicables, l'administration se réserve le droit de bloquer le compte d'utilisateur et de virer une telle information à sa propre discrétion (avec les données personnelles de l'utilisateur) sur tous les tierces parties et/ou autorités de maintien de l'ordre si l'administration le considère étant nécessaire.\n6.4. L'administration peut publier d'autres dispositions et restrictions dans les règles d'eSports, les règles des concours, des tournois, et des championnats. En même temps, ces Règles de Jeu sont une partie intégrante d'autres règles adoptées par l'administration.\n6.5. Les modes de jeu générés par l'utilisateur (tels que « Sauvez le Gold ») peuvent être joués dans n'importe quel mode tant que c'est une « Pro Battle » privée. Cependant, n'importe quel abus tel que le placage de comptes inactifs multiples aussi connu en tant que « multing », sabotage ou booste de statistique de compte à l’aide de vos autres propre comptes aussi connu en tant que « power-leveling » pendant des « Pro Battles » comme telles sera traité selon les règles régulières de jeu."
+  CTF_LOST_FLAG_NEUTRAL: a perdu le drapeau
+  HEADER_CLAN_LICENSE: LICENCE DE CLAN
+  GARAGE_CATEGORY_BUTTON_PRESENTS: Cadeaux
+  CHAT_SHARP_HELP: aide|Aide|http://help.tankionline.com/en/
+  INVITE_TO_BATTLE_LABEL: Inviter à la bataille
+  BUTTON_LABEL_RESTORE_DEFAULT_BUTTONS: Restaurer les boutons par défaut
+  STATISTICS_HEADER_DEATHS: Perdu
+  SHOP_WINDOW_PRIVACY_AND_COOKIES_POLICY_LINK: <a href="http://tankionline.com/en/privacy/" target="_blank"><font color='#59ff32'><u>Politique de confidentialité ainsi que les témoins</u></font></a>
+  GARAGE_CATEGORY_BUTTON_DRONES: Drones
+  GAME_ACTION_SCREEN_SIZE_INCREASE: Augmenter la taille de l'écran
+  CLAN_ALERT_CLAN_FULL: Le clan est plein
+  PARTNER_HELP_PANEL_BUTTON_BAR_HELPER_TEXT: Paramètres. Son.
+  MAIN_PANEL_BUTTON_SHOP: Boutique
+  BATTLEINFO_PANEL_COPY_LINK_TEXT: Copier le lien
+  WEEKLY_QUEST_BUTTON: Weekly
+  OPEN_GARAGE: Ouverture rapide du Garage
+  SERVER_IS_RESTARTING_CREATE_BATTLE_TEXT: Le serveur est en train de redémarrer. Vous ne pouvez pas créer de bataille ou en rejoindre une existante.
+  GARAGE_CRITICAL_CHANCE_PROPERTY: Chances de dégâts critiques
+  CAUSES_AND_SOLUTIONS: Causes et solutions
+  HEADER_LOGIN: CONNEXION
+  ALERT_CHAT_PROCEED_EXTERNAL_LINK: |-
+    Vous allez vous rendre sur un lien qui n'est pas connecté avec Tank Online.
+    L'Administration du Projet recommande fortement de ne pas spécifier votre e-mail, pseudo, mot de passe et tout autre information de Tanki Online sur des sites inconnus.
+    Ces sites peuvent nuire à votre ordinateur et vous voler des informations confidentielles y compris les informations de votre compte à partir de différents virus et autres logiciels malveillants.
+    Si vous ne voulez pas vous rendre sur le lien, appuyez «Annuler».
+  DOM_POINT: Point {point}
+  CLAN_PLAYER_ALREADY_IN_CLAN: Le joueur %USERNAME% est déjà membre d'un clan
+  LINK_IS_NO_LONGER_VALID_TEXT: Ce lien n'est plus valide. Veuillez réessayer.
+  CLAN_POSITION_VETERAN: Vétéran
+  GAME_ACTION_CAMERA_DOWN: Déplacer la caméra vers le bas
+  HEADER_WELCOME_BACK: BIENVENUE!
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  AUTOCOMPLETION_BALANCE_DISTURBED_WINNERS_PART1: L'équipe adverse n'a pas assez de joueurs
+  CHALLENGE_FINISH: You have reached the top tier. All your rewards have been paid out.
+  QUEST_BUTTON: Missions
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_ARROW_LENGTH: '30'
+  CLAN_SEARCH_CLAN_IN_LIST: Rechercher un clan dans la liste...
+  GARAGE_RELOAD_PROPERTY: Temps de rechargement
+  PREMIUM_NOTIFICATION_SOON_COMPLETE: Votre Compte Premium est sur le point d'expirer.
+  DOM_WE_CAPTURED_POINT: Nous avons capturé le point {point}
+  GARAGE_CATEGORY_BUTTON_PAINTS: Peintures
+  PREMIUM_BUTTON_EXTEND: Étendre
+  RENT_TIME: 'Période de location:'
+  DISABLED_CHAT_LABEL_TEXT: Le tchat est désactivé. Allez dans les Paramètres pour le réactiver.
+  SETTINGS_MESSAGE_ONLY_FROM_FRIENDS: MP d'amis seulement
+  GARAGE_FREEZE_PROTECTION_PROPERTY: Protection contre Freeze
+  GAME_ACTION_CAMERA_UP: Déplacer la caméra vers le haut
+  HELP_PANEL_BUTTON_BAR_FULLSCREEN_TEXT: |2-
+
+    Mode plein écran.
+  GARAGE_CATEGORY_BUTTON_TURRETS: Tourelles
+  REDUCE_DAMAGE_ISIDA: Isida
+  HELP_PANEL_MONEY_FIRST_HELPER_TEXT: |-
+    Achetez des cristaux en argent réel et
+    obtenez 100 cristaux en cadeau
+    pour votre premier achat.
+  CP_SHORT_NAME: CP
+  SETTINGS_BUTTON_CANCEL_TEXT: Annuler
+  YOUR_ACCEPTED_LIMIT_EXCEEDED_ALERT: Vous ne pouvez pas accepter la demande d'amis. Votre Liste d'Amis a atteint le nombre maximum de joueurs.
+  RUGBY_GOAL_RED: L’équipe rouge a marqué un but !
+  REARM_BATTLE_EVENT: a changé d'équipement
+  CHAT_SHARP_WIKI: wiki | Encyclopédie du jeu | http://en.tankiwiki.com/Main_Page
+  CLAN_YOUR_RANK_TOO_LOW: Le Grade est trop inferieur pour être un membre d'un clan
+  GARAGE_WEIGHT_PROPERTY: Poids
+  SETTINGS_INVERSE_TURN_CONTROL_CHECKBOX_LABEL_TEXT: Inverser les contrôles de déplacement tout en reculant
+  SETTINGS_ACCOUNT_ACCESS: L'accès au compte de jeu
+  REDUCE_DAMAGE_THUNDER: Thunder
+  CHAT_PANEL_COMMAND_BLOCK_LIST: 'Liste des ignorés :'
+  HEADER_NEWS: NOUVELLES
+  GARAGE_BUTTON_TOOLTIP: Ici, vous pouvez améliorer votre char.
+  GARAGE_DISTANT_DAMAGE_PROPERTY: Dégâts à la distance max
+  RENAME_ITEM_SHOP_DESCRIPTION: Cet objet vous permet de renommer votre compte. Après que vous ayez acheté cet objet, vous pourrez le trouver dans le Garage en dessous de la section «Spécial». Pour l'utiliser, suivez les instructions.
+  BATTLE_BUTTON_TOOLTIP: Ici, vous pouvez rejoindre de nouvelles batailles pour gagner des cristaux et débloquer de nouveaux grades.
+  LOBBY_CHAT_WRITE_PRIVATELY: Écrire en privé
+  MAP_THEME_NAME_WINTER_NIGHT: Nuit d'hiver
+  BATTLE_PLAYER_JOINED: a rejoint
+  SHOP_PAYMENT_CATEGORY_DESCRIPTION_FOR_ODNOKLASSNIKY: ''
+  ULTIMATES: Overdrives
+  GARAGE_INFO_PANEL_BUTTON_EQUIP_TEXT: Équiper
+  DM_MODE_DESCRIPTION: Chaque joueur dans l'arène est votre ennemi. Le gagnant est celui qui détruit le plus de chars.
+  BATTLE_CREATE_PANEL_MAP_TYPE_LABEL: 'Carte:'
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_TEXT: |-
+    Cliquez pour créer une bataille en choisissant la carte et le mode de jeu.
+    Votre récompense - 200 cristaux.
+  BATTLE_RESTART: La bataille redémarre dans
+  BATTLE_CREATE_PANEL_STEPPER_TIME_LIMIT: Limite de temps
+  DM_SHORT_NAME: DM
+  FOLLOW_EXTERNAL_LINK: 'Attention! Vous êtes sur le point d''ouvrir un lien externe: %link%'
+  FRIENDS_CONFIRM_REQUEST: Confirmer la requête
+  HELP_SYMBOL_IS_NOT_ALLOWED: |-
+    Le pseudo doit être composé de A-Z, 0-9
+    et des symboles spéciaux.
+  CHALLENGE_BUY_PREMIUM: Buy premium account
+  CLAN_MEMBER_NAME: Nom
+  THANKS_FOR_PURCHASE_INFO_ABOUT_EMAIL: Tankiste ! Veuillez fournir une adresse email pour recevoir les avis de paiement.
+  BACK_BUTTON: Retour
+  CLAN_TAG_WITH_COLON: 'Tag de Clan:'
+  GARAGE_CRITICAL_DAMAGE_PROPERTY: Dégâts Critiques
+  PIECE_2: pièces
+  TURRET: Tourelle
+  BATTLE_CREATE_PANEL_FLOOD_ALERT_TEXT: Vous pouvez créer pas plus de trois batailles dans les 5 minutes qui suivent.
+  CHAT_SHARP_FEEDBACK: commentaires|Commentaires|http://fr.tankiforum.com/index.le php?showforum=182
+  GARAGE_GAUSS_PROTECTION_PROPERTY: Protection contre Gauss
+  INVITE_FRIEND_BUTTON_LABEL: Inviter un(e) ami(e)
+  DOM_ENEMIES_CAPTURED_POINT: Les ennemis ont capturé le point {point}
+  DAILY_QUEST_GOAL: 'Mission:'
+  HELP_PANEL_SCORE_HELPER_ARROW_LENGTH: '36'
+  ALERT_ACCOUNT_CANT_BE_UNLINKED: "Attention ! \nAvant de dissocier votre compte à partir de %1, vous devez \ndéfinir un mot de passe pour votre compte Tanki Online sous les paramètres"
+  GARAGE_SNIPING_IMPACT_PROPERTY: La force d’impact en mode sniper
+  BATTLE_CANNOT_BE_FOUND_ALERT: Le lien est obsolète. La bataille est introuvable, c'est fini.
+  CRYSTALS_PACKAGE_AS_GIFT: gratuitement!
+  SETTINGS_DYNAMIC_SHADOWS_LABEL_TEXT: Ombres dynamiques
+  REARM_SELFDISTRUCTION: Vous allez vous autodétruire dans {time}
+  CLAN_MEMBERS: Membres
+  GROUP_INVITE: Vous invite à un groupe
+  RANK_ICON_TOOLTIP: Votre Grade actuel. Cliquez pour voir votre profile.
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_TEXT: Entrez votre e-mail et recevez 5 cristaux!
+  DRONE_BONUS_ADD: Bonus addition duration
+  ALERT_ANSWER_SEND_BUG_REPORT: Envoyer le rapport de bug et retourner au combat
+  CLAN_PROFILE_INVATION_CLAN: Recrutement
+  HEADER_DEVICES: ALTÉRATIONS
+  RUGBY_BALL_TAKEN_BLUE: L’équipe bleue a attrapé le ballon
+  MAP_THEME_NAME_SUMMER: Été
+  LOOT_3_OPEN_BUTTON: Ouvrir 15
+  YOUR_FRIEND_IS_ENTERING_THE_GAME_LABEL: |-
+    L'invitation n'a pas été envoyé
+    Votre ami(e) est actuellement en train de se connecter
+  GAME_ACTION_SHOW_TANK_STATS: Montrer les statistiques des chars
+  MAP_THEME_NAME_SUMMER_NIGHT: Nuit d’été
+  MAP_THEME_NAME_NIGHT: Nuit
+  DRONE_REPAIR_RADIUS: Healing Radius
+  ERROR_PASSWORD_LENGTH: La longueur de votre mot de passe doit être supérieure à 1
+  GARAGE_MINE_PROTECTION_PROPERTY: Protection contre Mine
+  RUGBY_MODE_NAME: Rugby
+  BATTLE_GOLD_TAKEN: ' a pris la gold box'
+  DEVICE: Altération
+  DRONE_OVERDRIVE_BOOST: Overdrive boost
+  DOM_RED_LOST_POINT: L’équipe rouge a perdu le point {point}
+  GOLD_CHECKBOX: Montrer qui a largué la gold box
+  DRONE_MINES_ACTIVATION_DELAY: Mine activation duration
+  KEYBOARD_KEY_DOWN: En bas
+  DRONE_INVENTORY_ADD: Active Supplies Time Bonus
+  HEADER_CHANGE_UID: CHANGEMENT DE PSEUDO
+  CHECK_PASSWORD_FORM_CALLSIGN: 'Pseudo ou email:'
+  CLAN_POSITION_SUPREME_COMMANDER: Commandant en chef
+  BATTLE_BONUS_BOX_TEXT: Boîtes bonus
+  BATTLE_CREATE_PANEL_BUTTON_ASSAULT: Assaut
+  GARAGE_SHOTGUN_PROTECTION_PROPERTY: Protection contre Hammer
+  CLAN_KILL_DEATH_RATION: Taux de destruction
+  REFERRALS_BUTTON_LABEL: Utilisateurs invités
+  TIME_LABEL_SECOND: s
+  CLAN_CREATION_DATE_WITH_COLON: 'Date de création du clan:'
+  QUICK_PLAY_MODE_NAME: Bataille rapide
+  SETTINGS_LINK: Lien
+  DAILY_QUEST_CHANGE: Changer
+  HEADER_BATTLE_INFO_TEXT: INFO DE LA BATAILLE
+  AS_SHORT_NAME: ASL
+  ALERT_ACCOUNT_UNLINKED: Vous avez dissocié votre compte de jeu de %1
+  QUICK_PLAY_MODE_DESCRIPTION: Jouez dans une bataille avec d'autres tankistes pour battre l'équipe adverse. Le mode de la bataille d'équipe sera choisi au hasard.
+  PAYMENT_COUNTRIES_LABEL_TEXT: 'Pays:'
+  BATTLE_CREATE_PANEL_MAP_THEME_LABEL: 'Thème:'
+  DEVICES: Altérations
+  NEWS_TAB_HEADER: Nouveautés
+  BATTLE_IS_UNAVAILABLE_AT_YOUR_RANK_LABEL: La bataille n'est pas disponible à votre grade
+  REDUCE_DAMAGE_GAUSS: Gauss
+  BATTLE_CREATE_PANEL_STEPPER_TEAM_SCORE_LIMIT: Score
+  PARTNER_USERNAME_ALREDY_USED_ERROR: Le nom d’utilisateur saisi est déjà utilisé par un autre profil de ce réseau de partenaires.
+  HELP_PANEL_RANK_HELPER_ARROW_LENGTH: '108'
+  GARAGE_CATEGORY_BUTTON_SPECIAL: Spécial
+  THERE_ARE_PLACES_AVAILABLE_LABEL: Il y a des places disponibles
+  SEND_PRESENT_BUTTON: Envoyer
+  CLAN_INVITE_TO_CLAN: Inviter au clan
+  GAME_ACTION_USE_FIRST_AID: Utiliser une Régénération
+  RUGBY_READY_TO_FACE_OFF: Le ballon va bientôt apparaître
+  GAME_ACTION_TANK_TURN_LEFT: Virez le char à gauche
+  REDUCE_DAMAGE_FREEZE: Freeze
+  BATTLE_PLAYER_KILLED: a détruit
+  HELP_PANEL_RATING_INDICATOR_HELPER_ARROW_LENGTH: '48'
+  SHOP_PAYMENT_CATEGORY_HEADER_FOR_ODNOKLASSNIKY: ''
+  BATTLE_ENTER_WARNING_PARKOUR_BUTTON_ENTER: Rejoindre la bataille
+  GARAGE_CATEGORY_BUTTON_HULLS: Chars
+  SERVER_IS_RESTARTING_LOGIN_TEXT: Le serveur est en train de redémarrer. Vous ne pouvez pas vous connecter.
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_TEXT: Cliquez pour effectuer un paiement.
+  MAIN_QUEST_BUTTON: Main
+  CLAN_POSITION_PRIVATE: Privé
+  YOUR_FRIEND_IS_ALREADY_IN_THIS_BATTLE_LABEL: |-
+    L'invitation n'a pas été envoyé
+    Votre ami(e) est déjà dans cette bataille
+  CLAN_ACCEPT_REQUEST: Accepter l'invitation
+  HELP_NAME_IS_NOT_UNIQUE: Le nom est déjà utilisé
+  YOUR_FRIEND_DISABLED_INVITES_LABEL: |-
+    Votre ami(e) a désactivé les invitations
+    L'invitation ne peut pas être envoyée
+  CHALLENGE_BUY_BATTLE_PASS: Buy battle pass
+  CP_MODE_DESCRIPTION: Capturez les points ennemis et empêchez les ennemis de les récupérer. L'équipe avec le score le plus élevé à la fin de la manche, gagne.
+  CLAN_PROFILE_MIN_RANK: Grade minimum requis
+  MAIN_PANEL_BUTTON_GARAGE: Garage
+  REGISTER_FORM_TITLE_SKIP_REGISTRATION_TEXT: Vous pouvez vous inscrire plus tard. Le premier chargement peut prendre quelques minutes.
+  WEEKLY_QUEST_COMPLETED: |-
+    This mission was completed.
+
+    Come back to the game next week for a new mission.
+  GAME_ACTION_TURRET_CENTER: Centre de la tourelle
+  HEADER_NEW_PRESENTS_ALERT: NOUVEAUX CADEAUX !
+  LOOT_OPEN_BUTTON: Ouvrir
+  CLAN_INCORECT_CLAN_NAME: Tag de clan incorrect
+  GAME_ACTION_TANK_MOVE_BACKWARD: Déplacer le char vers l'arrière
+  PREMIUM_ALERT_RETURN: Bon retour dans les rangs des tankistes Premium !
+  LOOT_2_OPEN_BUTTON: Ouvrir 5
+  TDM_MODE_DESCRIPTION: Détruisez les chars ennemis et de protégez vos coéquipiers. L'équipe qui détruit le plus de chars, gagne.
+  TIME_LABEL_DAY: j
+  SETTINGS_EMAIL_LABEL_TEXT: 'E-mail:'
+  CLOSE_LABEL: Fermer
+  GROUP_INVITE_RESPONSE_USER_OFFLINE: Ce joueur est hors ligne
+  DRONE_COOLDOWN_RADIUS: Effective range
+  LOADING_PAYMENT_PAGE: Chargement de la page de paiement...
+  HEADER_CURRENT_BATTLES: COMBATS ACTUELS
+  OK_ENTER_GROUP_BONUS: ''
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_TEXT: "Cliquez pour sélectionner\net rejoindre une bataille. \nVotre récompense - 200 cristaux !"
+  ERROR_FATAL_DEBUG: Une erreur s'est produite
+  REARM_TEAM_LOOSE: Votre équipe a perdu
+  ACCOUNT_RECOVERY_FORM_BUTTON_CANCEL_TEXT: Annuler
+  FRIENDS_MENU_ARROW_LENGTH: '70'
+  FRIENDS_SEND_REQUEST_BUTTON: Envoyer
+  CHAT_SHARP_RULES: règles|Règles|http://tankionline.com/en/rules/
+  SETTINGS_TITLE: Paramètres
+  BATTLE_FINISH_IN: La bataille prendra fin automatiquement dans
+  REFERAL_STATISTICS_HEADER_CALLSIGN: Ami(e)
+  CHECK_PASSWORD_FORM_BUTTON_NEW_PLAYER_TEXT: Nouveau joueur
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTON_TEXT: |-
+    Cliquez et faites votre premier achat.
+    Votre récompense - 200 cristaux!
+  VK_ENTER_GROUP_REMINDER: ''
+  BATTLE_LIST_NAME: Liste des batailles
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTOBALANCE: Balance auto
+  REARM_DM_END_BATTLE: La bataille est terminée
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_HEADER: Méthode de paiement avec réduction
+  HEADER_ACCOUNT_RECOVERY: RÉCUPÉRATION DE COMPTE
+  CLAN_MEMBER_COLUMN_DESTROYED: Détruit
+  CLAN_MEMBER_DAYS: Temps passé dans le clan
+  CHANGE_SERVER_HELPER: Sélection du serveur
+  SETTINGS_TAB_NAME_CONTROLS: Les commandes
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION_WITH_LIMIT: "Vous allez acheter un ticket pour la rencontre \"Tanki in the city\", qui aura lieu le 9 septembre à Moscou.\nAttention!\n   - Quel que soit le type de ticket, vous ne pouvez acheter qu'un seul ticket par compte.\n   - Vous recevrez uniquement tous les bonus inclus dans le ticket lors de vous viendrez à la rencontre. \nLorsque vous rachetez un billet ou que vous n'êtes pas présent à la rencontre, vous recevrez une compensation sous forme de monnaie dans le jeu. En cliquant sur \"Suivant\", vous acceptez les <a href=\"http://tankionline.com/ru/event_rules\" target=\"_blank\"><u>Conditions générales</u></a>."
+  ALERT_ANSWER_GO_TO_GARAGE: Aller au garage
+  REDUCE_DAMAGE_SHAFT: Shaft
+  CTF_GOT_FLAG_NEUTRAL: a pris le drapeau
+  DRONE_DEPENDENT_INVENTORY_COOLDOWN: Switching speed
+  DAILY_QUEST_ALL_MISSIONS_COMPLETED: |-
+    Vous avez terminé toutes les missions pour aujourd'hui!
+    Entrez dans le jeu demain pour en obtenir à nouveau.
+  PAYMENT_SMSNUMBERS_NUMBER_HEADER_LABEL_TEXT: Nombre
+  FREE_BONUSES_WINDOW_BUTTON_CLOSE_TEXT: Fermer
+  TDM_SHORT_NAME: TDM
+  DAILY_QUEST_COMPLETED: |-
+    This mission was completed.
+
+    Come back to the game tomorrow for a new mission.
+  CLAN_POSITION_OFFICER: Officier
+  MAIN_PANEL_BUTTON_BATTLES: Batailles
+  CLAN_MEMBER_COLUMN_EXPERIENCE: Expérience
+  INCOMING_LIMIT_EXCEEDED_ALERT: Impossible d'envoyer une requête. La boîte de réception de cet utilisateur est pleine.
+  DRONE_HULL_SPEED_PERCENT: Bonus speed boost
+  SETTINGS_BUTTON_SAVE_TEXT: Sauvegarder
+  GARAGE_IMPACT_PROPERTY: Force d’impact
+  GARAGE_CLOSE_TEXT: Fermer
+  GAME_ACTION_USE_MINE: Placer une mine
+  CLAN_FOUNDER_WITH_COLON: 'Fondateur du clan :'
+  FORMAT_NAME_NONE: Sans Format
+  HULL: Char
+  CTF_MODE_DESCRIPTION: Attaquez la base ennemie, capturez leur drapeau en l'apportant à votre base, et protégez votre drapeau de l'équipe adverse. L'équipe qui capture le plus de drapeaux, gagne.
+  GARAGE_ARCADE_DAMAGE_PROPERTY: Dégâts en mode arcade
+  HELP_PANEL_MONEY_HELPER_ARROW_LENGTH: '48'
+  DAILY_QUEST_BUTTON: Daily
+  CURRENT_CRYSTALL_TOOLTIP: Votre nombre actuel de cristaux. Les cristaux sont utilisés pour acheter et améliorer votre équipement dans le Garage.
+  NEED_OF_EMAIL_CONFIRMATION: |-
+    Vous avez entré votre email mais ne l'avez pas encore vérifié. Les cristaux bonus seront envoyés seulement après que votre email est vérifié.
+
+    Si vous ne trouvez pas la lettre avec le lien de vérification, vérifiez votre dossier spam ou entrez votre email à nouveau. Nous vous enverrons un email avec un lien de vérification.
+
+    Rappelez-vous qu'avoir une adresse email vérifiée augmente la sécurité de votre compte et vous permet de communiquer avec le service de clientèle de Tanki Online.
+  UNBLOCK_USER_CONTEXT_MENU_LABEL: Montrer
+  CLAN_CREATE: Créer le clan
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_TEXT: Cliquez pour créer une bataille personnalisée en choisissant une carte et un mode de jeu.
+  SHOP_BUTTON_TOOLTIP: Ici vous pouvez acheter des cristaux et d'autres produits. Assurez-vous de vérifier la Boutique régulièrement pour les offres spéciales!
+  FRIENDS_BATTLE: Bataille
+  GARAGE_CATEGORY_BUTTON_RESISTANCE_MODULES: Protection
+  FIND_BATTLE_BUTTON_TEXT: Bataille!
+  PROMO_CODE_INVALID_LABEL: Le code que vous avez entré est incorrect ou a expiré. Veuillez saisir un code différent.
+  GARAGE_FIREBIRD_PROTECTION_PROPERTY: Protection contre Firebird
+  MAIN_PANEL_UPDATE_RANK_NOTICE: |-
+    Félicitations!
+    Vous avez atteint le grade de %1
+  TYPING_SPEED_BANNED: Vous êtes temporairement interdit d'écrire dans la discussion
+  CLAN_ALERT_DISBAND_CLAN: |-
+    Dissoudre le clan?
+
+    Avertissement!
+    Pour créer un nouveau clan, vous allez devoir acheter une nouvelle licence de clan.
+  SETTINGS_CHANGE_PASSWORD_BUTTON: Changer
+  CHALLENGE_QUEST_BUTTON: Challenges
+  CLAN_IS_ALREADY_IN_REQUEST_LIST: Vous avez déjà demandé à vous joindre au clan %CLANNAME%
+  CHECK_YOU_LOCATION_TEXT: 'Votre emplacement :'
+  CTF_LOST_ENEMY_FLAG: a perdu le drapeau ennemi
+  ALERT_ANSWER_CANCEL: Annuler
+  REFERAL_STATISTICS_HEADER_INCOME: Cristaux
+  LINK_EXTERNAL_LOGIN_FORM_ADVICE: Entrez les informations de votre compte Tanki Online pour l'associer à %1
+  DAILY_QUEST_PRIZE: 'Récompense :'
+  DECLINE_OFFER_BUTTON: Décliner
+  BATTLE_CREATE_PANEL_BUTTON_CONTROL_THE_POINT: Contrôle de Points
+  CLAN_POSITION_COMMANDER: Commandant
+  ALERT_EMAIL_CONFIRMED_WRONG_LINK: |-
+    Vous avez utilisé un lien incorrect.
+    Répétez la procédure de récupération, pour recevoir un nouveau lien.
+  CHECK_PASSWORD_FORM_PLAY_BUTTON: Jouer
+  CLAN_PROFILE: Menu du profile de clan
+  CURRENT_WAITING_TIME_LABEL: Temps d’attente actuelle
+  DRONE_INVENTORY_COOLDOWN_BOOST: Supply reload speed increase in sec.
+  FREE_UIDS_FORM_HEADER: |-
+    Ce nom est déjà utilisé.
+    Ces options sont disponibles:
+  CREATE_FAILED_YOU_ARE_BANNED: Cher joueur, vous êtes banni du tchat, donc vous ne pouvez pas créer de batailles. Mais vous pouvez toujours rejoindre les batailles créées par d'autres joueurs.
+  HEADER_MONEYSHOP: BOUTIQUE
+  PAYMENT_SMSNUMBERS_COST_HEADER_LABEL_TEXT: Coût
+  AUTOCOMPLETION_BALANCE_RESTORED_PART1: Les équipes sont équilibrées à nouveau
+  CLAN_RANK_LOW_TO_SEND_REQUEST: Votre grade est trop faible pour rejoindre ce clan
+  GAME_ACTION_USE_DOUBLE_ARMOR: Utiliser le Double Armure
+  BATTLE_STAT_CALLSIGN: Pseudo
+  PAYMENT_SMSTEXT_HEADER_LABEL_TEXT: 'Texte:'
+  SETTINGS_DYNAMIC_LIGHTING: L'éclairage dynamique
+  HEADER_ATTENTION: ATTENTION!
+  ALERT_CRYSTALS_ADDED_FOR_CONFIRMED_EMAIL: Merci pour avoir associé votre compte Tanki Online à une adresse email. Les cristaux bonus ont été ajoutés à votre compte.
+  BATTLE_PRO_BATTLE_SUBSCRIBE: Le PRO Battle Pass est votre billet pour les combats professionnels !
+  PRESENT_INFO_DATE_LABEL: 'Date:'
+  GARAGE_CONFIRM_ALERT_COST_PREFIX: pour
+  SHOP_FEATURING_HEADER: Offre spéciale
+  DRONE_ADDITIONAL_MINES: Number of mines
+  FULLSCREEN_BUTTON_TOOLTIP: Basculer en mode plein écran activé/désactivé.
+  FRIENDS_ADD: Ajouter à la liste d'amis
+  CTF_SHORT_NAME: CTF
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTO_COMPLETION: Fin automatique
+  DAILY_QUEST_INFORMATION: <a href="http://en.tankiwiki.com/Missions" target="_blank"><font color='#59ff32'><u>Info</u></font></a>
+  RUGBY_FACE_OFF: Le ballon est en jeu
+  REDUCE_DAMAGE_TWINS: Twins
+  HELP_PANEL_BUTTON_BAR_HELPER_ARROW_LENGTH: '116'
+  AUTOCOMPLETION_BALANCE_DISTURBED_LOSERS_PART1: Notre équipe n'a pas assez de joueurs
+  CLAN_PLAYER_IS_REQUEST_LIST: Le joueur %USERNAME% a déjà fait une demande pour rejoindre le clan
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_ARROW_LENGTH: '30'
+  HELP_PANEL_RANK_HELPER_TEXT: Votre grade actuel
+  BUY_PRO_ABONEMENT: Acheter le Pass
+  SHOP_FEATURING_DESCRIPTION: Offre temporaire avec un élément spécial ou un prix spécial.
+  REDIRECT_ALERT_TEXT: |-
+    REDÉMARRAGE DU SERVEUR!
+
+    Vous serez redirigé vers l'un des serveurs accessible dans %1 sec.
+  GARAGE_RAILGUN_PROTECTION_PROPERTY: Protection contre Railgun
+  CLAN_PROFILE_CLOSE: Fermé
+  GARAGE_MACHINE_GUN_PROTECTION_PROPERTY: Protection contre Vulcan
+  FRIENDS_NEW: Nouveau
+  FRIENDS_BUTTON_TOOLTIP: Votre Liste d'Amis. Vous pouvez rejoindre les batailles de vos amis et voir leur profiles à partir d'ici.
+  SERVER_FROZEN_ALERT_TEXT: Désolé, le serveur de jeu que vous avez choisi est actuellement surchargé. Essayez de choisir un autre serveur.
+  PAYMENT_SMSNUMBERS_SMSTEXT_HEADER_LABEL_TEXT: Texte SMS
+  ERROR_EMAIL_NOT_FOUND: |-
+    Cet e-mail n'a pas été enregistré
+    Vous avez probablement enregistré une adresse e-mail différente.
+  CLAN_MEMBER_POSITION: Position
+  HEADER_CONGRATULATION: FÉLICITATION
+  CONSEQUENCES_EXTERNAL_LINK_FOLLOWING: "Nous ne sommes pas tenu responsables du contenu de ce site et nous vous conseillons fortement de ne pas saisir les données relatives à votre compte (en particulier l’adresse email et le mot de passe). \n\nSi vous n’avez aucune raison sérieuse de faire confiance à ce site, il est préférable de ne pas y entrer. \n\nRappelez-vous, nous ne distribuons jamais des cristaux gratuits ou demandons votre mot de passe par l’intermédiaire de sites externes."
+  SETTINGS_NEW_PASSWORD_LABEL_TEXT: 'Nouveau mot de passe:'
+  CHECK_PASSWORD_FORM_RESTORE_LINK_TEXT: <a href='event:lost'> <font color='#59ff32'> <u>Pseudo ou mot de passe perdu?</u></font></a>
+  CONTINUE_BATTLE_TEXT: Continuer
+  RUGBY_BALL_LOST_BLUE: L’équipe bleue a perdu le ballon
+  ACCOUNT_RECOVERY_FORM_HELP_LABEL_TEXT: |-
+    Entrez votre adresse e-mail enregistrée
+    pour obtenir le lien d’entré sans mot de passe
+  HELP_PANEL_BUTTON_BAR_HELPER_TEXT: |-
+    Inviter un ami.
+    Paramètres.
+    Son activé/désactivé.
+  CAPTCHA_INCORRECT: Les caractères de contrôle sont saisi de manière incorrecte
+  FRIENDS_DECLINE_ALL_REQUESTS_ALERT: Décliner toutes les demandes entrantes ?
+  SETTINGS_LINK_ACCOUNT: Lier votre compte à
+  SETTINGS_TAB_NAME_GAME: Jeu
+  FRIENDS_NO: Non
+  TYPE_MESSAGE_WITH_PRESENT: Saisissez vos vœux...
+  GARAGE_HELPER_SWITCHING_ITEM_CATEGORIES: Changement de la catégorie de l'élément
+  SETTINGS_SHOW_REMOTE_DRONES: Show other drones
+  INVITES_YOU_TO_A_BATTLE_LABEL: Vous invite à une bataille
+  SETTINGS_BUTTON_TOOLTIP: Dans les Paramètres, vous pouvez régler les graphismes, les raccourcis clavier et beaucoup plus.
+  HELP_PANEL_SCORE_HELPER_TEXT: Votre expérience actuelle / expérience requise avant d'obtenir le prochain grade
+  PAYMENT_BUTTON_PROCEED_TEXT: Suivant
+  ERROR_CALLSIGN_WRONG_FIRST_SYMBOL: Le 1er symbole du pseudo doit être une lettre ou un chiffre
+  BATTLE_SUPPLIES_TEXT: Ravitaillements
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_TEXT: "Cliquez pour sélectionner\net rejoindre une bataille. \nVotre récompense - 200 cristaux !"
+  SHOP_GOLDBOX_MANY: Boîtes
+  HEADER_CHAT: TCHAT
+  CTF_GOT_OUR_FLAG: a pris notre drapeau
+  ALERT_EMAIL_CONFIRMED: Votre adresse e-mail est confirmée
+  CLAN_VS_CLAN: Clan vs Clan
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_TEXT_MIDDLE_RANK: Vous recevez maintenant des cristaux à chaque nouveau grade dans Tanki Online. Les cristaux des grades précédents ont été ajoutés à votre compte. Gravez les échelons et obtenez en encore plus!
+  SHOP_WINDOW_HEADER_DESCRIPTION: C'est ici que vous pouvez acheter des différents produits afin d'améliorer votre expérience de jeu. Vous acceptez le fait que les produits achetés seront crédités sur votre compte à la fin du processus de paiement. Les produits achetés qui ont été crédité sur votre compte ne sont pas soumis au droit de retrait de l'utilisateur.
+  CHANGE_UID_FORM_EXPLANATION_TEXT: |-
+    Bon retour, Tankiste !
+
+    Votre pseudo a été changé automatiquement pour cause d'inactivité prolongé, mais vous pouvez le changer à quelque chose d'autre à l'aide de ce formulaire.
+
+    Votre nouveau pseudo vous servira à vous connecter.
+  DATE_FORMAT: dd/MM/yyy
+  CHAT_SHARP_NICK: pseudo|Changer de pseudo|http://tankionline.com/en/blog/change-your-nickname/
+  SHOP_WINDOW_EULA_LINK: <a href="http://tankionline.com/en/eula/" target="_blank"><font color='#59ff32'><u>EULA</u></font></a>
+  GARAGE_PENETRATING_PROPERTY: Puissance de pénétration
+  AUTOCOMPLETION_ENEMY_IS_BACK: L'ennemi est de retour dans la bataille !
+  CLAN_INCOMING: Requêtes
+  CAPTCHA_PROCEED_BUTTON: Suivant

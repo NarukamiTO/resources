@@ -1,0 +1,1208 @@
+type: Localization
+images: {}
+strings:
+  MAIN_PANEL_BUTTON_GARAGE: Talli
+  CHAT_PANEL_COMMAND_UNBLOCK: Käyttäjä %1 on poistettu ohita-luettelosta
+  MESSAGE_ALERT_PERSONAL_DISCOUNT: |-
+    $USERNAME$, nyt voit ostaa $ITEM-NAME$ klo $DISCOUNT$% alennusta.
+    Mutta pidä kiirettä! Tämä tarjous päättyy $DISCOUNT_TIMER$.
+  BATTLE_CREATE_PANEL_BUTTON_TEAM_DEATHMATCH: |-
+    Tiimin
+    Kuolemanottelu
+  CLAN_POSITION_COMMANDER: Päälikkö
+  SHOP_WINDOW_PURCHASE_INSTRUCTION: <a href="http://tankionline.com/en/crystals/" target="_blank"><font color='#59ff32'><u>osto-ohjeet</u></font></a>
+  RUGBY_GOAL_USER: on tehnyt maalin
+  DRONE_OVERDRIVE_BOOST: Overdrive boost
+  DRONE_MINES_ACTIVATION_DELAY: Mine activation duration
+  GARAGE_DISTANT_DAMAGE_PROPERTY: Vahinko max etäisyydellä
+  DAILY_QUEST_BUTTON: Daily
+  FOLLOW_EXTERNAL_LINK: 'Huomio! Seuraat ulkoista linkkiä: %link%'
+  GARAGE_CATEGORY_BUTTON_TURRETS: Tykit
+  CLAN_EDIT_PROFILE: Muokkaa profiilia
+  BUY_PRO_ABONEMENT: Osta Passi
+  CLAN_PROFILE: Klaanin profiili
+  GARAGE_CONFIRM_ALERT_CONFIRM_BUTTON_TEXT: Kyllä
+  SPECTATOR_NAME: Katsoja
+  HEADER_CHANGE_PASSWORD_EMAIL: MUUTA SALASANA JA SÄHKÖPOSTI
+  OK_ENTER_GROUP_REMINDER: ''
+  HELP_PANEL_BUTTON_BAR_FULLSCREEN_TEXT: |2-
+
+    Koko näytön tila.
+  SERVER_IS_RESTARTING_CREATE_BATTLE_TEXT: Palvelin käynnistyy uudelleen juuri nyt. Et voi luoda taistelua tai liittyä olemassa olevaan.
+  STATISTICS_HEADER_CALLSIGN: Käyttäjätunnus
+  HEADER_CREATE_BATTLE: LUO TAISTELU
+  GARAGE_HELPER_TANK_PARTS: |-
+    Tankin osat
+    ja muut
+    hyödylliset osat
+  DECLINE_OFFER_BUTTON: Kieltäydy
+  THANKS_FOR_PURCHASE_INFO_ABOUT_EMAIL: |-
+    Pelaajai! Ole hyvä ja Ilmoita sähköpostiosoite
+    vastaanottaaksesi maksu kuitit.
+  INVITE_TO_BATTLE_LABEL: Kutsu taisteluun
+  POSTFIX_OFFER_EXIT_BATTLE: Koeajo on ohi.
+  DOM_RED_LOST_POINT: Punainen joukkue on menettänyt pisteen {point}
+  DRONE_INVENTORY: Active Supplies Time
+  ALERT_ANSWER_GO_TO_GARAGE: Mene talliin
+  KEYBOARD_KEY_DOWN: Alas
+  SHOP_BUTTON_TOOLTIP: Täällä voit ostaa kristalleja ja muita tavaroita. Varmista, että tarkistat usein erikoistarjouksia!
+  FRIENDS_ADD: Lisää kaveriksi
+  FIND_BATTLE_BUTTON_TEXT: Taistele!
+  ACCOUNT_RECOVERY_FORM_BUTTON_RECOVER_TEXT: Saada takaisin
+  NEED_OF_EMAIL_CONFIRMATION: |-
+    Kirjoitit sähköpostiosoitteesi, mutta et ole vielä vahvistanut sitä. Bonuskristallit lähetetään vain, kun sähköpostiosoitteesi on vahvistettu.
+
+    Jos et löydä kirjainta, jossa on vahvistuslinkki, tarkista roskapostikansio tai kirjoita sähköpostiosoitteesi uudelleen. Lähetämme sinulle uuden kirjeen, jossa on vahvistuslinkki.
+
+    Muista, että vahvistetun sähköpostiosoitteen lisääminen tuo tiliisi turvallisuutta ja antaa sinulle mahdollisuuden kommunikoida Tanki Online -asiakaspalvelun kanssa.
+  SETTINGS_TITLE: Asetukset
+  GARAGE_CONFIRM_ALERT_CANCEL_BUTTON_TEXT: Ei
+  CLAN_USER_CLAN_TAG: Klaanin tunniste
+  VK_ENTER_GROUP_REMINDER: ''
+  ALERT_GO_TO_BATTLE_IS_UNAVAILABLE_RANK_FUND: |-
+    Olet menossa taisteluun, joka ei ole käytettävissä sinun luokassasi.
+    Jätä nykyinen taistelu? Pisteet ja kristallirahasto menetetään.
+  REGISTER_FORM_PASSWORD_INPUT_LABEL_TEXT: 'Salasana:'
+  FORMAT_NAME_NONE: Ilman muotoa
+  DRONE_POWER_BOOST: Additional supply power
+  DOM_POINT: Point {point}
+  RESTORE_PASSWORD_INFO: <a href="http://help.tankionline.com/topic/854487-what-to-do-if-you-forgot-your-e-mail/ " target="_blank"><font color='#59ff32'><u>tiedot</u></font></a>
+  ALERT_ANSWER_PROCEED: Jatka
+  GAME_ACTION_TANK_MOVE_BACKWARD: Siirrä tankki taaksepäin
+  DRONE_ADDITIONAL_MINES: Number of mines
+  REARM_PAUSE_3: Poistut pelistä noin {time}
+  CLAN_PROFILE_INVATION_CLAN: Rekrytointi
+  ERROR_CALLSIGN_WRONG_LAST_SYMBOL: Viimeinen käyttäjän symboli pitää olla kirjain tai numero
+  BATTLE_PRO_BATTLE_SUBSCRIBE: PRO-taistelupassi on lippusi ammatillisiin taisteluihin!
+  FRIENDS: Kaverit
+  CLAN_PLAYER_ALREADY_IN_CLAN: Pelaaja %USERNAME% on jo tämän klaanin jäsen
+  CTF_BLUE_FLAG_RETURNED: Sininen lippu on palautettu
+  OFFLINE_LABEL: Poissa
+  SETTINGS_MIPMAPPING_LABEL_TEXT: Mip-kartoitus
+  BATTLE_LIST_NAME: Taistelu lista
+  RUGBY_BALL_TAKEN_USER: on kaappanut pallon
+  CLAN_BUTTON_PROFILE: Klaani profiili
+  CLAN_POSITION_NOVICE: Noviisi
+  REFERAL_STATISTICS_HEADER_INCOME: Kristallit
+  AUTOCOMPLETION_ENEMY_TEAM_IS_EMPTY: Vihollisen joukkue on tyhjä
+  FRIENDS_EXIT_FROM_BATTLE_ALERT: Poistu pelistä? Pisteesi ja taistelu rahastosi menetetään.
+  WEEKLY_QUEST_HINT: Suorita vähintään yksi tehtävä päivittäin 7 päivää peräkkäin saadaksesi lisää <a href='event:'><font color='#59ff32'><u>bonus</u></font></a>
+  GROUP_INVITE_RESPONSE_USER_IN_BATTLE: Tämä pelaaja on taistelussa
+  YOUR_FRIEND_DISABLED_INVITES_LABEL: Kaverisi poisti kutsun käytöstä, kutsua ei voi lähettää
+  CAUSES_AND_SOLUTIONS: Syyt ja ratkaisut
+  GARAGE_ALL_PROTECTION_PROPERTY: Suojaus kaikilta
+  CLAN_NUMBER_MEMBERS_WITH_COLON: 'Pelaajien kokonaismäärä:'
+  HEADER_UPGRADE: PARANTAA
+  CLAN_SEND_INVITE: Lähetä kutsu...
+  REGISTER_FORM_AGREEMENT_NOTE_TEXT: |-
+    <textformat leading='5'>I hyväksy ehdot <a href='http://tankionline.com/en/eula/' target='_blank'><font color='#59ff32'><u>license Agreement</u></font></a>, <a href='http://tankionline.com/en/rules/' target='_blank'><font color='#59ff32'><u>pelisäännöt
+    </u></font></a>, ja <a href='http://tankionline.com/en/privacy/' target='_blank'><font color='#59ff32'><u>Tietosuojakäytäntö ja evästeet</u></font></a></textformat>
+  YOUR_FRIEND_IS_ENTERING_THE_GAME_LABEL: |-
+    Kutsua ei ole lähetetty
+    Ystäväsi on tulossa peliin
+  TOURNAMENT_BATTLE_TRAINING_LABEL: Valmistaudutaan taisteluun
+  PROMO_CODE_INVALID_LABEL: Syöttämäsi koodi on joko virheellinen tai vanhentunut. Syötä eri koodi.
+  PHONE_NUMBER: Your phone number
+  ACCOUNT_RECOVERY_FORM_BUTTON_CANCEL_TEXT: Peruta
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_TEXT_MIDDLE_RANK: '*Outdated*!'
+  CREATE_FAILED_YOU_ARE_BANNED: "Hyvä pelaaja, sinut on kielletty chatti-kanavalta\njoten et voi luoda taisteluita. Mutta edelleen silti voi \nosallistua taisteluihin, mitkä muut pelaajat ovat luonneet."
+  ALERT_ACCOUNT_SUCCESS_LINKED: Tilisi on yhdistetty onnistuneesti
+  CHANGE_UID_FORM_NEW_UID_TEXT: 'Uusi käyttäjätunnus:'
+  SETTINGS_SHOW_FPS_CHECKBOX: Näytä Kuvataajuus ja ping
+  PREMIUM_COMPLETION_IN: 'Päättyy klo '
+  SETTINGS_MOUSE_CONTROL_CHECKBOX: Hiiren ohjaimet
+  MUTE_BUTTON_TOOLTIP: Vaihda mykistys päälle/pois.
+  SETTINGS_LINK: Linkki
+  DRONE_CRITICAL_HEALTH: Healing
+  BATTLE_IS_UNAVAILABLE_AT_YOUR_RANK_LABEL: Taistelu ei ole käytettävissä sinun rankissasi
+  TURNOVER_HINT_2: tai itsetuhon painamalla
+  SETTINGS_ACCOUNT_ACCESS: Pääsy peli-tilille
+  CAPTCHA_INCORRECT: Ohjausmerkit on syötettty väärin
+  SHOP_WINDOW_YOUR_CHOICE: Sinun valinta
+  DRONE_MINE: Number of saved up mines
+  CHECK_PASSWORD_FORM_PLAY_BUTTON: Pelaa
+  SETTINGS_BACKGROUND_SOUND_CHECKBOX_LABEL_TEXT: Taustamusiikki
+  DAILY_QUEST_COMPLETED: |-
+    This mission was completed.
+
+    Come back to the game tomorrow for a new mission.
+  GARAGE_RAILGUN_PROTECTION_PROPERTY: Suojaus Railgunilta
+  CTF_RETURNED_OUR_FLAG: on palauttanut meidän lipun
+  SHOP_WINDOW_HEADER_DESCRIPTION: Tässä voit ostaa erilaisia tavaroita, joilla voit parantaa pelikokemustasi. Hyväksyt, että ostetut tavarat hyvitetään tilillesi maksuprosessin päätyttyä. Käyttäjän peruuttamisoikeus ei koske ostettuja tavaroita, jotka on hyvitetty tilillesi.
+  HEADER_MONEYSHOP: KAUPPA
+  ALERT_ANSWER_NO: Ei
+  DOM_BLUE_CAPTURED_POINT: Sininen joukkue on valloittanut pisteen
+  STATISTICS_HEADER_NUMBER: '#'
+  DRONE_DEPENDENT_INVENTORY_COOLDOWN: Switching speed
+  HEADER_PAYMENTS: MAKSUT
+  STATISTICS_HEADER_KILLS: Tappanut
+  HEADER_DM_TOURNAMENT: DEATHMATCH-TURNAUS
+  INCOMING_LIMIT_EXCEEDED_ALERT: Pyyntöä ei voi lähettää. Tämän käyttäjän saapuneet kansio on täynnä.
+  FRIENDS_NAME: Nimi
+  REGISTER_FORM_SKIP_REGISTRATION_TEXT: Kokeile peliä ennen rekisteröitymistä!
+  HEADER_DISCOUNT: ALENNUS!
+  HULL: Runko
+  REARM_DM_END_BATTLE: Taistelu on ohi
+  COPY_LINK_BUTTON_LABEL: |-
+    Kopioi
+    linkki
+  BATTLE_CREATE_PANEL_MAP_TYPE_LABEL: 'Kartta:'
+  NEW_PRESENTS_ALERT_ACCEPT_BUTTON: Näytä
+  CHECK_PASSWORD_FORM_RESTORE_LINK_TEXT: <a href='event:lost'><font color='#59ff32'><u>Kadonnut lempinimi tai salasana?</u></font></a>
+  FRIENDS_DECLINE_REQUEST: Kieltäydy pyynnöstä
+  GARAGE_CATEGORY_BUTTON_KITS: Pakit
+  MAIN_PANEL_UPDATE_RANK_NOTICE_GIFT: Lahjasi %1
+  BUG_REPORT_BUTTON_SEND_TEXT: Lähetä
+  BATTLE_STAT_DEATHS: Kuollut
+  HEADER_CURRENT_BATTLES: NYKYISET TAISTELUT
+  PRESENT_RECIPIENT_NAME: Vastaanottajan lempinimi...
+  GAME_ACTION_SCREEN_SIZE_INCREASE: Lisää taisteluikkunan kokoa
+  YOUR_ACCEPTED_LIMIT_EXCEEDED_ALERT: Can not accept Friend request. Your Friends List has reached the maximum number of players.
+  CLAN_SEND_REQUEST_TO_CLAN: Lähetä pyyntö klaaniin...
+  CLAN_USER_CLAN_NAME: Klaanin Nimi
+  TIME_LABEL_SECOND: s
+  FRIENDS_PLAYER_ALREADY_IN_LIST_ALERT: '%USERNAME% on jo on jo kaveriluettelossa.'
+  RANK_NAMES: Recruit,Private,Gefreiter,Corporal,Master Corporal,Sergeant,Staff Sergeant,Master Sergeant,First Sergeant,Sergeant-major,Warrant Officer 1,Warrant Officer 2,Warrant Officer 3,Warrant Officer 4,Warrant Officer 5,Third Lieutenant,Second Lieutenant,First Lieutenant,Captain,Major,Lieutenant Colonel,Colonel,Brigadier,Major General,Lieutenant General,General,Marshal,Field Marshal,Commander,Generalissimo
+  FRIENDS_CONFIRM_REQUEST: Vahvista pyyntö
+  PAYMENT_SMSNUMBERS_COST_HEADER_LABEL_TEXT: Kustannus
+  GARAGE_UPGRADE_COMPLETE_TEXT: 'Varuste on päivitetty:'
+  CLAN_MEMBER_COLUMN_KILL_DEATH_RATIO: K/T
+  REDUCE_DAMAGE_GAUSS: Gauss
+  SETTINGS_TAB_NAME_ACCOUNT: Tili
+  GARAGE_PRICE: Talli hinta
+  BATTLE_BONUS_BOX_TEXT: Bonus laatikot
+  GARAGE_FIREBIRD_PROTECTION_PROPERTY: Suojaus Firebirdiltä
+  GAME_ACTION_TURRET_TURN_RIGHT: Kierrä asetta oikealle
+  CHALLENGE_BUY_PREMIUM: Buy premium account
+  FRIENDS_DECLINE_ALL_REQUESTS_ALERT: Hylkää kaikki saapuvat pyynnöt?
+  CLAN_OUTGOUNG: Kutsut
+  NEWBIES_ABONEMENT_WINDOW_TEXT: |-
+    Tervetuloa Tanki-pelaajien joukkoon kaikkialta maailmasta!
+
+    Saat lisää EXPERIENCE_BONUS% lisäkokemuspisteitä ja CRYSTAL_BONUS% lisäkrystalleja jokaiselle taistelulle, kun tämä erityinen "Aloittelijoiden Passi" on aktiivinen, mikä antaa sinulle hyvää vauhtia ensimmäisten päivien aikana rekrytoituna.
+
+    Varmista, että käytät sitä täysipainoisesti pelaamalla niin monta taistelua kuin mahdollista!
+  CP_SHORT_NAME: CP
+  FACEBOOK_NAME: Facebook
+  USERS_IN_QUEUE_LABEL: Pelaajat jonossa
+  SHOW_DAMAGE: Näytä vaurioita
+  DRONE_COOLDOWN_RADIUS: Effective range
+  HEADER_CONGRATULATION: ONNITTELUT
+  GARAGE_MAX_SPEED_PROPERTY: Suurin nopeus
+  REGISTER_FORM_REGISTER_VIA: Rekisteröidy peliin käyttämällä
+  SETTINGS_BUTTON_TOOLTIP: Asetuksissa voit säätää grafiikkaa, avainsidoksia ja paljon muuta.
+  SETTINGS_MOUSE_SENSITIVITY_CHECKBOX_LABEL: Hiiren herkkyys
+  CLAN_CREATE: Luo klaani
+  SETTINGS_EMAIL_LABEL_TEXT: 'Sähköposti:'
+  ALERT_ACCOUNT_CANT_BE_UNLINKED: Huomio! Ennen linkityksen poistaminen %1 tililtä, sinun täytyy asettaa Tanki Online-tilisi salasanan asetuksessa
+  AUTOCOMPLETION_ENEMY_IS_BACK: Vihollinen on takaisin taistelussa!
+  GARAGE_HELPER_SWITCHING_ITEM_CATEGORIES: Vaihtokategoriat
+  CLAN_POSITION_PRIVATE: Yksityinen
+  GARAGE_CATEGORY_BUTTON_HULLS: Rungot
+  CLAN_DISBAND: Lakkauta klaani
+  DEVICES_STANDARD_SETTINGS: Standard-asetukset
+  CLAN_INCORECT_CLAN_TAG: Virheellinen klaanin tunniste
+  REGISTER_FORM_TO_LOGIN_PAGE_TEXT: Oletko jo rekisteröitynyt? <a href='event:'><font color='#59ff32'><u>Kirjaudu sisään</u></font></a>
+  GAME_ACTION_USE_DOUBLE_ARMOR: Käytä Tupla Vahingo varuste
+  CLAN_PLAYER_IS_INVITE_LIST: Pelaaja %USERNAME% on jo kutsuttu
+  GATE_2_SHOP_EMAIL_INPUT_DESCRIPTION: Anna sähköpostiosoitteesi saadaksesi kuitin ostoksestasi.
+  STATISTICS_HEADER_WEALTH: Rikkaus
+  QUEST_BUTTON: Tehtävät
+  DISCOUNTED_AT_KIT: Diskontattu
+  RUGBY_BALL_LOST_USER: on menettänyt pallon
+  GAME_ACTION_DROP_GOLD_BOX: Käytä Kulta Laatikko tarjontaa
+  HEADER_BUG_REPORT: VIKAILMOITUS
+  SHOP_GOLDBOX_ONE: Laatikko
+  CHAT_SHARP_PLANS: suunnitelmat|Kehittäjien tehtävät ja suunnitelmat|http://en.tankiwiki.com/Development_Plans
+  ERROR_CALLSIGN_NOT_SINGLE_DEVIDERS: Sinun tulisi käyttää vain yhtä merkkiä "." tai "_" tai "-" lempinimessäsi
+  ACCOUNT_RECOVERY_FORM_HELP_LABEL_TEXT: |-
+    Kirjoita rekisteröity sähköpostiosoitteesi
+    saadaksesi merkintä-linkin ilman salasanaa
+  CHAT_LABEL_TEAM: Joukkuelle
+  SETTINGS_UNLINK: Linkitys
+  BATTLE_LIST_DESCRIPTION: Luo taisteluja haluamiesi asetusten kanssa tai liity muihin mukautettuihin taisteluihin.
+  GARAGE_RELOAD_PROPERTY: Latausaika
+  CLAN_SEARCH: Etsi klaani
+  DRONE_HULL_SPEED_PERCENT: Bonus speed boost
+  SETTINGS_DYNAMIC_SHADOWS_LABEL_TEXT: Dynaamiset varjot
+  HEADER_CLAN_MANAGMENT: PYYNTÖJEN HALLINTA
+  SETTINGS_SHOW_SKYBOX_CHECKBOX_LABEL_TEXT: Näytä taivas laatikko
+  THERE_ARE_PLACES_AVAILABLE_LABEL: On paikkoja saatavilla
+  BATTLE_CREATE_PANEL_STEPPER_FLAG_LIMIT: Lippurajoitus
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_ARROW_LENGTH: Kolmekymmentä
+  DRONE_REPAIR_RADIUS: Healing Radius
+  CTF_RETURNED_ENEMY_FLAG: on palauttanut vihollisen lipun
+  ALERT_EMAIL_CONFIRMED_WRONG_LINK: |-
+    Olet käyttänyt väärää linkkiä.
+    Toista talteenottomenettely uudelleen saadaksesi uuden linkin.
+  OK_ENTER_GROUP_BONUS: ''
+  BATTLE_CREATE_PANEL_BUTTON_DEATHMATCH: Kuolemanottelu
+  TYPING_SPEED_BANNED: Sinut on tilapäisesti kielletty kirjoittaa chatissa
+  CRYSTALS_PACKAGE_AS_GIFT: ilmaiseksi!
+  ACCEPT_OFFER_BUTTON: Hyväksy
+  ACCEPT_CONDITIONS: Hyväksy ehdot
+  HELP_PANEL_RATING_INDICATOR_HELPER_ARROW_LENGTH: Neljäkymmentä kahdeksan
+  FRIENDS_CLOSE: Sulje
+  SHOP_FEATURING_DESCRIPTION: Tilapäinen tarjous, jossa on erikoistuote tai erikoishinta.
+  CLAN_DESCRIPTION: |-
+    Täällä voit luoda oman klaanin, yhdistää ystäväsi ja päästä erityisiin klaanin bonuksiin.
+
+    Muista, että kun klaani kasvaa, bonukset klaanin jäsenille ovat suurempia ja parempia.
+  HELP_PANEL_MONEY_HELPER_ARROW_LENGTH: Neljäkymmentä kahdeksan
+  SETTINGS_SSAO: Syvät varjot
+  SETTINGS_CHANGE_PASSWORD_CONFIRMATION_SENT_TEXT: Ohjeet lähetettiin sähköpostiosoitteeseesi.
+  INVITES_YOU_TO_A_BATTLE_LABEL: Kutsuu sinut taisteluun
+  PAYMENT_SMS_DESCRIPTION_CO_TEXT: ''
+  GARAGE_MINE_PROTECTION_PROPERTY: Suojaus Miinalta
+  DAILY_QUEST_GOAL: 'Tehtävä:'
+  GAME_RULES: |-
+    Lyhyet säännöt
+
+    Seuraavat pelin sisäiset toiminnat ovat kiellettyjä pelissä, keskusteluissa, foorumeissa ja muissa virallisissa viestintäpaikoissa:
+    - Bottien käyttö, kolmannen osapuolen ohjelmistojen käyttö, vikojen hyväksikäyttö;
+    - virkamiehen tai sen avustajan jäsenen esittäminen;
+    - luoda esteitä muille käyttäjille;
+    - mainonta, poliittinen propaganda;
+    - lakien rikkominen, mukaan lukien tekijänoikeuslaki;
+    - tilien tai muun pelin omaisuuden myynti, osto, vaihto, siirto;
+    - petoksia tai muita epärehellisiä toimia.
+    - loukkaukset, uhkaukset, vääryys;
+    - röyhkeä kieli, myös implisiittisessä muodossa;
+    - tulvat, liekehtivä, roskaposti, isojen kirjainten tekstaaminen (CAPS LOCK);
+    - väärennetyt salasanat tai muut tilitiedot;
+    - yllyttää toiset rikkomaan pelisääntöjä;
+    - lainsäädännön julkaisemisen kieltäminen;
+    - linkkien julkaiseminen kolmansien osapuolten resursseille;
+    - kaikenlainen syrjintä.
+
+    Pelisäännöt
+
+    Olet Tanki Online pelissä, jossa ihmiset ympäri maailmaa nauttivat valtavista taistelulaitteista ja osallistuvat hurjiin taisteluihin! Pelaajat voivat taistella itseään vastaan tai yhdistää joukkueet taistelemaan voitosta vierekkäin. He voivat myös seurustella ja löytää uusia ystäviä.
+
+    Tanki Online on helppokäyttöinen moninpeli-toimintapeli, vakavan taistelun näyttämö ja suuri sosiaalinen verkosto.
+
+    Rekisteröitymisen jälkeen Käyttäjä saa virtuaalisen tankin ja 500 kristallia (pelin valuutan). Voittelemalla taisteluita Käyttäjät lisäävät luokitustaan ​​ja ansaitsevat uusia rankkeja ja kristalleja. Kristalleja voidaan käyttää hankkimaan hyödyllisiä laitteita sekä ostaa tai päivittää aseita, runkoja tai maalitöitä.
+
+    Tanki Online on enemmän kuin vain jännittävä online-peli. Se on ihmisten yhteisö, jolla on samat edut. Kehotamme molemminpuolista kunnioitusta ja kohteliaisuutta ja voimakkaasti loukkaavaa käyttäytymistä ja/tai muiden käyttäjien oikeuksien loukkaamista. Järjestelmänvalvojat pidättävät oikeuden rajoittaa käyttäjien viestintäkykyä, laskea heidän luokituksiaan ja/tai estää heidän tilinsä, jos he rikkovat näitä pelisääntöjä.
+
+    Yleiset ehdot
+
+    Pelisäännöt ovat erottamaton osa loppukäyttäjän lisenssisopimusta (jäljempänä ''sopimus'' tai EULA) ja muita peli- ja pelipalveluasiakirjoja. Sopimus, Yksityisyys ja evästeet sekä muut pelipalveluissa julkaistut asiakirjat ovat erottamaton osa näitä pelisääntöjä.
+
+    Peliolosuhteissa käytetyillä termeillä ja käsitteillä on sama merkitys kuin niille on annettu sopimuksessa.
+
+    Pelin ja sen online-tilojen käyttö ja/tai "Hyväksy" rekisteröitymislomakkeessa klikkaamalla tarkoittaa, että olet perehtynyt ja hyväksynyt nämä pelisäännöt ja hyväksyt ehdoitta kaikki ehdot.
+
+    Pelisäännöt ovat pakollisia kaikille käyttäjille.
+
+    Jos et ole samaa mieltä näiden pelisääntöjen ehtojen kanssa, sinulla ei ole oikeutta käyttää Peliä ja sen palveluita edelleen, ja jätä tämä sivusto ja pidättäydy pelin käyttämisestä.
+
+    1. Lempinimiä koskevat vaatimukset (nimet)
+
+    On kiellettyä luoda lempinimiä (käyttäjätunnuksia), klaani nimiä (tagit) sekä klaanin iskulauseita, jotka:
+    1.1. Sisältää huonoa tai voimakasta kieltä, loukkauksia/provokaatioita loukkaukseksi (sanojen, lyhenteiden, ilmaisujen tai lauseiden muodossa);
+    1.2. Sisältää rasismia, fasismia, loukkauksia tai lempinimiä, jotka perustuvat rodulliseen, kansalliseen tai uskonnolliseen identiteettiin tai jotka yllyttävät vihaa, suvaitsemattomuutta ja etnistä ristiriitaa;
+    1.3. Sisältää väkivaltaa, terrorismia, ääriliikkeitä ja/tai suuria häiriöitä koskevia pyyntöjä;
+    1.4. Sisältää poliittista pyyntöä, propagandaa, kaikenlaista poliittista mainontaa;
+    1.5. Liittyvät suoraan tai epäsuorasti poliittisiin järjestöihin (henkilöihin), mukaan lukien poliittiset rikokset tai ihmiskuntaa vastaan ​​tehdyt rikokset, terroriteot;
+    1.6. Sisältää sukupuolen syrjintää, iän, uskonnon tai muiden ominaispiirteiden mukaan;
+    1.7. Suoran tai epäsuoran propagandan, alkoholipitoisten ja alkoholipitoisten juomien, oluen, tupakkatuotteiden, huumausaineiden, myrkyllisten, psykotrooppisten ja/tai päihtyvien aineiden, niiden esiasteiden, käyttäminen edellyttää tietoja niiden tuotanto-, hankinta-, viljely- ja käyttö;
+    1.8. Sisältää tietoja osallistumisesta uhkapelipeleihin, prostituutioon, matkoihin, kerjäämiseen;
+    1.9. Sisältää tietoa itsemurhien tekemisen menetelmistä, itsemurhien, väkivallan tai muiden uhkaavien toimien edistämisestä, jotka uhkaavat elämää tai terveyttä;
+    1.10. Sisällytetään laittomaan käyttäytymiseen, rikollisuuteen, väkivaltaan, julmuuteihin, haittoihin kohdistuvaan yllykkeeseen, joka kannustaa laittomasti kiellettyjen toimien tekemiseen;
+    1.11. Sisältää hallintomenojen nimeämisen osia tai sisältää tietoja, jotka voivat aiheuttaa virheellisen käsityksen käyttäjältä hallinnon edustajana;
+    1.12. Sisältää kritiikkiä pelistä, hallinnosta tai valvojista;
+    1.13. Ovat suoraan tai epäsuorasti yhteydessä seksuaaliseen kanssakäymiseen, loukkaukseen, pornografiaan, pedofiliaan ja mihin tahansa muuhun seksuaaliseen väkivaltaan tai käytäntöön, jotka ovat poikkeavia tai muuten;
+    1.14. Sisältää ruumiinkuvaukset ja sen seksuaaliset biologiset toiminnot;
+    1.15. Sisältää mainoksia ja hyperlinkkejä;
+    1.16. Sisältää viittaukset huijauskoodeihin, huijauskohteisiin, resursseihin, jotka rikkoo hallinnon oikeuksia.
+    1.17. Koostuvat käsittelemättömistä satunnaisista kirjasarjoista (Tulvien käyttäjätunnukset);
+    1.18. Täysin tai osittain koostuvat tavaramerkkielementeistä, jotka on rekisteröity ja/tai jotka on suojattu tekijänoikeuslailla;
+    1.19. Sisältää muita tietoja, joita nämä pelisäännöt, sopimus ja/tai tehokas lainsäädäntö kieltävät.
+    1.20. Jos Käyttäjänimi ei täytä edellä mainittuja vaatimuksia, muita pelisääntöihin, sopimukseen tai tehokkaisiin lakeihin sisältyviä vaatimuksia, Hallinnolla on oikeus harkintansa mukaan:
+    - vaatia Käyttäjää muuttamaan Käyttäjänimi hyväksyttäväksi ja estämään Käyttäjätilin käyttöoikeuden muuttamiseen tarvittavan ajan;
+    - Käyttäjätilin peruuttaminen peruuttamattomasti.
+
+    2. Toiminta ja käyttäytyminen, jotka ovat kiellettyjä pelin käyttäjille:
+
+    2.1. Toimet, jotka johtavat Käyttäjän tilin pysyvään tai tilapäiseen estämiseen (hallinnon harkinnan mukaan):
+    2.1.1. Pelien pelaamisen automatisointi, mukaan lukien pullotus (pelien Käyttäjien toimintaa jäljittelevä ohjelmisto), klikkausohjelmien käyttäminen, hiiren ja näppäimistön hallinnan makrot, kolmannen osapuolen ohjelmiston käyttöeduista pelissä;
+    2.1.2. Kolmannen osapuolen ohjelmistojen tai muiden välineiden kehittäminen ja/tai pelien automatisointi (robotit, huijarit) tai ohjelmat, jotka voivat heikentää pelin toimintaa ja/tai kolmansien henkilöiden sähköisten laitteiden toimintaa;
+    2.1.3. Ohjelmistovirheiden hyödyntäminen pelissä ja niiden siirtäminen kolmansille osapuolille, lukuun ottamatta hallintoa;
+    2.1.4. Taistelut saman käyttäjän omistaman tilien välillä;
+    2.1.5. Sabotointi - Kaikki teot tai laiminlyönnit, joiden tarkoituksena on luoda esteitä joukkueelle, jossa käyttäjä on jäsen, mukaan lukien LP-, TKM- ja VP-tiloissa, taistelussa sitä ryhmää vastaan, jonka jäsen olet (tahallinen heikkolaitteiden valinta, usein tauot, tai tahallinen epäonnistuminen kartan tai pelitilan vaatimusten noudattamisessa, Internetissä tapahtuvien ongelmien jäljittäminen), vahingoittaa/tuhota liittolaisen tankkia ja taistella vastustajan joukon eduksi (salaliitto);
+    2.1.6. Peli- ja/tai pelipalvelujen käyttö vilpillisiin toimiin, mukaan lukien rajoituksetta petolliset pelin sisäiset rahoitustoimet, petokset liiketoimien aikana, maksut, mukaan lukien kaikki palautukset, kielletyt tapahtumat;
+    2.1.7. Petokset - saavat pelin valuuttaa vilpillisin keinoin. Hallinto varoittaa käyttäjää siitä, että tällainen toiminta voi johtaa rikolliseen tai muuhun vastuuseen;
+    2.1.8. Tilin tai muiden pelijaksojen siirtäminen kolmansiin henkilöihin; julkaista kaikki tarjoukset, joilla myydään, ostetaan tai siirretään tilille tai pelin omaisuudeksi, sekä ilmaiseksi että kristalleiksi tai rahastoiksi, sekä näiden toimien käynnistämiseen;
+
+    2.2. Toimet, jotka johtavat (hallinnon harkinnan mukaan) pysyvällä rajoituksella pääsyyn pelin keskusteluihin ja foorumiin (kielto):
+    2.2.1. Tietojenkalastelu - toimenpiteet, joiden tarkoituksena on päästä käsiksi Käyttäjien luottamuksellisiin tietoihin, kuten kirjautumisiin ja salasanoihin;
+    2.2.2. Linkkien liittäminen kolmansien osapuolten resursseihin, jotka on naamioitu pelin virallisiksi voimavaroiksi;
+    2.2.3. Liitetään linkkejä resursseihin, jotka lupaavat vapaita kristaleja, hallinnon antamia kristalleja tai selittävät tai kuvaavat kristallivikojen hyväksikäyttöä jne.;
+    2.2.4. Kolmannen osapuolen ohjelmistoja (huijareita, ohjelmia, asiakkaita jne.) Sisältävien sivustojen linkittäminen, linkkien levittäminen sivustoihin, jotka sisältävät pelin toiminnallisuutta tai lupaa muutoksia;
+    2.2.5. Muut petokset, joiden tarkoituksena on varastaa Käyttäjätilin tilit.
+
+    2.3. Toimet, jotka johtavat (Hallinnon harkinnan mukaan) tilapäiseen rajoittamiseen pääsyn pelin keskusteluihin ja foorumiin enintään kuuden kuukauden ajan (kielto):
+    2.3.1. Epärehellisyys pelaajille (aloittelijoille): väärää tietoa, pelottelua, pilkkaa;
+    2.3.2. Loukkaukset, vääryys (harhaanjohtavien tietojen levittäminen) suhteessa muihin Käyttäjiin, hallintoon, valvojiin, muihin henkilöihin;
+    2.3.3. Kaikki sellaiset toimet, joilla on kielteinen vaikutus pelin kehitykseen ja kuvaan;
+    2.3.4. Muut käyttäytymismallit, jotka haittaavat normaalia peliprosessia, jonka hallinto tunnustaa sellaisiksi.
+    2.3.5. Yritetään saada salasana, muut tilitiedot tai muut henkilökohtaiset tiedot mistä tahansa muusta käyttäjästä, mukaan lukien kiristys muodossa moraaliset, fyysiset tai tekniset uhat;
+    2.3.6. Salasanan jakaminen omaan tiliin
+    2.3.7. Muiden käyttäjien tai kolmansien henkilöiden henkilökohtaisten tietojen levittäminen (paitsi jos tällaiset tiedot ovat julkisesti saatavilla);
+    2.3.8. Huono tai voimakas kieli, muut huonot tai epätyydyttävät sanat (lauseet), joita ei ole luokiteltu huonoksi kieleksi, myös implisiittisessä muodossa;
+    2.3.9. Seksuaalisten, eroottisten tai pornografisten tietojen ja materiaalien julkaiseminen, seksuaalisten suhteiden kuvaaminen tai kuvaaminen tai poikkeukselliset seksuaaliset käytännöt sekä linkkien liittäminen tällaisia ​​tietoja sisältäviin resursseihin;
+    2.3.10. Tietojen tai tunnusten julkaiseminen, jotka loukkaavat tai nöyryyttävät uskovien tunteita, herättävät vihaa, vihamielisyyttä, rodullista, kansainvälistä tai etnistä ristiriitaa, suvaitsemattomuutta (mukaan lukien loukkaukset, rotuun, kansallisiin, etnisiin, uskonnollisiin ominaisuuksiin perustuvat lempinimikkeet) ja myös provosoidaan keskustelukumppani sitoutumaan määriteltyihin toimiin;
+    2.3.11. Propaganda tai esittely natsimerkkeistä, symboleista, lyhenteistä tai nimityksistä, natsivastaisten nimet ja sukunimet;
+    2.3.12. Tietojen julkaiseminen, jossa voidaan nähdä väitteet, jotka vaativat väkivaltaa, sotaa, terrorismia, vallan kaatumista; ääri-aktiivisuus ja / tai massahäiriöt;
+    2.3.13. Tietojen julkaiseminen poliittisista järjestöistä (poliittisista johtajista), jotka ovat syyllistyneet poliittisiin rikoksiin tai rikoksiin ihmiskuntaa vastaan, terrorismia vastaan ​​tai muutoin rikkoneet kansainvälisiä lakeja;
+    2.3.14. Kaikenlainen syrjintä sukupuolen, iän, uskonnon tai muiden ominaisuuksien mukaan;
+    2.3.15. Tietojen julkaiseminen, jotka sisältävät menetelmiä itsemurhan tekemiseen, kehottaa tekemään itsemurhaa, väkivaltaa tai muita toimia, jotka uhkaavat elämää tai terveyttä, kuvaavat vaarallisia taistelutekniikoita, tainnutuskohtia, aseiden tuotannon menetelmiä, kehonmuutostämismenetelmiä;
+    2.3.16. Sellaisten tietojen julkaiseminen, jotka kuvaavat, vauhdittavat tai perustelevat laittomia tai epäsosiaalista käyttäytymistä, rikollisuutta, väkivaltaa, silpomista, psyykkistä tai fyysistä julmuutta ihmisille tai eläimille ja aiheuttavat vahinkoa muiden omaisuudelle;
+    3.2.17. Lasten pelkoa, kauhua tai paniikkia aiheuttavien tietojen julkaiseminen, kuvien, tautien, itsemurhien, onnettomuuksien, hätätilanteiden tai katastrofien kuvaukset tai kuvaukset mukaan luettuina ja niiden seuraukset, muut tiedot, jotka voivat vahingoittaa terveyttä tai kehittää alaikäisiä;
+    02.03.18. Alkoholi- ja alkoholipitoisten juomien, oluen, tupakkatuotteiden, tupakointituotteiden, huumeiden, myrkyllisten, psykotrooppisten ja/tai päihtyvien aineiden, niiden esiasteiden, kulutukseen tarkoitetun tiedon julkaiseminen sisältää tietoja paikoista ja menetelmistä, niiden tuotanto, hankinta, viljely ja käyttö;
+    2.3.19. Sellaisten tietojen julkaiseminen, jotka voivat rohkaista halukkuutta osallistua rahapeleihin, prostituutioon, älykkyyttä tai lykkäämistä;
+    2.3.20. Henkiseen omaisuuteen liittyvien esineiden (ohjelmistot, taideteokset, videot ja muut esineet tai niiden osat, tavaramerkit jne.) Käyttö tai muu aineisto ilman oikeudenhaltijan lupaa; viestien lähettäminen laittomaan sisältöön; teollis- ja tekijänoikeuksia koskevien tietojen poistaminen tai muuttaminen, erityisesti yhteydet oikeuksien haltijoihin, tekijöihin ja muuhun teollis- ja tekijänoikeuksien vahvistamiseen;
+    2.3.21. Sellaisten tietojen julkaiseminen, jotka voivat aiheuttaa käyttäjille tai hallinnoimille haittaa/tappioita;
+    02.03.22. Väärien tai fiktiivisten tietojen, asiakirjojen tai todisteiden antaminen. Hallinto varoittaa käyttäjää rikollisista ja muista vastuista tällaisesta toiminnasta.
+    2.3.23. Aiheiden ja/tai viestien luominen pelin keskusteluissa ja/tai foorumeissa, jotka ovat Liekehtivät ("kiistelemisen tähden"), viestien vaihto, joka on pelkkää sanasotaa, joka ei useinkaan ole riippuvainen kiistan alkuperäisestä syystä.;
+    2.3.24. Aiheiden ja/tai viestien luominen pelin keskusteluissa ja/tai foorumeissa, joiden tarkoituksena on saada aikaan muita käyttäjiä, hallintoa, valvojia sekä estää viestintä foorumissa tai pelikeskusteluissa;
+
+    2.4. Toimet, jotka johtavat (hallinnon harkinnan mukaan) tilapäiseen rajoittamiseen pääsystä pelin keskusteluille ja foorumille enintään 24 tunniksi (kielto) tai viralliselle varoitukselle:
+    2.4.1. Kaikki yritykset olettaa olevan entinen tai nykyinen hallinnon tai projektin avustajan (valvoja, konsultti jne.) Työntekijä, mukaan lukien viestien lähettäminen hallinnon puolesta tai valvojat;
+    2.4.2. Lahjoittaminen missä tahansa muodossa, mukaan lukien rahastojen, pelin arvojen tai kristallien siirtopyynnöt;
+    2.4.3. Historiallisten tapahtumien vastaisten tietojen julkaiseminen;
+    2.4.4. Tietojen julkaiseminen, joka sisältää poliittista pyyntöä, poliittista mainontaa, kaikenlaista vaalipropagandaa;
+    2.4.5. Keskustelu nykyisistä poliittisista kysymyksistä, jotka voivat aiheuttaa konflikteja millään tavalla;
+    2.4.6. Käyttäjiin, hallintoon tai kolmansiin osapuoliin kohdistuvat uhat;
+    2.4.7. Tietojen julkaiseminen laittomista toimista (laiminlyönneistä) aiheutuneen alaikäisen tiedon osalta;
+    2.4.8. Mainosmateriaalin tai -tietojen julkaiseminen ilman hallinnon hyväksyntää;
+    2.4.9. Peliä ja/tai sen kirjoittajia, omistajaa;
+    2.4.10. Komission tai yllyttämisen (provokaation) toimille (toimettomuus), jotka ovat kiellettyjä näistä pelisäännöistä, sopimuksesta ja/tai sovellettavasta lainsäädännöstä.
+    2.4.11. Aiheiden aloittaminen ja/tai viestien luominen pelikeskusteluissa ja/tai foorumissa, joka:
+    2.4.11.1. Toista jo olemassa olevat aiheet tai viestit sekä aiheet, joista on äskettäin keskusteltu ja/tai vastaukset, jotka ovat saatavilla tietoryhmissä (pelisäännöt, usein kysytyt kysymykset, suunnitelmat jne.).
+    2.4.11.2. Älä vastaa teemaa/luokka;
+    2.4.11.3. Sisältää caps lockin tai paljon isoja kirjaimia aiheen tai viestin otsikossa ja/tai sisällössä.
+    2.4.11.4. Sisältää aiheen tai viestin otsikossa ja/tai kuvauksessa seuraavat: merkityksettömiä tai toistuvat symbolit tai hahmot, hymiöt, viittauslinkit, huijauskoodit, tiedot, jotka vaikeuttavat aiheen tai osan ymmärtämistä tai joilla ei ole mitään merkitystä (Tulva), esimerkiksi == - Oma aihe - ==;
+    2.4.11.5. Sisältää tekstiä, jonka kirjasimen koko on suurempi kuin 24;
+    2.4.11.6. Puutteelliset tiedot eivätkä he kuvaile aiheen tunnetta otsikossa tai aiheen kuvauksessa;
+    2.4.11.7. Lukea edellisten viestien osia, jotka ovat liian suuria, ja/tai kuvia, joilla ei ole erityistä tarvetta (päällekkäisyyksiä);
+    2.4.11.8. Jatka keskustelua aiheista, jotka hallinto sulki tai poisti (pommitukset);
+    2.4.11.9. Pyydä henkilökohtaista vetoomusta foorumin osallistujille. Henkilökohtaista viestintää varten käytä yksityisiä viestejä. Henkilökohtaiset keskustelut sallitaan samanaikaisesti ongelmien ratkaisemisen kanssa.
+    2.4.11.10. Jätetään roskapostia, eli jakaa tietoja, joita vastaanottaja ei pyytänyt, eivät näytä kiinnostuneelta vastaanottamaan ja/tai eivät suostuneet vastaanottamaan;
+    2.4.11.11. Sisältää muita tietoja tai rikkomuksia, jotka ovat kiellettyjä näistä pelisäännöistä, sopimuksesta ja / tai sovellettavista laeista.
+
+    3. Rajoituksia käyttäjälle
+
+    3.1. Jos käyttäjä rikkoo näitä pelisääntöjä, hallintoviranomaisella on oikeus soveltaa tätä sääntöä koskevissa osissa pelisääntöjä. Mahdolliset rajoitukset eivät rajoitu mainittuihin. Hallinto pidättää itsellään oikeuden soveltaa muita rajoituksia omalla harkinnallaan aina tilien pysyvän estämisen estämiseksi, mukaan lukien kaikkien Käyttäjän virtuaalisen omaisuuden osittainen tai täydellinen leikkaus Peliin (talli, kristallit, pelitilastot) .
+    3.2. Rajoituksia valittaessa hallinto pitää käyttäjän loukkausten tyypin ja määrän sekä näiden pelisääntöjen aikaisemmat rikkomukset.
+    3.3. Hallinnolla on oikeus oman harkintansa mukaan poistaa kaikki tiedot tai viestit; poista/siirrä aihe, joka on luotu väärässä Forum-osassa ilman ilmoitusta.
+    3.4. Hallinnolla on oikeus omasta harkinnastaanan soveltaa yhtä tai useampaa rajoitusta samanaikaisesti käyttäjälle tai antaa varoitus.
+    3.5. Näiden pelisääntöjen rikkominen tarkoittaa, että Käyttäjä voi välittömästi ilman ennakkoilmoitusta kieltää pelipalvelujen tarjoamista tai tällaisia ​​palveluja voidaan rajoittaa kokonaan tai osittain.
+    3.6. Jos käyttäjä rikkoo pelisääntöjä useita kertoja tai integroidulla tavalla, hallintoviranomaisella on oikeus omien harkintansa mukaan toistaa Käyttäjälle asetetut rajoitukset.
+    3.7. Koska pelisääntöjen tiettyjä rikkomuksia ei ole aina mahdollista tarkasti selvittää, lopullinen päätös pysyy aina hallinnon kanssa.
+    3.8. Näitä rajoituksia voidaan soveltaa mille tahansa käyttäjälle, joka rikkoo näitä pelisääntöjä.
+    3.9. Yksityisviestit on tarkoitettu käyttäjien henkilökohtaiseen viestintään pelipalveluissa ja foorumissa. Peli-sääntöjen rikkomista koskevien valitusten käsittelyssä hallinto ei saa ottaa huomioon yksityisiä viestejä koskevia valituksia, lukuun ottamatta pelisääntöjen rikkomuksia jäsenten tai avustajien yksityisissä viesteissä. Käyttäjä voi lopettaa vastaanottamasta yksityisiä viestejä toiselta käyttäjältä lisäämällä hänet mustalle listalle foorumin Käyttäjän profiilin asianmukaisessa osassa.
+    3.10. Hallinto ei ole millään tavoin vastuussa välittömästä tai välillisestä menetyksestä tai vahingosta, jonka käyttäjä tai kolmas osapuoli olisi voinut kärsiä Käyttäjän käytön tai kolmannen osapuolen Internet-sivuston, pelin ja/tai Online-palvelut, mukaan lukien, mutta ei rajoittuen, aiheuttamat vahingot, jotka johtuvat pelien ja Online-palvelujen käytöstä tai Käyttäjän rajoitusten hallinnoinnista aiheutuneista vahingoista, välittömiä tai välillisiä vahingonkorvauksia, jotka aiheutuvat kolmannen osapuolen toimista. Peli, Internetin puute, varkaus, materiaalien tuhoutuminen, Käyttäjätiliin liittyvien tietojen menettäminen ja Käyttäjän kunniaa, arvokkuutta ja liiketoiminnan maineeseen liittyviä haittoja.
+
+    4. Hallintoavustajat
+
+    4.1. Käyttäjäkäyttäjät valitsevat Hallinnon avustajat.
+    4.2. Hallintoavustaja on henkilö, joka toimii hallinnon puolesta ja sen edun mukaisesti. Hallintovirkamiehet ylläpitävät ja valvovat järjestystä peli- ja pelipalveluissa sekä foorumissa, keskusteluissa ja virallisissa sosiaalisen median sivuilla ja pelin tileillä.
+    4.3. Hallinnon avustajan on oltava rehellinen ja objektiivinen päätöksenteossa ja hänen on myös noudatettava näiden pelisääntöjen ja sopimuksen määräyksiä, oltava kohtelias käyttäjille, suorittamaan tehtäviään tehokkaasti ja säännöllisesti. Hallintovirkamiehen tehtävät määräytyvät ja ohjaavat sisäiset ohjeet.
+    4.4. On kiellettyä julkisesti keskustella hallinnollisten avustajien toiminnasta pelin foorumeissa, keskusteluissa, sosiaalisten medioiden virallisten ryhmien kanssa. Kaikki avustajien työtä koskevat valitukset on lähetettävä asianomaisen avustajaryhmän päällikölle.
+    4.5. Valmentajien toiminta suoritetaan vapaaehtoisesti. Käyttäjällä ei ole oikeutta määrätä avustajaa asettamaan rajoituksia.
+
+    5. Valitukset ja Muutoksenhaut
+
+    5.1. Käyttäjällä on oikeus ilmoittaa pelisääntöjen rikkomuksista luomalla uusi keskusteluryhmä Aiheet-osiossa. On syytä määritellä rikkomuksen luonne selkeästi uudessa aiheessa ja liittää chat-kuvakaappaus tai video, joka selvästi osoittaa rikkomuksen.
+    5.2. Käyttäjä voi lähettää kysymyksiä, kommentteja tai valituksia näistä pelisäännöistä osoitteeseen help@tankionline.com. Hallinto pyrkii kaikin keinoin käsittelemään tällaisia ​​pyyntöjä mahdollisimman pian.
+    5.3. Valituksen lähettämisen yhteydessä Käyttäjän on kuvattava tilanteen luonne mahdollisimman tarkasti ja mahdollisimman selkeästi ja liitettävä näyttöön liittyvät seikat, kuvakaappaukset jne. Valituksia perusteettomista rajoituksista työskentelee yksinomaan sisäisen arvioinnin hallinto ja ohjaaja. Rajoitusten soveltamista koskevia päätöksiä ei voida tarkistaa.
+    5.4. Jos käyttäjä aloittaa kirjeenvaihtoa hallinnon kanssa tai antaa raportin pelistä tai pelipalveluihin liittyvistä ongelmista, hallintovirastolla on oikeus tallentaa kaikki tällaiset kirjeet.
+
+    6. Muut määräykset
+
+    6.1. Hallinto hallinnoi peliä ja soveltaa näitä pelisääntöjä oman harkintansa mukaan, mutta ottaa huomioon yhteisön mielipiteen.
+    6.2. Hallinto voi muuttaa näitä pelisääntöjä ilman ennakkoilmoitusta. Käyttäjän on tarkistettava nämä pelisäännöt vähintään kerran seitsemän päivän välein (eli viikoittain). Jos tällaista tarkistusta ei tehdä määräajassa ja käyttäjä jatkaa pelin käyttämistä, Käyttäjän katsotaan lukeneen ja hyväksynyt näiden pelisääntöjen muutetun version.
+    6.3. Hallinto ylläpitää "nollatoleranssi" -politiikkaa huijausta ja petoksia vastaan. Jos hallinnon käsityksen mukaan käyttäjä on huijannut tai yrittänyt huijata hallintoa tai muuta käyttäjää tai toimittanut vääriä tai fiktiivisiä tietoja, asiakirjoja, todisteita ja muuten rikkoi sovellettavia lakeja, hallinto pidättää itsellään oikeuden estää käyttäjän tilit ja siirtää tällaiset tiedot (sekä Käyttäjän henkilötietojen kanssa) kolmannelle osapuolelle ja/tai lainvalvontaviranomaisille, jos hallinto katsoo sen tarpeelliseksi.
+    6.4. Hallinto voi antaa muita määräyksiä ja rajoituksia eSports-sääntöihin, kilpailuihin, turnauksiin ja mestaruuskilpailuihin. Samaan aikaan nämä pelisäännöt ovat olennainen osa hallinnon hyväksymiä muita sääntöjä.
+    6.5. Käyttäjän luodut pelitilat (kuten "Save the Gold") voidaan toistaa missä tahansa tilassa, kunhan se on Yksityinen Pro Taistelu. Kuitenkin kaikenlainen väärinkäyttö, kuten monimutkaisuus, sabotointi tai teho-tasoittaminen tällaisten taistelujen aikana, käsitellään normaalien pelisääntöjen mukaisesti.
+  PROFILE: Profiili
+  CHALLENGE_BUY_BATTLE_PASS: Buy battle pass
+  CLOSE_LABEL: Sulje
+  HELP_PANEL_MAIN_MENU_HELPER_TEXT: Päävalikko
+  CHAT_PANEL_COMMAND_BLOCK_LIST: 'Ohita luettelo:'
+  CAPTCHA_PROCEED_BUTTON: Seuraava
+  AUTOCOMPLETION_BALANCE_DISTURBED_WINNERS_PART1: Vihollisen joukkueessa ei ole tarpeeksi pelaajia
+  PARTNER_GAME_TERMS: ''
+  BATTLE_UPGRADES_TEXT: Päivitykset
+  HEADER_PREMIUM: PREMIUM-TILI
+  PREMIUM_NOTIFICATION_SOON_COMPLETE: Premium-tilisi on päättymässä.
+  GARAGE_NEW_ITEMS_ALERT: 'Onnea! Nyt voit ostaa seuraavia tuotteita Tallista:'
+  BATTLE_CREATE_PANEL_BUTTON_CAPTURE_THE_FLAG: |-
+    Ota
+    Lippu
+  CLAN_NAME_ALREADY: Klaanin nimi on jo käytössä
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTTON_ARROW_LENGTH: Kolmekymmentä
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_HEADER: Maksutapa alennuksella
+  PAYMENT_COUNTRIES_LABEL_TEXT: 'Maa:'
+  BATTLE_FUND: Taistelurahasto
+  TURNOVER_HINT_1: Käytä aseesi rekyyliä saadaksesi takaisin kappaleesi
+  CLAN_VS_CLAN: Klaani vs Klaani
+  GARAGE_DAMAGE_PROPERTY: Vahinko
+  GAME_ACTION_DROP_FLAG: Pudota lippu
+  DESCRIPTION: Kuvaus
+  SETTINGS_NEW_PASSWORD_LABEL_TEXT: 'Uusi salasana:'
+  REARM_PAUSE_ALERT: |-
+    Taukoaika on lähes ohi. Jätät automaattisesti taistelun {time}
+    Palaa taisteluun?
+  GARAGE_HEAL_PROPERTY: Parantaa
+  ONLINE_LABEL: Onlinessa
+  REARM_TEAM_WIN: Joukkueesi on voittanut!
+  GO_TO_BATTLE_LABEL: Mene taisteluun
+  HEADER_NEWS: UUTISET
+  SETTINGS_MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION: Hiiri näyttää pystysuuntaisen inversion Shaftin Snipetys Tilassa
+  CHAT_SHARP_COMMANDS: joukkueet|Joukkueet|http://fi.tankiforum.com/index.php?showforum=123
+  HEADER_CAUTION_EXTERNAL_LINK: ULKOINEN LINKKI
+  CLAN_MEMBER_POSITION: Asema
+  RUGBY_SHORT_NAME: RGB
+  HELP_NAME_IS_NOT_UNIQUE: Nimi on jo käytössä
+  CHALLENGE_BUY_BATTLE_PASS_TIP: Buy the battle pass to claim all the rewards you've earned
+  GARAGE_ARTILLERY_PROTECTION_PROPERTY: Suojaa Magnumilta
+  CLAN_REMOVE_REQUEST_TO_CLAN: Peruuta pyyntösi
+  BATTLE_PLAYER_KILLED: tuhottu
+  SPECTATE_TEXT: Katso
+  CLAN_JOINED_CLAN: Olet liittynyt Klaaniin
+  PAYMENT_OPERATORS_LABEL_TEXT: 'Operaattori:'
+  NEWS_TAB_HEADER: Uutiset
+  SHOP_PAYMENT_CATEGORY_HEADER_FOR_ODNOKLASSNIKY: ''
+  VKONTAKTE_NAME: VKontakte
+  BATTLE_PLAYER_SUICIDED: itsetuhonnut
+  ERROR_EMAIL_NOT_UNIQUE: Sähköposti ei ole ainutlaatuinen
+  CLAN_TAG_ALREADY: Tunniste on jo käytössä
+  CLAN_ALERT_REMOVE_PLAYER: Poista %USERNAME% klaanilta?
+  KEYBOARD_KEY_PG_UP: PgUp
+  REDUCE_DAMAGE_TWINS: Twins
+  MAP_THEME_NAME_WINTER_NIGHT: Talvi-ilta
+  HELP_PANEL_MONEY_HELPER_TEXT: |-
+    Osta lisää
+    kristalleja
+  YOU_WERE_KICKED_LOGIN_TEXT: |-
+    Sinut erotettiin voimakkaasti pelistä.
+    Syy:
+    Voit palata peliin
+  CODE_CONFIRM: Confirmation code
+  DRONE_INVENTORY_ADD: Active Supplies Time Bonus
+  PAYMENT_SMSNUMBERS_NUMBER_HEADER_LABEL_TEXT: Numero
+  REENTER_TO_GAME: Palaa peliin uudelleen
+  MAIN_QUEST_BUTTON: Main
+  GARAGE_BULLET_SPEED_PROPERTY: Ammuksen nopeus
+  HELP_PANEL_RANK_HELPER_TEXT: Nykyinen rankkisi
+  HELP_PASSWORD_IS_TOO_SIMPLE: Syötetty salasana on liian yksinkertainen
+  SETTINGS_ANTIALIASING: antialiasoi
+  LINK_IS_COPIED_BUTTON_LABEL: |-
+    Linkki
+    kopioitu
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_TEXT: |-
+    Napsauta luodaksesi mukautetun taistelun
+    valitsemalla kartan ja pelin.
+  LOOT_3_OPEN_BUTTON: Avaa 15
+  CLAN: Klaani
+  HEADER_BATTLES: TAISTELUT
+  CLAN_YOUR_RANK_TOO_LOW: Sijoitus on liian alhainen olla jäsen klaanissa
+  HELP_PANEL_RATING_INDICATOR_HELPER_TEXT: |-
+    Nykyinen asema
+    ja pysyvä muutos
+  DRONE_POWER_DURATION: Power up duration
+  RUGBY_MODE_DESCRIPTION: Vangita palloa karttan keskellä ja tuo se vihollisen tukikohtaan. Älä anna vihollisen joukkue tuoda palloa tukikohtaasi. Joukkue, jolla on suurin pisteet voittaa.
+  PREMIUM_BUTTON_EXTEND: Pidentää
+  ALERT_ACCOUNT_ALREADY_LINKED: Tämä %1 tili on jo linkkitettu
+  RUGBY_READY_TO_FACE_OFF: Pallo tulee kutemaan pian
+  PRESENT_INFO_DATE_LABEL: 'Päivämäärä:'
+  RUGBY_MODE_NAME: Rugby
+  CHANGE_UID_FORM_EXPLANATION_TEXT: |-
+    Tervetuloa takaisin, tankkeri!
+
+    Nimesi muuttui automaattisesti pitkäaikaisen toimettomuuden vuoksi, mutta voit vaihtaa sen jollekin muulle tämän lomakkeen avulla.
+
+    Uusi käyttäjätunnuksesi toimii myös sisäänkirjautumisessa.
+  SHOP_WINDOW_PAYMENT_CATEGORY_HEADER: Maksutapa
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_ARROW_LENGTH: Kolmekymmentä
+  GARAGE_SNIPING_IMPACT_PROPERTY: Iskuvoima tähtäys tilassa
+  LOADING_PAYMENT_PAGE: Ladataan maksusivua...
+  PIECE_2: palat
+  CLAN_REQUEST_IS_ALREADY_SENT: Olet jo lähettänyt pyynnön tämän klaanille
+  GARAGE_CATEGORY_BUTTON_PRESENTS: Lahjat
+  DOM_BLUE_LOST_POINT: Sininen joukkue on menettänyt pisteen {point}
+  BATTLE_STAT_KDRATIO: D/L
+  DRONE_BONUS_RADIUS: Bonus radius
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTO_COMPLETION: Automaattinen viimeistely
+  VK_ENTER_GROUP_BONUS: ''
+  CTF_GOT_ENEMY_FLAG: on ottanut vihollisen lippu
+  GAME_ACTION_TURRET_CENTER: Keskitykki
+  SERVER_FROZEN_ALERT_TEXT: Valituttu pelipalvelin on tällä hetkellä ylikuormitettu. Yritä valita toinen palvelin.
+  QUICK_PLAY_MODE_DESCRIPTION: Pelaa taistelu muiden pelaajien kanssa voittaaksesi vastapuolen joukkueelta. Joukkueen taistelu tila valitaan satunnaisesti.
+  REDUCE_DAMAGE_ISIDA: Isida
+  HEADER_TOURNAMENT_PREPARE: VALMISTAUDUTAAN TAISTELUUN
+  CTF_ENEMY_FLAG_RETURNED: Vihollisten lippu on palautettu
+  LOBBY_CHAT_WRITE_PRIVATELY: Kirjoita yksityisesti
+  PARTNER_REGISTARTION_FORM_LOGIN_LINK_TEXT: Olet jo rekisteroinyt? <a href='event:haveAcc'><font color='#59ff32'><u>Kirjaudu sisään</u></font></a>.
+  HELP_PANEL_SCORE_HELPER_TEXT: |-
+    Nykyinen kokemus
+    / Kokemusta vaaditaan
+    saadaksesi seuraavan rankin
+  FRIENDS_NEW: Uusi
+  NOT_ENOUGH_MONEY_FOR_BUY_ITEM: Sinulla ei ole tarpeeksi kristalleja tehdäksesi tämän ostoksen.
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_ARROW_LENGTH: Kolmekymmentä
+  CLAN_IS_ALREADY_IN_INVITE_LIST: Tämä klaani %CLANNAME% on jo kutsunut sinut liittymään
+  GAME_ACTION_USE_FIRST_AID: Käytä ensiapu tarjontaa
+  LABEL_MOUNTED_RESISTANCES_PANEL: Resistances
+  HEADER_MISSIONS: TEHTÄVÄT
+  PAYMENT_PRESENT_LABEL_TEXT: ILMAISEKSI!
+  FRIENDS_CANCEL_BUTTON_TEXT: Peruta
+  GARAGE_SHAFT_PROTECTION_PROPERTY: Suojaus Shaftilta
+  BATTLE_STAT_CALLSIGN: Käyttäjätunnus
+  ALERT_ANSWER_OK: Ok
+  WARM_UP_LABEL: Valmistaudu taisteluun
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_TEXT: Anna sähköpostiosoitteesi ja saat 5 kristallia!
+  ERROR_CALLSIGN_LENGTH: Lempinimen pituuden on oltava yli 1
+  GAME_ACTION_FULL_SCREEN: Kokonäyttö/romahdus
+  MODULE: Moduuli
+  LOOT_OPEN_BUTTON: Avata
+  HEADER_SETTINGS: ASETUKSET
+  DM_SHORT_NAME: KO
+  CHAT_SHARP_NICK: outdated
+  SETTINGS_LINK_EMAIL_BUTTON: Linkki
+  MISSION_BUTTON_TOOLTIP: Päivittäisten tehtävien listasi. Suorita päivittäiset tehtävät saadaksesi entistä enemmän palkkioita.
+  CLAN_USER_CREATION_DATE: Klaanin luomispäivä
+  CLAN_POSITION_VETERAN: Veteraani
+  CHECK_PASSWORD_FORM_PASSWORD: 'Salasana:'
+  CHALLENGE_TIER: Tier
+  SETTINGS_TAB_NAME_CONTROLS: Ohjaimet
+  CHAT_LABEL_SPECTATORS: Katsojille
+  CTF_RETURNED_FLAG_NEUTRAL: on palauttanut lipun
+  AS_SHORT_NAME: ASL
+  ERROR_CALLSIGN_WRONG_FIRST_SYMBOL: Ensimmäinen nimimerkkin symboli pitää olla kirjain tai numero
+  GAME_ACTION_SHOW_TANK_STATS: Näytä tankin tilastot
+  KEYBOARD_KEY_UP: Ylös
+  CLAN_FOUNDER: Klaanin perustaja
+  HEADER_DEVICES: MUUTOKSIA
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_CONGRATULATIONS: Onnittelut, %1!
+  REFUSED_TO_JOIN_THE_BATTLE_AT_YOUR_INVITATION_LABEL: Kieltäytyi liittymästä taisteluun kutsustasi
+  BUTTON_LABEL_RESTORE_DEFAULT_BUTTONS: Palauta oletusnäppäimet
+  BATTLELIST_PANEL_BUTTON_CREATE: Luo
+  ASSAULT_DELIVER_FLAG: Tukikohtaan on onnistuneesti hyökätty
+  STATISTICS_HEADER_SCORE: Pisteet
+  HEADER_CLAN_EDIT_PROFILE: Muokkaa profiilia
+  BATTLE_CANNOT_BE_FOUND_ALERT: Linkki on vanhentunut. Taistelua ei löydy, se on ohi.
+  PARTNER_REGISTARTION_FORM_CHOOSE_NAME_TEXT: 'Valitse käyttäjätunnuksesi pelissä:'
+  BATTLE_SUPPLIES_TEXT: Tarvikkeet
+  CHECK_PASSWORD_FORM_BUTTON_NEW_PLAYER_TEXT: Uusi pelaaja
+  MAIN_PANEL_UPDATE_RANK_NOTICE: |-
+    Onneksi olkoon!
+    Olet saavuttanut listalla %1
+  CTF_GOT_OUR_FLAG: on ottanut meidän lippu
+  DOM_RED_CAPTURED_POINT: Punainen joukkue on valloittanut pisteen {point}
+  CTF_CAPTURED_OUR_FLAG: on ottanut meidän lipun
+  FREE_UIDS_FORM_HEADER: |-
+    Tätä nimeä käytetään jo.
+    Nämä vaihtoehdot ovat käytettävissä:
+  PLAY_BUTTON: Pelaa!
+  BATTLE_CREATE_PANEL_BUTTON_CONTROL_THE_POINT: Valvontapisteet
+  DEVICE: Muutos
+  SETTINGS_SOFT_PARTICLES_LABEL_TEXT: Pehmeät hiukkaset
+  LOOT_1_OPEN_BUTTON: Avaa 1
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_TEXT: Klikkaa suorittaaksesi maksun.
+  CTF_GOT_FLAG_NEUTRAL: on ottanut lipun
+  CLAN_DOES_NOT_ACDEPT_REQUEST: Tämä klaani ei hyväksy pyyntöjä
+  DAILY_QUEST_PRIZE: 'Palkinto:'
+  GARAGE_CATEGORY_BUTTON_SPECIAL: Erityinen
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_COMPENSATION: 'Korvaus tästä tuotteesta:'
+  ERROR_CALLSIGN_NOT_UNIQUE: Käyttäjätunnus ei ole ainutlaatuinen
+  HEADER_COMMUNICATOR: COMMUNICATORI
+  GARAGE_ROCKET_LAUNCHER_PROTECTION_PROPERTY: Suojaus Strikerilta
+  SETTINGS_MOUSE_INVERSION_CHECKBOX_LABEL: Hiiri näyttää pystysuoran käänteen
+  SETTINGS_MESSAGE_ONLY_FROM_FRIENDS: PM vain ystäviltä
+  CHECK_PASSWORK_FORM_LOGIN_VIA: Mene peliin käyttämällä
+  GROUP_INVITE_RESPONSE_INVITATIONS_DISABLED: Ryhmäpyynnöt ovat pois päältä
+  PIECE_1: pala
+  DOM_ENEMIES_CAPTURED_POINT: Viholliset ovat valloittaneet pisteen
+  PARTNER_PARAMETRS_ERROR: Yrität syöttää pelin väärillä parametreilla.
+  CHAT_SHARP_FEEDBACK: palaute|Palaute|http://fi.tankiforum.com/index.php?showforum=182
+  DOM_ENEMIES_LOST_POINT: Viholliset ovat menettäneet pisteen
+  CLAN_YOU_ALREADY_IN_CLAN: Olet jo klaanin jäsen
+  GARAGE_SMOKY_PROTECTION_PROPERTY: Suojaus Smokilta
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_HEADER: Erityisolosuhteet
+  SETTINGS_SHADOWS_LABEL_TEXT: Varjo tankin alla
+  HELP_PANEL_SCORE_HELPER_ARROW_LENGTH: Kolmekymmentä kuusi
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_ENTER: Mene
+  CONNECTION_CLOSED_WIKI_LINK: http://en.tankiwiki.com/Connection_Suljettu
+  GARAGE_TURN_PROPERTY: Kääntymisen nopeus
+  REARM_SELFDISTRUCTION: Sinä tuhoat itsesi {time}
+  CTF_OUR_FLAG_RETURNED: Meidän lippu on palautettu
+  DAILY_QUEST_GET_PRIZE: Vahvista palkkio
+  BATTLE_EXIT: Poistu taistelusta
+  ERROR_FATAL: Tapahtui virhe
+  CHECK_PASSWORD_FORM_CALLSIGN: 'Sisäänkirjautuminen tai sähköpostiosoite:'
+  REARM_OPTION_TEXT: Muuta ase
+  YOUR_FRIEND_IS_OFFLINE_LABEL: |-
+    Kutsua ei ole lähetetty
+    Ystäväsi on offline-tilassa
+  CREATE_BATTLE_PANEL_GOLD_BOXES: Kulta laatikot
+  BATTLE_CREATE_PANEL_STEPPER_TIME_LIMIT: Määräaika
+  SETTINGS_ENABLE_ADAPTIVE_FPS_CHECKBOX_LABEL_TEXT: Mukautuva FPS
+  SHOP_PAYMENT_CATEGORY_DESCRIPTION_FOR_ODNOKLASSNIKY: ''
+  PAYMENT_BUTTON_PROCEED_TEXT: Seuraava
+  GARAGE_ROTATION_PROPERTY: Pyörimisnopeus
+  HEADER_CLAN_LICENSE: KLAANI LISENSSI
+  GARAGE_CONFIRM_ALERT_BUY_QEUSTION_TEXT: Vahvistako ostoksen?
+  BATTLE_FINISH_IN: Taistelu päättyy automaattisesti
+  AS_MODE_DESCRIPTION: Pelataksesi sinistä tiimiä, suojaa tukikohta vihollisten hyökkäyksiltä. Pelataksesi punaista tiimiä, vie lippu sinisen tiimin tukikohtaan pisteiden saamiseksi. Joukkue, joka ansaitsee enemmän pisteitä, voittaa.
+  CLAN_TAG: Klaanin tunniste
+  GARAGE_INFO_PANEL_BUTTON_BUY_TEXT: Osta
+  CLAN_PLAYERS_IN_CLAN: Pelaajia klaanissa
+  SEND_PRESENT_BUTTON: Lähetä
+  CLAN_PLAYER_IS_REQUEST_LIST: Pelaaja %USERNAME% on jo hakenut liittymään klaaniin
+  CHAT_SHARP_WIKI: wiki|Pelin Tietosanakirja|http://en.tankiwiki.com/Main_Page
+  GROUP_INVITE_RESPONSE_ACCEPT: Liittyy ryhmään
+  CTF_SHORT_NAME: CTF
+  MAIN_PANEL_BUTTON_SHOP: Kauppa
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_ARROW_LENGTH: Kolmekymmentä
+  CLAN_CREATION_RULES: <textformat leading='5'>Varmista, että olet perehtynyt <a href='http://tankionline.com/en/rules/' target='_blank'><font color='#59ff32'><u>rules</u></font></a></textformat>
+  GARAGE_GAUSS_PROTECTION_PROPERTY: Protection from Gauss
+  SETTINGS_TAB_NAME_GRAPHICS: Grafiikka
+  CLAN_USER_CLAN_NUMBER_MEMBERS: Pelaajien määrä
+  RENAME_FORM_CURRENT_PASSWORD_INPUT: Anna tilisi nykyinen salasana
+  CTF_RED_FLAG_RETURNED: Punainen lippu on palautettu
+  DATE_FORMAT: MM/dd/yyyy
+  BATTLE_CREATE_PANEL_BUTTON_ASSAULT: Assault
+  CLAN_PLAYER_RANK_TOO_LOW: Rankki on liian alhainen
+  OPEN_GARAGE: Nopea talli
+  GARAGE_INFO_PANEL_BUTTON_REMOVE_TEXT: Remove
+  REDUCE_DAMAGE_SMOKY: Smoky
+  PARTNER_REGISTARTION_FORM_CONTINUE: Hyväksy
+  CONTINUE_BATTLE_TEXT: Jatka
+  FITTING_BUTTON_TEXT: Esikatselu
+  FRIENDS_BATTLE: Taistele
+  PIECE_3: palat
+  CLAN_ALERT_CLAN_FULL: Klaani on täynnä
+  SHOP_WINDOW_EULA_LINK: <a href="http://tankionline.com/en/eula/" target="_blank"><font color='#59ff32'><u>EULA</u></font></a>
+  GARAGE_CRITICAL_DAMAGE_PROPERTY: Kriittinen vahinko
+  GARAGE_PROTECTION_PROPERTY: Suojaus
+  GARAGE_GAUSS_AIMING_DAMAGE_PROPERTY: Vaurio tähtäys tilassa
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_AGREEMENT: Olen samaa mieltä saadakseni kristalleja korvaukseksi, jos tämä tuote on jo ostettu tälle tilille.
+  PAYMENT_TIANXIAFU_TERMS_TEXT: ???
+  RUGBY_BALL_TAKEN_RED: Punainen joukkue on saanut kiinni pallon
+  CLAN_INCORECT_CLAN_NAME: Virheellinen klaani nimi
+  LINK_IS_NO_LONGER_VALID_TEXT: Tämä linkki ei ole enää voimassa. Ole hyvä ja yritä uudelleen.
+  BATTLE_CREATE_PANEL_DRONES: Drones
+  CLAN_PURCHASE_INFORMATION: "Tehdääksesi oman klaanin, sinun täytyy ostaa anniskeluluvan. \nTämä lupan avulla voit luoda yhden klaanin."
+  KEYBOARD_KEY_LEFT: Vasen
+  GARAGE_THUNDER_PROTECTION_PROPERTY: Suojaus Thunderilta
+  SHOW_NOTIFICATIONS_LABEL: Näytä ilmoitukset
+  YOURE_LOCATION_TEXT: Jos olet eri maassa, valitse se manuaalisesti ja napsauta OK
+  GARAGE_WEIGHT_PROPERTY: Paino
+  AUTOCOMPLETION_BALANCE_RESTORED_PART2: Kierros etenee normaalisti
+  SETTINGS_BUTTON_CHANGE_PASSWORD_TEXT: Vaihda salasana ja sähköposti
+  RENAME_FORM_INSTRUCTION: Jos haluat nimetä tilisi uudelleen, sinun on valittava uusi lempinimi, joka on myös käytettävissä. Sinulta myös saatetaan pyytää nykyistä salasanaasi vahvistamaan muutoksen. Tätä uutta lempinimeä käytetään uuden sisäänkirjautumisen yhteydessä pelin syöttämiseen ja muiden virallisten palveluiden käyttämiseen Tanki Onlinessa, kuten foorumissa.
+  CLAN_INVITE: Kutsu
+  CTF_LOST_FLAG_NEUTRAL: on menettänyt lipun
+  HELP_PANEL_RANK_BAR_HELPER_TEXT: |-
+    Kokemus baari parentuu
+    kun tappaat
+    muita pelaajia.
+  HELP_SYMBOL_IS_NOT_ALLOWED: |-
+    Lempinimi pitäisi koostua A-Z, 0-9
+    ja erikoismerkeistä.
+  GARAGE_INFO_PANEL_BUTTON_UNEQUIP_TEXT: Unequip
+  REARM_BATTLE_PRIZE: Olet saanut {crystalls}
+  GAME_ACTION_USE_NITRO: Käytä nopeuden lisäämistä
+  GARAGE_UPGRADE_TEXT: Päivitä
+  CLAN_MEMBER_COLUMN_EXPERIENCE: Kokemus
+  CLAN_POSITION_SERGEANT: Kersantti
+  CLAN_MEMBER_COLUMN_DESTROYED: Tuhottu
+  CLAN_FOUNDER_WITH_COLON: 'Klaanin perustaja:'
+  YOUR_FRIEND_IS_ALREADY_IN_THIS_BATTLE_LABEL: |-
+    Kutsua ei ole lähetetty
+    Ystäväsi on jo tässä taistelussa
+  CLAN_ALERT_LEAVE_CLAN: Poistu klaanilta?
+  DOM_WE_CAPTURED_POINT: Olemme valloittaneet pisteen {point}
+  GARAGE_RESISTANCE_DESCRIPTION_PREFIX: 'Suojaus:'
+  ALERT_ANSWER_RETURN_TO_BATTLE: Palaa takaisin taisteluun
+  MEESAGE_ALERT_OFFER: "$USERNAME$, sinulle on juuri annettu harvinainen tilaisuus \ntestata $ITEM-NAME$ taistelussa!"
+  GROUP_BUTTON: Ryhmä
+  REDUCE_DAMAGE_SHOTGUN: Hammeri
+  CLAN_LEAVE: Poistu klaanilta
+  HEADER_SECURITY: TILIN TURVALLISUUS
+  HELP_NAME_IS_FORBIDDEN: Syötetty nimeä ei voi käyttää rekisteröintiä varten
+  PAYMENT_SMS_UK_DESCRIPTION_ENDING_TEXT: Asiakaspalvelun puhelinlinja - 0-808-189-1038
+  LOOT_2_OPEN_BUTTON: Avaa 5
+  FRIENDS_YES: Kyllä
+  GARAGE_SPEED_UP_TEXT: Nopeuta
+  RANK_ICON_TOOLTIP: Nykyinen Rankkisi. Klikkaa nähdäksesi profiilisi.
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTON_TEXT: |-
+    Napsauta ja tee ensimmäinen ostosi.
+    Sinun palkkasi - 200 kristallia!
+  BATTLEINFO_PANEL_COPY_LINK_TEXT: Kopioi linkkin
+  HEADER_INVITE_A_FRIEND: KUTSU KAVERIA
+  CLAN_TAG_WITH_COLON: 'Klaanin tunniste:'
+  FRIENDS_MENU_ARROW_LENGTH: Seitsemänkymmentä
+  GARAGE_SNIPING_DAMAGE_PROPERTY: Vaurio tähtäys tilassa
+  CURRENT_CRYSTALL_TOOLTIP: Nykyinen määrä kristalleja. Kristalleja käytetään ostamaan ja päivittämään laitteesi Tallissa.
+  PAYMENT_SMSTEXT_HEADER_LABEL_TEXT: 'Teksti:'
+  GARAGE_CLOSE_TEXT: Sulje
+  SETTINGS_INVERSE_TURN_CONTROL_CHECKBOX_LABEL_TEXT: Käänteinen puolestaan ohjaa liikuttaessa takaisin
+  SETTINGS_DUST_LABEL_TEXT: Pöly
+  CLAN_SEARCH_BLOCKED_HINT: Sinut on väliaikaisesti estetty liittymästä mihinkään klaaniin
+  CLAN_PROFILE_CLOSE: Suljettu
+  HELP_PANEL_RANK_BAR_HELPER_ARROW_LENGTH: Sata kuusitoista
+  DAILY_QUEST_CHANGE: Vaihda
+  REFERAL_STATISTICS_HEADER_CALLSIGN: Kaveri
+  GARAGE_TWINS_PROTECTION_PROPERTY: Suojaus Twinisilta
+  ERROR_PASSWORD_INCORRECT: Salasana on virheellinen
+  PAYMENT_BUTTON_SEND_BUG_REPORT_TEXT: Ilmoita
+  GAME_ACTION_TANK_MOVE_FORWARD: Siirrä tankkisi eteenpäin
+  PROGRESS: Edistyminen
+  SETTINGS_SHOW_DROP_ZONES_LABEL_TEXT: Näytä pudotusalueet
+  ITEMS_IN_KIT: Tarvikkeita Pakkauksessa
+  DOM_WE_LOST_POINT: Olemme menettäneet pisteen
+  CLAN_MEMBER_COLUMN_LOST: Kuollut
+  GAME_ACTION_CAMERA_DOWN: Siirrä kamera alas
+  NEED_EMAIL_ALERT_MESSAGE: "Skipped, no need to translate this as it is Russian.\n\n/%D0%9F%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0_%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D0%B0_%D0%BA_%D0%BF%D0%BE%D1%87%D1%82%D0%B5\" target=\"_blank\"><u>здесь</u></a>.\n \nContext | Request Context."
+  GARAGE_POWER_PROPERTY: Teho
+  GUI_LANG: fi
+  BATTLE_CREATE_PANEL_MAP_THEME_LABEL: 'Teema:'
+  CTF_CAPTURED_ENEMY_FLAG: on valloittanut vihollisen lipun
+  REDUCE_DAMAGE_FREEZE: Freeze
+  ALERT_EMAIL_CONFIRMED: Sähköpostisi on vahvistettu
+  CHAT_TAB_HEADER: Chatti
+  BATTLE_CANNOT_BE_FOUND_LABEL: |-
+    Kutsua ei ole lähetetty
+    Taistelu ei löydy
+  CAPTCHA_FORM_TITLE: 'Kirjoita symboolit kuvasta:'
+  GAME_ACTION_TURRET_TURN_LEFT: Kierrä asetta vasemmalle
+  BLOCK_USER_CONTEXT_MENU_LABEL: Ohita
+  DRONE_DAMAGE_PERCENT: Bonus damage
+  HEADER_FRIENDS: KAVERIT
+  CTF_CAPTURED_FLAG_NEUTRAL: on valloittanut lipun
+  SHOP_FEATURING_HEADER: Erikoistarjous
+  ALERT_ANSWER_YES: Kyllä
+  GAME_ACTION_TANK_TURN_RIGHT: Käännä tankkia oikealle
+  GARAGE_EQUIPPED_TEXT: Varustettu
+  SETTINGS_FOG_LABEL_TEXT: Sumu
+  MAP_THEME_NAME_SUMMER_NIGHT: Kesä yö
+  GAME_PRIVACY_POLICY: Legal stuff nope.
+  BATTLE_STAT_REWARD: Palkinto
+  INVITE_FRIEND_BUTTON_LABEL: Kutsu ystävä
+  CLAN_MEMBER_DAYS: Aikaa klaanissa
+  ACCEPTED_LIMIT_EXCEEDED_ALERT: Et voi hyväksyä ystäväpyyntöä. Ystäväluettelo %USERNAME% on saavuttanut pelaajien enimmäismäärän.
+  REDUCE_DAMAGE_FIREBIRD: Firebird
+  TOURNAMENT_BATTLE_STARTING_LABEL: Aloitetaan taistelu... valmistautukaa!
+  GROUP_INVITE_BUTTON: Kutsu ryhmään
+  DELETE_PRESENT_BUTTON: Poista
+  CLAN_POSITION_OFFICER: Upseeri
+  TIME_LABEL_HOUR: t
+  HEADER_OFFER: KOEAJO
+  BATTLE_PLAYER_JOINED: liittynyt
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION: This Item can only be purchased once. If purchased a second time, instead of the items in this pack, you will receive compensation in Tankoins.
+  GROUP_INVITE_RESPONSE_USER_OFFLINE: Tämä pelaaja on poissa
+  ALERT_ACCOUNT_LINKING_ERROR: Tilin yhdistämisessä tapahtui virhe, yritä myöhemmin uudelleen
+  GROUP_INVITE_RESPONSE_DECLINE: Ei liity ryhmään
+  ALERT_ANSWER_SEND_BUG_REPORT: Lähetä vikailmoitus ja palaa taisteluun
+  HEADER_CHAT: CHATTI
+  GAME_ACTION_USE_MINE: Pudota miinaa
+  FRIENDS_COPY_NAME: Kopioi käyttäjä
+  TYPE_MESSAGE_WITH_PRESENT: Kirjoita terveiset...
+  HELP_PANEL_RANK_HELPER_ARROW_LENGTH: Satakahdeksan
+  FRIENDS_REMOVE_USER: Poista %USERNAME% kaverilistastasi?
+  ALERT_ERROR_EXTERNAL_ENTER: Peliä yrittäessäsi tapahtui virhe, yritä myöhemmin uudelleen
+  ALERT_GARAGE_AVAILABLE: Nyt voit ostaa varusteita omassa autotallissasi.
+  SHOP_PAYMENT_BUG_REPORT_LINK: http://tankionline.com/forms/payment/en/
+  ALERT_ANSWER_CANCEL: Peruta
+  HEADER_ATTENTION: HUOMIO!
+  CTF_LOST_OUR_FLAG: on menettänyt lipun
+  MAP_THEME_NAME_NIGHT: Yö
+  FORMAT_NAME_PARKOUR: Parkour
+  GAME_ACTION_PAUSE: Tauko
+  TIME_LABEL_DAY: p
+  FRIENDS_MENU: Ystävien valikko
+  PAYMENT_BUTTON_BACK_TEXT: Paketit
+  SETTINGS_CHANGE_PASSWORD_BUTTON: Vaihda
+  CHAT_SHARP_UPDATES: päivitykset|Päivitykset|http://fi.tankiforum.com/index.php?showtopic=1233
+  ULTIMATES: Ylivaihteet
+  EXPERIENCE_BAR_TOOLTIP: Nykyinen kokemus. Osallistu taisteluihin saadaksesi kokemusta ja avataksesi uusia laitteita.
+  OPEN_ALL_CONTAINERS: Open all
+  GARAGE_RICOCHET_PROTECTION_PROPERTY: Suojaus Ricochetilta
+  CTF_MODE_NAME: Lipunryöstö
+  CHAT_SHARP_THEFT: 'varkaus | Mitä jos minun säiliöni on varastettu | http: //help.tankionline.com/topics/2358-what-to-do-if-your-account-has-been-stolen/'
+  HELP_PANEL_MONEY_FIRST_HELPER_TEXT: |-
+    Osta kristalleja oikealla rahalla.
+    Hanki 100 kristallia lahjaksi
+    ensimmäistä ostoa varten.
+  BATTLE_GOLD_TAKEN: on ottanut kultaisen laatikon
+  CLAN_INVITE_TO_CLAN: Kutsu Klaaniin
+  RUGBY_GOAL_RED: Punainen Joukkue on tehnyt maalin!
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_ARROW_LENGTH: Neljäkymmentä kahdeksan
+  BATTLE_CREATE_PANEL_CHECKBOX_PRIVATE_BATTLE: Yksityinen taistelu
+  CHAT_SHARP_RANKS: rankkit|Rankkit|https://en.tankiwiki.com/Ranks_and_Experience
+  DRONE_INVENTORY_COOLDOWN_BOOST: Supply reload speed increase in sec.
+  MAP_THEME_NAME_WINTER: Talvi
+  SETTINGS_BUTTON_CANCEL_TEXT: Peruuta
+  FRIENDS_SEND_REQUEST_BUTTON: Lähetä
+  CLAN_BUY_LICENCE: Osta lisenssi
+  CHAT_PANEL_COMMAND_UNBLOCK_ALL: Ohita luettelo on tyhjennetty
+  GAME_ACTION_CAMERA_UP: Siirrä kamera ylös
+  FRIENDS_NEW_FRIEND: Uusi!
+  KEYBOARD_KEY_RIGHT: Oikea
+  GARAGE_CRITICAL_CHANCE_PROPERTY: Kriittinen mahdollisuus
+  MAP_THEME_NAME_WINTER_DAY: Talvi päivä
+  CHAT_SHARP_FORUM: foorumi|Foorumi|http://en.tankiforum.com/
+  REDUCE_DAMAGE_SHAFT: Shafti
+  CHALLENGE_BUY_PREMIUM_TIP: Buy premium account to get twice as many stars for finishing battles.
+  CHAT_PANEL_COMMAND_BLOCK: Käyttäjä %1 lisättiin ohita-luetteloon
+  CLAN_TANKS_DESTROYED: Tuhotettu tankit
+  BATTLE_CREATE_PANEL_STEPPER_KILLS_LIMIT: Tuhous raja
+  HEADER_CLAN: KLAANI
+  DAILY_QUEST_ALL_MISSIONS_COMPLETED: |-
+    Olet suorittanut kaikki tehtävät tälle päiväklle!
+    Tule takaisin huomenna peliin saadaksesi enemmän.
+  BATTLE_STAT_SCORE: Pisteet
+  GAME_ACTION_USE_DOBLE_DAMAGE: Käytä tupla vahingo varuste
+  GAME_ACTION_SCREEN_SIZE_DECREASE: Vähennä taistelunäytön kokoa
+  COMPLETE_BUTTON: Valmistele
+  FRIENDS_ALREADY_HAVE_INCOMING: Olet jo saanut pyynnön %USERNAME%. Hyväksyä se?
+  CLAN_MEMBERS: Jäsenet
+  CONSEQUENCES_EXTERNAL_LINK_FOLLOWING: |-
+    Emme ole vastuussa sivuston sisällöstä ja suosittelemme, ettet anna tiliisi liittyviä tietoja (erityisesti sähköpostiosoitetta ja salasanaa).
+
+    Älä jatka tähän sivustoon, jos sinulla ei ole mitään syytä luottaa siihen.
+
+    Muista, ettemme koskaan luovuta ilmaisia kristalleja tai pyydä salasanaasi ulkoisten sivustojen kautta.
+  HELP_PANEL_BUTTON_BAR_HELPER_TEXT: |-
+    Kutsu kaveri.
+    Asetukset.
+    Ääni päälle/pois päältä.
+  SHOP_WINDOW_PAYMENT_CATEGORY_DESCRIPTION: Valitse haluamasi maksutapa jatkaaksesi
+  TDM_MODE_NAME: Tiimin Kuolemanottelu
+  HEADER_LOGIN: KIRJAUDU SISÄÄN
+  BATTLE_STAT_KILLS: Tuhottu
+  WEEKLY_QUEST_BUTTON: Weekly
+  CLAN_DESCRIPTION_LABEL: Klaanin kuvaus
+  BATTLE_CREATE_PANEL_STEPPER_MAX_TEAM_SIZE: Joukkueen koko yhteensä
+  REFERRALS_BUTTON_LABEL: Kutsutut käyttäjät
+  DEVICES: Muutokset
+  GARAGE_PENETRATING_PROPERTY: Tunkeutuva voima
+  SETTINGS_BUTTON_SAVE_TEXT: Tallenna
+  DECLINE_LABEL: Kieltäydy
+  PARTNER_LOGIN_FORM_ENTER_USERNAME_TEXT: Syötä Tanki Online-käyttäjätunnus ja salasana, jotta voit pelata kumppaniverkossasi.
+  FRIENDS_FIND_IN_LIST_HINT: Etsi luettelosta...
+  RENAME_ITEM_SHOP_DESCRIPTION: Tämän kohteen avulla voit nimetä tilisi uudelleen. Kun olet ostanut tämän kohteen, voit löytää sen Tallin kohdassa "Erityinen". Käytä sitä noudattamalla ohjeita.
+  RUGBY_BALL_LOST_BLUE: Sininen joukkue on menettänyt pallon
+  TDM_MODE_DESCRIPTION: Tuhoa vihollisien panssarivaunut ja suojele joukkuetovereitesi. Joukkue, joka tekee eniten tappoja, voittaa.
+  HELP_PANEL_MAIN_MENU_HELPER_ARROW_LENGTH: Kuusikymmentä
+  DRONE_ARMOR_BOOST: Additional supply power
+  CLAN_ALREADY_INVITED_PLAYER: Tämä klaani on jo kutsunut sinut liittymään
+  CLAN_PROFILE_OPEN: Avoin
+  GARAGE_BURN_PROPERTY: Palamisaika
+  CHAT_SHARP_HELP: apua|Apua | http://help.tankionline.com/en/
+  SHOP_WINDOW_PRIVACY_AND_COOKIES_POLICY_LINK: <a href="http://tankionline.com/en/privacy/" target="_blank"><font color='#59ff32'><u>Yksityisyys ja evästeet</u></font></a>
+  RUGBY_FACE_OFF: Pallo on pelissä
+  PROMO_CODE_DESCRIPTION_TEXT: |-
+    Voit käyttää Promo Koodeja saadaksesi Kristalleja, Premium tiliaikaa, Kulta laatikoita, Maaleja ja Tallin varusteita. Nämä kohteet lisätään tilillesi hetkessä.
+
+    Voit saada Promo Koodit erityisistä myynninedistämistilaisuuksista.
+  AS_MODE_NAME: Hyökkäys
+  CHALLENGE_QUEST_BUTTON: Challenges
+  UNBLOCK_USER_CONTEXT_MENU_LABEL: Näytä
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_SUM: Olet saanut %1
+  STATISTICS_HEADER_RATING: Luokitus
+  SHOP_GOLDBOX_MANY: Laatikot
+  REDIRECT_ALERT_TEXT: |-
+    PALVELIMEN UUDELLEENKÄYNNISTYS!
+
+    Sinut siirretään yhdelle avoimista palvelimista %1 sekunnissa.
+  RENAME_BUTTON_LABEL_IN_GARAGE: Käytä
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_TEXT: |-
+    Klikkaa luoda taistelu
+    valitsemalla kartan ja peli tapan.
+    Palkintosi on - 200 kristellejä.
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_TEXT: |-
+    Sijoituksesi ei täsmää
+    tämä taistelu. Valitse yksi
+    vihreät taistelut.
+  REFERAL_WINDOW_SUMMARY_LABEL: 'bonus yhteensä:'
+  BATTLE_TEAM_RED: punainen
+  CHAT_PANEL_BUTTON_SEND: Lähetä
+  BATTLE_ENTER_WARNING_PARKOUR: Huomio! Tämä on Parkour Taistelu. Et saa mitään kokemusta/pisteitä tai kristelleja.
+  ERROR_EMAIL_NOT_SENDED: Sähköpostia ei lähetetty
+  SETTINGS_ALTERNATE_CAMERA_LABEL_TEXT: Vaihtoehtoinen kameran toiminta
+  HEADER_LINK: LINKITTÄMINEN
+  DEVICES_STANDARD_SETTINGS_DESCRIPTION: Vakio tehdasasetukset ilman mitään erikoistehosteita
+  BATTLEINFO_PANEL_BUTTON_PLAY: Pelaa
+  ALERT_GAME_ACCOUNT_ALREADY_LINKED: Tämä pelitili on jo liitetty %1
+  HEADER_INFORMATION: TIEDOT
+  SETTINGS_SHOW_LOCAL_DRONE: Show your drone
+  PAYMENT_SMSNUMBERS_SMSTEXT_HEADER_LABEL_TEXT: Tekstiviesti
+  CONNECTION_CLOSED_MESSAGE: Serverin yhteys on suljennut
+  BATTLE_ENTER_WARNING_PARKOUR_BUTTON_ENTER: Liity Taisteluun
+  GARAGE_BUY_BUTTON_RANK_LABEL: Rankki
+  GROUP_INVITE_RESPONSE_USER_IN_OTHER_GROUP: Tämä pelaaja on jo ryhmässä
+  CTF_MODE_DESCRIPTION: Hyökkää vihollisen tukikohtaan, ota heidän lippunsa viemällä sen takaisin tukikohtaasi ja suojelemalla lippusi vihollisjoukkueelta. Joukkue, joka vie eniten lippuja, voittaa.
+  ERROR_EMAIL_INVALID: Sähköpostiosoite on virheellinen
+  MAIN_PANEL_BUTTON_BATTLES: Taistelut
+  RUGBY_BALL_TAKEN_BLUE: Sininen joukkue on saanut pallon kiinni
+  RENAME_FORM_NEW_UID_INPUT: Kirjoita uusi lempinimi
+  BATTLE_PLAYER_LEFT: jäljellä
+  GARAGE_SHOTGUN_PROTECTION_PROPERTY: Suojaus Hammerilta
+  SETTINGS_SHOW_REMOTE_DRONES: Show other drones
+  NO_PLACES_AVAILABLE_LABEL: Paikkoja ei ole saatavilla
+  BACK_BUTTON: Takaisin
+  GARAGE_ARCADE_DAMAGE_PROPERTY: Vahingot arcade-tilassa
+  REDUCE_DAMAGE_RAILGUN: Railgun
+  CHAT_SHARP_RULES: säännöt|Säännöt|http://tankionline.com/en/rules
+  SMART_SUPPLIES: Älykkäät Tarvikkeet
+  BATTLE_CREATE_PANEL_STEPPER_MAX_PLAYERS: Eniten pelaajia
+  MAP_THEME_NAME_SPACE: Linnunrata
+  PREMIUM_COMPLETION: 'Päättyy: '
+  ALERT_ACCOUNT_UNLINKED: Olet onnistuneesti avannut pelitilisi
+  FATAL_ERROR_WIKI_LINK: (Outdated)
+  CLAN_IS_ALREADY_IN_REQUEST_LIST: Olet jo pyytänyt liittymään klaaniin
+  BATTLE_TEAM_BLUE: sininen
+  RUGBY_GOAL_BLUE: Sininen joukkue on tehnyt maalin!
+  CONFIRM_RENT_QUESTION: Vahvista vuokraus?
+  NEED_OF_EMAIL_SET: |-
+    Ole hyvä ja kirjoita sähköpostiosoitteesi vahvistaaksesi sinun tiliin turvallisuutta.
+
+    Saat sähköpostiisi vahvistuslinkin. Seuraa sitä ja sinut palkitaan vapaa kristellejä.
+  AUTOCOMPLETION_BALANCE_DISTURBED_LOSERS_PART1: Meidän joukkueessa ei ole tarpeeksi pelaajia
+  CLAN_MEMBER_LAST_VISIT: Viimeinen vierailu
+  REGISTER_FORM_REPEAT_PASSWORD_INPUT_LABEL_TEXT: 'Toista:'
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_TEXT: |-
+    Valitse napsauttamalla
+    ja liity ja taisteluuj.
+    Sinua palkkitaan - 200 kristallillä!
+  HEADER_ACCOUNT_RECOVERY: TILIN PALAUTUS
+  GARAGE_CATEGORY_BUTTON_PAINTS: Maalit
+  SETTINGS_SHOW_CHAT_CHECKBOX_LABEL_TEXT: Näytä chatti
+  REARM_PAUSE_1: Tauko käytössä
+  PREMIUM_NOTIFICATION_COMPLETE: Premium-tilisi on vanhentunut.
+  BATTLE_CREATE_PANEL_STEPPER_TEAM_SCORE_LIMIT: Pisteet
+  REARM_BATTLE_RETURN: Palaa takaisin taisteluun
+  SETTINGS_TAB_NAME_GAME: Peli
+  CLAN_ACCEPT_REQUEST: Hyväksy kutsu
+  CHAT_SHARP_NEWS: uutiset|Uutiset|http://tankionline.com/fi/category/uutiset/
+  PAYMENT_BUG_REPORT_INFO: Jos maksusi ei tullut perille, tai on ongelma oma tapahtumasi, ilmoita asiasta meille.
+  CHAT_SHARP_CLANS: klaanit|Klaanit|http://en.tankiforum.com/index.php?showforum=42
+  MAP_THEME_NAME_SUMMER: Kesä
+  CLAN_CREATION_DATE_WITH_COLON: 'Klaani luontipäivä:'
+  CLAN_BLOCK: Tämä klaani on estetty
+  HEADER_NEW_PRESENTS_ALERT: UUSIA LAHJOJA!
+  BATTLE_CREATE_PANEL_CHECKBOX_FRIENDLY_FIRE: Ystävällinen tulitus
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_ARROW_LENGTH: Kolmekymmentä
+  FREE_BONUSES_WINDOW_BUTTON_CLOSE_TEXT: Sulje
+  PREMIUM_ALERT_RETURN: Tervetuloa Premium tankkereiden joukkoon!
+  FRIENDS_REQUEST_EXIST_ALERT: Olet jo lähettänyt pyynnön %USERNAME%.
+  HEADER_REGISTRATION: REKISTERÖINTI
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_TEXT: |-
+    Klikkaa päästäksesi Talliin
+    ja tee ensimmäinen ostosi.
+    Sinun palkkasi - 200 kristallia!
+  GARAGE_CONFIRM_ALERT_COST_PREFIX: varten
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_ARROW_LENGTH: Kolmekymmentä
+  FRIENDS_FIND_TO_SEND: Lähetä pyyntö ystävälle...
+  REFERAL_WINDOW_COUNT_LABEL: 'Kaikki rekisteröityneet ystävät:'
+  CHAT_LABEL_ALL: Kaikkille
+  GARAGE_CATEGORY_BUTTON_DRONES: Drones
+  DRONE_INVENTORY_COOLDOWN_SUBTRACTION: Supply reload speed increase in sec.
+  CLAN_MEMBER_NAME: Nimi
+  CP_MODE_NAME: Valvontapisteet
+  CLAN_SEND_REQUEST: Liity Klaaniin
+  CLAN_POSITION_SUPREME_COMMANDER: Supreme-commander
+  GARAGE_RANGE_PROPERTY: Kantama
+  CLAN_INCOMING: Pyynnöt
+  MAP_THEME_NAME_DAY: Päivä
+  CLAN_TANKS_LOST: Tankkia menetetty
+  AUTOCOMPLETION_ROUND_MIGHT_END_EARLIER: Erä voi loppua aikaisemmin
+  CHALLENGE_STARS: Stars
+  STATISTICS_HEADER_RATIO: Suhde
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_DONT_ENTER: Älä mene
+  ERROR_FATAL_DEBUG: Tapahtui virhe
+  DM_MODE_DESCRIPTION: Jokainen pelaaja areenassa on sinun vihollinen. Voittaja on se joka tuhoaa kaikista eniten tankkia.
+  REGISTER_FORM_CALLSIGN_INPUT_LABEL_TEXT: 'Nimimerkki:'
+  SELECTED_SERVER_UNAVAILABLE: Palvelin, johon yrität muodostaa yhteyden, ei ole väliaikaisesti käytettävissä. Yritä myöhemmin uudelleen.
+  CURRENT_WAITING_TIME_LABEL: Nykyinen odotusaika
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTOBALANCE: Automaattinen tasapaino
+  SETTINGS_UNLINK_ACCOUNT: Irrota sinun tilisi
+  GAME_TERMS: |
+    Legal stuff nope.
+  CHECK_YOU_LOCATION_TEXT: 'Sijaintisi:'
+  ESTIMATED_WAITING_TIME_LABEL: Average waiting time
+  LOBBY_CHAT_WRITE_PUBLICLY: Kirjoita julkisesti
+  FRIENDS_NO: Ei
+  REGISTER_FORM_TITLE_SKIP_REGISTRATION_TEXT: Voit rekisteröityä myöhemmin. Ensimmäinen lataus kestää muutaman minuutin.
+  REARM_BATTLE_EXIT: Poistu taistelusta
+  MAP_THEME_NAME_SUMMER_DAY: Kesäpäivä
+  DAILY_QUEST_INFORMATION: <a href="http://en.tankiwiki.com/Missions" target="_blank"><font color='#59ff32'><u>info</u></font></a>
+  REDUCE_DAMAGE_MINE: Miina
+  REARM_TEAM_TIE: Taistelu päättyi tasapeliin
+  REARM_TEAM_LOOSE: Joukkueesi on hävinnyt
+  CLAN_BUTTON_TOOLTIP: Täällä voit liittyä ja hallita klaaniasi tai liittyä olemassa olevaan klaaniin.
+  HEADER_VK_ENTERING_GROUP: ''
+  SETTINGS_SOUND_VOLUME_LABEL_TEXT: 'Äänenvoimakkuus:'
+  ALERT_CRYSTALS_ADDED_FOR_CONFIRMED_EMAIL: Kiitos linkittämisestä Tanki Online-tilisi sähköpostiosoitetta. Bonus kristellejä on lisätty tilillesi.
+  HEADER_BATTLE_INFO_TEXT: TAISTELUN INFO
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_TEXT: |-
+    Valitse napsauttamalla
+    ja liity ja taistele.
+    Sinun palkkasi - 200 kristallia!
+  CLAN_FLAG: Lippu
+  IS_JOINING_THE_BATTLE_AT_YOUR_INVITATION_LABEL: Liittyy taisteluun kutsustasi
+  HEADER_CHANGE_UID: KÄYTTÄJÄN VAIHTAMINEN
+  CLAN_PROFILE_MIN_RANK: Tarvittava luokka
+  HELP_PASSWORDS_DO_NOT_MATCH: Salasanat eivät täsmää
+  REARM_BATTLE_EVENT: on muuttanut laitteita
+  HELP_PANEL_BUTTON_BAR_HELPER_ARROW_LENGTH: Sata kuusitoista
+  DRONE_REPAIR_HEALTH: HP Bonus
+  RENT: Vuokraa
+  ALERT_INVITE_TO_BATTLE_IS_UNAVAILABLE_RANK: Haluatko varmasti kutsua ystäväsi taisteluun, jota ei ole saatavilla hänen rankissaan?
+  BATTLE_ENTER_ERROR_EQUIPMENT_NOT_MATCH_CONSTRAINTS: |-
+    Tämä taistelu voidaan yhdistää vain tiettyyn laitteiden yhdistelmään.
+    Tankkisi ei täytä tämän muodon vaatimuksia. Lisätietoja  <a href='http://en.tankiwiki.com/Format_Battles' target='_blank'><u>here</u></a>.
+  GARAGE_IMPACT_PROPERTY: Iskuvoima
+  PRESENT_INFO_MESSAGE_LABEL: 'Teksti:'
+  KEYBOARD_KEY_PG_DN: PgDn
+  IS_CONSIDERING_YOUR_INVITE_LABEL: |-
+    Harkitsee kutsuasi
+    Odota vastausta
+  CLAN_ALERT_DISBAND_CLAN: |-
+    Pudota klaani?
+
+    Varoitus!
+    Uuden klaanin luominen edellyttää uuden klaani lisenssin hankkimista.
+  SETTINGS_GRAPHICS_AUTO_QUALITY: Automaattinen grafiikka laatu
+  SERVER_STOP_ALERT_TEXT: |-
+    PALVELIMEN PÄIVITYS!
+
+    Palvelin pysähtyy %1 sekunnIssa.
+  LINK_EXTERNAL_LOGIN_FORM_ADVICE: Kirjoita sinun Tanki Online käyttäjän tilitiedot linkittääksesi sen %1
+  DRONE_RELOAD: Drone Recharge Time
+  ALERT_EMAIL_REGISTRATION: |-
+    Onnittelut rekisteröinnillesi! Tankki on valmis taisteluun!
+    Salasanasi on lähetetty annettuun sähköpostiisi.
+  BATTLEINFO_PANEL_NONAME_TEXT: Ei mitään
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_ARROW_LENGTH: Kolmekymmentä
+  PRESENT_WILL_BE_REMOVED_ALERT: Tämä lahja poistetaan ikuisesti. Jatka?
+  BATTLE_STAT_BONUS_REWARD: Bonus
+  SERVER_IS_RESTARTING_LOGIN_TEXT: Juuri nyt palvelinta käynnistetään uudelleen. Et voi kirjautua sisään.
+  DM_MODE_NAME: Kuolemanottelu
+  RENT_TIME: 'Vuokra-aika:'
+  TIME_LABEL_MINUTE: m
+  SETTINGS_REENTER_PASSWORD_LABEL_TEXT: 'Palaa:'
+  SAVE_BUTTON_LABEL: Tallenna
+  DISABLED_CHAT_LABEL_TEXT: Chatti on pois päältä. Mene asetuksiin käynnistääksesi sen uudelleen.
+  CLAN_MY_CLAN: Minun klaani
+  RUGBY_BALL_LOST_RED: Punainen joukkue on menettänyt pallon
+  FRIENDS_DECLINE_ALL_BUTTON: Hylkää kaikki
+  GARAGE_ISIDA_PROTECTION_PROPERTY: Suojaus Isidalta
+  RENAME_FAILED_ALERT: Uudelleennimeäminen epäonnistui, yritä myöhemmin uudelleen
+  ALERT_QUIT_TEXT: Oletko varma, että haluat lopettaa?
+  CHECK_PASSWORD_FORM_REMEMBER: Muista minut
+  PROMO_CODE_SHOP_LABEL: Promo Koodit
+  TDM_SHORT_NAME: TKO
+  GARAGE_BUTTON_TOOLTIP: Täällä voit rakentaa ja päivittää unelma tankin.
+  CP_MODE_DESCRIPTION: Ota vihollisen pisteitä ja lopeta vihollista ottamasta niitä takaisin. Joukkue, jolla on korkein pistemäärä ottelun lopussa, voittaa.
+  TOTAL_PRICE_KIT: 'Yhteensä:'
+  FRIENDS_BUTTON_TOOLTIP: Ystävä luettelosi. Täältä voit liittyä ystäviesi taisteluun ja tarkistaa heidän profiilinsa.
+  ERROR_EMAIL_NOT_FOUND: |-
+    Tätä sähköpostiosoitetta ei ole rekisteröity.
+    Luultavasti olet rekisteröitynyt toiseen.
+  LEAVE_GROUP_BUTTON: Jätä ryhmä
+  CHALLENGE_FINISH: You have reached the top tier. All your rewards have been paid out.
+  CLAN_RANK_LOW_TO_SEND_REQUEST: Rankkisi on liian alhainen liittyäksesi tähän klaaniin
+  BATTLE_CREATE_PANEL_BUTTON_RUGBY: Rugby
+  GARAGE_BUY_TEXT: Osta
+  DRONE_ARMOR_PERCENT: Bonus armour
+  BATTLE_BUTTON_TOOLTIP: Täällä voit liittyä uusiin taisteluihin ansaitaksesi enemmän kristalleja ja uusia rankkeja.
+  ERROR_PASSWORD_CHANGE: Virhe salasan vaihtamiseen
+  PARTNER_HELP_PANEL_BUTTON_BAR_HELPER_TEXT: Asetukset. Ääntä.
+  STATISTICS_HEADER_RANK: Rankki
+  WEEKLY_QUEST_COMPLETED: |-
+    This mission was completed.
+
+    Come back to the game next week for a new mission.
+  REDUCE_DAMAGE_ARTILLERY: Magnumi
+  BATTLE_RESTART: Taistelu käynnistyy
+  CLAN_LICENSE: Klaanin lisenssi
+  CLAN_PLAYER_IS_CLAN_MAMBER: Pelaaja %USERNAME% on jo tämän klaanin jäsen
+  DRONE_DEFEND: Power up duration
+  GARAGE_MACHINE_GUN_PROTECTION_PROPERTY: Suojaus Vulcanilta
+  SETTINGS_LINK_ACCOUNT: Linkitä sinun tilisi
+  REARM_BATTLE_PLACE: 'Paikka: {your_place} {places}'
+  ERROR_PASSWORD_LENGTH: Salasanan pituus täytyy olla enemmän kuin 1
+  REDUCE_DAMAGE_MACHINE_GUN: Vulcani
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_DESCRIPTION: Seuraavat maksutavat tällä hetkellä tarjoavat alennusta. Valitse haluamasi maksutapa edetä.
+  CLAN_SEARCH_CLAN_IN_LIST: Etsi klaania listalta...
+  REDUCE_DAMAGE_THUNDER: Thunderi
+  HEADER_YOUR_TANK: TANKKISI
+  STATISTICS_HEADER_DEATHS: Kuollut
+  CLAN_KILL_DEATH_RATION: K/D suhde
+  ERROR_EMAIL_DOMAIN_IS_FORBIDDEN: Postiosoite on kielletty
+  GAME_ACTION_SHOOT: Ampu
+  GAME_ACTION_TANK_TURN_LEFT: Käännä tankkia vasemmalle
+  PAYMENT_SMS_DESCRIPTION_TEXT_INCLUDING_VAT: |-
+    Valitse maa ja matkapuhelinoperaattorisi. Valitse haluamasi määrä kristellejä, ja lähettää TEKSTIVIESTIN, jossa näkyy tekstin mukaan. Yleensä tiliä päivitetään sekunneissa.
+
+    Huomio! Sääntöjen mukaan sms-palvelimiseen esittelemme petosten vastaisia rajoituksia. Välttääksesi maksu menetyksen, ole hyvä ja tarkkaile seuraavia sääntöjä:
+    1. Älä lähetä tekstiviesti summan yli 13 DOLLARIA per tunti.
+    2. Älä lähetä yli 3 tekstiviestiä samalle pelaajalle samasta kännykä puhelunumerosta tunnin sisällä.
+
+    <font color='#ff4e00'>Varmista se että, suostut niille, jotka ostaa sinulle kristellejä!</font>
+  BATTLE_TEAM_ALERT: Olet nyt pelaamassa %1 joukkuelle
+  PARTNER_USERNAME_ALREDY_USED_ERROR: Tämän kumppaniverkon toinen profiili käyttää jo sisäänsyötettyä käyttäjänimeä.
+  OPEN_BATTLE_LIST_BUTTON: Avaa
+  HEADER_WELCOME_BACK: TERVETULOA TAKAISIN!
+  AUTOCOMPLETION_BALANCE_RESTORED_PART1: Joukkueet ovat tasapainotettu uudelleen
+  REARM_PAUSE_2: Paina mitä tahansa näppäintä jatkaaksesi
+  GARAGE_CATEGORY_BUTTON_SUPPLIES: Tarvikkeet
+  KEYBOARD_KEY_SPACE: Avaruus
+  PREMIUM_ALERT_WELCOM: Tervetuloa Premium tankkereiden joukkoon!
+  QUICK_PLAY_MODE_NAME: Nopea taistelu
+  CLAN_NOT_RECRUITING: Tämä klaani ei täällä hetkellä ole hankkimassa jäseniä
+  CHANGE_UID_FORM_NEW_PASSWORD_TEXT: 'Uusi salasana:'
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION_WITH_LIMIT: Skipped.
+  ALERT_CHAT_PROCEED_EXTERNAL_LINK: |-
+    Aiot jatkaa linkkiä, joka ei ole yhteydessä Tanki Online-peliin.
+    Projektin hallinto ei ole vastuussa ulkoisesta sisällöstä
+    ja suosittelee vahvasti, että et määritä sähköpostiasi, kirjautumistunnustasi, salasanaasi
+    ja muita tietoja Tanki Onlineista tuntemattomista sivustoista.
+    Nämä sivustot saattavat vahingoittaa tietokonetta ja varastaa luottamuksellisia tietoja
+    mukaan lukien Tanki Online -tilitiedot eri virusten ja muiden haittaohjelmien kautta.
+    Jos et halua jatkaa linkkiä, paina «Peruuta».
+  PAYMENT_SHENG_FENG_CONFIRMATION_CHECK_BOX_TEXT: ???
+  SETTINGS_DYNAMIC_LIGHTING: Dynaaminen valaistus
+  CHANGE_SERVER_HELPER: Palvelimen valinta
+  REGISTER_FORM_CONTINUE: Valmistele
+  DRONE_BONUS_ADD: Bonus addition duration
+  PRESENT_INFO_FROM_LABEL: 'Lähettänyt:'
+  GARAGE_FREEZE_PROTECTION_PROPERTY: Suojaus Freezeltä
+  REDUCE_DAMAGE_RICOCHET: Ricochetti
+  GROUP_INVITE: Kutsutaan sinut ryhmään
+  HOLIDAY_MODE_NAME: Event mode
+  GARAGE_CATEGORY_BUTTON_RESISTANCE_MODULES: Suojaus
+  FULLSCREEN_BUTTON_TOOLTIP: Vaihda koko näyttö päälle/pois päältä.
+  RATING_BUBBLE: |-
+    Sijoitukset nykyisessä
+    viikoittaisessa arvioinnissa
+  CLAN_CHAT: Klaanin chatti
+  FRIENDS_YOU_ARE_HERE_BATTLE_INDICATOR: (Olet tässä)
+  REARM_APPLY: Laitteiden muutoksia sovelletaan
+  CURRENT_PASSWORD: 'Nykyinen Salasana:'
+  GOLD_CHECKBOX: Näytä kuka on pudottanut kulta laatikon
+  BATTLE_CREATE_PANEL_FLOOD_ALERT_TEXT: Voit luoda enintään kolme taistelua 5 minuutin kuluessa.
+  GARAGE_INFO_PANEL_BUTTON_EQUIP_TEXT: Varusta
+  TURRET: Tykki
+  SETTINGS_CHANGE_PASSWORD_WRONG_LINK_TEXT: Linkki, jonka olet läpäissyt, on vioittunut
+  BATTLE_CREATE_PANEL_BUTTON_START: Aloita
+  CTF_LOST_ENEMY_FLAG: on menettänyt vihollisen lippun
+  REDUCE_DAMAGE_ROCKET_LAUNCHER: Strikeri
+  CHANGE_UID_FORM_REPEAT_PASSWORD_TEXT: 'Toista salasana:'

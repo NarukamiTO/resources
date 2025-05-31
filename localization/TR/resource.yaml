@@ -1,0 +1,1044 @@
+type: Localization
+images: {}
+strings:
+  GARAGE_BULLET_SPEED_PROPERTY: Mermi hızı
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_TEXT: Ödeme yapmak için tıklayınız.
+  CLAN_RANK_LOW_TO_SEND_REQUEST: Bu klana katılmak için rütbeniz yetersiz
+  SETTINGS_FOG_LABEL_TEXT: Sis
+  CTF_LOST_OUR_FLAG: bayrağımızı kaybetti
+  AUTOCOMPLETION_BALANCE_RESTORED_PART1: Takımlar yeniden dengelendi
+  LOOT_2_OPEN_BUTTON: Aç 5
+  BATTLE_STAT_DEATHS: Kayıp
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_ARROW_LENGTH: '30'
+  RUGBY_READY_TO_FACE_OFF: Top birazdan oyuna dönecek
+  CURRENT_CRYSTALL_TOOLTIP: Sahip olduğunuz kristal adedi. Kristaller Garajda ekipman satın almak ve yükseltmek için kullanılır.
+  GAME_ACTION_SHOW_TANK_STATS: Tank istatistiklerini göster
+  REGISTER_FORM_CALLSIGN_INPUT_LABEL_TEXT: 'Takma Adı:'
+  ERROR_FATAL_DEBUG: Bir hata oluştu
+  SETTINGS_CHANGE_PASSWORD_CONFIRMATION_SENT_TEXT: Talimatlar içeren bir posta, e-posta adresinize gönderildi.
+  STATISTICS_HEADER_NUMBER: '#'
+  HEADER_PAYMENTS: ÖDEMELER
+  CLAN_ALERT_REMOVE_PLAYER: '%USERNAME% kullanıcısını klandan at?'
+  PLAY_BUTTON: Oyna!
+  REDUCE_DAMAGE_SMOKY: Smoky
+  MUTE_BUTTON_TOOLTIP: Ses aç/kapa.
+  CAUSES_AND_SOLUTIONS: Nedenler ve çözümleri
+  BATTLE_CREATE_PANEL_STEPPER_MAX_PLAYERS: Maks oyuncu
+  DECLINE_OFFER_BUTTON: Reddet
+  GARAGE_CRITICAL_CHANCE_PROPERTY: Kritik şans
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTON_TEXT: |-
+    Tıklayın ve ilk satın almanızı gerçekleştirin.
+    Ödülünüz - 200 kristal!
+  HELP_PASSWORD_IS_TOO_SIMPLE: Girdiğiniz şifre çok basit
+  ALERT_ANSWER_RETURN_TO_BATTLE: Savaşa dön
+  DECLINE_LABEL: Reddet
+  PAYMENT_SMSNUMBERS_COST_HEADER_LABEL_TEXT: Maliyet
+  CHECK_YOU_LOCATION_TEXT: 'Konumunuz:'
+  CTF_SHORT_NAME: BEG
+  DATE_FORMAT: MM/dd/yyyy
+  SETTINGS_LINK_EMAIL_BUTTON: Bağla
+  CLAN_IS_ALREADY_IN_REQUEST_LIST: '%CLANNAME% klanına katılma isteğini zaten gönderdiniz'
+  FORMAT_NAME_NONE: Formatsız
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION: This Item can only be purchased once. If purchased a second time, instead of the items in this pack, you will receive compensation in Tankoins.
+  BATTLE_UPGRADES_TEXT: Yükseltmeler
+  CLAN_DESCRIPTION: |-
+    Burada kendi klanınızı oluşturabilir, arkadaşlarınıza takım oluşturabilir ve özel klan bonuslarına ulaşabilirsiniz.
+
+    Unutmayın, klanınız ne kadar çok güçlenirse, klan üyelerinin kazanacağı bonuslar daha büyük ve daha iyi olacaktır.
+  FITTING_BUTTON_TEXT: Önizleme
+  GARAGE_RESISTANCE_DESCRIPTION_PREFIX: 'Koruma:'
+  GARAGE_EQUIPPED_TEXT: Donatıldı
+  BATTLE_CREATE_PANEL_MAP_THEME_LABEL: 'Tema:'
+  HELP_PANEL_BUTTON_BAR_FULLSCREEN_TEXT: |2-
+
+    Tam ekran modu.
+  SERVER_IS_RESTARTING_CREATE_BATTLE_TEXT: Sunucu şuanda yeniden başlatılıyor. Savaş oluşturamaz veya mevcut savaşlara katılamazsınız.
+  GARAGE_CATEGORY_BUTTON_PAINTS: Boyalar
+  CLAN_SEND_INVITE: Davet gönder...
+  CHAT_SHARP_UPDATES: güncellemeler|Güncellemeler|http://en.tankiforum.com/index.php?showforum=246
+  DRONE_REPAIR_RADIUS: İyileştirme Yarıçapı
+  STATISTICS_HEADER_SCORE: Puan
+  CONTINUE_BATTLE_TEXT: Devam et
+  BATTLE_GOLD_TAKEN: ' altın kasasını aldı'
+  PRESENT_INFO_DATE_LABEL: 'Tarih:'
+  REGISTER_FORM_REPEAT_PASSWORD_INPUT_LABEL_TEXT: 'Tekrar:'
+  GARAGE_GAUSS_PROTECTION_PROPERTY: Protection from Gauss
+  HELP_PANEL_MONEY_HELPER_TEXT: |-
+    Daha fazla kristal
+    satın al
+  GARAGE_HELPER_TANK_PARTS: |-
+    Tank parçaları
+    ve diğer
+    yararlı malzemeler
+  BATTLE_BUTTON_TOOLTIP: Daha fazla kristal ve yeni rütbeler kazanmak için burada yeni savaşlara katılabilirsiniz.
+  DRONE_ARMOR_BOOST: Additional supply power
+  HELP_PANEL_MAIN_MENU_HELPER_TEXT: Ana menü
+  GARAGE_BUY_BUTTON_RANK_LABEL: Rütbe
+  CLAN_POSITION_VETERAN: Sadık
+  CLAN_USER_CLAN_TAG: Klan etiketi
+  GAME_ACTION_USE_DOUBLE_ARMOR: Çift Zırh teçhizatını kullan
+  DRONE_DEFEND: Power up duration
+  SETTINGS_TITLE: Ayarlar
+  CHAT_SHARP_COMMANDS: takımlar|Takımlar|http://en.tankiforum.com/index.php?showforum=123
+  GARAGE_NEW_ITEMS_ALERT: 'Tebrikler! Şimdi Garajda bu ürünleri satın alabilirsiniz:'
+  MAP_THEME_NAME_WINTER_NIGHT: Kış gecesi
+  DAILY_QUEST_BUTTON: Daily
+  PHONE_NUMBER: Telefon numaranız
+  FORMAT_NAME_PARKOUR: Parkur
+  FRIENDS_FIND_IN_LIST_HINT: Listede bul...
+  CLAN_PLAYER_RANK_TOO_LOW: 'Rütbe çok düşük '
+  CHAT_LABEL_ALL: Herkese
+  CLAN_SEARCH_BLOCKED_HINT: Herhangi bir klana katılmanız geçici olarak engellendi
+  CP_SHORT_NAME: KN
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_TEXT: "Rütbeniz bu savaş için\nyeterli değil. Yeşil renkli \nsavaşlardan birini seçin."
+  SETTINGS_BUTTON_SAVE_TEXT: Kaydet
+  FREE_BONUSES_WINDOW_BUTTON_CLOSE_TEXT: Kapat
+  PREMIUM_NOTIFICATION_SOON_COMPLETE: Premium Hesabınız sona ermek üzere.
+  FRIENDS: Arkadaşlar
+  PROMO_CODE_INVALID_LABEL: Girdiğiniz kod yanlış veya süresi doldu. Lütfen farklı bir kod giriniz.
+  CLAN_BUY_LICENCE: Lisans satın al
+  DRONE_DEPENDENT_INVENTORY_COOLDOWN: Switching speed
+  CHANGE_SERVER_HELPER: Sunucu seçimi
+  ALERT_GAME_ACCOUNT_ALREADY_LINKED: Bu oyun hesabı zaten %1 ile bağlı
+  ONLINE_LABEL: Çevrimiçi
+  HEADER_BATTLE_INFO_TEXT: SAVAŞ BİLGİLERİ
+  SHOW_NOTIFICATIONS_LABEL: Bildirimleri göster
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_TEXT: |-
+    Seçmek ve katılmak ve savaşmak için tıkla
+    Ödülünüz - 200 kristal!
+  GARAGE_DAMAGE_PROPERTY: Hasar
+  DEVICES_STANDARD_SETTINGS: Standart ayarlar
+  PAYMENT_OPERATORS_LABEL_TEXT: 'Operatör:'
+  TIME_LABEL_HOUR: sa
+  SHOP_WINDOW_PURCHASE_INSTRUCTION: <a href="http://tankionline.com/en/crystals/" target="_blank"><font color='#59ff32'><u>Satın Alma Talimatları</u></font></a>
+  GAME_ACTION_USE_NITRO: Turbo Hızı kullan
+  CHANGE_UID_FORM_REPEAT_PASSWORD_TEXT: 'Şifreyi tekrarla:'
+  LOOT_3_OPEN_BUTTON: Aç 15
+  HELP_PANEL_RANK_BAR_HELPER_TEXT: |-
+    Deneyim çubuğu
+    diğer oyuncuları
+    öldürdüğünüzde dolar.
+  SHOP_WINDOW_EULA_LINK: <a href="http://tankionline.com/en/eula/" target="_blank"><font color='#59ff32'><u>Son Kullanıcı Lisans Sözleşmesi</u></font></a>
+  QUEST_BUTTON: Görevler
+  YOUR_FRIEND_DISABLED_INVITES_LABEL: |-
+    Arkadaşınız davetleri devredışı bıraktı
+    Davet gönderilemedi
+  HELP_NAME_IS_FORBIDDEN: Girilen ad kayıt için kullanılamaz
+  AUTOCOMPLETION_ENEMY_TEAM_IS_EMPTY: Düşman takımda oyuncu yok
+  DRONE_ARMOR_PERCENT: Bonus armour
+  REDUCE_DAMAGE_ROCKET_LAUNCHER: Striker
+  CLAN_NUMBER_MEMBERS_WITH_COLON: 'Toplam oyuncu sayısı:'
+  PREMIUM_ALERT_WELCOM: Premium tankçı sınıfına hoş geldiniz!
+  CHALLENGE_QUEST_BUTTON: Challenges
+  SETTINGS_LINK: Bağla
+  FRIENDS_REMOVE_USER: '%USERNAME% kullanıcısını arkadaş listenizden kaldır?'
+  REDUCE_DAMAGE_THUNDER: Thunder
+  REDUCE_DAMAGE_SHAFT: Shaft
+  SPECTATOR_NAME: Seyirci
+  FRIENDS_REQUEST_EXIST_ALERT: '%USERNAME% kullanıcısına bu isteği daha önce gönderdiniz.'
+  MAP_THEME_NAME_WINTER: Kış
+  SHOP_WINDOW_YOUR_CHOICE: Seçiminiz
+  FRIENDS_SEND_REQUEST_BUTTON: Gönder
+  CTF_CAPTURED_ENEMY_FLAG: düşman bayrağını ele geçirdi
+  PAYMENT_BUTTON_SEND_BUG_REPORT_TEXT: Bildir
+  GARAGE_INFO_PANEL_BUTTON_EQUIP_TEXT: Donat
+  HELP_PANEL_MAIN_MENU_HELPER_ARROW_LENGTH: '60'
+  CHANGE_UID_FORM_NEW_UID_TEXT: 'Yeni takma adı:'
+  ERROR_CALLSIGN_WRONG_LAST_SYMBOL: Takma adın son hanesi harf veya rakam olmalıdır
+  CLAN_PLAYER_IS_REQUEST_LIST: '%USERNAME% adlı oyuncu bu klana katılmak için başvurdu'
+  CHAT_PANEL_BUTTON_SEND: Gönder
+  RUGBY_GOAL_BLUE: Mavi takım gol attı!
+  ERROR_EMAIL_DOMAIN_IS_FORBIDDEN: E-posta adresi yasaklandı
+  DOM_WE_CAPTURED_POINT: '{point} noktasını ele geçirdik'
+  NEWS_TAB_HEADER: Haberler
+  SETTINGS_RECEIVE_PRESENTS: Tüm oyunculardan hediyeleri kabul et
+  SETTINGS_DYNAMIC_SHADOWS_LABEL_TEXT: Dinamik gölgeler
+  BATTLE_CREATE_PANEL_STEPPER_TEAM_SCORE_LIMIT: Puan
+  PAYMENT_SMS_UK_DESCRIPTION_ENDING_TEXT: Müşteri Destek Yardım Hattı - 0-808-189-1038
+  CHAT_SHARP_NEWS: haberler|Haberler|https://news.tankionline.com/en
+  GARAGE_HELPER_SWITCHING_ITEM_CATEGORIES: Malzeme kategorisi değiştiriliyor
+  BUTTON_LABEL_RESTORE_DEFAULT_BUTTONS: Varsayılan düğmelere geri dön
+  CTF_RETURNED_FLAG_NEUTRAL: bayrağı geri getirdi
+  SETTINGS_TAB_NAME_GRAPHICS: Görüntü
+  CLAN_DESCRIPTION_LABEL: Klan açıklaması
+  GARAGE_MACHINE_GUN_PROTECTION_PROPERTY: Vulcan'a karşı koruma
+  GARAGE_SHOTGUN_PROTECTION_PROPERTY: Hammer'e karşı koruma
+  ERROR_CALLSIGN_NOT_UNIQUE: Takma ad kullanıyorlar
+  CLAN_REQUEST_IS_ALREADY_SENT: Bu klana bir isteği zaten gönderdiniz
+  LOOT_1_OPEN_BUTTON: Aç 1
+  GAME_ACTION_CAMERA_DOWN: Kamerayı aşağı hareket ettir
+  GARAGE_ALL_PROTECTION_PROPERTY: Herkese karşı koruma
+  RESTORE_PASSWORD_INFO: <a href="http://help.tankionline.com/topic/854487-what-to-do-if-you-forgot-your-e-mail/ " target="_blank"><font color='#59ff32'><u>Bilgi</u></font></a>
+  IS_JOINING_THE_BATTLE_AT_YOUR_INVITATION_LABEL: |
+    Davetiniz üzerine savaşa katılıyor
+  NOT_ENOUGH_MONEY_FOR_BUY_ITEM: Bu satın alma için yeterli kristaliniz yok.
+  DEVICES: Modifikasyonlar
+  REARM_DM_END_BATTLE: Savaş sona erdi
+  GARAGE_CRITICAL_DAMAGE_PROPERTY: Kritik hasar
+  TOURNAMENT_BATTLE_STARTING_LABEL: Savaş başlıyor... kendinizi hazırlayın!
+  DAILY_QUEST_GET_PRIZE: Ödülü topla
+  CLAN_INVITE_TO_CLAN: Klana Davet Et
+  ERROR_CALLSIGN_NOT_SINGLE_DEVIDERS: Takma adınızda "." veya "_" veya "-" işaretlerinden sadece birini kullanabilirsiniz
+  REARM_BATTLE_PRIZE: '{crystalls} aldınız'
+  DRONE_COOLDOWN_RADIUS: Effective range
+  REDUCE_DAMAGE_TWINS: Twins
+  ALERT_INVITE_TO_BATTLE_IS_UNAVAILABLE_RANK: Arkadaşınızı rütbesi için yeterli olmayan bir savaşa davet etmek istediğinizden emin misiniz?
+  LOBBY_CHAT_WRITE_PRIVATELY: Özelden yaz
+  BATTLE_STAT_KDRATIO: D/L
+  OK_ENTER_GROUP_BONUS: ''
+  CLAN_BUTTON_PROFILE: Klan profili
+  KEYBOARD_KEY_RIGHT: Sağ
+  HEADER_DEVICES: MODİFİKASYONLAR
+  MAP_THEME_NAME_WINTER_DAY: Kış günü
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_ARROW_LENGTH: '30'
+  SETTINGS_DUST_LABEL_TEXT: Toz
+  FRIENDS_ALREADY_HAVE_INCOMING: '%USERNAME% adlı kullanıcıdan bir istek aldınız. Kabul ediyor musunuz?'
+  PAYMENT_BUTTON_PROCEED_TEXT: Sonraki
+  WEEKLY_QUEST_BUTTON: Weekly
+  FRIENDS_COPY_NAME: Adı kopyala
+  SHOP_PAYMENT_BUG_REPORT_LINK: http://tankionline.com/forms/payment/en/
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_AGREEMENT: Bu ürünün bu hesapta daha önce satın alınmış olması halinde ücret iadesi olarak Kristal almayı kabul ediyorum.
+  MAP_THEME_NAME_SUMMER_NIGHT: Yaz gecesi
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_TEXT: "Bir harita ve oyun seçerek bir \nsavaş oluşturmak için tıklayın.\nÖdülünüz - 200 kristal."
+  FRIENDS_EXIT_FROM_BATTLE_ALERT: Savaştan ayrıl? Puanınızı ve savaş kazançlarınızı kaybedeceksiniz.
+  GO_TO_BATTLE_LABEL: Savaşa git
+  DRONE_BONUS_RADIUS: Bonus yarıçapı
+  CLAN_PLAYERS_IN_CLAN: Klandaki oyuncular
+  MAP_THEME_NAME_NIGHT: Gece
+  REDUCE_DAMAGE_RICOCHET: Ricochet
+  CHANGE_UID_FORM_NEW_PASSWORD_TEXT: 'Yeni şifre:'
+  RUGBY_MODE_NAME: Ragbi
+  PARTNER_HELP_PANEL_BUTTON_BAR_HELPER_TEXT: Ayarlar. Ses.
+  GAME_ACTION_SHOOT: Atış Yap
+  FRIENDS_FIND_TO_SEND: Arkadaşa bir istek gönder...
+  QUICK_PLAY_MODE_DESCRIPTION: Rakip takımı yenmek için diğer tankçılarla birlikte savaşın. Takım savaşının modu rastgele seçilecektir.
+  DRONE_REPAIR_HEALTH: HP Bonus
+  ALERT_ANSWER_OK: Tamam
+  REGISTER_FORM_SKIP_REGISTRATION_TEXT: Kaydolmadan önce oyunu deneyin!
+  CLAN_NAME_ALREADY: Klan adı kullanılıyor
+  USERS_IN_QUEUE_LABEL: Sıradaki oyuncular
+  GARAGE_CATEGORY_BUTTON_PRESENTS: Hediyeler
+  ALERT_ANSWER_NO: Hayır
+  SETTINGS_BUTTON_CANCEL_TEXT: İptal Et
+  GARAGE_INFO_PANEL_BUTTON_REMOVE_TEXT: Kaldır
+  REENTER_TO_GAME: Oyuna yeniden gir
+  BATTLE_FUND: Savaş fonu
+  HEADER_NEWS: HABERLER
+  REFERAL_STATISTICS_HEADER_CALLSIGN: Arkadaş
+  BATTLE_CREATE_PANEL_BUTTON_CAPTURE_THE_FLAG: |-
+    Bayrağı
+    Ele Geçir
+  HELP_PANEL_RATING_INDICATOR_HELPER_ARROW_LENGTH: '48'
+  CLAN_PROFILE_CLOSE: Kapatıldı
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_ENTER: Giriş yap
+  CLAN_MEMBER_NAME: Adı
+  STATISTICS_HEADER_RANK: Rütbe
+  GAME_ACTION_USE_FIRST_AID: İlk Yardım kitini kullan
+  TIME_LABEL_MINUTE: dk
+  ULTIMATES: Turbo yüksek hızlar
+  RENAME_FORM_CURRENT_PASSWORD_INPUT: Hesabınız için mevcut şifreyi girin
+  CLAN_BUTTON_TOOLTIP: Burada Klanınızı oluşturabilir ve yönetebilirsiniz veya mevcut bir Klana katılabilirsiniz.
+  PARTNER_GAME_TERMS: ''
+  HELP_PANEL_SCORE_HELPER_ARROW_LENGTH: '36'
+  ALERT_QUIT_TEXT: Çıkmak istediğinizden emin misiniz?
+  CHAT_SHARP_HELP: yardım|Yardım|http://help.tankionline.com/en/
+  CTF_ENEMY_FLAG_RETURNED: Düşman bayrağı geri getirildi
+  FRIENDS_DECLINE_REQUEST: İsteği reddet
+  HELP_NAME_IS_NOT_UNIQUE: Bu ad başkası tarafından kullanılıyor
+  REARM_BATTLE_EXIT: Savaştan ayrıl
+  GAME_ACTION_FULL_SCREEN: Tam ekran/küçült
+  GARAGE_INFO_PANEL_BUTTON_UNEQUIP_TEXT: Sök
+  TURNOVER_HINT_1: Oyununuza devam etmek için silahınızın geri tepmesini kullanın
+  ERROR_PASSWORD_LENGTH: Şifreniz 1 karakterden uzun olmalıdır
+  BATTLE_IS_UNAVAILABLE_AT_YOUR_RANK_LABEL: Bu savaş için rütbeniz yetersiz
+  DOM_WE_LOST_POINT: '{point} noktasını kaybettik'
+  GARAGE_MAX_SPEED_PROPERTY: Maksimum hız
+  CLAN_JOINED_CLAN: Klana katıldınız
+  PIECE_1: adet
+  HEADER_SETTINGS: AYARLAR
+  REARM_TEAM_WIN: Takımınız kazandı!
+  VKONTAKTE_NAME: VKontakte
+  GARAGE_BUTTON_TOOLTIP: Burada rüyalarınızdaki tankı oluşturabilir ve yükseltebilirsiniz.
+  SETTINGS_ACCOUNT_ACCESS: Oyun hesabına erişim
+  GOLD_CHECKBOX: Altın kasasını kimin bıraktığını göster
+  RUGBY_FACE_OFF: Top oyunda
+  CTF_RED_FLAG_RETURNED: Kırmızı bayrak geri getirildi
+  SHOP_FEATURING_HEADER: Özel teklif
+  GARAGE_CATEGORY_BUTTON_HULLS: Gövdeler
+  DRONE_HULL_SPEED_PERCENT: Bonus speed boost
+  HELP_PANEL_MONEY_FIRST_HELPER_TEXT: |-
+    Gerçek para karşılığında kristal satın al.
+    İlk alışınıda hediye olarak 100 kristal kazan.
+  ERROR_EMAIL_NOT_SENDED: Posta gönderilmedi
+  PARTNER_USERNAME_ALREDY_USED_ERROR: Girdiğiniz kullanıcı adı, bu partner ağının başka bir kullanıcısı tarafından kullanılıyor.
+  CONNECTION_CLOSED_WIKI_LINK: http://en.tankiwiki.com/Connection_Closed
+  DRONE_BONUS_ADD: Ekstra bonus süresi
+  OPEN_GARAGE: Hızlı garaj
+  REFERAL_STATISTICS_HEADER_INCOME: Kristaller
+  RENAME_FORM_NEW_UID_INPUT: Yeni takma adınızı girin
+  DRONE_MINES_ACTIVATION_DELAY: Mine activation duration
+  GARAGE_PRICE: Garaj fiyatı
+  CTF_GOT_FLAG_NEUTRAL: bayrağı ele geçirdi
+  LINK_IS_NO_LONGER_VALID_TEXT: Bu link artık yok. Lütfen yeniden deneyiniz.
+  CLAN_PROFILE_OPEN: Aç
+  NEED_EMAIL_ALERT_MESSAGE: Bu ürünü satın almak için lütfen e-postanızı hesabınıza bağlayın ve onaylayın. Bunu yapmak için oyun ayarlarının (sağ üst köşede) "Hesap" bölümüne gidin. Bağlama ile ilgili sorun yaşıyorsanız, süreç ayrıntılı olarak açıklanmıştır.  <a href="https://ru.tankiwiki.com/%D0%9F%D1%80%D0%B8%D0%B2%D1%8F%D0%B7%D0%BA%D0%B0_%D0%B0%D0%BA%D0%BA%D0%B0%D1%83%D0%BD%D1%82%D0%B0_%D0%BA_%D0%BF%D0%BE%D1%87%D1%82%D0%B5" target="_blank"><u>здесь</u></a>.
+  CLAN_SEND_REQUEST_TO_CLAN: Bir Klana istek gönder...
+  BATTLE_TEAM_ALERT: Şimdi %1 takımı için oynuyorsunuz
+  SAVE_BUTTON_LABEL: Kaydet
+  BATTLE_FINISH_IN: Savaşın otomatik olarak sonlandırılacağı süre
+  GARAGE_ROTATION_PROPERTY: Dönüş hızı
+  REFERAL_WINDOW_COUNT_LABEL: 'Tüm kayıtlı arkadaşlar:'
+  ALERT_ANSWER_GO_TO_GARAGE: Garaja git
+  SETTINGS_BACKGROUND_SOUND_CHECKBOX_LABEL_TEXT: Arka plan sesi
+  CHAT_SHARP_NICK: takma ad| Takma adını değiştir|http://tankionline.com/en/blog/change-your-nickname/
+  CLAN_POSITION_SERGEANT: Çavuş
+  GARAGE_PENETRATING_PROPERTY: Delme gücü
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_ARROW_LENGTH: '48'
+  GROUP_INVITE_RESPONSE_INVITATIONS_DISABLED: Gruba davetler kapatıldı
+  BUG_REPORT_BUTTON_SEND_TEXT: Gönder
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  ALERT_ACCOUNT_ALREADY_LINKED: Bu %1 hesabı zaten bağlı
+  DESCRIPTION: Açıklama
+  REARM_OPTION_TEXT: Silah değişikliği
+  CLAN_FLAG: Bayrak
+  HELP_SYMBOL_IS_NOT_ALLOWED: "Takma adı A-Z, 0-9 ve özel \nsembollerden oluşmalıdır."
+  KEYBOARD_KEY_DOWN: Aşağı
+  MATCHMAKING_TIMEOUT_MESSAGE: Savaş sırası için bekleme süresi doldu. Lütfen tekrar deneyin.
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_COMPENSATION: 'Bu ürünün fiyatı:'
+  CLAN_USER_CLAN_NAME: Klan Adı
+  GAME_ACTION_TANK_TURN_LEFT: Tankı sola döndür
+  GARAGE_CONFIRM_ALERT_BUY_QEUSTION_TEXT: Satın almayı onaylıyor musun?
+  CTF_GOT_ENEMY_FLAG: düşman bayrağını ele geçirdi
+  TIME_LABEL_SECOND: sn
+  HEADER_YOUR_TANK: TANKINIZ
+  MAP_THEME_NAME_DAY: Gün
+  SETTINGS_MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION: Shaft Keskin Nişancı Modu için fare dikey görünümü ters çevir
+  HEADER_INVITE_A_FRIEND: ARKADAŞ DAVET ET
+  CHAT_SHARP_THEFT: hırsızlık|Tankım çalınmış ise|http://help.tankionline.com/topics/2358-what-to-do-if-your-account-has-been-stolen/
+  DOM_BLUE_LOST_POINT: Mavi takım {point} noktasını kaybetti
+  PREMIUM_ALERT_RETURN: Premium tankçı sınıfına hoş geldiniz!
+  BATTLE_TEAM_RED: kırmızı
+  MAIN_PANEL_UPDATE_RANK_NOTICE: |-
+    Tebrikler!
+    %1 rütbesine ulaştınız
+  CLAN_EDIT_PROFILE: Profili düzenle
+  HEADER_INFORMATION: BİLGİ
+  GARAGE_RAILGUN_PROTECTION_PROPERTY: Railgun'a karşı koruma
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_TEXT: |-
+    Garaja gitmek ve ilk satın almanızı
+    gerçekleştirmek için tıklayın.
+    Ödülünüz - 200 kristal!
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_TEXT_MIDDLE_RANK: Artık, Tanki Online'daki her yeni rütbe ile kristal alacaksınız. Önceki terfileriniz için hesabınıza kristaller ekledik. Kariyeri merdivenini tırmanmaya devam edin ve daha fazla kristal kazanın!
+  CHAT_LABEL_SPECTATORS: Seyircilere
+  REARM_BATTLE_PLACE: 'Yeriniz: {your_place}/{places}'
+  NO_PLACES_AVAILABLE_LABEL: Her yer dolu
+  NEW_PRESENTS_ALERT_ACCEPT_BUTTON: Görüntüle
+  PAYMENT_SMSNUMBERS_SMSTEXT_HEADER_LABEL_TEXT: SMS mesajı
+  HOLIDAY_MODE_NAME: Event mode
+  REDUCE_DAMAGE_GAUSS: Gauss
+  DRONE_INVENTORY_COOLDOWN_BOOST: Supply reload speed increase in sec.
+  CAPTCHA_PROCEED_BUTTON: Sonraki
+  SETTINGS_ANTIALIASING: Kenar yumuşatma
+  HEADER_CREATE_BATTLE: SAVAŞ OLUŞTUR
+  HELP_PASSWORDS_DO_NOT_MATCH: Şifreler uyuşmuyor
+  DOM_ENEMIES_LOST_POINT: Düşmanlar {point} noktasını kaybetti
+  FRIENDS_NAME: Adı
+  HULL: Gövde
+  CLAN_LEAVE: Klandan ayrıl
+  REGISTER_FORM_AGREEMENT_NOTE_TEXT: <textformat leading='5'><a href='http://tankionline.com/en/eula/' target='_blank'><font color='#59ff32'><u>Lisans Sözleşmesinin şartlarını</u></font></a>, <a href='http://tankionline.com/en/rules/' target='_blank'><font color='#59ff32'><u>Oyun Kurallarını</u></font></a>ve<a href='http://tankionline.com/en/privacy/' target='_blank'><font color='#59ff32'><u>Gizlilik ve çerez politikasını</u></font></a>kabul ediyorum</textformat>
+  CHECK_PASSWORK_FORM_LOGIN_VIA: Oyuna girmek için kullan
+  GARAGE_FIREBIRD_PROTECTION_PROPERTY: Firebird'e karşı koruma
+  CLAN_SEND_REQUEST: Klana Katıl
+  YOURE_LOCATION_TEXT: Farklı bir ülkede yaşıyorsanız, manuel olarak seçiniz ve TAMAM'a tıklayınız
+  DISABLED_CHAT_LABEL_TEXT: Sohbet kapalı. Açmak için Ayarlar'a gidiniz.
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_TEXT: "Seçmek, katılmak \nve savaşmak için tıkla.\nÖdülünüz - 200 kristal!"
+  ALERT_EMAIL_CONFIRMED: E-postanız onaylandı
+  BLOCK_USER_CONTEXT_MENU_LABEL: Engelle
+  RENAME_ITEM_SHOP_DESCRIPTION: Hesabınıza yeni bir ad vermenizi sağlar. Satın aldığınızda, Garajınızın «Özel» bölümünde bulacaksınız. Kullanmak için, talimatları uygulayınız.
+  CHAT_PANEL_COMMAND_UNBLOCK_ALL: Engellenenler listesi temizlendi
+  HEADER_PREMIUM: PREMİUM HESAP
+  ERROR_EMAIL_INVALID: E-posta geçersiz
+  CLAN_TANKS_DESTROYED: İmha edilen tanklar
+  HEADER_BUG_REPORT: HATA RAPORU
+  MODULE: Modül
+  CHECK_PASSWORD_FORM_REMEMBER: Beni hatırla
+  REARM_PAUSE_3: '{time} içinde savaştan ayrılacaksınız'
+  MESSAGE_ALERT_PERSONAL_DISCOUNT: |-
+    $USERNAME$, hemen şimdi $ITEM-NAME$ ürününü $DISCOUNT$ indirimle alabilirsiniz.
+    Fakat acele edin! Bu teklif $DISCOUNT_TIMER$ içinde sona eriyor.
+  CLAN_USER_CREATION_DATE: Klan oluşturma tarihi
+  CLAN_TAG_ALREADY: Etiket kullanılıyor
+  BACK_BUTTON: Geri
+  GARAGE_CATEGORY_BUTTON_RESISTANCE_MODULES: Koruma
+  HELP_PANEL_BUTTON_BAR_HELPER_ARROW_LENGTH: '116'
+  DRONE_INVENTORY_ADD: Aktif Teçhizat Süre Bonusu
+  TIME_LABEL_DAY: g
+  REARM_TEAM_TIE: Savaş berabere bitti
+  MISSION_BUTTON_TOOLTIP: Günlük Görevler Listesiniz. Daha fazla ödül kazanmak için günlük görevleri tamamlayın.
+  HELP_PANEL_RANK_HELPER_TEXT: Mevcut rütbeniz
+  CLAN_OUTGOUNG: Davetler
+  DRONE_POWER_BOOST: Additional supply power
+  PROMO_CODE_SHOP_LABEL: Promosyon Kodları
+  CLAN: Klan
+  CTF_OUR_FLAG_RETURNED: Bayrağımız geri getirildi
+  SETTINGS_SHOW_SKYBOX_CHECKBOX_LABEL_TEXT: Manzarayı göster
+  PRESENT_RECIPIENT_NAME: Alıcının takma adı...
+  CLAN_LICENSE: Klan lisansı
+  GARAGE_CONFIRM_ALERT_CONFIRM_BUTTON_TEXT: Evet
+  GROUP_INVITE: Gruba sizi davet ediyor
+  CHAT_SHARP_RANKS: rütbeler|Rütbeler|https://en.tankiwiki.com/Ranks_and_Experience
+  ACCEPT_CONDITIONS: Koşulları kabul et
+  CLAN_POSITION_OFFICER: Memur
+  HELP_PANEL_RATING_INDICATOR_HELPER_TEXT: |-
+    Mevcut durumunuz
+    ve durum değişikliği
+  ERROR_PASSWORD_CHANGE: Şifre değiştirme hatası
+  TDM_MODE_NAME: Takım Ölüm Maçı
+  SHOP_WINDOW_PAYMENT_CATEGORY_HEADER: Ödeme Yöntemi
+  GAME_ACTION_TURRET_TURN_RIGHT: Tareti sağa döndür
+  KEYBOARD_KEY_SPACE: Boşluk
+  PARTNER_REGISTARTION_FORM_LOGIN_LINK_TEXT: Kayıtlı mısınız? <a href='event:haveAcc'><font color='#59ff32'><u>Oyuna girin</u></font></a>.
+  CLAN_MY_CLAN: Klanım
+  BATTLE_CREATE_PANEL_BUTTON_CONTROL_THE_POINT: |-
+    Noktayı
+    Ele Geçir
+  ERROR_EMAIL_NOT_UNIQUE: E-posta kullanılıyor
+  BATTLE_CREATE_PANEL_STEPPER_FLAG_LIMIT: Bayrak limiti
+  GATE_2_SHOP_EMAIL_INPUT_DESCRIPTION: Fatura almak için lütfen e-posta adresinizi giriniz.
+  BATTLE_CREATE_PANEL_BUTTON_START: Başlat
+  LINK_IS_COPIED_BUTTON_LABEL: |-
+    Link
+    kopyalandı
+  SETTINGS_INVERSE_TURN_CONTROL_CHECKBOX_LABEL_TEXT: Geriye giderken dönüş kontrollerini ters çevir
+  HEADER_MONEYSHOP: MAĞAZA
+  CHALLENGE_STARS: Stars
+  GROUP_INVITE_RESPONSE_USER_IN_OTHER_GROUP: Bu oyuncu zaten bir gruba üye
+  PAYMENT_SMS_DESCRIPTION_TEXT_INCLUDING_VAT: |-
+    Ülkenizi ve cep telefonu operatörünüzü seçin. İstediğiniz kristal adedini seçin ve gösterilen metin ile belirtilen numaraya bir SMS gönderin. Hesap genellikle saniyeler içinde güncellenir.
+
+    Dikkat! SMS sunucusu kurallarına göre, dolandırıcılık önleme kısıtlamaları uyguluyoruz. Ödemenizin kaybolmaması için, lütfen aşağıdaki kurallara uygun hareket edin:
+    1. Saatlik 13 USD'den yüksek bir tutar için SMS göndermeyin.
+    2. Bir saat içinde bir oyuncunun takma adına ait bir numaraya en fazla 3 SMS gönderin.
+
+    <font color='#ff4e00'>Kristallerinizin ödemesini yapacak kişilerin onayını aldığınızdan emin olun!</font>
+  RUGBY_BALL_TAKEN_BLUE: Mavi takım topu ele geçirdi
+  CLAN_PROFILE: Klan profili
+  BATTLE_STAT_STARS_REWARD: Bonus
+  CTF_CAPTURED_OUR_FLAG: bayrağımızı ele geçirdi
+  ALERT_ANSWER_PROCEED: Devam et
+  YOUR_FRIEND_IS_ENTERING_THE_GAME_LABEL: |-
+    Davet gönderilmedi
+    Arkadaşınız oyuna giriyor
+  SHOP_PAYMENT_CATEGORY_HEADER_FOR_ODNOKLASSNIKY: ''
+  CHECK_PASSWORD_FORM_RESTORE_LINK_TEXT: <a href='event:lost'><font color='#59ff32'><u>Takma adı veya şifrenizi kaybettiniz mi?</u></font></a>
+  CLAN_MEMBER_COLUMN_LOST: Kayıp
+  JGR_BOSS_KILLED: Ezici %1 yok edildi
+  BATTLE_PRO_BATTLE_SUBSCRIBE: PRO Savaş Kartı, profesyonel savaşlar için biletiniz!
+  CLOSE_LABEL: Kapat
+  BUY_PRO_ABONEMENT: Kart Satın Al
+  JGR_MODE_DESCRIPTION: Savaştaki bir oyuncu ultra güçlü "Ezici" adlı tankı kontrol eder. Eziciyi yok eden oyuncu sonraki Ezici olma hakkını kazanır. En çok tank yok eden oyuncu kazanır.
+  ERROR_CALLSIGN_LENGTH: Takma adınızın uzunluğu 1 karakterden uzun olmalı
+  FOLLOW_EXTERNAL_LINK: 'Dikkat! Harici bir linki kullanmak üzeresiniz: %link%'
+  FRIENDS_NEW: Yeni
+  AUTOCOMPLETION_BALANCE_RESTORED_PART2: Oyun normal bir şekilde devam edecek
+  DM_SHORT_NAME: ÖM
+  HELP_PANEL_RANK_BAR_HELPER_ARROW_LENGTH: '116'
+  CHAT_SHARP_FEEDBACK: geribildirim|Geribildirim|http://en.tankiforum.com/index.php?showforum=182
+  ESTIMATED_WAITING_TIME_LABEL: Ortalama bekleme süresi
+  BATTLE_CREATE_PANEL_BUTTON_ASSAULT: Saldırı
+  PRESENT_INFO_MESSAGE_LABEL: 'Metin:'
+  SETTINGS_SOFT_PARTICLES_LABEL_TEXT: Yumuşak parçacıklar
+  GARAGE_CONFIRM_ALERT_COST_PREFIX: ürün
+  FRIENDS_IN_BATTLE: Savaşta
+  SETTINGS_ENABLE_ADAPTIVE_FPS_CHECKBOX_LABEL_TEXT: Uyarlamalı FPS
+  FATAL_ERROR_WIKI_LINK: http://en.tankiwiki.com/Battle_error
+  GARAGE_CLOSE_TEXT: Kapat
+  REARM_PAUSE_1: Duraklatma etkin
+  GARAGE_RICOCHET_PROTECTION_PROPERTY: Ricochet'e karşı koruma
+  FRIENDS_CANCEL_BUTTON_TEXT: İptal Et
+  GARAGE_RANGE_PROPERTY: Menzil
+  REARM_APPLY: Ekipman değişiklikleri uygulanıyor
+  HEADER_UPGRADE: YÜKSELT
+  SETTINGS_CHANGE_PASSWORD_BUTTON: Değiştir
+  PAYMENT_SHENG_FENG_CONFIRMATION_CHECK_BOX_TEXT: ???
+  FRIENDS_NO: Hayır
+  PREMIUM_COMPLETION_IN: Son Kullanım
+  HELP_PANEL_SCORE_HELPER_TEXT: |-
+    Mevcut deneyiminiz
+    /Sonraki rütbeyi almak için
+    gerekli olan deneyim
+  TDM_MODE_DESCRIPTION: Düşman tanklarını imha et ve takım arkadaşlarını koru. En çok düşman tankı imha eden takım kazanır.
+  GAME_ACTION_TANK_MOVE_BACKWARD: Tankı geriye doğru götür
+  CLAN_VS_CLAN: Klan vs Klan
+  CHAT_PANEL_COMMAND_BLOCK: 'Kullanıcı %1 Engellenenler listesine eklendi '
+  REARM_SELFDISTRUCTION: '{time} içinde kendinizi imha edeceksiniz'
+  REDUCE_DAMAGE_FREEZE: Freeze
+  HELP_PANEL_RANK_HELPER_ARROW_LENGTH: '108'
+  REARM_BATTLE_EVENT: ekipmanını değiştirdi
+  CHECK_PASSWORD_FORM_BUTTON_NEW_PLAYER_TEXT: Yeni oyuncu
+  CHAT_TAB_HEADER: Sohbet
+  CONFIRM_RENT_QUESTION: Kiralamayı onaylıyor musun?
+  SETTINGS_EMAIL_LABEL_TEXT: 'E-posta:'
+  SETTINGS_SHOW_LOCAL_DRONE: Dronunu göster
+  BATTLE_PLAYER_SUICIDED: kendini imha etti
+  CLAN_INCORECT_CLAN_TAG: Yanlış klan etiketi
+  HEADER_ACCOUNT_RECOVERY: HESAP KURTARMA
+  SETTINGS_GRAPHICS_AUTO_QUALITY: Otomatik görüntü kalitesi
+  GARAGE_SHAFT_PROTECTION_PROPERTY: Shaft'a karşı koruma
+  GARAGE_TWINS_PROTECTION_PROPERTY: Twins'e karşı koruma
+  CLAN_REMOVE_REQUEST_TO_CLAN: İsteğinizi geri çek
+  GROUP_INVITE_RESPONSE_USER_OFFLINE: Bu oyuncu çevrimdışı
+  SETTINGS_SHOW_FPS_CHECKBOX: FPS ve ping göster
+  SETTINGS_MOUSE_SENSITIVITY_CHECKBOX_LABEL: Fare hassasiyeti
+  CLAN_PLAYER_IS_CLAN_MAMBER: '%USERNAME% adlı oyuncu bu klanın bir üyesi'
+  TDM_SHORT_NAME: TÖM
+  UNBLOCK_USER_CONTEXT_MENU_LABEL: Göster
+  HEADER_VK_ENTERING_GROUP: ''
+  BATTLE_ENTER_WARNING_PARKOUR_BUTTON_ENTER: Savaşa Katıl
+  HEADER_CHANGE_UID: TAKMA AD DEĞİŞİKLİĞİ
+  DOM_RED_CAPTURED_POINT: Kırmızı takım {point} noktasını ele geçirdi
+  HEADER_MISSIONS: GÖREVLER
+  SHOP_GOLDBOX_ONE: Kasa
+  FRIENDS_ADD: Arkadaşlara ekle
+  OFFLINE_LABEL: Çevrimdışı
+  REDUCE_DAMAGE_SHOTGUN: Hammer
+  ERROR_EMAIL_NOT_FOUND: |-
+    Bu e-posta kayıtlı değil.
+    Muhtemelen başka bir e-posta ile kayıt oldunuz.
+  AUTOCOMPLETION_ROUND_MIGHT_END_EARLIER: Oyun erken bitebilir
+  RATING_BUBBLE: "Mevcut haftalık \nsıralamadaki yerler"
+  GARAGE_RELOAD_PROPERTY: Yeniden Doldurma Süresi
+  FRIENDS_YES: Evet
+  CLAN_MEMBERS: Üyeler
+  SETTINGS_SOUND_VOLUME_LABEL_TEXT: 'Ses düzeyi:'
+  STATISTICS_HEADER_WEALTH: Servet
+  BATTLE_LIST_DESCRIPTION: Tercih etiğiniz ayarlarla savaşlar oluşturun veya diğer özel savaşlara katılın.
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_HEADER: Özel koşullar
+  PREMIUM_NOTIFICATION_COMPLETE: Premium Hesabınız sona erdi.
+  HEADER_CLAN_LICENSE: KLAN LİSANSI
+  REGISTER_FORM_REGISTER_VIA: Oyuna kaydolmak için kullan
+  SETTINGS_CHANGE_PASSWORD_WRONG_LINK_TEXT: Kullandığınız link bozuk
+  GAME_ACTION_USE_DOBLE_DAMAGE: Çift Hasar teçhizatını kullan
+  ERROR_FATAL: Bir hata oluştu
+  SERVER_STOP_ALERT_TEXT: |-
+    SUNUCU GÜNCELLEMESİ!
+
+    Sunucular %1 saniye içinde kapanacak.
+  DM_MODE_NAME: Ölüm maçı
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_SUM: '%1 aldınız'
+  ALERT_ANSWER_SEND_BUG_REPORT: Hata raporu gönder ve savaşa dön
+  DM_MODE_DESCRIPTION: Arenadaki her oyuncu düşmanınızdır. En çok tankı imha eden oyunu kazanır.
+  CRYSTALS_PACKAGE_AS_GIFT: ücretsiz!
+  BATTLE_LIST_NAME: Savaş listesi
+  GARAGE_IMPACT_PROPERTY: Vuruş gücü
+  CLAN_POSITION_NOVICE: Acemi
+  VOTE_USER_LABEL: Oyla
+  GROUP_BUTTON: Grup
+  REARM_PAUSE_ALERT: |-
+    Duraklatma süresi neredeyse sona erdi. {time} içinde savaştan otomatik olarak ayrılacaksınız
+    Savaşa dönmek istiyor musunuz?
+  PARTNER_REGISTARTION_FORM_CONTINUE: Kabul Et
+  SETTINGS_UNLINK: Bağlantıyı kes
+  BATTLE_STAT_KILLS: İmha edilen
+  LOBBY_CHAT_WRITE_PUBLICLY: Genele yaz
+  TOURNAMENT_BATTLE_TRAINING_LABEL: Savaşa hazırlanıyor
+  GROUP_INVITE_RESPONSE_DECLINE: Gruba katılmadı
+  CONSEQUENCES_EXTERNAL_LINK_FOLLOWING: |-
+    Sitenin içeriğinden sorumlu değiliz ve hesabınızla ilgili herhangi bir bilgiyi (özellikle e-posta adresiniz ve şifreniz) girmemenizi şiddetle tavsiye ediyoruz.
+
+    Bu siteye güvenmemek için ciddi nedenleriniz var ise, girmemeniz en iyi seçenektir.
+
+    Unutmayın, harici siteler üzerinden ücretsiz kristal dağıtmıyoruz ve şifrenizi istemiyoruz.
+  SETTINGS_SHOW_CHAT_CHECKBOX_LABEL_TEXT: Sohbet'i göster
+  REGISTER_FORM_TO_LOGIN_PAGE_TEXT: Kayıtlı mısınız? <a href='event:'><font color='#59ff32'><u>Oturum Açın!</u></font></a>
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTO_COMPLETION: Otomatik tamamla
+  HEADER_OFFER: TEST SÜRÜŞÜ
+  GARAGE_CATEGORY_BUTTON_SPECIAL: Özel
+  CURRENT_PASSWORD: 'Mevcut Şifre:'
+  PARTNER_LOGIN_FORM_ENTER_USERNAME_TEXT: Partner ağı üzerinden oynamak için Tanki Online kullanıcı adı ve şifrenizi giriniz.
+  LABEL_MOUNTED_RESISTANCES_PANEL: Dirençler
+  HEADER_DM_TOURNAMENT: ÖLÜM MAÇI TURNUVASI
+  REFERAL_WINDOW_SUMMARY_LABEL: 'Toplam bonus:'
+  REGISTER_FORM_TITLE_SKIP_REGISTRATION_TEXT: Daha sonra kayıt olabilirsiniz. İlk yükleme birkaç dakika sürecektir.
+  CONNECTION_CLOSED_MESSAGE: Sunucu bağlantısı kesildi
+  OK_ENTER_GROUP_REMINDER: ''
+  CHALLENGE_BUY_BATTLE_PASS_TIP: Buy the battle pass to claim all the rewards you've earned
+  DAILY_QUEST_GOAL: 'Görev:'
+  FRIENDS_YOU_ARE_HERE_BATTLE_INDICATOR: (Buradasınız)
+  HEADER_CLAN_MANAGMENT: İSTEK YÖNETİMİ
+  CLAN_MEMBER_LAST_VISIT: Son ziyaret
+  GROUP_INVITE_RESPONSE_ACCEPT: Gruba katıldı
+  RENT_TIME: 'Kira süresi:'
+  FRIENDS_DECLINE_ALL_BUTTON: Tümünü reddet
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION_WITH_LIMIT: |-
+    Moskova’da 9 Eylül’de düzenlenecek olan "Şehrin Tankları" buluşmasına bir bilet alacaksınız.
+    Dikkat!
+      - Bilet türünden bağımsız olarak hesap başına sadece bir bilet satın alabilirsiniz.
+      - Bilete dahil olan tüm bonuslar, sadece buluşmada kişisel olarak gönderilir.
+    При повторной покупке билета или неявке на встречу вам будет начислена компенсация в виде внутриигровой валюты. Нажимая «Далее», вы соглашаетесь с  <a href="http://tankionline.com/ru/event_rules" target="_blank"><u>Условиями заказа</u></a>.
+  CLAN_INVITE: Davet et
+  YOUR_FRIEND_IS_ALREADY_IN_THIS_BATTLE_LABEL: |-
+    Davet gönderilmedi
+    Arkadaşınız zaten bu savaşta
+  REDUCE_DAMAGE_ARTILLERY: Magnum
+  GARAGE_CATEGORY_BUTTON_DRONES: Dronlar
+  PAYMENT_BUG_REPORT_INFO: Ödemeniz bize ulaşmadıysa veya işleminizle ilgili bir sorun mevcut ise, lütfen konuyu bizimle paylaşın.
+  GARAGE_ARTILLERY_PROTECTION_PROPERTY: Magnum'a karşı koruma
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  CLAN_PROFILE_INVATION_CLAN: Üye Alımı
+  REARM_BATTLE_RETURN: Savaşa dön
+  MAIN_QUEST_BUTTON: Main
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_CONGRATULATIONS: Tebrikler, %1!
+  PAYMENT_TIANXIAFU_TERMS_TEXT: ???
+  DOM_BLUE_CAPTURED_POINT: Mavi takım {point} noktasını ele geçirdi
+  CLAN_DOES_NOT_ACDEPT_REQUEST: Bu klan istekleri kabul etmiyor
+  CLAN_ALERT_CLAN_FULL: Klan dolu
+  CLAN_CREATION_RULES: <textformat leading='5'><a href='http://tankionline.com/en/rules/' target='_blank'><font color='#59ff32'><u>Kurallar</u></font></a>hakkında bilgi sahibi olduğunuzu onaylayın</textformat>
+  SETTINGS_LINK_ACCOUNT: Oyun hesabınızı bağlayın
+  COPY_LINK_BUTTON_LABEL: "Linki \nkopyala"
+  BATTLE_CREATE_PANEL_MAP_TYPE_LABEL: 'Harita:'
+  POSTFIX_OFFER_EXIT_BATTLE: Test Sürüşü sona erecek.
+  SHOP_WINDOW_PRIVACY_AND_COOKIES_POLICY_LINK: <a href="http://tankionline.com/en/privacy/" target="_blank"><font color='#59ff32'><u>Gizlilik ve Çerez Politikası</u></font></a>
+  AS_SHORT_NAME: SAL
+  DRONE_ADDITIONAL_MINES: Number of mines
+  BATTLE_CREATE_PANEL_BUTTON_JGR: Ezici
+  BATTLE_CREATE_PANEL_BUTTON_DEATHMATCH: Ölüm Maçı
+  CTF_LOST_ENEMY_FLAG: düşman bayrağını kaybetti
+  SETTINGS_MOUSE_CONTROL_CHECKBOX: Fare kontrolleri
+  GARAGE_HEAL_PROPERTY: İyileştirme
+  PARTNER_REGISTARTION_FORM_CHOOSE_NAME_TEXT: 'Oyun için takma adınızı seçiniz:'
+  GARAGE_ROCKET_LAUNCHER_PROTECTION_PROPERTY: Striker'a karşı koruma
+  SETTINGS_DYNAMIC_LIGHTING: Dinamik aydınlatma
+  DRONE_DAMAGE_PERCENT: Bonus damage
+  ACCOUNT_RECOVERY_FORM_BUTTON_CANCEL_TEXT: İptal Et
+  HEADER_CHANGE_PASSWORD_EMAIL: ŞİFRE & E-POSTA DEĞİŞTİR
+  DEVICES_STANDARD_SETTINGS_DESCRIPTION: Özel efektsiz standart fabrika ayarları
+  CTF_MODE_NAME: Bayrağı Ele Geçir
+  GAME_ACTION_TANK_TURN_RIGHT: Tankı sağa döndür
+  BATTLE_STAT_CALLSIGN: Takma Adı
+  MAP_THEME_NAME_SPACE: Uzay
+  SMART_SUPPLIES: Akıllı Teçhizatlar
+  RUGBY_GOAL_USER: gol attı
+  CLAN_PURCHASE_INFORMATION: |-
+    Kendi klanınızı oluşturmak için, bir lisans satın almalısınız.
+    Bu lisans sadece bir klan oluşturmanızı sağlayacaktır.
+  HEADER_FRIENDS: ARKADAŞLAR
+  PIECE_3: adet
+  FRIENDS_BATTLE: Savaş
+  CREATE_BATTLE_PANEL_GOLD_BOXES: Altın Kasaları
+  BATTLE_EXIT: Çık
+  CHALLENGE_REWARD_NOTIFICATION: Tebrikler! Kazanılan yıldız ödüllerini alacaksın!
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_HEADER: İndirimli ödeme yöntemi
+  CLAN_CREATE: Klan oluştur
+  SPECTATE_TEXT: İzle
+  BATTLEINFO_PANEL_BUTTON_PLAY: Oyna
+  RUGBY_BALL_TAKEN_RED: Kırmızı takım topu ele geçirdi
+  GROUP_INVITE_RESPONSE_USER_IN_BATTLE: Bu oyuncu savaşta
+  GARAGE_POWER_PROPERTY: Güç
+  ALERT_ACCOUNT_UNLINKED: Oyun hesabınızın %1 ile bağlantısı başarıyla kesildi
+  SHOP_WINDOW_HEADER_DESCRIPTION: Oyun deneyiminizi zenginleştirecek çeşitli ürünleri burada satın alabilirsiniz. Ödeme süreci tamamlandığında satın aldığınız ürünlerin Hesabınıza yansıtılacağını kabul ediyorsunuz. Kullanıcının vazgeçme hakkı Hesabınıza yansıtılan ürünler için geçerli değildir.
+  CHAT_SHARP_FORUM: forum|Forum|http://en.tankiforum.com/
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_ARROW_LENGTH: '30'
+  HEADER_CHAT: SOHBET
+  LINK_EXTERNAL_LOGIN_FORM_ADVICE: '%1 ile bağlamak için Tanki Online hesap bilgilerinizi girin'
+  CTF_RETURNED_OUR_FLAG: bayrağı geri getirdi
+  CLAN_POSITION_SUPREME_COMMANDER: Üst Düzey Komutan
+  CTF_MODE_DESCRIPTION: Düşman üssüne saldırın, bayraklarını ele geçirerek üssünüze getirin ve düşman takımdan koruyun. En çok bayrağı ele geçiren takım oyunu kazanır.
+  THERE_ARE_PLACES_AVAILABLE_LABEL: Mevcut yerler var
+  QUICK_PLAY_MODE_NAME: Hızlı savaş
+  CLAN_TAG_WITH_COLON: 'Klan etiketi:'
+  REDUCE_DAMAGE_FIREBIRD: Firebird
+  PROFILE: Profil
+  CLAN_MEMBER_COLUMN_DESTROYED: İmha edilen
+  THANKS_FOR_PURCHASE_INFO_ABOUT_EMAIL: |-
+    Tankçı! Ödeme faturalarını almak için
+    e-posta adresinizi belirtiniz.
+  CODE_CONFIRM: Onay kodu
+  BATTLEINFO_PANEL_COPY_LINK_TEXT: Linki kopyala
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_DONT_ENTER: Girme
+  GAME_ACTION_CAMERA_UP: Kamerayı yukarı kaydır
+  STATISTICS_HEADER_DEATHS: Kayıp
+  GAME_ACTION_TURRET_TURN_LEFT: Tareti sola döndür
+  GARAGE_THUNDER_PROTECTION_PROPERTY: Thunder'a karşı koruma
+  SHOP_BUTTON_TOOLTIP: Burada kristal ve diğer ürünleri satın alabilirsiniz. Özel teklifler için sık sık kontrol etmeyi unutmayın!
+  SHOP_PAYMENT_CATEGORY_DESCRIPTION_FOR_ODNOKLASSNIKY: ''
+  HEADER_BATTLES: SAVAŞLAR
+  JGR_NEW_BOSS: Yeni Ezici %1  !
+  BATTLEINFO_PANEL_NONAME_TEXT: Yok
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTOBALANCE: Otomatik dengele
+  GARAGE_CATEGORY_BUTTON_SUPPLIES: Teçhizatlar
+  FRIENDS_CLOSE: Kapat
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_DESCRIPTION: Aşağıdaki ödeme şekilleri şuanda indirim sunmaktadır. Devam etmek için lütfen ödeme yöntemini seçiniz.
+  HEADER_CAUTION_EXTERNAL_LINK: DIŞ BAĞLANTI
+  CHALLENGE_FINISH: You have reached the top tier. All your rewards have been paid out.
+  SETTINGS_SHOW_REMOTE_DRONES: Diğer dronları göster
+  ACCOUNT_RECOVERY_FORM_HELP_LABEL_TEXT: |-
+    Şifresiz giriş linki almak için
+    kayıtlı e-posta adresinizi girin
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_TEXT: E-postanızı girin ve 5 kristal kazanın!
+  HEADER_ATTENTION: DİKKAT!
+  CLAN_ACCEPT_REQUEST: Daveti kabul et
+  RENAME_FAILED_ALERT: Ad değiştirilemedi, lütfen daha sonra yeniden deneyiniz
+  BATTLE_CREATE_PANEL_BUTTON_RUGBY: Ragbi
+  GARAGE_PROTECTION_PROPERTY: Koruma
+  BATTLE_TEAM_BLUE: mavi
+  MAIN_PANEL_BUTTON_BATTLES: Savaşlar
+  PROGRESS: İlerleme
+  SETTINGS_ALTERNATE_CAMERA_LABEL_TEXT: Hareketli kamera
+  FRIENDS_BUTTON_TOOLTIP: Arkadaş listeniz. Buradan arkadaşlarınızı bir savaşa dahil edebilir ve profillerini görebilirsiniz.
+  ALERT_GARAGE_AVAILABLE: Şimdi garajdan satın alma yapabilirsiniz.
+  INCOMING_LIMIT_EXCEEDED_ALERT: İstek gönderilemedi. Bu kullanıcının istek kutusu dolu.
+  DISCOUNTED_AT_KIT: '{0} indirimli'
+  SEND_PRESENT_BUTTON: Gönder
+  BATTLE_CANNOT_BE_FOUND_ALERT: Link artık yok. Savaş bulunamadı.
+  BATTLE_CANNOT_BE_FOUND_LABEL: |-
+    Davet gönderilmedi
+    Savaş bulunamadı
+  JGR_YOU_ARE_THE_BOSS: Hazır ol, sonraki Ezici sensin!
+  PAYMENT_COUNTRIES_LABEL_TEXT: 'Ülke:'
+  CLAN_DISBAND: Klanı dağıt
+  MAP_THEME_NAME_SUMMER: Yaz
+  REARM_PAUSE_2: Devam için bir tuşa basınız
+  BATTLE_STAT_REWARD: Ödül
+  CTF_BLUE_FLAG_RETURNED: Mavi bayrak geri getirildi
+  CLAN_KILL_DEATH_RATION: K/D oranı
+  BATTLE_PLAYER_KILLED: imha edilen
+  GAME_ACTION_SCREEN_SIZE_INCREASE: Savaş ekranı boyutunu arttırın
+  KEYBOARD_KEY_PG_DN: PgDn
+  BATTLE_STAT_BONUS_REWARD: Bonus
+  FRIENDS_PLAYER_ALREADY_IN_LIST_ALERT: '%USERNAME% zaten arkadaş listenizde.'
+  BATTLE_PLAYER_JOINED: katıldı
+  CLAN_IS_ALREADY_IN_INVITE_LIST: '%CLANNAME% Klanı  sizi zaten davet etti'
+  CHAT_PANEL_COMMAND_UNBLOCK: '%1 kullanıcısı Engellenenler listesinden çıkarıldı'
+  PAYMENT_SMSNUMBERS_NUMBER_HEADER_LABEL_TEXT: Numara
+  LOOT_OPEN_BUTTON: Aç
+  CHECK_PASSWORD_FORM_PLAY_BUTTON: Oyna
+  FULLSCREEN_BUTTON_TOOLTIP: Tam ekran aç/kapa.
+  AS_MODE_NAME: Saldırı
+  RANK_ICON_TOOLTIP: Mevcut Rütbeniz. Profilinizi görmek için tıklayın.
+  YOUR_ACCEPTED_LIMIT_EXCEEDED_ALERT: Arkadaş İsteği kabul edilemiyor. Arkadaş Listeniz maksimum oyuncu sayısına ulaştı.
+  DRONE_CRITICAL_HEALTH: Healing
+  CLAN_MEMBER_POSITION: Görevi
+  ITEMS_IN_KIT: Kit İçeriği
+  ASSAULT_DELIVER_FLAG: Üsse saldırı başarılı oldu
+  SERVER_IS_RESTARTING_LOGIN_TEXT: Sunucu şu anda yeniden başlatılıyor. Oturum açamazsınız.
+  ERROR_CALLSIGN_WRONG_FIRST_SYMBOL: Takma adın 1. hanesi harf veya rakam olmalıdır
+  STATISTICS_HEADER_CALLSIGN: Takma Adı
+  ERROR_PASSWORD_INCORRECT: Şifre hatalı
+  HELP_PANEL_BUTTON_BAR_HELPER_TEXT: |-
+    Arkadaşını davet et.
+    Ayarlar.
+    Ses açık/kapalı.
+  SHOP_WINDOW_PAYMENT_CATEGORY_DESCRIPTION: Devam etmek için lütfen ödeme yöntemini seçiniz
+  DRONE_INVENTORY_COOLDOWN_SUBTRACTION: Supply reload speed increase in sec.
+  RENT: Kirala
+  KEYBOARD_KEY_PG_UP: PgUp
+  SELECTED_SERVER_UNAVAILABLE: Bağlanmaya çalıştığınız sunucu geçici olarak devredışı. Lütfen daha sonra yeniden deneyin.
+  CLAN_MEMBER_COLUMN_KILL_DEATH_RATIO: D/L
+  CP_MODE_DESCRIPTION: Düşman noktalarını ele geçirin ve düşmana karşı koruyun. Oyun sonunda en yüksek noktayı ele geçiren takım oyunu kazanır.
+  STATISTICS_HEADER_RATIO: Oran
+  ALERT_CHAT_PROCEED_EXTERNAL_LINK: |-
+    Tanki Online oyunuyla bağlantı olmayan bir linke devam edeceksiniz.
+    Proje Yönetimi dış içeriklerden sorumlu değildir ve bilinmeyen sitelerde Tanki Online'da kullandığınız e-posta, kullanıcı adı, şifre ve diğer verileri belirtmemenizi şiddetle tavsiye eder.
+    Bu siteler bilgisayarınıza zarar verebilir ve farklı virüsler ve diğer kötü amaçlı yazılımlar kullanarak Tanki Online hesap verileri dahil gizli bilgileri çalabilir.
+    Linke devam etmek istemiyorsanız, «İptal Et» düğmesine basınız.
+  INVITE_FRIEND_BUTTON_LABEL: Arkadaş davet et
+  CLAN_SEARCH: Klan ara
+  REDUCE_DAMAGE_RAILGUN: Railgun
+  GARAGE_UPGRADE_TEXT: Yükselt
+  BATTLE_SUPPLIES_TEXT: Teçhizatlar
+  DAILY_QUEST_PRIZE: 'Ödül:'
+  DELETE_PRESENT_BUTTON: Sil
+  HEADER_TOURNAMENT_PREPARE: SAVAŞA HAZIRLANIYOR
+  TURNOVER_HINT_2: veya basarak kendinizi imha edin
+  YOUR_FRIEND_IS_OFFLINE_LABEL: |-
+    Davetiniz gönderilmedi
+    Arkadaşınız çevrimdışı
+  DAILY_QUEST_INFORMATION: <a href="http://en.tankiwiki.com/Missions" target="_blank"><font color='#59ff32'><u>Bilgi</u></font></a>
+  CP_MODE_NAME: Noktayı Ele Geçir
+  REDUCE_DAMAGE_ISIDA: Isida
+  PAYMENT_PRESENT_LABEL_TEXT: BEDAVA!
+  HEADER_WELCOME_BACK: TEKRAR HOŞ GELDİNİZ!
+  CLAN_ALREADY_INVITED_PLAYER: Bu klan size zaten davet gönderdi
+  DAILY_QUEST_COMPLETED: |-
+    This mission was completed.
+
+    Come back to the game tomorrow for a new mission.
+  GARAGE_SNIPING_IMPACT_PROPERTY: Keskin nişancı modunda vuruş gücü
+  TOTAL_PRICE_KIT: 'Toplam:'
+  CLAN_ALERT_LEAVE_CLAN: Klandan ayrıl?
+  IS_CONSIDERING_YOUR_INVITE_LABEL: |-
+    Davetinizi değerlendiriyor
+    Yanıt bekleyiniz
+  RUGBY_SHORT_NAME: RGB
+  ALERT_ANSWER_CANCEL: İptal
+  HEADER_NEW_PRESENTS_ALERT: YENİ HEDİYELER!
+  DOM_RED_LOST_POINT: Kırmızı takım {point} noktasını kaybetti
+  CLAN_TAG: Klan etiketi
+  GAME_ACTION_DROP_GOLD_BOX: Altın Kasasını kullan
+  DRONE_INVENTORY: Aktif Teçhizat Süresi
+  ALERT_ACCOUNT_LINKING_ERROR: Hesabınıza bağlanırken bir hata oluştu, lütfen daha sonra yeniden deneyin
+  GARAGE_SPEED_UP_TEXT: Hızlandır
+  GARAGE_CATEGORY_BUTTON_TURRETS: Taretler
+  CLAN_USER_CLAN_NUMBER_MEMBERS: Oyuncu sayısı
+  BATTLELIST_PANEL_BUTTON_CREATE: Oluştur
+  BATTLE_ENTER_WARNING_PARKOUR: Dikkat! Bu bir Parkur Savaşıdır. Deneyim veya kristal kazanmayacaksınız.
+  CLAN_BLOCK: Bu klan engellendi
+  ALERT_EMAIL_CONFIRMED_WRONG_LINK: |-
+    Hatalı bir link kullandınız.
+    Yeni bir link almak için kurtarma prosedürü tekrar edin.
+  BATTLE_CREATE_PANEL_STEPPER_MAX_TEAM_SIZE: Maks takım üyesi sayısı
+  HEADER_CONGRATULATION: TEBRİKLER
+  SETTINGS_BUTTON_CHANGE_PASSWORD_TEXT: Şifre & e-posta değiştir
+  BATTLE_STAT_SCORE: Puan
+  SHOW_DAMAGE: Hasarı göster
+  REDIRECT_ALERT_TEXT: |-
+    SUNUCU YENİDEN BAŞLATILIYOR!
+
+    %1 sn içinde çalışan sunuculardan birine taşınacaksınız.
+  RENAME_BUTTON_LABEL_IN_GARAGE: Kullan
+  FIND_BATTLE_BUTTON_TEXT: Savaş!
+  CTF_GOT_OUR_FLAG: bayrağımızı ele geçirdi
+  MAP_THEME_NAME_SUMMER_DAY: Yaz günü
+  FREE_UIDS_FORM_HEADER: |-
+    Bu ad kullanılıyor.
+    Önerilerimiz:
+  STATISTICS_HEADER_RATING: Sıra
+  RUGBY_MODE_DESCRIPTION: Haritanın ortasındaki topu ele geçirin ve düşman üssüne götürün. Düşman takımın topu üssünüze getirmesini engelleyin. En yüksek puanı alan takım oyunu kazanır.
+  SETTINGS_BUTTON_TOOLTIP: Ayarlarda, görüntü, tuş kombinasyonları ve daha fazlasını ayarlayabilirsiniz.
+  SETTINGS_SHOW_DROP_ZONES_LABEL_TEXT: Bırakma bölgelerini göster
+  DAILY_QUEST_ALL_MISSIONS_COMPLETED: |-
+    Bugün için tüm görevleri tamamladın!
+    Daha fazla görev için yarın gelin.
+  CHAT_SHARP_CLANS: klanlar|Klanlar|http://en.tankiforum.com/index.php?showforum=42
+  RUGBY_BALL_LOST_RED: Kırmızı takım topu kaybetti
+  MAIN_PANEL_UPDATE_RANK_NOTICE_GIFT: Hediyeniz %1
+  ACCOUNT_RECOVERY_FORM_BUTTON_RECOVER_TEXT: Kurtar
+  GAME_RULES: "Özet Kurallar\n\nAşağıdaki oyun içi davranışlar Oyunda yasaktır:\n-bot kullanımı, üçün parti yazılım kullanımı, böcekler;\n-yönetim üyesiymiş gibi hareket etmek;\n-aşırı hızlı seviye atlama, diğer kullanıcılar için engeller yaratma;\n-reklam, siyasi propaganda;\n-fikri mülkiyet kanunları dahil kanunları ihlal etme;\n-Hesapların ve diğer oyun değerlerinin satılması, alınması, takası veya devri;\n-dolandırıcılık ve diğer aldatıcı faaliyetler.\n \nAşağıdaki davranışlar, Oyun sohbetlerinde ve Forum'da yasaktır:\n-hakaret, tehdit ve iftira niteliğinde ifadeleri kullanmak;\n-ima yoluyla da olsa küfürlü konuşmak;\n-sohbeti ele geçirmek, alevlendirmek, istenmeyen mesajlar göndermek, tamamı büyük harflerle yazmak (CAPS LOCK);\n-şifreleri ve diğer Hesap bilgilerini hileyle çalmak;\n-trollemek;\n-başkalarını Oyun Kurallarını ihlal etmek için teşvik etmek;\n-yönetim ve moderatörleri herkesin içinde tartışmak;\n-yasalar ile yasaklanan bilgileri yayınlamak;\n-üçüncü parti kaynaklara ait linkler yayınlamak;\n-herhangi bir türde ayrımcılık. \n \nOyun Kuralları\nTüm dünyadan insanların devasa savaş makinelerini kullandıkları, şiddetli savaşlara katıldığı Tanki Online oyunundasınız.  Oyuncular, tek başlarına veya bir takım halinde omuz omuza zafere ulaşmak için savaşabilirler.  Ayrıca sosyalleşebilmekte ve yeni arkadaşlar edinebilmektedirler.\nTanki Online öğrenmesi kolay çok oyunculu aksiyon oyunu, ciddi savaşlar için bir sahne ve harika bir sosyal ağdır.\nKayıt sürecini tamamladıktan sonra Kullanıcı bir sanal tank ve 500 kristal (oyunun para birimi) almaktadır. Kullanıcı savaşlar kazanarak, puanlarını artıracak ve yeni rütbeler ve kristaller kazanacaktır. Kristaller, yararlı mühimmat satın almak ve tanklar, silahlar ve zırhlar satın almak veya yükseltmek için kullanılabilir.\nTanki Online sadece heyecan verici bir online Oyun değildir. Aynı ilgi alanlarını paylaşan insanlardan oluşan bir topluluktur. Karşılıklı saygı ve nezaketi teşvik ediyor ve saldırgan davranışları ve/veya Diğer Kullanıcıların haklarını ihlal eden davranışları şiddetle cezalandırıyoruz. Yöneticilerimiz, bu Oyun Kurallarını ihlal eden kullanıcıların iletişim becerilerini sınırlandırma, puanlarını düşürme ve/veya Hesaplarını engelleme haklarına sahiptir. \n \n\nGenel Koşullar\n\nOyun Kurallar, Oyun ve Oyun hizmetlerinin Son Kullanıcı Lisans Sözleşmesi (bundan sonra \"Sözleşme\" veya EULA\" olarak anılacak) ve diğer dokümanların ayrılmaz bir parçasıdır. Bunun karşılığında, Sözleşme, Gizlilik ve çerez politikası yanı sıra Oyun ve Oyun Hizmetlerinde yayınlanan diğer dokümanlar bu Oyun Kurallarının ayrılmaz bir parçasıdır.\nOyun Kurallarında kullanılan herhangi bir terim veya ifade Sözleşmede kendilerine verilen anlamlara sahiptir.\nOyun veya Online Hizmetlerinin herhangi bir kullanımı ve/veya kayıt formunda \"Kabul Ediyorum\" düğmesine tıklamanız bu Oyun Kurallarını bildiğiniz ve onayladığınız ve tüm şartlarını kayıtsız şartsız kabul ettiğiniz anlamına gelmektedir.\nOyun Kuralları tüm Kullanıcılar için bağlayıcıdır.\nBu Oyun Kurallarının herhangi bir şartını kabul etmiyorsanız, Oyun ve hizmetlerini kullanma hakkına sahip değilsiniz, ve lütfen bu Siteden ayrılın ve Oyunu kullanmayın.\n\n \n1. Aşağıdakileri içeren takma adların (Kullanıcı adlarının) oluşturulması yasaktır:\n\n1.1. küfürlü veya sert ifadeler, hakaret/hakaret provokasyonları (kısaltma, ifade, sözcük veya sözcük grubu şeklinde);\n1.2. Irkçılık, faşizm, küfür öğeleri veya ırk, milli veya dini kimliğe dayanan takma adlar veya nefret, hoşgörüsüzlük, etnik nifakı kışkırtan öğeler;\n1.3. Şiddet, terörizm, aşırıcılık ve/veya kitlesel karışıklıklara davet eden ifadeler;\n1.4. Her türlü siyasi teşvik, propaganda, reklam; \n1.5. Siyasi suçlar veya insanlığa karşı suçlar, terör faaliyetlerinde bulunmuş olanlar dahil siyasi örgütlerle (kişilere) doğrudan veya dolaylı ilişki olanlar;\n1.6. Cinsiyet, yaş, din veya diğer özelliklere dayanan ayrımcılık;\n1.7. Doğrudan veya dolaylı propaganda, alkollü ve alkol içeren içkiler, bira, tütün ürünleri, uyuşturucu, toksik, psikotropik ve/veya sarhoş edici maddeler, öncül maddeleri ile bunların üretim, edinme, yetiştirme ve kullanım yerleri ve yöntemleri hakkında bilgiler;\n1.8. Kumar oyunları, fuhuş, serserilik, dilenciliğe davet eden çağrılara ilişkin bilgiler;\n1.9. İntihar etme yöntemleri hakkında bilgi, intihar, şiddet veya yaşam veya sağlığa tehdit oluşturan diğer eylemlere teşvikler; \n1.10. Yasadışı davranış, suç, şiddet, işkenceye teşvik ile birlikte kanunların yasakladığı faaliyetlere tahrik eden zarar verici eylemlere teşvik;\n1.11. Yönetici çalışanların kullanıcı adlarının bir kısmı veya Kullanıcının Yönetici temsilcisiymiş gibi yanlış algılanmasına yol açabilecek bilgiler;\n1.12. Oyuna, Yöneticilere veya moderatörlere yönelik eleştiri; \n1.13. Cinsel ilişki, ırza tecavüz, pornografi, pedofiliyle doğrudan veya dolaylı ilişkili ifadeler;\n1.14. Beden veya bedenin alt biyolojik fonksiyonları veya refleksleriyle ilgili açıklamalar;\n1.15. Reklamlar ve internet sitesi linkleri;\n1.16. Yönetici haklarını ihlal eden kaynaklar, hile kodları, hile sitelerine atıflar; \n1.17. Telaffuz edilemeyen rastgele harfler (flood Kullanıcı adları);\n1.18. Telif haklarıyla korunan veya tescilli ticari marka unsurlarının tamamı veya bir kısmı;\n1.19. Bu Oyun Kuralları, Sözleşme ve/veya geçerli kanunlarca yasaklanan diğer bilgiler.\n1.20. Kullanıcı adının yukarıda belirtilen gerekleri, bu Oyun Kuralları, Sözleşme veya geçerli kanunlarda belirtilen diğer gerekliliklere uygun olmaması halinde, Yönetim, mutlak kendi takdirinde, aşağıdaki haklara sahiptir:\n- Kullanıcıdan adını kabul edilebilir bir Kullanıcı adıyla değiştirmesini talep etme ve Kullanıcı adının değiştirilmesi için verilen süre için Kullanıcı Hesabını engelleme;\n- Kullanıcı Hesabını daimi olarak engelleme.\n\n\n2. Aşağıda belirtilen faaliyetler yasaktır ve (Yönetimin kararına göre) Kullanıcının Hesabının kalıcı veya geçici olarak engellenmesine, Kullanıcının sanal Oyun değerlerinin (garaj, kristal, oyun istatistikleri) tamamını %10 ila %100 arasında azaltılmasına veya Kullanıcı Hesabının sıfırlanmasına, oyun sohbetleri ve Foruma erişimin geçici veya kalıcı olarak yasaklanmasına (yasaklama) yol açacaktır: \n\n2.1. Oyunda herhangi bir sportmenlik dışı veya kaba davranış şekilleri:\n\n2.1.1. Bot kullanımı (Oyunda Kullanıcıların hareketlerini taklit eden bir yazılımının kullanılması), fare ve klavyeyi kontrol eden tıklama programları, makroların kullanılması, Oyunda avantaj elde etmek için diğer üçüncü parti yazılımların kullanılması;\n2.1.2. Oyun olanaklarının iyileştirilmesi/otomasyonu için üçüncü taraf yazılımların ve diğer araçlar (botlar, hileler) yanı sıra Oyunun çalışmasını veya üçüncü kişilerin elektronik cihazlarının çalışmasını bozabilecek programların uygulanması veya dağıtılması;\n2.1.3. Oyunun yazılım hatalarının suistimal edilmesi ve bunlara ilişkin bilgilerin Yönetim hariç üçüncü kişilere aktarılması;\n2.1.4. 'Bayrağı Ele Geçir' veya 'Kontrol Noktaları' veya 'Takım Ölüm Maçı' oyunlarında diğer takım oyuncularından veya 'Ölüm Maçı' modunda rakiplerin yardımı veya kasıtlı hareketsizliği yoluyla deneyim puanlarının kazanılması ('Aşırı Hızlı Seviye Atlama');\n2.1.5. Bir kullanıcının sahip olduğu hesaplar arasında savaşlar;\n2.1.6. Ana Hesabın seviyesini aşırı hızlı atlatmak için ek hesapların açılması;\n2.1.7. Aşırı hızlı seviye atlamak amacıyla diğer kullanıcılarla üstünkörü savaşmak için danışıklı ve önceden ayarlanmış savaşlar yapmak (Yönetim böyle bir faaliyete dahil olan herkes için kısıtlamalar uygulayacaktır);\n2.1.8. BEG, TÖM ve KN modları dahil bir Kullanıcının üyesi olduğu takıma karşı engellemeler yaratmayı amaçlayan herhangi bir davranışı veya ihmali, üyesi olduğunuz takıma karşı savaşmak, bir müttefik tankına zarar vermek/imha etmek, rakip takımın menfaatine savaşmak veya düşmanla komplo kurmak, sabotaj;\n2.1.9. Deneyimsiz oyunculara (acemilere) karşı ayrımcılık yapmak: yanlış bilgi vermek, gözdağı vermek, dalga geçmek;\n2.1.10. Diğer Kullanıcılar, Yönetim, moderatörler ve diğer kişilerle ilgili olarak hakaretlerde bulunmak ve iftira atmak (yalan yanlış bilgiler yaymak); \n2.1.11. Oyunda herhangi bir manipülasyon veya komplo şekilleri;\n2.1.12. Oyunun geliştirilmesi ve imajı üzerinde olumsuz bir etkiye sahip olan herhangi bir faaliyet;\n2.1.13. Normal oyun sürecini engelleyen ve yönetim tarafından bu şekilde algılanacak herhangi bir sportmenlik dışı davranış şekilleri.\n\n\n2.2. Başta aşağıdakiler olmak üzere her türlü dolandırıcılık şekli:\n\n2.2.1. Oyun ve/veya Oyun hizmetlerinin hileli oyun içi mali işlemler, para iadesi, yasak işlemler dahil işlemler sırasında dolandırıcılık dahil bunlarla sınırlı olmaksızın herhangi bir dolandırıcılık amacıyla kullanılması;\n2.2.2. Hesapların ve diğer oyun değerlerinin üçüncü taraflara devredilmesi; Hesap veya oyun değerlerinin ücretsiz veya kristal veya para karşılığında satışı, alımı veya devri için herhangi bir teklifin yayınlanması yanı sıra söz konusu işlemlerle ilgili teşvikler;\n2.2.3. Herhangi bir diğer Kullanıcından şifre, diğer Hesap bilgileri veya diğer kişisel bilgilerin, ahlaki, fiziksel veya teknik tehditler kullanarak şantaj dahil herhangi bir şekilde edinme girişimleri;\n2.2.4. Diğer Kullanıcılar ve üçüncü kişiler hakkında herhangi bir kişisel bilginin yayınlanması (böyle bir bilgi aleni değil ise); \n2.2.5. Dolandırıcılık - herhangi bir dolandırıcılık şekliyle Oyun içi paraların ele geçirilmesi;\n2.2.6. Yönetimin eski veya mevcut bir çalışanı veya proje asistanı (moderatör, danışman vb.) olarak kendini tanıtmak için herhangi bir girişim, özellikle de Yönetim veya moderatörler adına mesaj göndermek;\n2.2.7. Para, oyun değeri veya kristal transfer etme talepleri dahil herhangi bir şekilde dilencilik;\n2.2.8. Oyunun resmi kaynaklarıymış gibi göstermek suretiyle dış kaynaklara ait linklerin yayınlanması.\n\n2.3. Diğer ihlaller:\n\n2.3.1. İma yoluyla kullanılmaları dahil küfür veya sert ifadeler içeren sözcükler ve küfür olarak sınıflandırılmayan diğer küfür veya kaba sözcükler (ifadeler);\n2.3.2. Bir kadın ile erkek arasındaki cinsel ilişkiyi resmeden veya anlatan cinsel, erotik veya pornografik nitelikte bilgi ve materyallerin yayınlanması;\n2.3.3. İnanan kişilerin hislerini hareket eden veya aşağılayan, nefret, husumet, ırk, uluslararası veya etnik karışıklık, hoşgörüsüzlük yaratan ve belirtilen edimleri gerçekleştirmeleri sağlamak amacıyla muhatapları provoke eden bilgiler veya sembollerin yayınlanması (ırk, ulus, etnik ve dini özelliklere dayanarak takma adların alınması, hakaretler dahil); \n2.3.4. Nazi sembolleri, simgeleri, kısaltmaları veya Nazi aktivistlerinin unvanları, adları ve soyadlarının kullanılması, sergilenmesi veya propaganda amaçlı kullanılması;\n2.3.5. Tarihsel olayları olumsuzlayan bilgilerin yayınlanması;\n2.3.6. Şiddet, savaş, terörizm, hükümetin devrilmesine; aşırı faaliyetler ve/veya kitlesel karışıklıklara davet ediyor olarak görülebilecek bilgilerin yayınlanması;\n2.3.7. Siyasi suçlar veya insanlığa karşı suçlar işlemiş, terör faaliyetlerinde bulunmuş veya başka türlü uluslararası kanunları ihlal etmiş siyasi örgütler (siyasi liderler) hakkında bilgilerin yayınlanması; \n2.3.8. Siyasi teşvik, siyasi reklam, herhangi bir seçim propagandası içeren bilgilerin yayınlanması,\n2.3.9. Provokatif çatışmalar gibi güncel siyasi konuların tartışılması;\n2.3.10. Cinsiyet, yaş, din veya diğer özelliklere dayanan her türlü ayrımcılık;\n2.3.11. Kullanıcılar, Yönetim veya üçüncü kişilerle ilgili her türlü tehdit;\n2.3.12. İntihar etme yöntemleri hakkında bilgi, intihar, şiddet veya yaşam veya sağlığa tehdit oluşturan diğer eylemlere teşvikler, tehlikeli dövüş teknikleri, dublörlük, silah yapım tekniklerine ilişkin açıklamalar, vücut değiştirme yöntemlerine dair açıklamalar içeren bilgilerin yayınlanması;\n2.3.13. Yasadışı veya antisosyal davranış, suç, şiddet, sakatlama, insanlar, hayvanlar üzerinde psikolojik veya fiziksel işkence veya başkalarının mülküne zarar vermeyi açıklayan, teşvik eden veya meşrulaştıran her türlü bilginin yayınlanması;\n2.3.14. Çocuklarda korku, panik veya dehşete yol açan, ölüm, hastalık, intihar, kaza, acil durum veya felaketlerin ve(veya) sonuçlarının resimleri ve açıklamaları dahil her türlü bilgi yanı sıra çocukların sağlığına veya gelişimine zarar verebilecek diğer bilgilerin yayınlanması;\n2.3.15. Yasadışı faaliyetlerin (ihmaller) sonuçlarından olumsuz etkilenen bir çocuk hakkında bilgilerin yayınlanması;\n2.3.16. Doğrudan veya dolaylı propaganda, alkollü ve alkol içeren içkiler, bira, tütün ürünleri, sigara içme aksesuarları, uyuşturucu, toksik, psikotropik ve/veya sarhoş edici maddeler, öncül maddeleri ile bunların üretim, edinme, yetiştirme ve kullanım yerleri ve yöntemleri hakkında bilgilerin yayınlanması\n2.3.17. Kumar oyunları, fuhuş, serserilik veya dilencilik faaliyetlerine katılma arzusu uyandırabilecek bilgilerin yayınlanması;\n2.3.18. Mülkiyet hakkı sahibinin izni olmadan herhangi bir fikri mülkiyete tabi materyallerin (yazılım, sanat eserleri, resim, video ve diğer materyaller ve parçaları, ticari markaları vb.) veya diğer materyallerin kullanılması; korsan içeriklere ait linklerin yayınlanması; başta hak sahipleri, eser sahipleri ve fikri mülkiyet haklarının diğer onaylarına ait linkler olmak üzere fikri mülkiyet haklarına ilişkin bilgilerin silinmesi veya değiştirilmesi;\n2.3.19. Yönetimin onayı olmadan herhangi bir reklam materyali veya bilgilerin yayınlanması;\n2.3.20. Kullanıcının veya Yönetimin zarara/kayba uğramasına yol açabilecek bilgilerin yayınlanması; \n2.3.21. Oyun ve/veya geliştiricilere ve Sahibe karşı yapıcı olmayan eleştiriler;\n2.3.22. Oyun Yönetimi veya moderatörlerinin açık veya örtük bir şekilde herkese açık bir şekilde tartışma;\n2.2.23. Yalan veya uydurma bilgiler, belgeler ve delillerin sağlanması. Yönetim, Kullanıcıyı bu faaliyetlerine ilişkin cezai ve diğer sorumlulukları hakkında uyarır;\n2.3.24. İşbu Oyun Kuralları, Sözleşme ve/veya geçerli kanunlarca yasaklanan faaliyetlere (ihmallere) teşvik etme veya ön ayak olma. \n \n3. Oyun sohbetlerinde ve/veya Forumlarda aşağıdaki özelliklere haiz konuların başlatılması ve/veya mesajların yayınlanması yasaktır:\n3.1. Halihazırda mevcut konuların veya mesajların yanı sıra yakın bir zamanda tartışılmış ve yanıtları bilgilendirme bölümlerinde (Oyun Kuralları, SSS, Planlar, vb.) bulunan yeniden açan/yayınlayan.  Sorularınıza aradığınız yanıtı bulmak için Arama fonksiyonunu kullanmayı unutmayın. Yeni bir konu açmadan önce mevcut konulara dikkat edin ve detaylı bir şekilde araştırın.\n3.2. Bölüm/kategorinin temasına karşılık gelmeyen;\n3.3. Konunun veya mesajın başlığında ve/veya içeriğinde CAPS LOCK veya ÇOK FAZLA BüYÜK HaRF içeren;\n3.4. Konunun veya mesajın başlığında ve/veya açıklamasında, konu veya bölümün anlaşılmasını zorlaştıran veya herhangi bir anlam taşımayan (Flood) ilgisiz veya tekrarlayan semboller, karakterler, duygu simgeleri, mesajlara sahip olan, örneğin == - Benim Konum - ==;\n3.5. 24'den daha büyük yazı boyutunda metne sahip olanlar;\n3.6. Bilgi eksikliği bulunan ve konunun başlığı veya açıklamasında konunun içeriğini yansıtmayan;\n3.7. Herhangi bir özel gereklilik olmamasına rağmen önceki mesajlar ve/veya resimlere ait çok uzun metinlerin alıntılanması (aşırı alıntılama); \n3.8. Yönetim tarafından kapatılmış veya silinmiş konuları tartışmaya devam eden (ölü bir konuyu canlandırma); \n3.9. Forum veya oyun sohbeti katılımcıları için kişisel sayılabilecek bir niteliğe sahip olan. Kişisel İletişim için lütfen Özel Mesajları kullanın. Soruların çözülmesi amacını taşıması şartıyla kişisel tartışmalara izin verilmektedir.\n3.10. Alıcının talep etmediği, ilgi göstermediği ve/veya onay vermediği istenmeyen mesajlar içeren;\n3.11. Tartışmayı alevlendiren (\"tartışmak için tartışmak\", sıklıkla tartışmanın asıl sebebiyle ilişkisi bulunmayan sadece söz dalaşı niteliğindeki mesajların paylaşılması); \n3.12. Trolleme içeren (topluluk katılımcılarını, kendileri için olumsuz sonuç ve çatışmalara sahip davranışlara teşvik etmek); \n3.13. Diğer Kullanıcılar, Yönetim ve moderatörlerin provoke etmeyi ve Forum veya oyun sohbetlerindeki iletişimi engellemeyi amaçlayan;\n3.14. Referans linkleri, \"hile kodları\" (addscore, Buy_krictals_in_the_panzer) içeren;\n3.15. Bu Oyun Kuralları, Sözleşme ve/veya geçerli kanunlarca yasaklanan diğer bilgiler ve ihlalleri içeren.\n3.16. Yukarıda belirtilen ihlaller için, Yönetim, kendi takdirinde, kalıcı veya geçici Hesap engelleme veya oyun sohbetleri ve Foruma erişimin geçici veya kalıcı yasaklanması (yasaklama) şeklinde Kullanıcı kısıtlamaları uygulama hakkına sahiptir.\n3.17. Yönetim, kendi takdirinde, önceden haber vermeksizin herhangi bir bilgi veya mesajı silme, yanlış Forum bölümünde açılan konuyu silme/taşıma hakkına sahiptir.  \n3.18. Özel Mesajlar, oyun hizmetleri ve Forumda Kullanıcının kişisel iletişimini sağlamak amacını taşımaktadır. Oyun Kurallarının ihlaline ilişkin şikayetler değerlendirilirken, Yönetim özel mesajlarla ilgili şikayetleri dikkate almayacaktır. Kullanıcı, Forumdaki Kullanıcı profilinin uygun bölümündeki Kara Listeye eklemek suretiyle başka bir kullanıcıdan gelen özel mesajları almayı durdurabilir.\n \n4. Kullanıcı kısıtlamalarının uygulanması\n4.1. Kullanıcının işbu Oyun Kurallarını ihlal etmesi halinde, Yönetim, Oyun Kurallarının ilgili bölümünde belirtilen kısıtlamaları bu Kullanıcıya uygulama hakkına sahip olacaktır.\n4.2. Kısıtlama türleri:\n4.2.1. Geçici veya kalıcı Hesap engelleme - Oyuna erişimin engellenmesi (sınırlandırılması). \n4.2.2. Kullanıcının sanal Oyun değerlerinin (garaj, kristal, oyun istatistikleri) tamamının %10 ila %100 arasında azaltılması veya Kullanıcı Hesabının sıfırlanması.\n4.2.3. Kullanıcının Foruma ve oyun sohbetlerine erişimin geçici veya kalıcı yasaklanması (yasaklama) - sohbetler ve Formunda mesaj bırakabilme imkanının kısıtlanması. \n4.2.4. Oyun veya oyun hizmetlerinin herhangi bir kısmında yayınlanan herhangi bir bilgi veya mesajın önceden haber verilmeden silinmesi veya değiştirilmesi; Forum konularının başka bir bölüme aktarılması veya konuların silinmesi.\n4.3. Bu kısıtlamalar, işbu Oyun Kurallarını ihlal eden Kullanıcının herhangi bir Hesabına uygulanabilir.\n4.4. Yönetim, kendi takdirinde, bir Kullanıcıya aynı anda bir veya daha fazla kısıtlama uygulama veya uyarıda bulunma hakkına sahiptir.\n4.5. Kısıtlamaları seçerken, Yönetim ihlalinin türü ve sayısı yanı sıra bu Oyun Kurallarının Kullanıcı tarafından önceki ihlallerini dikkate almaktadır.\n4.6. Oyun Kurallarının belirli ihlallerinin tam olarak tespit edilmesi her zaman mümkün olmadığından dolayı son karar daima Yönetime aittir.\n4.7. İşbu Oyun Kurallarının ihlali, Kullanıcının önceden haber verilmeden derhal oyun hizmetlerine erişiminin durdurulması veya bu hizmetlerin kısmen veya tamamen kısıtlanması anlamına gelebilir.\n4.8. Kullanıcının Oyun Kurallarını birkaç kez veya entegre bir şekilde ihlal etmesi halinde, Yönetim kendi takdirinde Kullanıcıya uygulanan kısıtlamaları tekrar uygulama hakkına sahiptir.\n4.9. Yönetim, Kullanıcının veya üçüncü tarafın İnternet Sitesini, Oyunu ve/veya Çevrimiçi Hizmetleri kullanmasının bir sonucu olarak doğrudan veya dolaylı olarak uğrayabileceği, Oyunu ve Çevrimiçi Hizmetleri kullanamama veya Yönetimin Kullanıcıya kısıtlama uygulamasından dolayı uğradığı zararlar, Oyunun diğer kullanıcıları, internet erişiminin bulunmaması, hırsızlık, Materyallerin yok olması, Kullanıcının Hesabıyla ilgili bilgilerin kaybı dahil üçüncü taraf faaliyetlerinden doğan dolaylı veya doğrudan zararlar ve Oyunla ilgili olarak Kullanıcının onuru, şerefi veya iş itibarının zedelenmesi dahil herhangi bir zarar veya kayıptan hiçbir şekilde sorumlu değildir. \n\n5. Moderatörler\n5.1. Moderatörler, Yönetimin yardımcıları olup Kullanıcılar arasından Yönetim tarafından seçilmektedir.\n5.2. Bir moderatör, Yönetim adına ve menfaatine hareket eden bir kişidir. Moderatörler, Oyun ve oyun hizmetlerin yanı sıra Forum ve oyun sohbetlerinde düzeni sağlar ve kontrol eder.\n5.3. Moderatör, Kullanıcı tarafından bu Oyun Kurallarının ihlal edilmesi halinde, Kullanıcıya oyun sohbetleri ve Forumlarına erişimi kalıcı veya geçici olarak kısıtlama (yasaklama) uygulama hakkına sahiptir.\n5.4. Bir moderatör karar alırken dürüst ve tarafsız olacaktır ve işbu Oyun Kuralları ve Sözleşmenin hükümlerine de uyacaktır ve Kullanıcılara karşı kibar olacak, görevlerini verimli ve düzenli bir şekilde yerine getirecektir.\n5.5. Moderatörün sahip olduğu gücü istismar etmesi kesinlikle yasaktır. Tüm moderatörlerin faaliyetleri kayıt altına alınmaktadır. Moderatörlerden birinin kendisine gösterilen güveni yerine getirmemesi halinde, Yönetim iç kararıyla tartışma veya uyarı yapılmadan görevinden alınacaktır.\n5.6. Moderatörlerin faaliyetleri gönüllülük esasına dayanmaktadır.  Kullanıcı, bir moderatöre herhangi bir kısıtlamayı uygulama emri verme hakkına sahip değildir.\n \n6. Şikayetler ve İtirazlar\n6.1. Kullanıcı, <a href=\"http://en.tankiforum.com/index.php?showforum=76\" target=\"_blank\"><u>İhlalciler bölümü</u></a> bölümünde yeni bir forum konusu açmak suretiyle Oyun Kuralları ihlallerini raporlama hakkına sahiptir. Yeni konu alanında ihlalin niteliğinin açık bir şekilde belirtilmesi ve ihlali açık bir şekilde gösteren bir sohbet ekran görüntüsü veya videonun eklenmesi gerekmektedir.\n6.2. Kullanıcı işbu Oyun Kurallarına ilişkin herhangi bir soru, yorum veya şikayeti help@tankionline.com adresine gönderebilir. Yönetim, bu istekleri en kısa sürede değerlendirmek için her türlü çabayı gösterecektir.\n6.3. Bir şikayeti gönderirken, Kullanıcı, durumun içeriğini mümkün olabildiğince ayrıntılı bir şekilde açıklayacak ve delil niteliğindeki materyalleri, ekran görüntülerini, vb. ekleyecektir. Gerekçesiz kısıtlamalar ilişkin şikayetler, yalnızca Yönetim ve moderatörlerin faaliyetlerinin bir iç değerlendirmesinin yapılması amacını taşımaktadır. Kısıtlamaların uygulanmasına ilişkin kararlar, değişikliğe tabi değildir.\n6.4. Kullanıcının Yönetim ile yazışmaları başlatması halinde veya oyun ve oyun hizmetleriyle ilgili sorunlara ilişkin bir rapor sunması halinde, Yönetim tüm bu yazışmaları saklama hakkına sahiptir.\n\n7. Diğer hükümler:\n7.1. Yönetim, mutlak takdir yetkisinde, Oyunu yönetir ve işbu Oyun Kurallarını uygular ancak topluluğun görüşlerini dikkate alır.\n7.2. İşbu Oyun Kuralları, önceden haber verilmeksizin Yönetim tarafından değiştirilebilir. Kullanıcı en az her yedi günde bir (yani, haftada bir) değişiklikler için işbu Oyun Kurallarını kontrol etme yükümlülüğüne sahiptir. Böyle bir kontrolün belirtilen süre içinde yapılmaması ve Kullanıcının Oyunu kullanmaya devam etmesi halinde, Kullanıcı işbu Oyun Kurallarının değiştirilmiş halini okuduğu ve kabul ettiği varsayılmaktadır\n7.3. Yönetim hile ve dolandırıcılığa karşı \"sıfır tolerans\" politikası uygulamaktadır. Yönetim görüşüne göre, Kullanıcının Yönetimi veya başka bir Kullanıcıyı kandırmış olması veya kandırmaya teşebbüs etmiş olması halinde veya yalan veya uyduruk bilgiler, belgeler, deliller sunmuş olması veya başka türlü geçerli kanunları ihlal etmiş olması halinde, Yönetim, Kullanıcının Hesabını engelleme hakkını ve böyle bilgileri (Kullanıcının şahsi bilgileriyle birlikte), Yönetimin kendi takdirinde ve gerekli görmesi halinde, herhangi bir üçüncü tarafa ve/veya emniyet yetkililerine aktarma hakkını saklı tutar.\n7.4. Yönetim, Siberspor Kuralları, yarışma kuralları, turnuvalar ve şampiyonalarda başka hükümler ve kısıtlamalar uygulayabilir. Aynı zamanda, işbu Oyun Kuralları, Yönetim tarafından uygulamaya geçirilen diğer kuralların ayrılmaz bir parçasıdır."
+  DRONE_RELOAD: Dron Şarj Süresi
+  HEADER_REGISTRATION: KAYIT
+  CLAN_TANKS_LOST: Kayıp tanklar
+  CLAN_INCOMING: İstekler
+  GAME_ACTION_PAUSE: Duraklat
+  RUGBY_BALL_LOST_BLUE: Mavi takım topu kaybetti
+  REDUCE_DAMAGE_MACHINE_GUN: Vulcan
+  WEEKLY_QUEST_COMPLETED: |-
+    This mission was completed.
+
+    Come back to the game next week for a new mission.
+  SETTINGS_TAB_NAME_CONTROLS: Denetimler
+  ACCEPTED_LIMIT_EXCEEDED_ALERT: Arkadaş İsteği kabul edilemiyor. %USERNAME% Arkadaş Listesi maksimum oyuncu sayısına ulaştı.
+  CHAT_LABEL_TEAM: Takıma
+  BATTLE_CREATE_PANEL_CHECKBOX_FRIENDLY_FIRE: Dost ateşi
+  CLAN_MEMBER_DAYS: Klan'daki süre
+  CLAN_YOU_ALREADY_IN_CLAN: Zaten bir klana üyesiniz
+  LEAVE_GROUP_BUTTON: Gruptan ayrıl
+  REDUCE_DAMAGE_MINE: Mayın
+  SETTINGS_SHADOWS_LABEL_TEXT: Tankın altında gölge
+  FRIENDS_CONFIRM_REQUEST: İsteği onayla
+  HEADER_COMMUNICATOR: İLETİŞİMCİ
+  CHECK_PASSWORD_FORM_CALLSIGN: 'Kullanıcı adı veya e-posta:'
+  DOM_ENEMIES_CAPTURED_POINT: Düşmanlar {point} noktasını ele geçirdi
+  GUI_LANG: en
+  GARAGE_ARCADE_DAMAGE_PROPERTY: Arcade modunda hasar
+  GARAGE_DISTANT_DAMAGE_PROPERTY: Maks mesafede hasar
+  CHALLENGE_BUY_PREMIUM: Buy premium account
+  PREMIUM_COMPLETION: 'Son Kullanım: '
+  LOADING_PAYMENT_PAGE: Ödeme sayfası yükleniyor...
+  ALERT_GO_TO_BATTLE_IS_UNAVAILABLE_RANK_FUND: "Rütbenizin yeterli olmadığı bir savaşa giriyorsunuz. \nMevcut savaştan ayrılmak istiyor musunuz? Puan ve kristalleriniz kaybolacaktır."
+  ACCEPT_OFFER_BUTTON: Kabul Et
+  GAME_ACTION_DROP_FLAG: Bayrağı Bırak
+  RENAME_FORM_INSTRUCTION: Hesabınıza yeni bir ad vermek için, başkaları tarafından kullanılmayan bir takma ad seçmelisiniz. Değişikliği onaylamak için mevcut şifrenizi girmeniz istenecektir. Bu yeni takma ad, oyuna girmek ve forum gibi Tanki Online'nın diğer resmi hizmetlerine ulaşmak için kullanıcı adınız olarak kullanılacaktır.
+  ALERT_EMAIL_REGISTRATION: |-
+    Kayıt olduğunuz için tebrik ederiz! Tankınız savaşa hazır!
+    Şifreniz verdiğiniz e-postaya gönderildi.
+  STATISTICS_HEADER_KILLS: İmha Edilen
+  PAYMENT_SMSTEXT_HEADER_LABEL_TEXT: 'Metin:'
+  CHAT_SHARP_WIKI: wiki|Oyun Ansiklopedisi|http://en.tankiwiki.com/Main_Page
+  FRIENDS_MENU_ARROW_LENGTH: '70'
+  HEADER_LINK: BAĞLANTI
+  CHAT_SHARP_RULES: kurallar|Kurallar|http://tankionline.com/en/rules/
+  CAPTCHA_FORM_TITLE: 'Resimdeki sembolleri giriniz:'
+  BATTLE_CREATE_PANEL_STEPPER_TIME_LIMIT: Süre limiti
+  SETTINGS_TAB_NAME_GAME: Oyun
+  VK_ENTER_GROUP_REMINDER: ''
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_ARROW_LENGTH: '30'
+  GROUP_INVITE_BUTTON: Gruba davet et
+  GARAGE_ISIDA_PROTECTION_PROPERTY: İsida'ya karşı koruma
+  GAME_TERMS: "SON KULLANICI LİSANS SÖZLEŞMESİ\n \nOyun veya Online Hizmetlerinin herhangi bir kullanımı ve/veya kayıt formunda \"Kabul Ediyorum\" düğmesine tıklamanız işbu Sözleşmeyi bildiğiniz ve onayladığınız ve tüm şartlarını kayıtsız şartsız kabul ettiğiniz anlamına gelmektedir.\n \nTüm Sözleşmeyi kabul etmiyorsanız, Oyunu kullanma hakkına sahip değilsiniz ve bu internet sitesinden derhal ayrılmakla yükümlüsünüz.\n \nAPL Publishing Ltd, registration no. C 85285, registered under the laws of Malta, 157, Archbishop Street Valletta, VLT1440, Malta (bundan sonra \"Tanki Online\" veya \"Şirket\" veya \"Yönetim\" olarak anılacak) ile diğer tarafta kullanıcı sıfatıyla Siz (bundan sonra \"Siz\" veya \"Kullanıcı\" olarak anılacaktır) arasındaki sözleşme ilişkisini tesis eder ve yönetir.  \n \nİşbu SKLS'nin bir parçasını teşkil eden dokümanlar \n \nAşağıdaki dokümanlar işbu SKLS'nin ayrılmaz bir parçasını teşkil etmektedir:\n<a href=\"http://tankionline.com/en/privacy/\" target=\"_blank\"><u>Gizlilik ve Çerez Politikası</u></a>;\n<a href=\"http://tankionline.com/en/rules/\" target=\"_blank\"><u>Oyun Kuralları</u></a>; ve \n<a href=\"http://en.tankiforum.com/index.php?showtopic=163769\" target=\"_blank\"><u>Kristal Satın Alma Kılavuzu</u></a>\n \nTanımlar\n \nAşağıdaki kelimeler ve ifadeler açık bir şekilde aksi belirtilmediği sürece aşağıdaki şekilde yorumlanacak ve işbu SKLS'nin tüm maddeleri ve işbu SKLS'nin bir parçasını teşkil eden her doküman için geçerlidir: \n \n\"Hesap/Kullanıcı Hesabı\" Hesap Bilgilerini içeren ve Kullanıcı tarafından açılan ve Yönetim tarafından sağlanan bir kişisel hesap anlamına gelmektedir.\n \n\"Hesap Bilgileri\" Oyun içinde Kullanıcının tanımlanmasını sağlayan Kullanıcı Adı ve Şifre ve Takma adı ve diğer bilgiler anlamına gelmektedir.\n \n\"Yönetim\" Oyunun yönetilmesi ve sunulması amacıyla Şirket adına ve namına hareket eden kişiler anlamına gelmektedir. \n \n\"Sözleşme\" Kullanıcıya basit münhasır olmayan ve iptal edilebilir bir lisans ile Oyunu kullanma hakkı veren, ve işbu SKLS'nin ayrılmaz bir parçasını teşkil eden tüm dokümanlar ve Yönetim tarafından İnternet Sitesi veya Şirket partnerlerinin siteleri için belirlenen diğer kurallar ve talimatlar dahil işbu SKLS, işbu lisans sözleşmesi anlamına gelmektedir.\n \n\"Kristal\" Oyun ve/veya İnternet Sitesinde kullanılan ve Hizmetlerden faydalanmak amacıyla sunulan Oyun içi para birimi anlamına gelmektedir.\n \n\"Tanki Online / Şirket\" APL Publishing Ltd, registration no. C 85285, registered under the laws of Malta, 157, Archbishop Street Valletta, VLT1440, Malta. \n \n\"SKLS\" işbu Son Kullanıcı Lisans Sözleşmesi anlamına gelmektedir.\n \n\"Oyun\"  tüm bileşenler, oyun hizmetleri, sohbet odası, Tanki Online Wiki, Tanki Online Haberler, sosyal ağlardaki resmi toplulukları dahil \"Tanki Online. Sürüm 2\" adlı interaktif çok kullanıcılı çevrimiçi oyun ile birlikte /en/, /de/ adresiyle İnternet Sitesinin alt alan adlarında ve /battle-en, /battle-de ile başlayan adreslerde oyun sunucularında, oyun sunucularıyla http://tankionline.com.br alan adında veya Şirketin partnerleri tarafından Kullanıcıların kullanımına sunulan sitelerde erişime sunulan tüm materyaller, resimler, sesler, siteler, bilgisayar programları ve herhangi bir web kaynağı anlamına gelmektedir.\n \n\"Yetkili Kanunlar\" Malta Kanunları anlamına gelmektedir.\n \n\"Tanımlanan\" veya \"Tanımlanabilir Gerçek Kişi\" doğrudan veya dolaylı olarak başta kimlik numarasına veya kimliğinin bir veya birden fazla öğesine atıf yoluyla olmak üzere tanımlanabilen bir kişi anlamına gelmektedir.\n \n\"İnternet Sitesi\"  /en/, /de/ adresiyle İnternet Sitesinin alt alan adlarında ve /battle-en, /battle-de ile başlayan adreslerde oyun sunucularında, oyun sunucularıyla http://tankionline.com.br alan adında ve bunlara bağlı olan ve linkler veya diğer erişim yollarıyla erişilebilen diğer internet sitelerinde bulunan tüm Materyaller ve web kaynaklarıyla birlikte Şirket tarafından resmi ve yasal olarak kabul edilmiş böyle siteler üzerinden sunulan hizmetlerin tamamı anlamına gelmektedir. \n \n\"Lisans\" Şirketin Oyunun kişisel ve ticari olmayan kullanımı için Kullanıcıya verdiği basit münhasır olmayan ve iptal edilebilir bir lisans anlamına gelmektedir.\n \n\"Kullanıcı Adı ve Şifre\" Kullanıcı tarafından oyuna kaydolurken belirlenen kullanıcı adı ve şifre anlamına gelmektedir.\n \n\"Materyaller\" Kullanıcı veya Şirket/Yönetim tarafından Oyuna yerleştirilen metin, çizim, resim, ses, program, komut, ad, konu, öykü, diyalog, ifade, konsept, illüstrasyon, animasyon, müzik eserleri ve efektleri, dokümanlar, oyun sohbetleri şeklinde veya herhangi bir diğer şekilde ve bunlardan türetilen materyaller dahil farklı nesneler anlamına gelmektedir.  \n \n\"Reşit Olmayan/lar\" 18 yaşından küçük veya başka türlü ülkelerinin kanunları çerçevesinde belirtilen rüşt yaşına henüz ulaşmamış olan Oyuna kaydolmuş ve adına bir Hesap açılmış olan kişiler anlamına gelmektedir. \n \n\"Çevrimiçi Hizmetler\" birlikte Hesap, Oyun ve İnternet Sitesi anlamına gelmektedir.\n \n\"Ücretli Hizmet\" Şirket tarafından sağlanan ölçüde ve koşullarda basit münhasır olmayan ve iptal edilebilir lisans üzerinden herhangi bir Oyun içi ve/veya İnternet Sitesi ek hizmetler ve imkanlar için kullanılan herhangi bir Kristal satın alma işlemi anlamına gelmektedir. \n \n\"Taraflar\" birlikte Şirket ve Kullanıcı anlamına gelmektedir.\n \n\"Ödeme Aracısı\" Şirket tarafından Şirket menfaatine Kullanıcılardan çeşitli ödeme yöntemleri üzerinden ödemeleri almak ve işlemek üzere yetkilendirilen üçüncü taraflar anlamına gelmektedir. \n \n\"Ödeme\" Ücretli Hizmetlerden faydalanabilmek için Kullanıcı tarafından Ödeme Aracılarına ödenen ve miktarı ve şekli Kristal Satın Alma Kılavuzuyla belirlenen ve düzenlenen lisans ücreti anlamına gelmektedir.\n \n\"Kişisel Veriler\" ve/veya \"Kişisel Bilgiler\" Tanımlanan veya Tanımlanabilir Gerçek Kişiyle ilgili herhangi bir bilgi anlamına gelmektedir.\n \n\"Kullanıcı\" / \"Siz / Sizin\" Oyun kayıt prosedüründen önce ve kayıt prosedüründen sonra Şirketin partnerlerinin siteleri vasıtasıyla erişim dahil Internet Sitesine erişimde bulunan ve Oyunu ve/veya deneme sürümlerini oynayan ve/veya Çevrimiçi Hizmetleri, oyun hizmetlerini, Materyalleri, diğer hizmetleri kullanan kişi anlamına gelmektedir.\n \n\"Gizlilik ve Çerez Politikası\" Kullanıcıların gizliliğini ve çerezlerin saklanmasını kapsayan doküman anlamına gelmektedir.\n \n\"Sunucu\" sanal interaktif Kullanıcı etkileşimi için Şirketin donanım-yazılım desteği anlamına gelmektedir.\n \n\"Hizmet\" Kullanıcıya SKLS ile sağlanan şartlarda ve ölçüde basit münhasır olmayan ve iptal edilebilir bir lisans ile ücretsiz ve bir ücret karşılığında Oyunu kullanma hakkının verilmesi anlamına gelmektedir.\n \n\"Yazılım\" Kullanıcının İnternet Sitesi üzerinden ulaşılabileceği veya başka türlü kullanabileceği ve Kullanıcının oyuna katılmasını sağlayan indirilmesi gerekebilen tüm programlar ve veritabanlarıyla birlikte herhangi bir diğer türetilmiş içerik dahil Şirket tarafından lisanslanan yazılım anlamına gelmektedir.  \n \n\"Oyunun Kullanımı\" Ücretli veya ücretsiz olarak Kullanıcılar tarafından Oyunun başlatılması ve/veya Oyunun teknik olanaklarının kullanılması yanı sıra Oyunun çalıştırılması için gerekli olan Oyunun kurulması ve/veya herhangi bir diğer işlemi kapsayacak Oyunun kullanımıyla ilgili tüm onaylı ve olası türler anlamına gelmektedir.  \n \n\"Kullanıcı adı\" Hesap kaydı üzerine Kullanıcı tarafından seçilen takma ad anlamına gelmektedir.\n \nOyunda kullanılan diğer ifadeler, tanımlar ve kelime kombinasyonları, Yetkili Kanunlara uygun bir şekilde, İnternet teknolojileri, dijital oyun alanında geçerli uygulamaların bu ifadeler, tanımlar ve kelime kombinasyonlarına verdiği anlam ve yorumlara sahip olacaktır.\n \nGenel Koşullar\n \nİşbu SKLS'nin kabul edilmesi:\n \n1. Oyunu ve/veya Çevrimiçi Hizmetleri herhangi bir şekilde kullanarak ve/veya kayıt formundaki \"Kabul Ediyorum\" ifadesini tıklayarak, Kullanıcı aşağıda belirtildiği şekilde işbu SKLS'yi okuduğunu, anladığını ve kayıtsız şartsız kabul ettiğini teyit etmektedir ve Kullanıcı işbu Sözleşmeyle Yetkili Kanunlar ve geçerli herhangi bir diğer kanuna göre Oyunu kullanma yetkisine sahip bir Kişi olduğunu taahhüt etmektedir. \n2. Kullanıcının işbu SKLS'yi kabul etmemesi halinde, Oyunu ve İnternet Sitesini kullanma hakkına sahip değildir ve İnternet Sitesinden derhal ayrılmalı ve Oyunu kullanmaktan imtina etmelidir.\n3. İşbu Sözleşmeyi kabul ederek, Kullanıcı gerçek kişi olduğunu ve Sözleşmeyi akdetmek ve Oyunu kullanmak için tüm yetkilere sahip olduğunu, Oyunu ve oyun hizmetlerinin kullanımına ilişkin kendisini ilgilendiren herhangi bir yasal kısıtlamanın bulunmadığını ve kanunların gerekli kıldığı şekilde tüm gerekli izinleri aldığını onaylar ve taahhüt eder.\n4. Oyunu ve/veya Çevrimiçi Hizmetleri herhangi bir şekilde kullanarak ve/veya kayıt formundaki \"Kabul Ediyorum\" ifadesini tıklayarak, Kullanıcı Şirket/Yönetim ve/veya Şirketin ortakları tarafından telekomünikasyon ağları, telefon, faks, cep telefonu, radyo iletişimi ve diğer araçlar dahil bunlarla sınırlı olmaksızın herhangi bir araç üzerinden dağıtılan elektronik mesajlar (e-postalar), kısa mesajlaşma servisleri (haberler ve/veya Oyundaki güncellemeler, Şirket veya Şirket partnerlerinin reklam ve tanıtım materyalleri hakkında mesajlar) (bundan sonra \"Elektronik Posta\" olarak anılacaktır) almayı istediğini ve kabul ettiğini onaylamaktadır.    Kullanıcının e-posta adresi ve/veya telefon numarasını sağlaması, Kullanıcının herhangi bir araçla elektronik posta almaya ve Kullanıcının Kişisel Verilerini Şirketin partnerlerine aktarmaya yönelik rızasını verdiğinin ek bir onayıdır.\nKullanıcının elektronik posta almaya rızasını verdiği andan itibaren, Yönetim/Şirket ve/veya Şirket partnerleri, Kullanıcıya herhangi bir niteliğe sahip mesajları gönderme hakkına sahiptir (e-postalar ve kısa mesajlaşma servisleri dahil bunlarla sınırlı olmaksızın). \n5. Kullanıcının Şirketin partnerlerinden elektronik posta almayı istememesi halinde, elektronik mesajın alt kısmında belirtilen linki takip etmek suretiyle herhangi bir elektronik posta almayı reddedebilir. Kullanıcının Şirket/Yönetimden elektronik posta almayı istememesi halinde, Kullanıcı Oyundaki ilgili kişisel ayarları değiştirmek ve bu şekilde haberleri almayı reddetmek suretiyle herhangi bir zamanda elektronik postaları almayı reddedebilir.\n6. Oyun, İnternet Sitesi, Materyaller ve Oyunda yer alan herhangi bir diğer bilgi, yalnızca işbu SKLS'ye göre kullanılacaktır ve işbu SKLS ile birlikte işbu SKLS'nin ayrılmaz bir parçasını teşkil ede dokümanlar Oyunun kullanılmasına ilişkin Kullanıcı ile Şirket arasındaki tüm Sözleşmeyi tesis etmektedir.\n7. İşbu SKLS ile birlikte işbu SKLS'nin ayrılmaz bir parçasını oluşturan dokümanlar, Oyun ve/veya Çevrimiçi Hizmetlerin kullanılmaya başlandığı ve/veya Kayıt formundaki \"Kabul Ediyorum\" ifadesi tıklandığı andan itibaren derhal yürürlüğe girecektir. İşbu SKLS ve işbu SKLS'nin ayrılmaz bir parçasını oluşturan dokümanlar, Oyunun, İnternet Sitesinin, Yazılımın ve/veya Şirket hizmetlerinin kullanımıyla ilgili herhangi bir sorun/ihtilaf durumunda resmi başvuru kaynağı olacaktır.\n8. Şirket, Oyunun hatasız veya kesintisiz çalışabileceğini garanti etmemektedir ne de Oyunun Kullanıcının beklentilerini karşılayacağını garanti etmemektedir ve ne de işbu SKLS'te belirtilmeyen (belirlenmeyen) herhangi bir sair garantiyi vermemektedir. Kullanıcı, Oyunun kullanımını imkansız kılan herhangi bir doğrudan veya dolaylı zararlardan sorumlu tutulmayacağını kabul etmektedir.\n \nİşbu SKLS'deki Değişiklikler\n \n1. Şirket, uygun gördüğü herhangi bir zamanda ve İnternet Sitesindeki bu SKLS'yi güncelleyerek veya kendi takdirinde başka türlü tercih edeceği sair bildirim yoluyla bildirmek suretiyle işbu SKLS ile birlikte işbu SKLS'nin ayrılmaz bir parçasını oluşturan dokümanları askıya alma, ekleme, sonlandırma, değiştirme ve tadil etme hakkını saklı tutmaktadır. Herhangi bir değişiklik, ilgili değişikliklerin yapılmasına müteakip on (10) gün içinde yürürlüğe girecektir. Oyun ve/veya İnternet Sitesiyle birlikte herhangi bir diğer Çevrimiçi Hizmetin kullanılmaya devam edilmesi, işbu SKLS ve/veya işbu SKLS'nin ayrılmaz bir parçasını oluşturan dokümanların değiştirilmiş halinin kayıtsız şartsız kabulü anlamına gelecektir.\n2. İşbu SKLS ve/veya işbu SKLS'nin ayrılmaz bir parçasını oluşturan dokümanlarda yapılan herhangi bir değişiklik veya ekleme geçmişe dönük olarak uygulanabilir ve Taraflar arasındaki önceki ilişkiyi kapsayabilir.\n3. Şirket, işbu SKLS'nin değiştirilmiş hali hakkında bilgi sahibi olması amacıyla Kullanıcının işbu SKLS'yi çeşitli zamanlarda incelemesini şiddetle tavsiye eder. Kullanıcının işbu SKLS'nin herhangi bir kısmın kabul etmemesi halinde, Oyunu ve/veya İnternet Sitesini kullanmaya derhal son vermelidir ve Şirketin Kullanıcının Oyun ve/veya İnternet Sitesi ve herhangi bir Çevrimiçi Hizmeti kullanmasının imkansız kılınmasını da kapsayabilecek gerekli tedbirleri alabilmesi için Kullanıcı ilgili uyuşmazlığını Şirkete bildirmekle yükümlüdür.\n4. Şirket, Kullanıcının Oyunu ve/veya İnternet Sitesini işbu SKLS'nin güncellenmiş haline göre kullanıp kullanmadığını doğrulamakla yükümlü değildir. İnternet Sitesinde yayınlanan sürümü Kullanıcının bir referans olarak kullanması gerektiği geçerli sürümdür.  İşbu SKLS yanı sıra Kullanıcıyı etkileyen ve/veya etkileyebilecek değişiklikler hakkında bilgi sahibi olması Kullanıcının kendi sorumluluğundadır. \n \nLisansın Verilmesi\n \n1. İşbu Sözleşmenin koşullarına tabi olarak Şirket Kullanıcının kişisel ve ticari olmayan kullanımı için Oyunun kullanılmasına ilişkin sınırlı, basit, münhasır olmayan ve iptal edilebilir bir lisansı Kullanıcıya vermektedir.\n2. Şirket, Oyunu bağımsız olarak kullanma ve diğer kişilere kullanım lisansı verme hakkına sahiptir.\n3. Kullanıcı, Oyunun sadece ve sadece Kullanıcıya lisanslandığını ve Kullanıcının bu lisansı herhangi bir üçüncü tarafa devir ve/veya temlik etmeyeceğini kabul etmektedir.\n4. İşbu Lisansın süresi Kullanıcının Oyunu kullanmaya başladığı anda başlar ve Kullanıcının Oyunu kullanmayı sonlandırdığı veya başka türlü işbu SKLS Şirket tarafından feshedildiği anda sona erer. İşbu şartladır ki işbu Lisans Kullanıcının işbu SKLS veya SKLS'nin bir parçasını teşkil eden herhangi bir dokümanı ihlal etmesi halinde derhal feshedilecektir.\n5. Lisans, Şirketin Oyuna ilişkin münhasır hakkının geçerlilik süresi kadar geçerli olacaktır.\n6. Lisans tüm ülkelerde geçerli olacaktır.\n7. Oyuna ilişkin münhasır hakkın yeni bir sahibe devredilmesi işbu SKLS'nin değiştirilmesi veya iptalini gerekli kılan bir sebep değildir.\n \nFikri Mülkiyet Hakları\n \n1. Şirket (veya icabında bağlı şirketleri) Oyun, Materyaller ile birlikte ilgili telif hakları, patent hakları, know-how, ticari marka ve diğer müseccel ve fikri mülkiyet hakları kapsamında Oyunda mevcut veya ilişkili olan tüm sair mülklerin ve Oyun ve Çevrimiçi Hizmetlerde genel olarak bulunan herhangi bir diğer materyalin tek ve münhasır sahibidir.  \n2. Kullanıcı, Materyalleri Yönetime gönderme, Oyuna, Siteye ve diğer oyun hizmetlerine Materyalleri yerleştirme hakkına ancak Kullanıcının böyle Materyallerde gerekli tüm haklara sahip olması ve yerleştirilen herhangi bir Materyalle ilgili olarak tek başına sorumlu olması ve Kullanıcının böyle Materyallerle ilgili olarak doğabilecek herhangi bir zarardan tek başına sorumlu tutulacağını kabul etmesi şartıyla sahiptir. Kullanıcı, böyle Materyallerle ilgili tüm gerekli haklara sahip olduğunu ve böyle Materyallerin yerleştirilmesi ve kullanılmasından tamamen sorumlu olduğunu onaylamaktadır.\n3. Kullanıcılar veya üçüncü taraflarca Oyuna Materyal, site linklerinin yerleştirilmesi, Şirketin böyle bir yerleştirmeyi onayladığı veya tavsiye ettiği anlamına gelmemektedir. Şirket, bu Materyaller ve sitelerin içeriğiyle ilgili ne de bu Materyaller veya sitelerin kullanımından kaynaklanan herhangi bir doğrudan veya dolaylı zararlardan herhangi bir sorumluluk üstlenmemektedir.\n4. Kullanıcı, Oyuna yerleştirdiği veya Yönetime gönderdiği (bir yarışmaya katılmak amacıyla olanlar dahil) Materyallerin Şirket tarafından uygun gördüğü şekilde kullanılabileceğini ve bu Materyallerin Kullanıcı tarafından Oyuna yerleştirildiği (yayınlandığı) veya gönderildiği andan itibaren Şirketin dünyanın herhangi bir ülkesinde herhangi bir yolla bu Materyalleri kullanmak için tüm fikri mülkiyet haklarını alacağını ve Kullanıcının adını belirtmeden ve herhangi bir rödevans veya sair ücretler ödemeden materyalleri yerleştirme, değiştirme, uyarlama, üçüncü taraflara aktarma, türev Materyaller oluşturma, Materyalleri yeniden geliştirme, dağıtma, silme, çoğaltma, halka gösterme, kamuoyuna sunma ve değişiklikler, çıkarmalar, eklemeler, yorumlar, açıklamalar yapma, Materyalleri yayınlama, kullanma ve sair haklara sahip olacağını kabul etmektedir.\nKullanıcı Oyuna veya Siteye yerleştirdiği Materyallere ilişkin münhasır hakların Şirkete devri için yasal dayanakları sağlamayı taahhüt etmektedir.\n5. Şirketin ön yazılı onayı olmaksızın, Şirketin açık bir şekilde Materyallerin diğer kişiler tarafından kullanılmasına onay verdiği haller hariç olmak üzere, Oyuna, Siteye veya diğer oyun hizmetlerine yerleştirilen fikri mülkiyet konusu eserlerin kısmen veya tamamen kullanılması yasaktır. \n6. Kullanıcı, Şirket tarafından belirlenen haller hariç olmak üzere, Oyun veya Oyun Materyallerine dayanarak herhangi bir eser yaratmayacağını kabul etmektedir. Kullanıcının Şirketin yazılı izni olmadan Oyun veya Materyallere dayanarak eserler yaratması halinde, türev eserlerde eser sahipliği haklarına ve telif haklarına sahip olamaz ve bunları kullanamaz. \n7. Kullanıcı, Oyun oynarken geçirdiği saatlerin sayısında bir menfaate sahip olmadığını ve Oyun oynarken geliştirilen tüm faaliyetler Şirketin tek ve münhasır mülkü olacağını kabul etmektedir.\n8. Yönetim, Kullanıcının İnternet Sitesi ve/veya Oyundaki faaliyetlerine ilişkin herhangi bir bilgiyi herhangi bir listede Kullanıcıya herhangi bir bildirim veya her nam altında olursa olsun ücret ödemeden gösterme ve yayınlama hakkına sahiptir.\n9. Şirket, Oyunda yer alan tüm Materyallerde tüm müseccel ve fikri mülkiyet haklarına sahiptir ve Kullanıcı Oyunda kullanılan sanal ürünler veya para birimi dahil bunlarla sınırlı olmaksızın Oyundaki Materyallerde veya Oyundaki diğer içeriklerde herhangi bir hakka sahip olmadığını kabul etmektedir.  Şirket, Yazılı olarak Şirket tarafından açık bir şekilde izin verilenler hariç olmak üzere sanal ürünlerin Oyun dışına kasıtlı bir şekilde aktarılmasına ve Oyunda kullanılan herhangi bir Materyal ve nesnenin Oyun dışında kasıtlı satışı, hibe edilmesi veya takas edilmesine izin vermemektedir. Yönetim, Şirketin korunmuş menfaatlerine zarar verebileceği haller hariç olmak üzere, diğer Kullanıcıların Materyallerini sadece ticari olmayan kullanım amacıyla görüntüleme, çoğaltma (kopyalama dahil), işleme (kopyaların yazıcı çıktılarının alınması) yoluyla kullanma hakları ve diğer hakları münhasır olmayan ve devredilmez bir esasta Kullanıcıya sağlamaktadır. \n  \nKullanıcının hakları ve yükümlülükleri\n \nKullanıcı aşağıdaki hususları kabul etmektedir:\n \n1. Kullanıcı, işbu SKLS'nin koşullarına, Oyun Kuralları, işbu SKLS'nin diğer eklerinin kuralları, işbu SKLS'nin ayrılmaz bir parçasını teşkil eden herhangi bir diğer dokümanı ve geçerli kanunların hükümlerine uymakla yükümlüdür.\n2. Kullanıcı, Şirketin ön yazılı onayını almadan Oyunu uyarlayamaz, türev eserler üretemez, gösteremez, dağıtamaz, kiralayamaz, ödünç veremez, değiştiremez, alt lisans veremez, kiralık alamaz, tercüme edemez ve/veya devredemez.\n3. Kullanıcı, Şirketin yazılı onayını almadan, Oyunu geri derleyemez, parçalarına ayıramaz, bunları kullanarak türev eserler hazırlayamaz, kaynak koda ulaşamaz, ters mühendisliğe tabi tutamaz ve/veya ters mühendislik girişiminde bulunamaz, Oyunun nesne kodu veya kaynak konuyla diğer işlemleri yapamaz, herhangi bir koruma sistemini ihlal edemez, Oyunu yasadışı bir şekilde kullanamaz ve Oyunda kullanılan algoritmaların gerçekleştirilmesine ilişkin bilgi edinemez, Oyunu kullanarak türev yazılım ürünleri geliştiremez.\n4. Kullanıcı, şifrelenmiş olsun olmasın, Oyuna iletilen veya Oyundan iletilen herhangi bir paket akışından kodları elde etmeyecek veya böyle bir girişimde bulunmayacaktır.\n5. Kullanıcı Hesap verilerini herhangi bir üçüncü tarafa ifşa etmeyecektir ve/veya aktarmayacaktır.\n6. Kullanıcı, yeterli bir internet bağlantısına sahip olacak ve bu internet bağlantısının maliyeti kendisine ait olacaktır.\n7. Kullanıcı, Sözleşmenin ve işbu Sözleşmenin ayrılmaz bir parçasını teşkil eden diğer dokümanların şartlarını düzenli olarak kontrol etmek ve incelemekle yükümlüdür. \n8. Kullanıcı, işbu SKLS ve/veya işbu SKLS'nin bir parçasını teşkili herhangi bir diğer dokümanı ihlal etmesi halinde Oyunu kullanmaya son verecektir.\n9. Kullanıcı, Oyuncu herhangi bir kişisel ve ticari olmayan amaçlar için kullanma, \nOyunun hizmetleri ve imkanlarını kullanma, Oyun tarafından sağlanan tüm işlemleri gerçekleştirme, mesaj göndererek İnternet Sitesindeki iletişime katılma, Oyunla ilgili şikayetler ve geliştirme önerilerini Şirkete gönderme, Oyun tarafından sağlanan ve/veya Şirket tarafından onaylanan herhangi bir diğer işlemi gerçekleştirme hakkına sahiptir.\n10. Kullanıcı, Oyunda kazanılan Kristaller (oyun içi para birimi) vasıtasıyla Oyunda geliştirmeler ve sanal ürünler için sınırlı, münhasır olmayan ve iptal edilebilir bir lisans edinebilir. \n \nŞirketin Hakları ve Yükümlülükleri\n \n1. Şirket, işbu SKLS ve/veya işbu SKLS'nin bir parçasını teşkil eden dokümanların şartlarını ihlal eden Kullanıcılara karşı, Oyuna erişimin kısıtlanması ve yasaklanması dahil herhangi bir gerekli işlemi yapma hakkına sahiptir. Böyle işlemler, Şirketin yegane takdirinde yapılacaktır.\n2. Şirket, herhangi bir ön uyarı veya bildirimde bulunmaksınız Oyun ve/veya Çevrimiçi Hizmetlerin bir parçasını oluşturan herhangi bir bilgiyi, içeriği ve Materyalleri kaldırma ve/veya değiştirme hakkına sahiptir.\n3. Şirket, Kullanıcıya önceden veya sonradan bildirimde bulunmaksızın Şirket için uygun olan herhangi bir zamanda Oyun ve/veya oyun hizmetleri durdurma ve/veya işlevselliğini kısıtlama hakkına sahiptir.\n4. Şirket, herhangi bir zamanda ve herhangi bir ölçüde ve hacimde Hizmetlerin kalitesi ve miktarında tek taraflı değişiklik yapma hakkına sahiptir ve Hizmetlerin sağlanmasını durdurmak için herhangi bir yeterli dayanağın mevcut olması halinde, Şirket Kullanıcıya önceden ve/veya sonradan bildirimde bulunmaksızın böyle bir Hizmeti durdurma hakkına sahiptir.\n5. Şirket, işbu Sözleşmeyi tek taraflı olarak feshetme ve kendi takdirinde ve Kullanıcıya önceden haber vermeksizin ve herhangi bir ödemeyi iade etmeksizin Kullanıcıya Oyunu sunmaktan vazgeçme hakkına sahiptir.\n6. Şirket, Oyunu, oyun hizmetlerini veya Oyun hakkında bilgileri kullanma veya kullanamamanın bir sonucu olarak ve Oyunun diğer Kullanıcıları dahil üçüncü tarafların işlemleriyle ilgili olarak oluşan herhangi bir doğrudan veya dolaylı zarardan sorumlu değildir.\n7. Şirket, Kullanıcının işbu Sözleşmeyi kabul etmesine tabi olarak Kullanıcıya Oyuna erişimi sağlamaktadır. \n \nVerilerin Toplanılması ve Kullanılması \n \n1. Şirket, Kullanıcıya ilişkin Kişisel Verileri toplama, IP adreslerine ilişkin bilgileri takip etme ve saklama ve Kullanıcının Cihazında bulunan teknik bilgi dosyalarını (çerezler) kullanma hakkına sahiptir. Kullanıcıların Kişisel Verilerinin toplanması, kullanılması, işlenmesi, saklanması, açıklanması (aktarılması) ve silinmesine ilişkin koşullar, prosedürler ve amaçlar ve Kullanıcının cihazında çerezlerin yerleştirilmesi, kullanılması, saklanması ve silinmesine ilişkin dayanaklar, amaçlar ve prosedürler işbu SKLS'nin ayrılmaz bir parçasını teşkil eden Gizlilik ve Çerez politikasıyla düzenlenmektedir.\n2. İşbu SKLS'yi kabul ederek Kullanıcı Gizlilik ve Çerez Politikasını ve tüm koşullarını kayıtsız şartsız kabul etmektedir. Şirket tarafından Kullanıcının Kişisel Verilerinin herhangi bir şekilde toplanması, saklanması, aktarılması ve kullanılması,  işbu SKLS'nin ayrılmaz bir parçasını teşkil eden Gizlilik ve Çerez politikasına uyuma tabidir.\n \nGarantiler\n \n1. Oyun ve bununla ilişkili olarak sağlanan tüm diğer Materyaller herhangi bir hata dahil 'olduğu gibi' esasında ve herhangi bir garanti verilmeden sağlanmaktadır. Kullanıcı, Oyuna erişim ve/veya Oyunun oynanması yanı sıra Çevrimiçi Hizmetlerin kullanılmasıyla ilişkili tüm riskleri üstlenmektedir.\n2. Şirket tarafından Oyun ve Çevrimiçi Hizmetlerin her zaman erişilebilir kılmak için tüm çabalar gösterilirken, Şirket Oyun ve Çevrimiçi Hizmetlerin her zaman erişilebilir olacağını ve Kullanıcının herhangi bir hatayla karşılaşmayacağını garanti etmemektedir.\n \nİnternet Sitesinin Suistimali\n \n1. İnternet Sitesi yalnızca yasalara uygun amaçlarla kullanılabilir. İnternet Sitesinin herhangi bir geçerli kanun veya yönetmeliği veya herhangi bir üçüncü taraf haklarını ihlal eden bir şekilde İnternet Sitesinde veya üzerinden aktarılması, dağıtılması, yayınlanması veya saklanması için kullanılması kesinlikle yasaktır. Bu, İnternet Sitesinin, telif hakları, ticari sır veya sair fikri mülkiyet haklarını ihlal eden, müstehcen olan veya Reşit Olmayanlara zararlı olan veya yasadışı bir edim veya tacizi tesis eden, hareket eden veya küçük düşüren, herhangi bir gizlilik ve veri koruma kanununu ihlal eden, dolandırıcı veya yolsuz olan veya herhangi bir kambiyo denetim veya kumar kanununu ihlal eden bir konuda veya amaçla İnternet Sitesinde veya üzerinden herhangi bir materyalin aktarılması, dağıtılması, yayınlanması, iletilmesi veya depolanması amacıyla kullanılmasını (bunlarla sınırlı olmaksızın) kapsamaktadır.\n2. İnternet Sitesinin istismar edilmesi halinde, Yönetim Kullanıcının Hesabını engelleme, Kullanıcının gelecekte Oyun ve İnternet Sitesini kullanmasını ve/veya erişimini engelleme ve/veya Şirketin uygun göreceği herhangi bir diğer yasal işlemi başlatma hakkına sahiptir.\n \nSohbet Kuralları\n \n1. Tanki Online tarafından sunulan forum, sohbet odası ve/veya topluluk hizmetleri eğlenceli ve zevkli bir deneyim sunmayı amaçlamaktadır. Bu nedenle herhangi bir küfürlü/kaba ve müstehcen bir dile müsamaha gösterilmemektedir ve saldırgan ve/veya müstehcen bir dil kullanma konusunda ısrar eden Kullanıcıların sohbet ayrıcalıkları geri alınacak ve herhangi bir Hesabı iptal edilecektir.\n2. Kullanıcı, İnternet Sitesinde herhangi bir kişisel veriyi gönderirken veya yüklerken, böyle bir içeriğin halka açık geleceği ve diğer Kullanıcılar tarafından erişilebileceğini bilmektedir. Tanki Online, herhangi bir şekilde böyle bir içeriği onaylamamaktadır ve böyle bilgilerin halka ilan edilmesinden doğan herhangi bir zarardan sorumlu değildir. Kullanıcılar, İnternet Sitesinde yayınladıkları bilgilerin ayrıca çevrimdışı yaşamlarını etkileyebileceğini bilmelidir.\n3. Şirket sunucularında saklanan içeriğin kalıcı veya geçici arşiv oluşturma amacını taşımamaktadır. Bu nedenle, Tanki Online, İnternet Sitesinde yayınlanan herhangi bir materyalin yedek kopyalarını tutmakla yükümlü değildir ancak böyle kopyaları tutabilir  Şirket, her bir Kullanıcı için maksimum depolama kapasitesinde bir limit uygulama hakkını saklı tutar.\n4. Şirket, kendi takdirinde saldırgan davranış teşkil ettiğini veya herhangi bir kanun ve/veya yönetmelik ve/veya Oyun Kurallarını ihlal ettiğini varsaydığı içeriği silme, taşıma veya düzenleme hakkını saklı tutar.  Kullanıcı, İnternet Sitesinde yayınlanan içerikten tek başına sorumludur ve sorumlu kalacaktır. Yönetimin belirli bir materyali kaldırmaması hiçbir şekilde bunun Şirket tarafından onaylandığı veya kabul edildiği şekilde yorumlanmayacaktır.\n \nKullanıcı Hesapları\n \nBir Kullanıcı Hesabının Açılması\n \n1. Bir Kullanıcı Hesabı, Kullanıcı tarafından şahsen açılarak kaydedilmelidir ve Yönetim İnternet Sitesinde bir Kullanıcı Hesabının açılmasını herhangi bir nedenle ve herhangi bir ön açıklama yapmadan reddetme hakkını saklı tutar. \n2. Oyundaki kayıtlarının, özellikle de e-posta adresinin, güncel tutulması Kullanıcının sorumluluğundadır. Kullanıcının kişisel verilerindeki herhangi bir değişikliğin derhal Yönetime bildirilmesi Kullanıcının sorumluluğundadır.\n3.Tanki Online diğer Kullanıcılarla ve/veya üçüncü taraflarla Hesap alışverişi, alımı, satımı, devrini, aktarılmasını kati surette yasaklamaktadır. Kullanıcının fonları/Kristalleri farklı Kullanıcı Hesap(ları) arasında aktarması yasaktır.\n4.Yönetim, kendisine sağlanan bilgilerin yalan, yanlış, hatalı, aldatıcı veya eksik olduğunu tespit etmesi halinde Kullanıcı Hesabını kaydetmeme ve/veya yapılan bir kaydı iptal etme hakkını saklı tutar.\n \nKullanıcı Adı\n \n1. Bir Hesabın açılarak kaydedilmesi üzerine, Kullanıcıya bir Kullanıcı Adı seçme hakkı verilecektir. Yönetim, herhangi bir Kullanıcı adını gerekli gördüğü herhangi bir sebeple, böyle adların verilmesi veya doğrulanması öncesinde, sırasında ve sonrasında reddetme ve/veya geriye çekme hakkını saklı tutar.\n2. Seçilen Kullanıcının adından ayrı olarak, Kullanıcı Hesabının işbu SKLS'ye göre uygunsuz olması halinde Yönetim Kullanıcıya başka bir takma adı ve/veya yeni ekran ve/veya Kullanıcı Adı oluşturma fırsatı verecektir.\n \nŞifre Güvenliği\n \n1. Şirket, herhangi bir üçüncü kişi tarafından Hesaba erişilmesinden dolayı hiçbir şekilde sorumlu değildir ve Kullanıcının Kullanıcı Adı ve Şifresinin bir üçüncü kişi tarafından izinsiz kullanımı, izinsiz erişim ve/veya bir Kullanıcının Kullanıcı Adı ve Şifresinin doğru bir şekilde kaydedildiği herhangi bir işlemden kaynaklanan herhangi bir zarardan sorumlu tutulamaz.\n2. Şirket, Şirketin herhangi bir hatasından kaynaklanan kayıplar hariç olmak üzere bir Kullanıcının bir şifreyi unutması, yanlış kişiye ifşa etmesi veya kaybetmesinden dolayı herhangi bir şekilde sorumlu değildir ve Şirket, Kullanıcıyla ilişkisi sırasında herhangi bir zamanda herhangi bir Kullanıcı Adı ve Şifreyi saklamaktan sorumlu değildir.\n \nHesapların Engellenmesi\n \n1. Kullanıcı, help@tankionline.com adresine e-posta göndermek suretiyle Yönetimden Kullanıcının Hesabının engellenmesini talep edebilir.\n2. Arka arkaya Altı (6) ay boyunca Oyuna girilmemesi Yönetime Kullanıcıya göndereceği (göndermeye çalışacağı) bildirim ile derhal Kullanıcı Hesabını engelleme ve işbu Sözleşmeyi feshetme hakkı verir.  \n3. Yönetim, kendi takdirinde herhangi bir zamanda ve ayrıca Kullanıcının işbu SKLS, Oyun Kuralları, işbu SKLS'nin ayrılmaz bir parçasını teşkil eden diğer dokümanlarının şartlarını ihlal etmesi halinde Kullanıcı Hesabını engelleme hakkına sahiptir.\n \nDolandırıcılık ve Hesapların Suistimali\n \n1. Şirket, uygunsuz oyun ve dolandırıcılığa karşı sıfır tolerans politikasına sahiptir ve tüm Kullanıcıların danışıklı oyun oynamasını yasaklamaktadır. Yönetimin takdirine göre Kullanıcının hile yaptığı veya Yönetimi veya Oyunun herhangi bir diğer Kullanıcısını, oyun manipülasyonu veya ödeme dolandırıcılığı dahil bunlarla sınırlı olmaksızın herhangi bir yolla dolandırmaya çalıştığını tespit etmesi halinde veya Yönetimin, çalıntı kredi kartları veya herhangi bir diğer dolandırıcılık (ters ibraz, veya ödemenin sair tersine çevrilmesi dahil) yöntemi veya yasak bir işlem (kara para aklama dahil) dahil Kullanıcının dolandırıcılık yaptığından şüphelenmesi halinde, Yönetim Kullanıcının Hesabını engelleme ve bu bilgileri (Kullanıcının kimlik bilgileri dahil) Yönetimin gerekli ve uygun görmesi halinde herhangi bir diğer üçüncü taraf ve/veya emniyet müdürlükleriyle paylaşma hakkını saklı tutar.  \n2. İnternet Sitesi ve/veya Oyun ve/veya Yazılımın kötü amaçlarla kullanılması ve/veya suistimali durumunda, Yönetim söz konusu Kullanıcının Hesabını Yönetim ile bu Kullanıcı arasındaki husus çözümleninceye kadar engelleme ve Şirketin uygun görebileceği herhangi bir diğer yasal yolar başvurma hakkını saklı tutar. \n \nÜcretli Hizmet\n \n1. Kullanıcılar Kristal satın almak suretiyle Oyunda Ücretli Hizmetlerden faydalanabilir. Kristalleri satın alması yalnızca yetkili üçüncü taraflardan yapılabilir.\n2. Tanki Online, sanal ürün/Kristallerin Oyun dışına herhangi bir transferine izin vermektedir. Oyun içinde kullanılan herhangi bir Materyal, Kristal ve/veya nesnenin Oyun dışına satışı, hibe edilmesi veya takası yasaktır. \n3. Ücretli Hizmetler, Kristallerin Kullanıcı Hesabına aktarıldığı anda sağlanmış sayılacaktır. Kullanıcı, Kristallerin Kullanıcı Hesabına aktarıldığı andan itibaren Ücretli Hizmetten vazgeçme hakkını kaybettiğini bilmektedir.\n \nKristallerin Satın Alınması\n \nFiyatlama\n \n1. Herhangi bir Ücretli Hizmetlerin listesi ve fiyatlandırılması Şirketin yegane takdirinde olup herhangi bir zamanda değiştirilebilir.\n2. Tanki Online, Kullanıcıların ödemelerinin oluşabilecek herhangi bir gecikme veya alınmaması dahil alınması ve/veya işlenmesinden yükümlü değildir.  Kullanıcı tarafından yapılan tüm ödemeler, gönüllü, kesin olup iade edilemez.\n \nÖdeme Yöntemleri\n \n1. Kristaller yalnızca Ödeme Aracılarından aşağıdaki yöntemlerden birisi ve/veya İnternet Sitesinin sağladığı herhangi bir diğer yöntem kullanılarak satın alınabilir. \na. Kredi Kartları;\nb. Banka Mevduat Kartları;\nc. PayPal;\nd. SMS;\ne. Mobil ödemeler ve\nf. Diğerleri\n2. Kullanıcı, Hesapta kullanılan paraların herhangi bir yasadışı kaynaktan gelmediğini onaylar. Kullanıcı, hiçbir şekilde İnternet Sitesi veya Yazılımı yasadışı kaynaklardan bu paraların transfer edilmesi amacıyla kullanmayacağını beyan etmektedir.  Kullanıcı üzerinde yetkiye sahip tüm kanunlara uygun bir şekilde İnternet Sitesi ve/veya Oyunu herhangi bir yasadışı veya dolandırıcılık amacıyla veya herhangi bir yasadışı veya dolandırıcılık işlemi (kara para aklama dahil) için kullanmayacaktır.   Yönetim, Kullanıcı tarafından kullanılan paraların kaynağının yasallığı konusunda en ufak bir şüpheye sahip olması halinde bile herhangi bir zamanda ve konu çözümleninceye kadar Kullanıcının Hesap veya Hesaplarını askıya alma veya engelleme hakkını saklı tutar.\n \nÖdeme Para Birimi\n \nHesapla ilgili olarak yapılacak tüm ödeme işlemleri muhtelif zamanlarda Ödeme Aracıları tarafından belirtilen para birimlerinde ödenmelidir ve Hesaba yatırılacak tüm ödemeler Kullanıcının kendi adına bir Hesaba sahip olduğu ödeme kaynağından yapılmalıdır.\n \nReşit Olmayanların Güvenliği\n \n1. Şirket, Reşit Olmayanlar Güvenliğinin sağlanması için her türlü önlemin alındığını ve alınacağını taahhüt etmektedir. Şirket, Reşit Olmayanların ebeveynleri ve/veya yasal temsilcilerine İnternette iken çocuklarıyla daha fazla zaman geçirmelerini ve Oyun, İnternet Sitesi, Hesap, herhangi bir iletişim aracının kullanımını ve/veya mevcut hizmetler için herhangi bir ödemeyi kontrol altında tutmalarını tavsiye etmektedir.  \n2. Kullanıcının Reşit Olmayan bir kişi olması halinde, yalnızca ebeveyn veya yasal vasisinin ön muvafakati ile Şirkette bir Hesap açabilir ve kaydedebilir. Bir Reşit Olmayanın İnternet Sitesinde herhangi bir ödeme yönetimini kullanması böyle muvafakatin verildiğini varsaymaktadır.\n3. Kullanıcının Reşit Olmayan bir kişi olması halinde, ebeveynleri veya yasal vasilerinin Şirkette Kullanıcı Hesabı açarken veya kaydederken kayıt sürecini kendisi adına tamamlaması gerekecektir. Böyle durumlarda, Kullanıcının ebeveynleri veya yasal vasilerinin işbu SKLS'den doğan tüm yükümlülükler ile birlikte Kullanıcı Adı ve/veya Hesap kullanılarak gerçekleştirilecek herhangi bir ödeme ve herhangi bir dolaylı kullanım dahil olmak üzere Oyun, İnternet Sitesi ve/veya Hesabın kullanımıyla ilgili olan Reşit Olmayanların herhangi bir diğer faaliyetinden dolayı tam sorumluluğu kabul etmektedir.\n4. Şirket, Şirketin Reşit Olmayan Kişinin Oyunu oynayabilmesi veya İnternet Sitesinde ödeme yapabilmesi için gerekli gördüğü herhangi bir dokümantasyonu veya herhangi bir diğer yazılı onayı Reşit Olmayanın ebeveynleri veya yasal vasilerinden talep etme hakkını saklı tutar. \n5. Reşit Olmayan ve yasal vasileri ve/veya ebeveynleri, Oyunun kullanılması ve/veya Reşit Olmayanın adına bir Hesabın açılması ve kaydedilmesi için gerekli muvafakatin Reşit Olmayanın yasal vasisi ve/veya ebeveynleri tarafından verildiğini taahhüt etmektedir. \n6. Yasal vasi ve/veya ebeveynler, işbu SKLS ve işbu SKLS'nin ayrılmaz bir parçasını teşkil eden dokümanlara onaylarını vermektedir ve Reşit Olmayan tarafından Oyun ve oyun hizmetleri, İnternet Sitesi ve Hesabın kullanımı yanı sıra Hesap üzerinden yapılan herhangi bir ödemeyi kontrol edeceklerini ve bununla ilgili tam yükümlülüğü üstlendiklerini onaylamaktadırlar. Herhangi bir Ödeme Yönteminin kullanılması yasal vasi ve/veya ebeveynlerin böyle bir muvafakati verdiğini onaylamaktadır. Yasal vasi ve/veya ebeveynler ve Kullanıcılar, Şirketin böyle bir izne sahip olmayan herhangi bir Reşit Olmayan tarafından Oyun, İnternet Sitesi ve Hesabın kullanılmasından dolayı herhangi bir sorumluluğa sahip olmadığını peşinen kabul etmektedir. \n7. Oyun hizmetleri, tavsiye niteliği taşıyan yaş kısıtlamaları içerebilir. Yasal vasi ve/veya ebeveynler ve Kullanıcılar bu tavsiyeleri takip edip etmeme konusunda kendi takdirlerini kullanacaktır. Şirket belirlenen yaşa ulaşmamış olan Kullanıcılar tarafından oyunun fiilen kullanılmasından sorumlu değildir.\n8. Gerekliyse, Reşit Olmayanların ebeveynleri veya yasal temsilcileri Reşit Olmayanların erişimini Reşit Olmayanlar için İnterneti daha güvenli bir yer haline getirecek belirli hizmetlere sınırlayan özel programlar kullanabilir. \n \nTarafların Sorumlulukları\n \n1. Şirket, Kullanıcının veya üçüncü tarafın İnternet Sitesini, Oyunu ve/veya Çevrimiçi Hizmetleri kullanmasının bir sonucu olarak doğrudan veya dolaylı olarak uğrayabileceği, Oyunu ve Çevrimiçi Hizmetleri kullanamamadan dolayı uğradığı zararlar, Oyunun diğer kullanıcıları, internet erişiminin bulunmaması, hırsızlık, Materyallerin yok olması, Kullanıcının Hesabıyla ilgili bilgilerin kaybı dahil üçüncü taraf faaliyetlerinden doğan dolaylı veya doğrudan zararlar ve Oyunla ilgili olarak Kullanıcının onuru, şerefi veya iş itibarının zedelenmesi dahil herhangi bir zarar veya kayıptan hiçbir şekilde sorumlu değildir.\n2. Şirketin Yetkili Mahkemeler ve/veya benzeri bir otorite tarafından herhangi bir şekilde sorumlu tutulması halinde, yükümlülük, belirli Kullanıcıdan doğan her türlü ve herhangi bir talep için toplam olarak 100 EUR ile sınırlı olacaktır.\n3. Kullanıcı, Kullanıcı tarafından Oyuna yerleştirilen Materyallerden veya Kullanıcının Çevrimiçi Hizmetleri herhangi bir şekilde kullanmasından doğabilecek her türlü sorumluluk ve/veya yükümlülüğü üstlenmektedir.\n4. Hiçbir taraf, diğer tarafa karşı bir tarafın kontrolü dışında meydana gelen, Doğal Afetler, deniz ve hava tehlikeleri, yangın, sel, kuraklık, patlama, sabotaj, kaza, ambargo, isyan, halka ayaklanması, yerel devlet ve parlamento tasarrufları dahil bunlarla sınırlı olmaksızın Mücbir Sebep olayı nedeniyle yükümlülüklerini yerine getirememesinden dolayı işbu SKLS'yi ihlal etmiş sayılmayacaktır.  \n5. Kullanıcı, Kullanıcının Oyun ve Çevrimiçi Hizmetleri kullanması ve bunlara ulaşmasından doğan her türlü talep, kayıp, zarar ve ziyanlara karşı şirketi ve herhangi bir Şirkete Bağlı Şirketi tam olarak tazmin edecektir.\n \nİhtilaf Çözümü ve Yetkili Kanunlar\n \n1. Taraflar,  işbu SKLS ile birlikte işbu SKLS'nin ayrılmaz bir parçasını oluşturan dokümanların Malta Kanunlarına göre yorumlanacağını ve Malta Mahkemelerinin yargı yetkisine tabi olacağını kabul etmektedir.\n2. Dava öncesi ihtilaf çözüm prosedürü zorunludur. Kullanıcının talebi 60/2, Melita Street, Valletta VLT 1122, Malta adresine posta ile ve e-posta kopyası help@tankionline.com adresine gönderilmelidir ve böyle bir talep Şirket ve/veya Yönetim tarafından yapılan ihlallerin açık bir listesi, Hesap Bilgileri, iletişim bilgileri ve Kullanıcı imzası içermelidir.  Talebin şekli ve içeriğine uyulmaması, Dava öncesi ihtilaf çözüm prosedürüne uyulmaması anlamına gelmekte olup talebin değerlendirilmesi ve bir yatın gönderilmesi kabul edildiği ana müteakip otuz (30) iş gününe kadar sürebilir.\n \nYasalara Uyum\n \nKullanıcı, Şirketin Kullanıcıya herhangi bir yasal tavsiye veya güvence sağlayamayacağını ve Kullanıcının tabi olduğu kanunlara daima uygun hareket ettiğini ve Kullanıcının Oyunda bir Hesap açmak ve Oyunu oynamak için tüm yasal haklara sahip olduğunu temin edilmesi Kullanıcının kendi sorumluluğundadır. Oyuna herhangi bir katılım yalnızca Kullanıcının tercihinde, takdirinde ve riskindedir.  Oyunu oynayarak Kullanıcı Oyun ve hizmetleri hiç bir şekilde saldırgan, itiraz edilebilir, adaletsiz veya ahlaksız bulmadığını kabul etmektedir.\n \nFeragat\n \nŞirketin herhangi bir zamanda herhangi bir hükmü uygulamaması veya ihmal etmesi, hiçbir şekilde işbu Sözleşmedeki haklarından feragat ettiği şeklinde yorumlanmayacak veya varsayılmayacaktır ne de işbu SKLS'nin tamamı veya herhangi bir kısmının geçerliliği etkilemeyecektir ne de Şirketin bu hakları daha sonradan kullanma hakkına halel getirecektir.\n \nDiğer koşullar\n \n1.İşbu SKLS konusuyla ilgili olarak Kullanıcı ile Şirket arasındaki tüm Sözleşmeyi temsil etmektedir ve taraflar arasında konusuyla ilgili olarak tüm önceki anlaşmaları geçersiz kılmakta ve bunların yerini almaktadır.\n2.İşbu SKLS'de başlıklar sadece başvuru kolaylığı sağlamak amacıyla verilmiştir ve herhangi bir hüküm veya koşulun anlamını veya yorumunun bir parçası olma veya bunları etkileme amacını taşımamaktadır. Tekil kelimeler, çoğulunu da kapsamakta veya çoğul olan tekilini de kapsayacaktır. Tekil kelimeler, çoğulunu da kapsamakta veya çoğul olan tekilini de kapsayacaktır.\n3. İşbu hüküm, koşul veya şartların herhangi bir yetkili makam tarafından herhangi bir ölçüde geçersiz, yasalara aykırı veya tatbik edilemez bulunması halinde, böyle bir hüküm, koşul veya şart, kalan hüküm, koşul ve şartlardan bu ölçüde ayrılacak ve kalan hüküm, koşul ve şartlar kanunların izin verdiği en geniş ölçüde geçerli olmaya devam edecektir.\n \nYönetim ile İletişim\n \n1. Kullanıcı, işbu Sözleşmeye ilişkin herhangi bir soru, görüş, şikayet veya yorumlarını help@tankionline.com adresine gönderebilir. Yönetim mümkün olan en kısa süre içinde değerlendirecektir.\n2. Kullanıcının Yönetim ile yazışmaları başlatması halinde veya Oyun ve Oyun Hizmetleriyle ilgili sorunlara ilişkin bir rapor sunması halinde, Yönetim tüm bu yazışmaları saklama hakkına sahiptir.\n"
+  AUTOCOMPLETION_ENEMY_IS_BACK: Düşman savaşa geri döndü!
+  AS_MODE_DESCRIPTION: Mavi takım için oynayarak üssünüzü düşman saldırılarından koruyun. Kırmızı takım için oynayarak, bayrağınızı mavi takımın üssüne götürün ve puan kazanın. En yüksek puanı alan takım oyunu kazanır.
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_ARROW_LENGTH: '30'
+  MEESAGE_ALERT_OFFER: |-
+    $USERNAME$, savaşta $ITEM-NAME$ teçhizatını test etmek için nadir
+    bir fırsat tarafınıza sunuldu!
+  SETTINGS_NEW_PASSWORD_LABEL_TEXT: 'Yeni şifre:'
+  DAILY_QUEST_CHANGE: Değiştir
+  INVITE_TO_BATTLE_LABEL: Savaşa davet et
+  PREMIUM_BUTTON_EXTEND: Uzat
+  MAIN_PANEL_BUTTON_GARAGE: Garaj
+  CTF_CAPTURED_FLAG_NEUTRAL: bayrağı ele geçirdi
+  REFUSED_TO_JOIN_THE_BATTLE_AT_YOUR_INVITATION_LABEL: |
+    Davetiniz üzerine savaşa katılmayı reddetti
+  CLAN_POSITION_COMMANDER: Binbaşı
+  GARAGE_MINE_PROTECTION_PROPERTY: Mayına karşı koruma
+  SETTINGS_MIPMAPPING_LABEL_TEXT: Mip-mapping
+  FRIENDS_IN_GROUP: Savaş grubunda
+  CLAN_PLAYER_ALREADY_IN_CLAN: '%USERNAME% adlı oyuncu bir klanın üyesi'
+  CLAN_MEMBER_COLUMN_EXPERIENCE: Deneyim
+  HEADER_LOGIN: OTURUM AÇ
+  COMPLETE_BUTTON: Tamamla
+  CLAN_CHAT: Klan sohbeti
+  PAYMENT_SMS_DESCRIPTION_CO_TEXT: ''
+  REGISTER_FORM_PASSWORD_INPUT_LABEL_TEXT: 'Şifre:'
+  REGISTER_FORM_CONTINUE: Tamamla
+  CLAN_PROFILE_MIN_RANK: Gerekli olan minimum rütbe
+  CLAN_NOT_RECRUITING: Bu klan şu anda üye alımı yapmıyor
+  ALERT_ACCOUNT_SUCCESS_LINKED: Hesabınız başarıyla bağlandı
+  CHAT_PANEL_COMMAND_BLOCK_LIST: 'Engellenenler listesi:'
+  NEED_OF_EMAIL_SET: |-
+    Hesap güvenliğinizi arttırmak için lütfen e-posta adresinizi giriniz.
+
+    Doğrulama linkini içeren bir e-posta alacaksınız. Linke tıklayın bedava kristal kazanacaksınız.
+  GARAGE_BURN_PROPERTY: Yanma süresi
+  DRONE_MINE: Number of saved up mines
+  BATTLE_CREATE_PANEL_DRONES: Dronlar
+  CLAN_ALERT_DISBAND_CLAN: |-
+    Klanı dağıt?
+
+    Uyarı!
+    Yeni bir klan oluşturmak için, yeni bir klan lisansı satın almak zorunda kalacaksınız.
+  WARM_UP_LABEL: Savaşa hazırlan
+  ALERT_ERROR_EXTERNAL_ENTER: Oyuna girmeye çalışırken bir hata oluştu, lütfen daha sonra yeniden deneyin
+  TYPING_SPEED_BANNED: Geçici olarak sohbete yazmanız engelledi
+  HELP_PANEL_MONEY_HELPER_ARROW_LENGTH: '48'
+  FRIENDS_NEW_FRIEND: Yeni!
+  CLAN_PLAYER_IS_INVITE_LIST: '%USERNAME% oyuncusu daha önceden davet edildi'
+  BATTLE_CREATE_PANEL_STEPPER_KILLS_LIMIT: İmha limiti
+  GAME_ACTION_TANK_MOVE_FORWARD: Tankı ileri doğru götür
+  BATTLE_ENTER_ERROR_EQUIPMENT_NOT_MATCH_CONSTRAINTS: "Bu savaşa ancak belirli bir ekipman kombinasyonu ile girebilirsiniz. \nTankınız bu gerekliliği karşılamıyor. Daha bazla bilgi <a href='http://en.tankiwiki.com/Format_Battles' target='_blank'><u>burada</u></a>."
+  GARAGE_CATEGORY_BUTTON_KITS: Kitler
+  WEEKLY_QUEST_HINT: Ek <a href='event:'><font color='#59ff32'><u>bonus</u></font></a> almak için 7 gün boyunca her gün en az bir görev tamamlayın
+  SETTINGS_MOUSE_INVERSION_CHECKBOX_LABEL: Fare dikey yönü değiştirme
+  CAPTCHA_INCORRECT: Kontrol karakterleri yanlış girildi
+  CLAN_FOUNDER_WITH_COLON: 'Klan kurucusu:'
+  GARAGE_TURN_PROPERTY: Dönüş hızı
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTTON_ARROW_LENGTH: '30'
+  SETTINGS_TAB_NAME_ACCOUNT: Hesap
+  CTF_LOST_FLAG_NEUTRAL: bayrağı kaybetti
+  INVITES_YOU_TO_A_BATTLE_LABEL: Sizi savaşa davet ediyor
+  KEYBOARD_KEY_LEFT: Sol
+  GAME_ACTION_TURRET_CENTER: Tareti ortala
+  CHECK_PASSWORD_FORM_PASSWORD: 'Şifre:'
+  CURRENT_WAITING_TIME_LABEL: Kalan bekleme süresi
+  GARAGE_SNIPING_DAMAGE_PROPERTY: Keskin nişancı modunda hasar
+  REARM_BATTLE_STARS_PRIZE: '{stars} aldınız'
+  DRONE_OVERDRIVE_BOOST: Turbo yüksek hız
+  AUTOCOMPLETION_BALANCE_DISTURBED_WINNERS_PART1: Düşman takımında yeterli oyuncu yok
+  PARTNER_PARAMETRS_ERROR: Yanlış bilgiler kullanarak oyuna girmeye çalışıyorsunuz.
+  FACEBOOK_NAME: Facebook
+  FRIENDS_MENU: Arkadaşlar menüsü
+  VK_ENTER_GROUP_BONUS: ''
+  HEADER_CLAN_EDIT_PROFILE: PROFİLİ DÜZENLE
+  PRESENT_INFO_FROM_LABEL: 'Gönderen:'
+  AUTOCOMPLETION_BALANCE_DISTURBED_LOSERS_PART1: Takımımızda yeterli sayıda oyuncu yok
+  PRESENT_WILL_BE_REMOVED_ALERT: Bu hediye süresiz silinecektir. Devam?
+  PAYMENT_BUTTON_BACK_TEXT: Paketler
+  CLAN_POSITION_PRIVATE: Er
+  SHOP_GOLDBOX_MANY: Kasalar
+  GARAGE_SMOKY_PROTECTION_PROPERTY: Smoky'e karşı koruma
+  ALERT_CRYSTALS_ADDED_FOR_CONFIRMED_EMAIL: Tanki Online hesabını bir e-posta adresine bağladığınız için teşekkür ederiz. Bonus kristaller hesabınıza eklendi.
+  HEADER_DISCOUNT: İNDİRİM!
+  RUGBY_BALL_TAKEN_USER: topu ele geçirdi
+  HEADER_CURRENT_BATTLES: MEVCUT SAVAŞLAR
+  GARAGE_WEIGHT_PROPERTY: Ağırlık
+  CLAN_CREATION_DATE_WITH_COLON: 'Klan oluşturma tarihi:'
+  BATTLE_BONUS_BOX_TEXT: Bonus kasalar
+  TYPE_MESSAGE_WITH_PRESENT: Selamlarınızı iletin...
+  GARAGE_FREEZE_PROTECTION_PROPERTY: Freeze'e karşı koruma
+  RANK_NAMES: Acemi Er, Er, Birinci Sınıf Er,Onbaşı,Usta Onbaşı,Çavuş,Üstçavuş,Başçavuş,Kıdemli Başçavuş, Astsubay Kıdemli Başçavuş,Birinci Sınıf Astsubay 1,Birinci Sınıf Astsubay 2,Birinci Sınıf Astsubay 3,Birinci Sınıf Astsubay 4,Birinci Sınıf Astsubay 5,Asteğmen,Teğmen,Üsteğmen,Yüzbaşı,Binbaşı,Yarbay,Albay,Tuğgeneral,Tümgeneral,Korgeneral,General,Mareşal,Feldmareşal,Orgeneral,Başkomutan
+  SETTINGS_REENTER_PASSWORD_LABEL_TEXT: 'Yeniden gir:'
+  REARM_TEAM_LOOSE: Takımınız kaybetti
+  GAME_ACTION_USE_MINE: Mayın Bırak
+  YOU_WERE_KICKED_LOGIN_TEXT: |-
+    Oyun bağlantınız zorla kesildi.
+    Nedeni: {0}
+    {1} ile oyuna dönebilirsiniz.
+  PROMO_CODE_DESCRIPTION_TEXT: |-
+    Promosyon Kodlarını Kristal, Premium Hesap süresi, Altın Kasası, Boya ve Garaj malzemeleri almak için kullanabilirsiniz.
+    Aldığınız anda hesabınıza anında eklenecektir.
+
+    Promosyon Kodlarını özel promosyon etkinliklerinden alabilirsiniz.
+  DOM_POINT: '{point} noktası'
+  HEADER_CLAN: KLAN
+  GAME_PRIVACY_POLICY: "Gizlilik ve Çerez Politikası\n\nAPL Publishing Ltd, registration no. C 85285, registered under the laws of Malta, 157, Archbishop Street Valletta, VLT1440, Malta (bundan sonra \"Şirket\" veya \"Yönetim\" olarak anılacak), Oyuna ilişkin münhasır hakların sahibi, Kullanıcıların Kişisel Verilerinin gizliliğine ilişkin haklarına saygı göstermektedir. Şirket, Kullanıcılardan alınan bilgilerin korunmasının arz ettiği önemi bilmektedir. Şirket, Kullanıcılarına Kişisel Verilerinin toplanması ve kullanılması hakkında bilgi sunmak amacıyla işbu Gizlilik ve Çerez Politikasını (bundan sonra \"Politika\" olarak anılacak) onaylanmıştır.\n\nİşbu Politika, Kullanıcının Kişisel Verilerinin toplanması, kullanılması, işlenmesi, saklanması, açıklanması, aktarılması ve silinmesine ilişkin koşulları, prosedürleri ve amaçları yanı sıra Kullanıcının Kişisel Bilgilerinin korunması şartlarını sunmaktadır.  İşbu Politika Yetkili Kanunlar kapsamında öngörüldüğü üzere bir Kullanıcının Kişisel Verilerini nasıl görüntüleyebileceği, güncelleyebileceği ve silinmesini talep edebileceğini açıklamaktadır. İşbu Politika ayrıca Yönetim tarafından çerezlerin kullanımı ve saklanmasına ilişkin koşulları, prosedürleri ve amaçları sunmaktadır.\n\nOyun ve Oyun Hizmetinde yayınlanan Son Kullanıcı Lisans Sözleşmesi (bundan sonra \"Sözleşme\" olarak anılacak), Oyun Kuralları ve diğer dokümanlar işbu Politikanın ayrılmaz bir parçasıdır. Buna karşılık, işbu Politika, Oyun ve Oyun Hizmetinde yayınlanan Sözleşme, Oyun Kuralları ve diğer dokümanların ayrılmaz bir parçasıdır.\n\nİşbu Politika yalnızca Oyunun internet siteleri ve diğer hizmetleri için geçerli olup diğer internet siteleri ve hizmetleri kapsamamaktadır.\n\nOyun veya Online Hizmetlerinin herhangi bir kullanımı ve/veya kayıt formunda \"Kabul Ediyorum\" düğmesine tıklamanız işbu Politikayı bildiğiniz ve onayladığınız ve tüm şartlarını kayıtsız şartsız kabul ettiğiniz anlamına gelmektedir. \nİşbu Politikanın herhangi bir şartını kabul etmiyorsanız, Oyun ve hizmetlerini kullanma hakkına sahip değilsiniz, ve lütfen bu internet sitesinden ayrılın ve Oyunu kullanmayın.\n\n\nTanımlar\n\nİşbu Politikada kullanılan ilk harfi büyük harfle yazılan herhangi bir terim veya ifade Sözleşmede kendilerine verilen anlamlara sahiptir.\n\n\nYükümlülükler\n\n1.       Şirket, Kullanıcının gizliliğine saygı gösterirken, Yetkili Kanunlar çerçevesinde geçerli her türlü verilerin korunması kanunlarına uymaya kendini adamıştır. Şirket, Kullanıcının Kişisel Verilerinin adil bir şekilde, yasalara ve iyi uygulamaya uygun bir şekilde işlenmesini ve yalnızca Kullanıcının Yazılım, Oyun ve İnternet Sitesini kullanmayı tercih ettiği anda Kullanıcı tarafından bilinen ve kabul edilen belirli amaçlar için toplanmasını sağlar.\n2.\tŞirket, Malta'da Veri Koruma Yetkilisine kayıtlı olup Malta Mevzuatı Veri Koruma Kanunu Madde 440 ve Malta'da geçerli diğer yönetmelikler, yasal tebliğler ve/veya benzeri kurallara riayet etmektedir.\n3.\tİşbu Politika, interaktif çok kullanıcı çevrimiçi oyun «Tanki Online. Sürüm 2», Oyunun sohbet odası, Oyunun forumu, Tanki Online wiki, Tanki Online Haberler (bundan sonra birlikte \"Oyun Hizmetleri\" olarak anılacaktır) yanı sıra oyun hizmetleri ve Oyun istemcisinde kişisel verilerin toplanması amacıyla kullanılan tüm çevrimiçi formlar, iç formlar ve iletişim araçları dahil Oyunun kaynaklarını kapsamaktadır.\n4.\tŞirket, Kişisel Verilerin daima \na.\tKullanıcının haklarına uygun bir şekilde işlenmesini; \nb.\tadil ve yasalara uygun bir şekilde işlenmesini; \nc.\tyalnızca belirli ve yasal bir amaçla alınmasını; \nd.\ttoplama amacı için aşırı olmaması, yeterli ve alakalı olmasını;  \ne.\tdoğru ve güncel olmasını; \nf.\tgüvenli bir şekilde saklanmasını; \ng.\ttoplama amacı için gerekli olandan daha uzun bir süre saklanmamasını; \nh.\tKişisel Verilerinizin yeterli bir korumasını sağlamayan ülkelere aktarılmamasını ve \ni.\tyalnızca işbu belgede belirtilen amaçlarla kullanılmasını sağlamak için\nmakul bir şekilde mümkün olan her türlü şeyin uygulandığını taahhüt etmektedir. \n\n5.\tYalnızca Şirket çalışanları ve temsilcileri yanı sıra gerekli onay ve yetkilere sahip Şirketin Bağlı Şirketleri, Şirket tarafından alınan Kişisel Verilere ulaşabilmektedir. Böyle bir Kişisel Veriye erişim hakkına sahip tüm kişilerin işbu Politikanın koşullarına uyması gerekmektedir ve iş sözleşmeleri veya sair sözleşmeler yoluyla, Şirketteki görevleri sona ermiş olsa bile böyle bilgileri son derece gizli tutmakla yükümlü kılınmışlardır.\n6.\tKullanıcının Kişisel Verilerini yasadışı veya istenmeyen erişimler, yok olma, değişiklikler, engelleme, kopyalanma, dağıtım yanı sıra üçüncü tarafların diğer yasadışı faaliyetlerine karşı korumak için mümkün olan her türlü organizasyonel ve teknik tedbirleri almaya kendini adamıştır.\n7.\tŞirket, Kullanıcı ile e-posta iletişimlerinin korunması ve muhtelif zamanlarda gerekli olabilecek sair iletişim yöntemlerinin korunması ilkesi hususunda en iyi uygulamaları benimsemiştir.\n8.\tVeri koruma mevzuatı ülkelere göre farklılık gösterebilmektedir. Şirket, işbu Politikanın hükümlerini mümkün olabildiği en geniş ölçüde uygulamayı amaç edinecek ve Kullanıcının Kişisel Bilgilerini, nerede toplandığı ve/veya nasıl iletildiğine bakılmaksızın, mümkün olabildiği en geniş ölçüde koruyacaktır. \n9.\tŞirket Kişisel Bilgileri üçüncü ülkelere ancak böyle bir üçüncü ülkenin yeterli bir düzeyde Kişisel Verileri koruyabilecek olması halinde veya böyle aktarımın Sözleşmenin veya sair sözleşmelerin Kullanıcının menfaatine akdedilmesi veya ifası için gerekli olması halinde veya böyle bir aktarımın Kullanıcının menfaatlerini korumak için gerekli olması veya ilgili Şirketin Kişisel Verilerin korunmasına ilişkin yeterli garantileri vermesi halinde aktarabilecektir.  \n\nKişisel Bilgilerin Toplanması\n\n10.\tYönetim Oyunun kullanılabilmesini sağlamak amacıyla Kullanıcıdan herhangi bir bilgi talep etme hakkına sahip olacaktır ve bu bilgiler,  e-posta, telefon numarası, sosyal ağlardaki kimlik bilgileri (ID), kullanıcı adı ve şifre dahil kayıt, hizmetlere abonelik, materyallerin yayınlanması ve diğer hizmetlere ilişkin talepler sırasında sağlanan bilgiler dahil Oyun ve Oyun Hizmetlerindeki özel formların doldurulması sırasında sağlanan bilgilerden oluşabilecektir.\n11.\tYönetim, Oyunda etkinlikler düzenlemek ve gerçekleştirmek için gerekli olan ve Kullanıcının Yönetim tarafından başlatılan böyle etkinliklere katılması için kayıt olurken sağlayacağı herhangi bir bilgiyi talep edebilir.\n12.\tKullanıcının Yönetim ile yazışmaları başlatması halinde veya Oyun ve Oyun Hizmetleriyle ilgili sorunlara ilişkin bir rapor sunması halinde, Yönetim tüm bu yazışmaları saklama hakkına sahiptir.\n13.\tYönetim, Kullanıcıdan anketlere katılmasını isteyebilir ve anketler sırasında belirli bilgileri talep edebilir ancak bu zorunlu bir prosedür olmayıp herhangi bir Kullanıcı bunlara katılmayı reddedebilir.\n14.\tYönetim, Kullanıcının Ücretli bir Hizmeti kabul etmesi halinde işlem bilgileri ve Kullanıcının ödeme verilerini toplayabilir ve işleyebilir.\n15.\tKullanıcının tarayıcısı veya istemci programı, Oyun ve Oyun Hizmetleri internet sitelerine ziyaretlerine ilişkin trafik, log (günlük) dosyaları, Kullanıcının bilgisayarının coğrafi konumuna ve olasılıklarına ilişki veri ve diğer veriler dahil bilgileri aktarabilir.  Kullanıcı, Yönetimin bu bilgileri işbu Politikada belirtilen amaçlar ve prosedüre uygun bir şekilde kullanabileceğini peşinen kabul etmektedir.\n16.\tYönetim, Kullanıcıdan belirli işlemleri yapmak amacıyla cinsiyet, yaş, doğum tarihi ve oyun tercihleri gibi sair bilgileri talep edebilir.\n17.\tYönetim, Sözleşme veya Sözleşmenin ayrılmaz bir parçasını oluşturan herhangi bir dokümanda belirtilen sair bilgileri toplayabilir, işleyebilir ve kullanabilir.\n\n\nKullanıcının Rızası\n\n18.\tÜcretli Hizmetlerin kayıt formunda veya Oyun veya Oyun Hizmetlerinde kullanılan herhangi bir diğer kayıt formunda Kullanıcının herhangi bir Kişisel Veriyi sağlaması halinde, böyle bir sağlama Kullanıcının açık bir şekilde işbu Politikaya, Sözleşmeye ve Sözleşmenin bir parçasını oluşturan herhangi bir belgeye doğrudan ve nihai rızasını verdiği anlamına gelmektedir ve böyle bir sağlama Kullanıcının işbu Politika, Sözleşmeye ve Sözleşmenin bir parçasını oluşturan herhangi bir belge ile sağlanan amaçlar doğrultusunda Kullanıcının herhangi bir kişisel bilgilerinin toplanması, işlenmesi, kullanılması, saklanması, açıklanması, aktarılması, sınırlar arası aktarılmasına (üçüncü ülkelere aktarılmasına) açık bir şekilde doğrudan ve nihai rızasını verdiği anlamına gelmektedir.  \n19.\t Kişisel Veriler, yalnızca yasal amaçlarla toplanacak ve özellikle de aşağıdaki sebeplerle toplanacaktır:\na.\tKullanıcı bilgilerinin doğrulanması;\nb.\tŞirkette bir Hesabın kaydedilmesi;\nc.\tfaaliyetlerin tanıtılması ve pazarlanması; \nd.\tgeçerli kanunlara uyum;\ne.\tŞirketin, örneğin oyunla ilgili teknik destek gibi, sunabileceği herhangi bir ek hizmetin Kullanıcıya uygun ve nitelikli bir şekilde sunulması ve \nf.\tSözleşmenin ve Sözleşmenin ayrılmaz bir parçasını oluşturan tüm belgelerin Şirket, tedarikçileri ve/veya adına hareket eden herhangi bir üçüncü tarafça yerine getirilmesi ve ifa edilmesi. \n20.\tYönetim, Yetkili Kanunlara göre Kişisel Veri olarak kabul edilmeyen herhangi bir bilgiyi toplama ve uygun gördüğü bir şekilde kullanma hakkına sahiptir ve Kullanıcı Şirketin böyle Kişisel Olmayan Verileri herhangi bir üçüncü tarafa ifşa edebileceğini kabul etmektedir.\n21.\tYetkili Kanunların aksini öngörmediği sürece, Kullanıcı, Kişisel Verilerinin işlenmesi ve toplanmasına itiraz etme hakkına sahiptir ve herhangi bir zamanda böyle bir rızayı geri çekme hakkına sahiptir. Kullanıcının rızasını geri çektiği her halde, Oyun ve Çevrimiçi Hizmetlerin kalitesi üzerinde olumsuz etkiye sahip olabileceğini ve Oyun ve/veya Oyun Hizmetlerine erişimi imkansız kılabileceğini anlamakta ve kabul etmektedir ve Kullanıcı, Şirketin böyle bir durumda Kullanıcının Kişisel Verilerinin herhangi bir şekilde kaybolması ve/veya zarara uğramasından dolayı herhangi bir yükümlülüğe sahip olmadığını kabul etmektedir.\n\nKişisel Verilerin kullanılması ve işlenmesi\n\n22.\tKullanıcı, Şirketin Oyunun kullanılmasını sağlamak için gerekli gördüğü şekilde sağlanan Kişisel Verileri saklama ve işleme hakkına sahip olduğunu ayrıca kabul etmektedir. Kullanıcı ayrıca Oyundaki tüm faaliyetlerin kayıt altına alındığını kabul etmekte ve bilmektedir.\n23.\tKullanıcı tarafından ifşa edilen Kişisel Verilerin Oyun Hizmetlerinin Kullanıcıya uygun ve nitelikli bir şekilde sağlanması, Oyun Hizmetlerinin geliştirilmesi ve iyileştirilmesi amacıyla, Sözleşme ve Sözleşme, Oyun Kuralları ve işbu Politikada belirtilen diğer edimlerin ifa edilmesi amacıyla Yönetim tarafından toplanmakta ve işlenmektedir. Kişisel Bilgilerin işlenmesi, toplama, kayıt altına alma, sistematikleştirme, sınıflandırma, saklama, biriktirme, güncelleme, değiştirme, gruplandırma, engelleme, kullanma, açıklama, üçüncü taraflara aktarma, yayma, imha etme, silme ve işbu Sözleşmenin ifası için gerekli olan diğer faaliyetlerdir. \n24.\tŞirket, Kullanıcının Kişisel Verilerini satmamaktadır ve işbu Politikada sağlananlar hariç olmak üzere, böyle bilgileri üçüncü taraflara açıklamamaktadır. Şirket, genel demografik ve istatistiksel bilgileri iş ortakları ve reklamverenlere ifşa edebilir. Bu Kişisel Verilerle doğrudan ilişkili değildir ve belirli bir Kullanıcıyı tanımlayamaz.\n25.\tHizmetlerin uygun bir şekilde sağlanmasını temin etmek amacıyla, Şirket sunucu barındırma hizmetleri, ödeme hizmetler, e-posta gönderimiyle ilişkili hizmetler sağlayan diğer kişi ve kuruluşlara ve moderatörlere aktarma hakkına sahiptir. Bu kişi ve kuruluşlar, alınan bilgileri yalnızca Kullanıcılara hizmet sağlamak amacıyla kullanma hakkına sahip olup Kişisel Verilerin uygun kullanımını sağlayan sözleşme hükümleriyle bağlı kılınacaktır.\n26.\tKullanıcı, Oyun Hizmetlerinin uygun ve yüksek kalitede sağlanması ve geliştirilmesi amacıyla ve Oyun Hizmetlerinin iyileştirilmesi amacıyla, Sözleşme, Oyun Kuralları ve işbu Politikanın yerine getirilmesi amacıyla sağlanan Kişisel Verileri Şirketin herhangi bir Bağlı Şirketine aktarma hakkına sahip olacaktır.\n27.\tŞirketin, ileride başka bir şirketle yeniden örgütlenme ve/veya birleşme ve/veya satış ve/veya satın alma ve/veya tasfiye ve/veya herhangi bir diğer işlem vasıtasıyla birleşmesi halinde, Kullanıcının Kişisel Verileri Şirket veya bir bölümüyle birlikte aktarılabilir veya Şirketin bir parçası olarak satılabilir.\n28.\tKullanıcı, Şirketin, Yetkili Kanunlar ve/veya herhangi bir diğer yetkili kanunlar çerçevesinde bir alınan bir karar ile emredilmesi halinde ve/veya Düzenleme Otoritesinin emriyle emredilmesi halinde ve/veya Veri Koruma Yetkilisinin emriyle emredilmesi halinde ve/veya Kullanıcının bir şekilde Oyun ve/veya Şirketin hizmetleriyle ilişkilendirilen herhangi bir suça doğruda ve/veya dolaylı olarak müdahil olması halinde, Kişisel Verileri ifşa etme hakkı ve yükümlülüğüne sahip olduğunu kabul etmektedir.\n29.\tKullanıcı, Oyun ve/veya Oyun Hizmetlerinde yer alan Materyallerle ilişkili hakların Kullanıcı tarafından ihlal edildiğine dair üçüncü taraflardan (telif hakkı sahipleri) bir talep alması halinde, Şirketin böyle bir Kullanıcı hakkında bilgileri üçüncü tarafa (telif hakkı sahipleri) aktarma hakkına sahip olduğunu kabul etmektedir.  \n30.\tKullanıcının Oyuna üçüncü taraflara ait internet siteleri ve/veya Şirketin partnerlerinin internet siteleri üzerinden katılması ve/veya kayıt olması halinde, bu kişiler uygun ve yüksek kaliteli hizmet sağlamak amacıyla Kullanıcının kişisel verilerini talep edebilir, toplayabilir ve işleyebilir.  Bu durumda üçüncü tarafların gizlilik ve çerez politikaları uygulanacaktır. Kullanıcı, Şirketin Oyun Hizmetlerinin uygun ve yüksek kalitede sağlanması, Sözleşmenin, Oyun Kurallarının ve işbu Politikanın yerine getirilmesi amacıyla böyle kişilere Kullanıcıya ait Kişisel Verileri aktarma hakkına sahip olduğunu kabul etmektedir.\n\n\nKişisel Verilerin Saklanması\n\n31.\tŞirket, işbu Politikanın koşullarına uygun bir şekilde toplanan Kullanıcıya ait Kişisel Verilerin uygun ve güvenli bir şekilde saklanması için gerekli tüm tedbirleri alacaktır. Kullanıcı tarafından sağlanan tüm bilgiler Şirketin sunucularında saklanacaktır.\n32.\tŞirket, Kişisel Verilerin güvenliğini sağlamak amacıyla güvenlik duvarlarını da kapsayan standart bir teknolojiyi kullanacaktır.\n33.\tKullanıcı, Oyuna giriş amacıyla kullanılan kimliğini veya hesap bilgilerini üçüncü taraflara açıklama veya aktarma yükümlülüğüne sahip değildir. Kullanıcı, hesap bilgilerinin saklanmasından tamamen kendisi sorumludur.\n34.\tKullanıcının, hesap bilgilerinin çalındığı ve/veya herhangi bir üçüncü tarafın eline geçtiğini öğrenmesi halinde, Kullanıcı bu durumları Şirketin gerekli tedbirleri alabilmesi için derhal Şirkete bildirecektir. Bu durumlarda, Şirket Kullanıcıya ait Kişisel Verilerin güvenliğini garanti edemez ve Kullanıcı Kişisel Verilerin herhangi bir şekilde kullanılmasından dolayı Şirketin sorumlu tutulmayacağını kabul etmektedir.\n35.\tKullanıcının Oyun ve Oyun Hizmetlerinde (sohbet odası, forum, vb. kullanarak) iletişimde bulunması halinde, Kullanıcı böyle bir iletişimin Şirketin Sunucuları üzerinden gerçekleştiğini biliyor ve böyle verilerin Yönetim tarafından toplanabileceği, saklanabileceği ve incelenebileceğini kabul etmektedir. Yönetim, Kullanıcının Oyun, Oyun Hizmetleri ve Oyunla ilgili diğer hizmetler (sohbet odası, forum, sosyal ağ vb. kullanarak) üzerinden diğer Kullanıcılara ifşa ettiği Kişisel Bilgiler ve/veya diğer Bilgilerin gizliliğinden sorumlu değildir ve Yönetim böyle bilgileri kamuya açık bilgiler olarak addetme hakkına sahiptir.  \n\n\n\nÇerezler, IP adresleri ve log (günlük) dosyaları\n\n36.\tYönetim, Kullanıcının bilgisayarı, günlük dosyaları, IP adresi, işletim sistemi, tarayıcı ve e-posta istemcisi, trafik bilgileri, tarih ve saat, oyun hizmetlerine ziyaretlerin tarih ve saati ve detayları, kullanıcı faaliyetleri, erişim, ayarlar, sistem bilgilendirmelerine ilişkin bilgileri toplayabilir ve işleyebilir. Bu bilgiler Kullanıcıların İnternet Sitesindeki faaliyetlerine ilişkin olup sistemlerin yönetilmesi, Oyun ve Oyun Hizmetlerinin doğru bir şekilde çalışmasını sağlamak, güvenlik ve koruma tedbirlerinin güçlendirilmesi ve sistem bütünlüğünün sağlanması, hacker saldırılarının, izinsiz erişimlerin önlenmesi amaçlarıyla toplanmakta ve saklanmaktadır.\n37.\tYönetim, Oyunun doğru bir şekilde çalışabilmesini sağlamak amacıyla çerezleri kullanmaktadır. Çerezler, Kullanıcının bilgisayarında/diğer cihazlarında bir faaliyetin Kullanıcıyla ilişkilendirilmesi ve tanımlanması amacıyla otomatik olarak oluşturulan ve saklanan küçük bir kayıt tutma metnidir (bundan sonra \"Çerezler\" olarak anılacaktır).  Çerezler tipik olarak adlar ve/veya e-posta adresleri ve/veya diğer Kişisel Verileri içermemektedir. Gerçekte, tipik olarak, Oyun ve Oyun Hizmetlerinin daha iyi çalışması için gerekli olan anonim bilgileri içermektedir.\n38.\tKullanıcının Oyun ve/veya Materyallerini kullanırken Kullanıcının bilgisayarı/herhangi bir diğer cihazında saklanan Çerezler sıralananlar dahil bunlarla sınırlı olmaksızın fonksiyonlara sahiptir: \na.\tKullanıcının talep ettiği güvenli alanlara erişimin sağlanması, bu Çerezler olmadan güvenli oturum açma alanları gibi talep ettiğiniz hizmetler sağlanamaz;\nb.\tZiyaret Çerezleri - Kullanıcının yaptığı tercihler ve/veya ayarların hatırlanması ve Kullanıcının Oyunu kullanırken tanınması için. Bu Çerezler olmadan, Oyunun işlevselliği bozulabilir;\nc.\tOy Kullanma (Anket) Çerezleri - Kullanıcının bir oy kullandığı herhangi bir anketin işaretlenmesi ve Kullanıcının aynı ankette tekrar oy kullanmasının engellenmesi için;\nd.\tYük Dengeleme Oturum Çerezleri - iş yükünün dağıtılması ve oyun hizmetlerinin optimizasyonunun zamanlanması yoluyla Oyunun yükleme süresinin kısaltılması için. Bu Çerezler olmadan, Oyunun işlevselliği kaybolabilir;\ne.\tOyun ve oyun hizmetlerine tekrar giriş durumunda Kullanıcının arayüz ayarlarının kaydedilmesini mümkün kılan Kullanıcı Arayüz özelleştirme çerezleri;\nf.\tKullanıcının sosyal ağlardaki verileriyle senkronizasyonun sağlanması için kullanılan çerezler.\ng.\tPerformans (Analitik) Çerezleri - Kullanıcının Oyunu nasıl kullandığına dair anonim bilgiler toplamak için.\nh.\tReklam Çerezleri - Kullanıcıya en uygun reklamların gönderilmesine ve reklam kampanyalarının etkinliğinin iyileştirilmesine yardımcı olur. Kullanıcı, Şirketin kendi reklam kampanyaları için bu çerezleri kullanabileceğini kabul etmektedir. \n39.\tYönetim, ayrıca, Kullanıcının tercihleri hakkında bilgilerin saklanması ve analiz edilmesi ve hizmet kalitesinin arttırılması amaçlarıyla belirli üçünü taraflara kendilerine ait internet performans (analitik) ve reklam çerezlerini Kullanıcının cihazlarına koymasına ve kullanmasına ve Şirketin Çerezlerinden bilgi toplamasına izin verebilir.  Bu durumda böyle üçüncü taraflar işbu Politikayla bağlı kılınmaktadır. Yönetim, böyle bir kullanımı yalnızca itibarlı üçüncü taraflara sağlayacağını garanti etmektedir.\n40.\tKullanıcı, Oyunu Facebook gibi herhangi bir Sosyal Ağ Sitesi üzerinden kullanarak, Kullanıcının ilgili Sosyal Ağ Sitesinin çerez politikasına riayet etmesinin gerekli olabileceğini bilmektedir ve Kullanıcı böyle herhangi bir çerez kullanımından dolayı herhangi bir yükümlülüğe sahip olmadığını kabul etmektedir.\n41.\tOyun ve/veya İnternet Hizmetlerini kullanarak veya Sözleşmeyi (işbu Politika dahil) kabul ederek ve/veya \"Kabul Ediyorum\"u tıklayarak, Kullanıcı işbu Politikayı anlamış ve kabul etmiştir ve Yönetimin Kullanıcının Oyunu ve/veya Materyalleri kullanacağı Kullanıcı bilgisayarı/herhangi bir diğer cihaza çerezler yerleştirebileceğini, saklayabileceğini ve kullanabileceğine dair doğrudan ve kesin rızasını ifade etmektedir. Yönetim, Kullanıcının işbu Politikada sağlandığı şekliyle tarayıcı ayarları üzerinden çerezleri devre dışı bırakıncaya kadar ve/veya devre bırakmadığı sürece işbu Politikaya rızasını verdiğini varsaymaya devam edebilir. İşbu rızayı vermek suretiyle, Kullanıcı Yönetime daima Kullanıcıların menfaatini düşünmek suretiyle Kullanıcıları ve tercihlerini daha iyi anlama, hizmet kalitesini geliştirme ve iyileştirme imkanı tanımaktadır. Kullanıcı, Çerezler etkinleştirilmeden Oyunun doğru bir şekilde çalışmayabileceğini kabul etmektedir.\n42.\tYönetim, saklanan çerezlerin Kullanıcılar için güvenli olduğunu ve Oyun ve oyun hizmetlerinin normal çalışması için ve Yönetim tarafından Kullanıcılara hizmetlerin sağlanması için kesinlikle gerekli olduğunu garanti etmektedir.\n43.\tÇerezler en fazla bir yıl için saklanmaktadır. Üçüncü tarafça çerez saklama süreleri ve şartları böyle bir üçüncü tarafça belirlenmektedir.\n44.\tKullanıcı herhangi bir zamanda tarayıcı ayarlarını değiştirmek suretiyle çerezleri almayı reddedebilir veya çerezleri devredışı bırakabilir. Çerezlerin devredışı bırakılması Oyun ve Çevrimiçi Hizmetlerin kalitesi üzerinde olumsuz bir etkiye sahip olabilir ve ayrıca Oyun ve Çevrimiçi Hizmetlere erişimi imkansız kılabilir ve Kullanıcı işbu Politikada Kullanıcının çerezleri devredışı bırakması nedeniyle Kullanıcı bilgilerinin kaybolması ve/veya zarara uğramasından dolayı Şirketin herhangi bir yükümlülüğe sahip olmadığını kabul etmektedir.  \n\n\nKullanıcıya ait Kişisel Verilerin Alınması ve Değiştirilmesi\n\n45.\tKullanıcı, Şirketin sakladığı Kullanıcıya ait Kişisel Verilerinin bir kopyasını almak ve mevcut ise herhangi bir yanlış verinin düzeltilmesini sağlamak amacıyla herhangi bir zamanda Yönetimle iletişim kurma hakkına sahiptir. Kullanıcı, Kişisel Verilerinin silinmesini, düzeltilmesini, değiştirilmesini veya tamamlanmasını talep etme hakkına sahiptir. Kullanıcıya ait Kişisel Veriler hakkında Yönetimle iletişim kurmak için, help@tankionline.com adresine bir e-posta gönderilmelidir.\n\nHerhangi bir Kişisel Veriyi sağlamayı reddetme\n\n46.\tKullanıcı tarafından Yönetime sağlanan herhangi bir Kişisel Veri gönüllülük esasında verilmektedir. Bununla birlikte, Şirket, talep edildiğinde herhangi bir Kişisel Verinin sağlanmaması halinde, Oyun ve/veya oyun hizmetlerinin uygun bir şekilde veya tam olarak çalışabileceğini garanti edemez. \n\nSosyal Ağ Siteleri\n\n47.\tKullanıcı, herhangi bir Sosyal Ağ Sitesi veya üçüncü taraflara ait diğer internet siteleri üzerinden Oyunu kullanarak Kullanıcının bunlara ait hüküm ve şartlara tabi olabileceğini kabul ettiğini ve bildiğini onaylamaktadır.\n\n\nPolitikadaki Değişiklikler\n\n48.\tİşbu Politika son baskının tarihi itibariyle geçerlidir. İşbu Politika önceden veya sonradan Kullanıcıya haber verilmeksizin herhangi bir şekilde ve herhangi bir zamanda kısmen veya tamamen değiştirilebilir veya tadil edilebilir, bu nedenle tüm değişikliklerden haberdar olmak için işbu Politikayı çeşitli zamanlarda incelemenizi tavsiye ediyoruz. Oyun ve oyun hizmetlerinin kullanılmaya devam edilmesi, işbu Politikanın değiştirilmiş halinin kayıtsız şartsız kabulü anlamına gelmektedir.\n\nYönetim ile İletişim\n\n49.\tİşbu Politika hakkında herhangi bir soru, açıklama, şikayet veya yorumlarınız için, lütfen help@tankionline.com adresinden bize ulaşınız. Sorularınızı mümkün olan en kısa süre içinde değerlendireceğiz.\n50.\tYönetim, orantısız bir şekilde teknik çaba gerektiren, diğer Kullanıcıların gizliliğini tehlikeye atan veya uygulanması aşırı derece güç olan makul olmayacak derecede sık talepleri reddedebilir.\n51.\tKullanıcının Yönetim ile yazışmaları başlatması halinde veya Oyun ve Oyun Hizmetleriyle ilgili sorunlara ilişkin bir rapor sunması halinde, Yönetim tüm bu yazışmaları saklama hakkına sahiptir."
+  CLAN_SEARCH_CLAN_IN_LIST: Listede klan ara...
+  OPEN_ALL_CONTAINERS: Open all
+  NEWBIES_ABONEMENT_WINDOW_TEXT: |-
+    Tüm dünyada askerleri bulunan Tanki Online ordusuna hoş geldiniz!
+
+    Bu özel "Acemi Kartı" aktif iken oynayacağın her savaşta EXPERIENCE_BONUS% ek deneyim puanı ve CRYSTAL_BONUS% ek kristal kazanarak acemilik günlerinizi hızlı atlatabileceksin.
+
+    Olabildiğince çok savaş oynayarak potansiyelini sonuna kadar kullanın!
+  GARAGE_CONFIRM_ALERT_CANCEL_BUTTON_TEXT: Hayır
+  CTF_RETURNED_ENEMY_FLAG: düşman bayrağını geri getirdi
+  CHAT_SHARP_PLANS: planlar|Geliştiricileri görevleri ve planları|http://en.tankiwiki.com/Development_Plans
+  OPEN_BATTLE_LIST_BUTTON: Aç
+  RUGBY_GOAL_RED: Kırmızı takım gol attı!
+  EXPERIENCE_BAR_TOOLTIP: Mevcut deneyiminiz. Deneyim kazanmak ve yeni ekipmanların kilidini açmak için savaşlara katılın.
+  DEVICE: Değişiklik
+  CHANGE_UID_FORM_EXPLANATION_TEXT: |-
+    Tekrar hoş geldin, tankçı!
+
+    Uzun süreli işlemsizlikten dolayı adınız otomatik olarak değiştirildi, fakat bu formu kullanarak istediğiniz bir ad ile değiştirebilirsiniz.
+
+    Yeni kullanıcı adınızı oyuna girmek için kullanabilirsiniz.
+  CHALLENGE_TIER: Tier
+  BATTLE_PLAYER_LEFT: sol
+  HEADER_SECURITY: HESAP GÜVENLİĞİ
+  BATTLE_CREATE_PANEL_CHECKBOX_PRIVATE_BATTLE: Özel savaş
+  PIECE_2: adet
+  CLAN_FOUNDER: Klan kurucusu
+  RUGBY_BALL_LOST_USER: topu kaybetti
+  ALERT_ACCOUNT_CANT_BE_UNLINKED: |-
+    Dikkat!
+    Hesabınızın %1 ile bağlantısını kesmeden önce, ayarlarda
+    Tanki Online hesabınız için bir şifre belirlemeniz gerekiyor
+  CLAN_YOUR_RANK_TOO_LOW: Rütbeniz bir klan üyeliği için çok düşük
+  BATTLE_CREATE_PANEL_BUTTON_TEAM_DEATHMATCH: |-
+    Takım
+    Ölüm Maçı
+  CHALLENGE_BUY_BATTLE_PASS: Buy battle pass
+  CHALLENGE_BUY_PREMIUM_TIP: Buy premium account to get twice as many stars for finishing battles.
+  BATTLE_CREATE_PANEL_FLOOD_ALERT_TEXT: 5 dakika içinde en fazla üç savaş oluşturabilirsiniz.
+  KEYBOARD_KEY_UP: Yukarı
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_TEXT: |-
+    Bir harita ve oyun seçerek
+    özel bir savaş oluşturmak için tıkla.
+  CLAN_INCORECT_CLAN_NAME: Yanlış klan adı
+  SHOP_FEATURING_DESCRIPTION: Özel ürün veya özel fiyat için geçici teklif.
+  GARAGE_GAUSS_AIMING_DAMAGE_PROPERTY: Keskin nişancı modunda hasar
+  BATTLE_RESTART: Savaşa başlamak için kalan süre
+  REFERRALS_BUTTON_LABEL: Davet edilen kullanıcılar
+  SETTINGS_SSAO: Koyu gölgeler
+  SETTINGS_MESSAGE_ONLY_FROM_FRIENDS: Sadece arkadaşlarda PM
+  JGR_MODE_NAME: Ezici
+  GAME_ACTION_SCREEN_SIZE_DECREASE: Savaş ekranı boyutunu azalt
+  CREATE_FAILED_YOU_ARE_BANNED: "Sevgili oyuncu, sohbet kanalında yasaklandınız\nbu nedenle savaş oluşturamayacaksınız. Fakat \ndiğer oyuncuların oluşturdukları savaşlara katılabileceksiniz."
+  JGR_SHORT_NAME: EZC
+  TURRET: Taret
+  ALERT_ANSWER_YES: Evet
+  SETTINGS_UNLINK_ACCOUNT: Oyun hesabı bağlantınızı kesin
+  GARAGE_INFO_PANEL_BUTTON_BUY_TEXT: Satın al
+  GARAGE_BUY_TEXT: Satın al
+  GARAGE_UPGRADE_COMPLETE_TEXT: 'Yükseltildi:'
+  FRIENDS_DECLINE_ALL_REQUESTS_ALERT: Tüm alınan istekleri reddet?
+  SERVER_FROZEN_ALERT_TEXT: Üzgünüz, seçtiğiniz oyun sunucusu şu anda dolu. Farklı bir sunucu seçiniz.
+  MAIN_PANEL_BUTTON_SHOP: Mağaza
+  DRONE_POWER_DURATION: Power up duration
+  NEED_OF_EMAIL_CONFIRMATION: |-
+    E-postanızı girdiniz ancak henüz doğrulamadınız. E-postanız doğrulandığında ancak bonus kristaller gönderilecektir.
+
+    Doğrulama linkini içeren e-postayı bulamıyorsanız, istenmeyen posta klasörünü kontrol ediniz veya e-postanızı bir kez daha giriniz. Doğrulama linkini içeren yeni bir e-postayı size göndereceğiz.
+
+    Unutmayın, doğrulanmış bir e-posta hesabınızın güvenliğini arttırır ve Tanki Online müşteri hizmetleriyle iletişim kurabilmenizi sağlar.

@@ -1,0 +1,1557 @@
+type: Localization
+images:
+  GARAGE_ADD_MORE_CRYSTALS: GARAGE_ADD_MORE_CRYSTALS.png
+  HELP_MOUSE_MINI: HELP_MOUSE_MINI.png
+  TURNOVER_HINT_DELETE_BUTTON: TURNOVER_HINT_DELETE_BUTTON.png
+  HELP_CONTROLS_MINI: HELP_CONTROLS_MINI.png
+  FULL_BATTLE_HELP: FULL_BATTLE_HELP.png
+strings:
+  MAIN_PANEL_UPDATE_RANK_NOTICE: |-
+    恭喜您！
+    您已达到 %1 的级别
+  CLAN_INCOMING: 请求
+  SETTINGS_BUTTON_CANCEL_TEXT: 取消
+  BATTLE_ENTER_WARNING_PARKOUR_BUTTON_ENTER: 加入战斗
+  BLOCK_USER_CONTEXT_MENU_LABEL: 屏蔽
+  STATISTICS_HEADER_WEALTH: 财富
+  CHAT_SHARP_CLANS: 军团|军团|http://forum.3dtank.com/index.php?showtopic=678
+  JGR_YOU_ARE_THE_BOSS: 准备好，你是下一个的剑圣!
+  CTF_GOT_FLAG_NEUTRAL: 已经拿起旗子
+  CODE_CONFIRM: 验证码
+  CHECK_PASSWORD_FORM_CALLSIGN: '登录名或电子邮箱:'
+  CLAN_SEARCH: 搜索军团
+  CTF_LOST_FLAG_NEUTRAL: 已经失去旗子
+  ERROR_FATAL: 发生了一个错误
+  CHAT_SHARP_THEFT: 被盗|如果我的坦克被盗了怎么办|http//help@3dtank.net
+  PARTNER_REGISTARTION_FORM_LOGIN_LINK_TEXT: 已经注册？<a href='event:haveAcc'><font color='＃59ff32'><u>进入游戏</u></font></a>。
+  CLAN_YOU_ALREADY_IN_CLAN: 您已经是一个军团的成员
+  CP_MODE_NAME: 控制点
+  BATTLE_STAT_BONUS_REWARD: 奖励
+  HELP_PANEL_RANK_BAR_HELPER_TEXT: 当您杀死其他玩家经验栏将填满。
+  CLAN_NOT_RECRUITING: 这个军团现在不招募
+  SETTINGS_SOFT_PARTICLES_LABEL_TEXT: 软粒子
+  PRESENT_WILL_BE_REMOVED_ALERT: 这个礼物将被永久删除。 继续吗？
+  GAME_ACTION_USE_MINE: 放下地雷
+  CLAN_SEND_REQUEST: 加入军团
+  ALERT_ACCOUNT_LINKING_ERROR: 连接账户时出错，请稍后再试。
+  HEADER_DEVICES: 装备改造
+  DRONE_DEFEND: 启动持续时间
+  STATISTICS_HEADER_DEATHS: 死亡
+  ALERT_ANSWER_GO_TO_GARAGE: 去车库
+  REARM_DM_END_BATTLE: 战斗结束
+  DEVICES: 装备改造
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_TEXT_MIDDLE_RANK: 现在您可以在3D坦克中获得每个新等级的水晶。 我们刚刚为您的账户添加了以前所有的等级。 提升等级并获得更多！
+  CLAN_ALERT_REMOVE_PLAYER: 从军团中移除 %USERNAME% ？
+  ERROR_CALLSIGN_WRONG_FIRST_SYMBOL: 第一个昵称符号必须是字母或数字
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_TEXT: |-
+    点击选择
+    并加入和战斗。
+    您的奖励 -200 水晶！
+  CHECK_YOU_LOCATION_TEXT: '您的位置:'
+  CLAN_LEAVE: 离开军团？
+  HELP_PANEL_RATING_INDICATOR_HELPER_ARROW_LENGTH: '48'
+  GARAGE_MACHINE_GUN_PROTECTION_PROPERTY: 极速炮防护
+  PAYMENT_OPERATORS_LABEL_TEXT: 运营商：
+  CLAN_POSITION_VETERAN: 老兵
+  GROUP_INVITE_RESPONSE_DECLINE: 不加入小组
+  YOUR_FRIEND_IS_ENTERING_THE_GAME_LABEL: |-
+    邀请尚未发送
+    您的好友正在进入游戏
+  YOUR_ACCEPTED_LIMIT_EXCEEDED_ALERT: 不能接受好友请求。您的好友列表已经达到了玩家的最大数量。
+  SETTINGS_MESSAGE_ONLY_FROM_FRIENDS: 只来自好友的信息
+  MAIN_QUEST_BUTTON: 主要
+  ALERT_ANSWER_OK: 确定
+  PAYMENT_BUTTON_SEND_BUG_REPORT_TEXT: 报告
+  GARAGE_UPGRADE_COMPLETE_TEXT: 物品已经升级：
+  CTF_RETURNED_ENEMY_FLAG: 敌方旗子已经返回
+  SETTINGS_BUTTON_SAVE_TEXT: 保存
+  TYPING_SPEED_BANNED: 您暂时被禁止在聊天中发言
+  DAILY_QUEST_COMPLETED: |-
+    这项任务已经完成。
+
+    明天回到游戏以获得新的任务。
+  GARAGE_GAUSS_PROTECTION_PROPERTY: 电磁炮防护
+  SERVER_IS_RESTARTING_CREATE_BATTLE_TEXT: 服务器正在重新启动。 您不能创建战场或加入现有的战场。
+  ERROR_EMAIL_NOT_SENDED: 邮件没有发送
+  HEADER_SECURITY: 账户安全
+  HEADER_CLAN_LICENSE: 军团许可证
+  SHOP_WINDOW_PAYMENT_CATEGORY_DESCRIPTION: 请选择您的首选付款方式继续
+  GARAGE_INFO_PANEL_BUTTON_EQUIP_TEXT: 装备
+  GARAGE_THUNDER_PROTECTION_PROPERTY: 雷暴炮防护
+  CONFIRM_RENT_QUESTION: 确认租用？
+  SETTINGS_MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION: 鼠标垂直翻转镭射狙击模式
+  GARAGE_PENETRATING_PROPERTY: 穿透力
+  CHAT_SHARP_PLANS: 计划|开发者的任务和计划|http://en.tankiwiki.com/Development_Plans
+  HEADER_DISCOUNT: 折扣！
+  CURRENT_PASSWORD: 当前密码：
+  GARAGE_HEAL_PROPERTY: 治疗
+  SETTINGS_ENABLE_ADAPTIVE_FPS_CHECKBOX_LABEL_TEXT: 自适应帧数
+  CHALLENGE_BUY_STARS: 购买星星
+  DAILY_QUEST_GOAL: '任务:'
+  CHANGE_UID_FORM_EXPLANATION_TEXT: |-
+    欢迎回来，坦克手!
+
+    您的名字由于长期不登录已经改变，但您可以将其更改为这种样式的其他形式。
+
+    您的新户名也将用于您的登录。
+  RUGBY_BALL_TAKEN_USER: 已经获得了球
+  PARTNER_REGISTARTION_FORM_CONTINUE: 接受
+  GARAGE_PRICE: 车库的价格
+  GARAGE_CATEGORY_BUTTON_PRESENTS: 礼物
+  HEADER_YOUR_TANK: 您的坦克
+  QUICK_PLAY_MODE_NAME: 快速战斗
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_TEXT: 输入您的电子邮箱并接收 5 个水晶!
+  HELP_PANEL_BUTTON_BAR_HELPER_ARROW_LENGTH: '116'
+  GARAGE_SHOTGUN_PROTECTION_PROPERTY: 滑膛炮防护
+  CLAN_ACCEPT_REQUEST: 接受邀请
+  BATTLE_PLAYER_KILLED: 击杀
+  NEWBIES_ABONEMENT_WINDOW_TEXT: |-
+    欢迎来自世界各地的坦克！
+
+    在这个特殊的“初学者通行证”处于活动状态时，您将获得EXPERIENCE_BONUS%额外经验值和CRYSTAL_BONUS%额外水晶，这在您招募的前几天为您提供了很好的帮助。
+
+    确保通过尽可能多的战斗来充分发挥它的潜力！
+  REDUCE_DAMAGE_RAILGUN: 激光炮
+  RENAME_FORM_NEW_UID_INPUT: 输入您的新昵称
+  MAP_THEME_NAME_SPACE: 宇宙
+  CHALLENGE_TIER: 奖励
+  SHOW_DAMAGE: 显示伤害
+  GROUP_INVITE_RESPONSE_USER_IN_BATTLE: 这个玩家在这个战场
+  BATTLE_CREATE_PANEL_BUTTON_ASSAULT: 突袭
+  LOADER_HEADER: 加载
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_TEXT: |-
+    点击进入到车库
+    并让您完成第一次购买。
+    您的奖赏 -200 水晶！
+  MAP_THEME_NAME_WINTER_DAY: 冬天
+  SETTINGS_SHOW_CHAT_CHECKBOX_LABEL_TEXT: 显示聊天
+  BUG_REPORT_BUTTON_SEND_TEXT: 发送
+  CHAT_PANEL_COMMAND_BLOCK_LIST: 屏蔽列表：
+  SETTINGS_NEW_PASSWORD_LABEL_TEXT: 新密码：
+  DOM_POINT: 点{point}
+  SGE_RED_CAPTURED_POINT: 红队获得了点 {point}
+  LOBBY_CHAT_WRITE_PUBLICLY: 写公开信
+  CAPTCHA_FORM_TITLE: 输入图片中的符号：
+  BATTLE_TEAM_ALERT: 您现在正在参加 %1 队
+  REARM_PAUSE_2: 按任意键继续
+  DOM_WE_LOST_POINT: 我们失去了点 {point}
+  REDUCE_DAMAGE_MINE: 地雷
+  OK_ENTER_GROUP_REMINDER: ''
+  FRIENDS_YOU_ARE_HERE_BATTLE_INDICATOR: (您的位置)
+  GARAGE_CLOSE_TEXT: 关闭
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_TEXT: |-
+    单击以创建自定义战场。
+    通过选择地图和模式。
+  CHALLENGE_BUY_BATTLE_PASS: 解锁星级挑战奖励加成
+  KEYBOARD_KEY_PG_UP: PgUp
+  GARAGE_CONFIRM_ALERT_BUY_QEUSTION_TEXT: 您确认购买了吗？
+  SERVER_STOP_ALERT_TEXT: |-
+    服务器更新!
+
+    服务器在 %1 秒停止。
+  SHOP_PAYMENT_CATEGORY_HEADER_FOR_ODNOKLASSNIKY: ''
+  CLAN_PLAYER_IS_INVITE_LIST: 玩家 %USERNAME% 已被邀请
+  CURRENT_WAITING_TIME_LABEL: 当前等待时间
+  CONSEQUENCES_EXTERNAL_LINK_FOLLOWING: |-
+    我们不对网站内容负责，并强烈建议您不要输入任何与您账户相关的数据(特别是电子邮件地址和密码)。
+
+    如果您没有任何重要的理由要信任此网站，最好不要输入。
+
+    请记住，我们绝不会免费赠送水晶或通过外部网站索要密码。
+  TOURNAMENT_BATTLE_STARTING_LABEL: 开始战斗... 振作起来!
+  HELP_PASSWORDS_DO_NOT_MATCH: 密码不匹配
+  GARAGE_RESISTANCE_DESCRIPTION_PREFIX: '防护:'
+  FRIENDS_FIND_TO_SEND: 发送请求给朋友...
+  DRONE_CONSTANT_POWER_PERCENT: 奖励伤害
+  CHALLENGE_BUY_PREMIUM: 购买 Vip
+  DRONE_ARMOR_PERCENT: Bonus armour
+  OPEN_BATTLE_LIST_BUTTON: 打开
+  GO_TO_BATTLE_LABEL: 去战场
+  RUGBY_MODE_NAME: 橄榄球
+  GAME_ACTION_TANK_TURN_RIGHT: 坦克右转
+  DAILY_QUEST_ALL_MISSIONS_COMPLETED: 您已经完成了今天的所有任务！明天进入游戏以获得更多。
+  FRIENDS_PLAYER_ALREADY_IN_LIST_ALERT: '%USERNAME% 已经在您的好友列表。'
+  HELP_NAME_IS_NOT_UNIQUE: 该名称已被使用
+  CLAN_POSITION_OFFICER: 军官
+  CLAN_ALERT_DISBAND_CLAN: |-
+    解散军团吗？
+
+    警告！
+    创建一个新的军团，您会需要购买一个新的军团许可证。
+  AS_SHORT_NAME: 突袭
+  SETTINGS_RECEIVE_PRESENTS: 接受所有玩家的礼物
+  FRIENDS_EXIT_FROM_BATTLE_ALERT: 离开战场？ 将会失去您的分数和战斗奖励。
+  ERROR_EMAIL_NOT_UNIQUE: 邮箱已经被使用
+  GARAGE_SHAFT_PROTECTION_PROPERTY: 镭射炮防护
+  CTF_CAPTURED_ENEMY_FLAG: 获得敌方旗子
+  REDUCE_DAMAGE_TWINS: 离子炮
+  RUGBY_GOAL_USER: 进球了
+  BATTLE_CREATE_PANEL_STEPPER_KILLS_LIMIT: 击杀范围
+  GAME_ACTION_USE_FIRST_AID: 使用维修工具道具
+  REGISTER_FORM_AGREEMENT_NOTE_TEXT: <textformat leading='5'>我接受这些条款的<a href='http://forum.3dtank.com/index.php?showtopic=678/' target='_blank'><font color='#59ff32'><u>许可协议</u></font></a>,<a href='http://forum.3dtank.com/index.php?showtopic=20528/' target='_blank'><font color='#59ff32'><u>游戏规则</u></font></a>
+  CLAN_ALERT_CLAN_FULL: 军团已满
+  CLAN_IS_ALREADY_IN_REQUEST_LIST: 您已经申请加入军团 %CLANNAME%
+  SHOP_WINDOW_YOUR_CHOICE: 您的选择
+  REDUCE_DAMAGE_SHOTGUN: 滑膛炮
+  REARM_TEAM_WIN: 您的团队赢了！
+  PARTNER_LOGIN_FORM_ENTER_USERNAME_TEXT: 输入您的3D坦克用户名和密码以通过合作伙伴网络进行游戏。
+  CLAN_SEND_REQUEST_TO_CLAN: 向军团发送请求...
+  SETTINGS_CHANGE_PASSWORD_WRONG_LINK_TEXT: 您使用的链接已失效
+  DOM_RED_CAPTURED_POINT: 红队已经获得了点{point}
+  WEEKLY_QUEST_HINT: 每日至少完成一次任务，连续7天获得额外的任务<a href='event:'><font color='#59ff32'><u>奖励</u></font></a>
+  CHAT_SHARP_RULES: 规则|规则|http://forum.3dtank.com/index.php?showtopic=20528
+  SETTINGS_MOUSE_INVERSION_CHECKBOX_LABEL: 鼠标垂直反转
+  GARAGE_ROCKET_LAUNCHER_PROTECTION_PROPERTY: 火箭炮防护
+  INVITE_TO_BATTLE_LABEL: 邀请参加战斗
+  TJR_MODE_DESCRIPTION: 攻击敌方队伍的剑圣并保护自己。 消灭最多敌人的剑圣的队伍获胜。
+  DRONE_MINES_ACTIVATION_DELAY: 地雷激活持续时间
+  ALERT_ANSWER_CANCEL: 取消
+  DAILY_QUEST_PRIZE: '奖励:'
+  HELP_PANEL_RANK_HELPER_ARROW_LENGTH: '108'
+  MAP_THEME_NAME_NIGHT: 晚上
+  FRIENDS_BUTTON_TOOLTIP: 您的好友列表。从这里您可以加入您的好友所在的战场和检查他们的个人资料。
+  CHAT_SHARP_FORUM: 论坛|论坛|http://forum.3dtank.com/
+  CLAN_MEMBER_COLUMN_KILL_DEATH_RATIO: 击杀/死亡
+  RANK_ICON_TOOLTIP: 您现在的军衔。单击查看您的个人资料。
+  SETTINGS_GRAPHICS_AUTO_QUALITY: 自动图形质量
+  GARAGE_DISTANT_DAMAGE_PROPERTY: 最远距离伤害
+  CLAN_INVITE_TO_CLAN: 邀请到军团
+  GARAGE_GAUSS_AIMING_DAMAGE_PROPERTY: 狙击模式伤害
+  DOM_BLUE_CAPTURED_POINT: 蓝队获得了点 {point}
+  SETTINGS_SHOW_FPS_CHECKBOX: 显示帧数和延迟
+  NOT_ENOUGH_COINS: 没有足够的坦克硬币！
+  DELETE_PRESENT_BUTTON: 删除
+  COIN_CONFIRMATION_DESCRIPTION: 通过点击“购买”按钮，您确认购买坦克硬币。
+  HELP_PANEL_SCORE_HELPER_ARROW_LENGTH: '36'
+  CLAN: 军团
+  TIME_LABEL_MINUTE: 分钟
+  SETTINGS_DYNAMIC_LIGHTING: 动态照明
+  PAYMENT_BUG_REPORT_INFO: 如果您付款没有到达我们这，或者您的交易存在问题，请将此事报告给我们。
+  SHOP_WINDOW_HEADER_DESCRIPTION: 这是您可以购买各种商品以改善您的游戏体验的地方。 您同意在完成付款流程后购买的商品将存入您的账户。 已经购买完成的物品无法退还。
+  HEADER_FRIENDS: 好友
+  JGR_SHORT_NAME: 剑圣
+  FREE_UIDS_FORM_HEADER: 该名称已被使用。这些选项可用：
+  GARAGE_SPEED_UP_TEXT: 立即完成
+  CLAN_CREATE: 创建军团
+  HEADER_PREMIUM: VIP
+  CHAT_SHARP_FEEDBACK: 反馈|反馈|http://en.tankiforum.com/index.php?showforum=182
+  RESTORE_PASSWORD_INFO: <a href="http://forum.3dtank.com/index.php?showtopic=4788/ " target="_blank"><font color='#59ff32'><u>信息</u></font></a>
+  BATTLEINFO_PANEL_COPY_LINK_TEXT: 复制链接
+  CHAT_LABEL_ALL: 对所有
+  FRIENDS_CANCEL_BUTTON_TEXT: 取消
+  DOM_RED_LOST_POINT: 红队失去了点 {point}
+  AS_MODE_NAME: 突袭
+  PAYMENT_COUNTRIES_LABEL_TEXT: 国家：
+  NEW_PRESENTS_ALERT_ACCEPT_BUTTON: 视图
+  REGISTER_FORM_SKIP_REGISTRATION_TEXT: 注册前请尝试游戏!
+  DOM_ENEMIES_LOST_POINT: 敌方失去了点 {point}
+  CLAN_EDIT_PROFILE: 编辑档案
+  TJR_SHORT_NAME: 团队剑圣
+  GARAGE_MINE_PROTECTION_PROPERTY: 地雷防护
+  VK_ENTER_GROUP_REMINDER: ''
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_TEXT: 您的等级不匹配这场战斗。 选择一个绿色的战场。
+  NEED_EMAIL_ALERT_MESSAGE: 为了购买此产品，请将您的电子邮件绑定到您的账户并进行确认。 为此，请转到游戏设置的“账户”部分（右上角的齿轮）。 如果您在绑定时遇到困难，整个过程详细描述<a href="http://forum.3dtank.com/index.php?showtopic=18230" target="_blank"><u>这里</u></a>。
+  RUGBY_BALL_TAKEN_RED: 红队已经获得了球
+  FRIENDS_CONFIRM_REQUEST: 确认请求
+  HEADER_PAYMENTS: 付款
+  SHOP_WINDOW_PAYMENT_CATEGORY_HEADER: 付款方式
+  SETTINGS_BACKGROUND_SOUND_CHECKBOX_LABEL_TEXT: 背景声音
+  HELP_NAME_IS_FORBIDDEN: 输入的名称不能用于注册
+  SETTINGS_MOUSE_CONTROL_CHECKBOX: 鼠标控制
+  GROUP_INVITE_RESPONSE_ACCEPT: 加入小组
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_ARROW_LENGTH: '30'
+  GAME_ACTION_USE_DOUBLE_ARMOR: 使用双倍护甲道具
+  GARAGE_INFO_PANEL_BUTTON_UNEQUIP_TEXT: 取消装备
+  REDUCE_DAMAGE_RICOCHET: 火龙珠
+  GARAGE_WEIGHT_PROPERTY: 重量
+  CHAT_PANEL_COMMAND_BLOCK: '用户 %1 已添加到屏蔽列表 '
+  CTF_RETURNED_FLAG_NEUTRAL: 旗子已经返回
+  SAVE_BUTTON_LABEL: 保存
+  PAYMENT_SMSNUMBERS_NUMBER_HEADER_LABEL_TEXT: 数量
+  BATTLE_CREATE_PANEL_STEPPER_MAX_TEAM_SIZE: 团队最大人数
+  AUTOCOMPLETION_ENEMY_IS_BACK: 敌人又回到战场上来了！
+  TIP_13: 按下您键盘上的«6»可以在战斗中使用金箱子。这样做是为了好玩，甚至是为了分散敌人的注意力。您可以在商店里买金箱子，也可以从幸运礼盒中获得。
+  CHAT_LABEL_TEAM: 对团队
+  CLAN_REMOVE_REQUEST_TO_CLAN: 撤回您的请求
+  SETTINGS_TAB_NAME_ACCOUNT: 账户
+  SETTINGS_SHADOWS_LABEL_TEXT: 坦克下的阴影
+  DRONE_INVENTORY: 道具有效时间
+  CLAN_NAME_ALREADY: 军团名称已被使用
+  NEWS_TAB_HEADER: 新闻
+  DRONE_CRITICAL_HEALTH: 治疗
+  CLAN_PROFILE: 军团简介菜单
+  CLAN_PLAYER_IS_REQUEST_LIST: 玩家 %USERNAME% 已经申请加入军团
+  GARAGE_EQUIPPED_TEXT: 已装备
+  GARAGE_ROTATION_PROPERTY: 炮塔转速
+  ALERT_EMAIL_CONFIRMED: 您的电子邮件已确认
+  GARAGE_CATEGORY_BUTTON_SPECIAL: 特殊
+  SHOP_WINDOW_EULA_LINK: <a href="http://forum.3dtank.com/index.php?showtopic=678/" target="_blank"><font color='#59ff32'><u>许可协议</u></font></a>
+  CTF_MODE_NAME: 互夺军旗
+  GARAGE_UPGRADE_TEXT: 升级
+  CLAN_INCORECT_CLAN_NAME: 不正确的军团名称
+  DISABLED_CHAT_LABEL_TEXT: 聊天已关闭。 去设置内打开。
+  TDM_MODE_DESCRIPTION: 摧毁敌方坦克并保护您的队友。 击杀最多的队伍获胜。
+  CLAN_MEMBERS: 成员
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_ARROW_LENGTH: '30'
+  ERROR_EMAIL_INVALID: 电子邮件无效
+  PRESENT_INFO_DATE_LABEL: '日期:'
+  ALERT_ANSWER_PROCEED: 继续
+  CLAN_CHAT: 军团聊天
+  AUTOCOMPLETION_BALANCE_RESTORED_PART1: 再次平衡队伍
+  DRONE_MINE: 已保存的地雷数量
+  RUGBY_MODE_DESCRIPTION: 在地图中获得球，并把它带到敌人的基地。 不要让敌方把球带到您的基地。 得分最高的团队获胜。
+  CLAN_MEMBER_POSITION: 职务
+  CHECK_PASSWORD_FORM_PLAY_BUTTON: 开始战斗！
+  GARAGE_CRITICAL_DAMAGE_PROPERTY: 暴击伤害
+  GAME_ACTION_CAMERA_DOWN: 向下移动镜头
+  GARAGE_RELOAD_PROPERTY: 炮弹重装时间
+  CLAN_USER_CLAN_NAME: 军团名称
+  IS_CONSIDERING_YOUR_INVITE_LABEL: |-
+    正在考虑您的邀请
+    等待答复
+  TIP_0: 获得经验值，以达到更高的等级，可以让您进入车库查看买到新的炮塔和底盘!
+  ERROR_EMAIL_NOT_FOUND: |-
+    此电子邮件尚未注册。
+    可能您注册了一个不同的。
+  ACCOUNT_RECOVERY_FORM_BUTTON_CANCEL_TEXT: 取消
+  BATTLE_TEAM_BLUE: 蓝队
+  MAP_THEME_NAME_SUMMER: 夏天
+  SETTINGS_TAB_NAME_GAME: 游戏显示
+  CHALLENGE_BUY_PREMIUM_TIP: 购买 Vip 可以获得两倍于完成战斗的星星。
+  HEADER_BATTLE_INFO_TEXT: 战场信息
+  CLAN_PLAYER_RANK_TOO_LOW: '等级太低 '
+  CLAN_MEMBER_DAYS: 进入军团时间
+  BATTLE_CANNOT_BE_FOUND_ALERT: 链接已过时。战场无法找到，结束了。
+  CHANGE_UID_FORM_NEW_UID_TEXT: 新昵称：
+  CP_SHORT_NAME: 控制点
+  GARAGE_POWER_PROPERTY: 启动加速度
+  CLAN_POSITION_NOVICE: 新兵
+  TIP_7: 键盘«1»至«5»的按键可以在战斗中激活你的道具。 明智地使用它们来获得优于敌人的优势。
+  CLAN_PROFILE_INVATION_CLAN: 招募
+  CHANGE_UID_FORM_REPEAT_PASSWORD_TEXT: '重复密码:'
+  FRIENDS_ADD: 添加好友
+  CLAN_PROFILE_CLOSE: 关闭
+  CLAN_PROFILE_OPEN: 打开
+  SETTINGS_SHOW_SKYBOX_CHECKBOX_LABEL_TEXT: 显示天空
+  LINK_IS_NO_LONGER_VALID_TEXT: 此链接不再有效。 请再试一次。
+  PIECE_3: 件
+  REARM_PAUSE_1: 已启用暂停
+  CLAN_MEMBER_COLUMN_LOST: 死亡
+  CLAN_MEMBER_LAST_VISIT: 上次访问
+  SHOP_GOLDBOX_MANY: 箱子
+  REDUCE_DAMAGE_THUNDER: 雷暴炮
+  SETTINGS_ALTERNATE_CAMERA_LABEL_TEXT: 备用镜头视角
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_SUM: 您已经收到 %1
+  GAME_ACTION_DROP_FLAG: 放下旗子
+  ALERT_ACCOUNT_ALREADY_LINKED: 这个 %1 账户已经被链接
+  CLAN_LICENSE: 军团许可证
+  HEADER_CAUTION_EXTERNAL_LINK: 外部链接
+  QUEST_BUTTON: 任务
+  SETTINGS_BUTTON_CHANGE_PASSWORD_TEXT: 更改密码和电子邮件
+  REDUCE_DAMAGE_MACHINE_GUN: 极速炮
+  MISSION_BUTTON_TOOLTIP: 您的每日任务列表。完成每日任务, 获得更多的奖励。
+  BATTLE_STAT_CALLSIGN: 昵称
+  REARM_BATTLE_EVENT: 已经改变了装备
+  GARAGE_CATEGORY_BUTTON_RESISTANCE_MODULES: 防御模块
+  LOADING_PAYMENT_PAGE: 正在加载付款页...
+  SPECTATOR_NAME: 旁观
+  ALERT_ANSWER_RETURN_TO_BATTLE: 重返战场
+  CHECK_PASSWORD_FORM_REMEMBER: 记住我
+  ERROR_PASSWORD_LENGTH: 您的密码长度必须大于1
+  SETTINGS_INVERSE_TURN_CONTROL_CHECKBOX_LABEL_TEXT: 后退时互换左右方向键
+  CLAN_PURCHASE_INFORMATION: |-
+    要创建自己的军团，您必须购买许可证。
+    这个许可证将允许您创建一个军团。
+  CLAN_TAG_ALREADY: 标记已被使用
+  CHAT_SHARP_COMMANDS: 团队|团队|http://forum.3dtank.com/
+  ASIASOFT_CHECKING_BALANCE: 检查平衡...
+  MAIN_PANEL_BUTTON_GARAGE: 车库
+  PARTNER_GAME_TERMS: ''
+  CTF_MODE_DESCRIPTION: 攻击敌方基地，将其旗子带回您的基地并保护您的旗子免受敌方队伍的攻击。夺取最多旗子的队伍获胜。
+  BATTLE_CANNOT_BE_FOUND_LABEL: 邀请尚未送，战场无法找到
+  CTF_OUR_FLAG_RETURNED: 我们的旗子已经回归
+  CHALLENGE_FINISH: 您已达到获得最高奖励条件。 所有奖励都已获奖。
+  HEADER_NEWS: 新闻
+  REARM_TEAM_LOOSE: 您的团队输了
+  CLAN_MEMBER_COLUMN_DESTROYED: 击杀
+  ASSAULT_DELIVER_FLAG: 基地被成功袭击
+  HEADER_BATTLES: 战场
+  REDUCE_DAMAGE_ARTILLERY: 马格南
+  CAUSES_AND_SOLUTIONS: 原因和解决方案
+  BATTLE_CREATE_PANEL_STEPPER_TEAM_SCORE_LIMIT: 得分
+  SETTINGS_SHOW_LOCAL_DRONE: 显示您的无人机
+  COPY_LINK_BUTTON_LABEL: 复制链接
+  FORMAT_NAME_NONE: 无设置
+  CAPTCHA_PROCEED_BUTTON: 下一步
+  PAYMENT_SMSTEXT_HEADER_LABEL_TEXT: '文本:'
+  ALERT_GARAGE_AVAILABLE: 现在您可以在车库里购买物品。
+  VOTE_USER_LABEL: 投票
+  RUGBY_SHORT_NAME: 橄榄球
+  LOOT_3_OPEN_BUTTON: 打开 15 个
+  DEVICES_STANDARD_SETTINGS: 标准设置
+  THANKS_FOR_PURCHASE_INFO_ABOUT_EMAIL: |-
+    坦克手！ 请提供一个电子邮件地址
+    用于接收付款收据。
+  GARAGE_RAILGUN_PROTECTION_PROPERTY: 激光炮防护
+  MODULE: 模块
+  CHALLENGE_BUY_BATTLE_PASS_TIP: 解锁星级挑战奖励加成以获得您获取的所有奖励。包括之前完成的那些！
+  DOM_WE_CAPTURED_POINT: 我们获得了点 {point}
+  DOM_ENEMIES_CAPTURED_POINT: 敌方获得了点 {point}
+  MUTE_BUTTON_TOOLTIP: 切换静音打开/关闭.
+  BATTLE_CREATE_PANEL_DRONES: 无人机
+  NEED_OF_EMAIL_CONFIRMATION: |-
+    您输入了您的电子邮件，但尚未验证。 奖励水晶只会在您的电子邮件验证后才会发送。
+
+    如果您找不到带验证链接的信件，请检查您的垃圾邮件文件夹或再次输入您的电子邮件。 我们会向您发送带有验证链接的新信件。
+
+    请记住，拥有经过验证的电子邮件地址可以提高您账户的安全性，并允许您与3D坦克客户服务进行沟通。
+  HEADER_UPGRADE: 升级
+  SHOW_NOTIFICATIONS_LABEL: 显示通知
+  RENAME_FORM_CURRENT_PASSWORD_INPUT: 输入您账户的当前密码
+  BATTLE_FUND: 战斗奖励（购买Vip将更有优势）
+  MAP_THEME_NAME_SUMMER_DAY: 夏天
+  HELP_PANEL_SCORE_HELPER_TEXT: 您现在的经验/所需的经验以获得下一个等级
+  ALERT_ACCOUNT_SUCCESS_LINKED: 您的账户已成功链接
+  CLAN_KILL_DEATH_RATION: 击杀/死亡
+  CHALLENGE_BUY_STARS_TIP: 获得额外的星星来更快地完成您的星级挑战。
+  REARM_BATTLE_PLACE: 您的位置： {your_place} / {places}
+  NOT_ENOUGH_MONEY_FOR_BUY_ITEM: 您没有足够的水晶来购买。
+  TJR_NEW_BLUE_BOSS: 蓝队剑圣已经加入战斗
+  CLAN_MEMBER_COLUMN_EXPERIENCE: 经验
+  GARAGE_CATEGORY_BUTTON_SUPPLIES: 道具
+  CTF_ENEMY_FLAG_RETURNED: 敌方旗子已经回归
+  CTF_SHORT_NAME: 互夺军旗
+  HELP_PANEL_MONEY_FIRST_HELPER_TEXT: |-
+    充值购买水晶。
+    获得 100 颗水晶作为礼物
+    首次购买。
+  RUGBY_GOAL_RED: 红队进球了!
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTTON_ARROW_LENGTH: '30'
+  DRONE_RELOAD: 无人机冷却时间
+  ERROR_CALLSIGN_NOT_SINGLE_DEVIDERS: 您的昵称中只应使用单个符号 "." 或 "_" 或 "-"。
+  BATTLE_STAT_STARS_REWARD: 奖励
+  HEADER_CHAT: 聊天
+  BATTLE_ENTER_WARNING_PARKOUR: 注意！ 这是一场跑酷战役。 您将不会收到任何经验或水晶。
+  GAME_ACTION_PAUSE: 暂停
+  TDM_MODE_NAME: 团队对战
+  GARAGE_BURN_PROPERTY: 灼伤时间
+  OK_ENTER_GROUP_BONUS: ''
+  CHECK_PASSWORD_FORM_BUTTON_NEW_PLAYER_TEXT: 新玩家
+  RUGBY_BALL_LOST_RED: 红队已经失去了球
+  MATCHMAKING_TIMEOUT_MESSAGE: 排队等候的时间已经过时。请再试一次。
+  GARAGE_ISIDA_PROTECTION_PROPERTY: 磁力炮防护
+  RENT: 租用
+  GROUP_INVITE_RESPONSE_INVITATIONS_DISABLED: 关闭邀请加入小组
+  CREATE_BATTLE_PANEL_GOLD_BOXES: 金箱子
+  EXPERIENCE_BAR_TOOLTIP: 您当前的经验。参与战斗以获得经验和解开新装备。
+  FRIENDS_REMOVE_USER: 从您的好友列表删除 %USERNAME% ？
+  INVITES_YOU_TO_A_BATTLE_LABEL: 邀请您进入战场
+  VKONTAKTE_NAME: VKontakte
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_HEADER: 有折扣的付款方式
+  HULL: 底盘
+  BATTLE_PLAYER_JOINED: 加入
+  MAP_THEME_NAME_SUMMER_NIGHT: 夏天的夜晚
+  GAME_ACTION_FULL_SCREEN: 全屏/窗口
+  BATTLE_CREATE_PANEL_BUTTON_JGR: 剑圣
+  ALERT_EMAIL_REGISTRATION: |-
+    祝贺您注册了！ 坦克准备战斗！
+    您的密码已发送给您的电子邮件。
+  BUTTON_LABEL_RESTORE_DEFAULT_BUTTONS: 还原默认按钮
+  CHAT_SHARP_HELP: 帮助|帮助http://forum.3dtank.com/index.php?showtopic=678
+  SHOP_WINDOW_PRIVACY_AND_COOKIES_POLICY_LINK: <a href="http://forum.3dtank.com/index.php?showtopic=678" target="_blank"><font color='#59ff32'><u></ u></font></a>
+  PAYMENT_TIANXIAFU_TERMS_TEXT: 请仔细阅读支付说明，请在理解说明内容够点击确认继续进行操作，充值条例以天下付条例说明为准，跳转入支付页面请仔细查看相关信息，谨慎操作，如有问题可以联系客服人员进行咨询，感谢您对游戏的支持。
+  FRIENDS: 好友
+  HEADER_CURRENT_BATTLES: 当前战场
+  ERROR_PASSWORD_CHANGE: 更改密码错误
+  BATTLE_PLAYER_SUICIDED: 自毁
+  GAME_ACTION_USE_NITRO: 使用速度提升道具
+  ACCOUNT_RECOVERY_FORM_HELP_LABEL_TEXT: |-
+    输入您的注册邮箱地址，在邮箱中获得
+    更改密码的链接
+  DRONE_REPAIR_RADIUS: 治疗半径
+  GAME_ACTION_TANK_MOVE_BACKWARD: 坦克向后移动
+  CLAN_NUMBER_MEMBERS_WITH_COLON: '玩家总数:'
+  HEADER_TOURNAMENT_PREPARE: 准备战斗
+  HEADER_SETTINGS: 设置
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_ARROW_LENGTH: '30'
+  FRIENDS_DECLINE_ALL_REQUESTS_ALERT: 是否拒绝所有收到的请求？
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_TEXT: |-
+    单击选择
+    并加入战斗。
+    您的奖励 - 200 水晶！
+  BATTLE_STAT_REWARD: 奖励
+  FRIENDS_COPY_NAME: 复制名称
+  SETTINGS_LINK_EMAIL_BUTTON: 链接
+  SETTINGS_MIPMAPPING_LABEL_TEXT: 多重贴图
+  GARAGE_CATEGORY_BUTTON_DRONES: 辅助无人机
+  DRONE_BONUS_RADIUS: 共享效果半径
+  DAILY_QUEST_GET_PRIZE: 获得奖励
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION_WITH_LIMIT: |-
+    您将为9月9日在莫斯科举行的“城市中的坦克”会议买票。
+    请注意！
+       - 无论哪种类型的门票，您只能为每个账户购买一张门票。
+       - 机票中包含的所有奖励，只有在亲自参加会议时才会收到。
+    当您重新购买机票或未能见面时，您将获得游戏货币形式的赔偿。 点击“下一步”即表示您同意<a href="http://forum.3dtank.com/index.php?showtopic=678" target="_blank"> <u>购买条款</u> </a>。
+  GARAGE_CONFIRM_ALERT_CONFIRM_BUTTON_TEXT: 是
+  USERS_IN_QUEUE_LABEL: 排队中的玩家
+  RENAME_FAILED_ALERT: 重命名失败，请稍后重试
+  TIME_LABEL_SECOND: 秒
+  REFUSED_TO_JOIN_THE_BATTLE_AT_YOUR_INVITATION_LABEL: |
+    拒绝加入您邀请的战场
+  CLAN_ALREADY_INVITED_PLAYER: 这个军团已经邀请您加入
+  SHOP_WINDOW_PURCHASE_INSTRUCTION: <a href="http://forum.3dtank.com/index.php?showtopic=22019/" target="_blank"><font color ='#59ff32'><u>购买说明</u></font></a>
+  GAME_ACTION_CAMERA_UP: 向上移动镜头
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_DONT_ENTER: 不能进入
+  BATTLE_CREATE_PANEL_BUTTON_START: 开始战斗
+  DRONE_OVERDRIVE_BOOST: 每次击杀过速装置冷却时间减少
+  GARAGE_BUTTON_TOOLTIP: 在这里您可以建造和升级您的梦想坦克。
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_TEXT: |-
+    点击创建一场战斗
+    通过选择地图和游戏。
+    您的奖励 - 200 水晶。
+  HEADER_CONGRATULATION: 祝贺
+  SETTINGS_TITLE: 设置
+  DRONE_COOLDOWN_RADIUS: 有效射程
+  HEADER_ATTENTION: 注意！
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_ARROW_LENGTH: '30'
+  HEADER_INVITE_A_FRIEND: 邀请一个好友
+  CLAN_DESCRIPTION: |-
+    在这里，您可以创建自己的军团，与朋友合作并获得特殊的军团奖励。
+
+    请记住，随着您的军团越来越强大，军团成员的奖励将越来越多。
+  VK_ENTER_GROUP_BONUS: ''
+  BATTLE_CREATE_PANEL_BUTTON_DEATHMATCH: 死亡混战
+  BATTLE_STAT_DEATHS: 死亡
+  GARAGE_TURN_PROPERTY: 转向灵活度
+  CLAN_DESCRIPTION_LABEL: 军团的描述
+  LEAVE_GROUP_BUTTON: 离开小组
+  BATTLE_FINISH_IN: 战斗将自动结束
+  CLAN_REQUEST_IS_ALREADY_SENT: 您已经向这个军团发出了请求
+  HEADER_VK_ENTERING_GROUP: ''
+  HELP_PANEL_MONEY_HELPER_ARROW_LENGTH: '48'
+  BATTLE_CREATE_PANEL_CHECKBOX_FRIENDLY_FIRE: 友军伤害
+  BATTLE_CREATE_PANEL_MAP_TYPE_LABEL: 地图：
+  AUTOCOMPLETION_BALANCE_DISTURBED_WINNERS_PART1: 敌方队伍没有足够的玩家
+  AUTOCOMPLETION_ENEMY_TEAM_IS_EMPTY: 敌方的团队是空的
+  CHANGE_UID_FORM_NEW_PASSWORD_TEXT: 新密码：
+  YOUR_FRIEND_DISABLED_INVITES_LABEL: |-
+    您的好友禁用了邀请
+    邀请无法发送
+  ALERT_CHAT_PROCEED_EXTERNAL_LINK: |-
+    您将继续进入与3D坦克游戏不相关的链接。
+    项目管理不承担外部内容的责任
+    并强烈建议不要填写您的电子邮件，登录名，密码
+    以及来自3D坦克的不熟悉网站上的其他数据。
+    这些网站可能会损害您的电脑并窃取机密信息
+    包括通过不同病毒和其他恶意软件获得3D坦克账户数据。
+    如果您不想继续链接，请按«取消»。
+  AUTOCOMPLETION_BALANCE_RESTORED_PART2: 本局将正常进行
+  CTF_BLUE_FLAG_RETURNED: 蓝队旗子回归
+  CLAN_INCORECT_CLAN_TAG: 不正确的军团标记
+  REGISTER_FORM_PASSWORD_INPUT_LABEL_TEXT: '密码:'
+  AUTOCOMPLETION_BALANCE_DISTURBED_LOSERS_PART1: 我们的队伍没有足够的玩家
+  DESCRIPTION: 描述
+  CLAN_USER_CLAN_NUMBER_MEMBERS: 玩家的人数
+  CLAN_DISBAND: 解散军团
+  GROUP_INVITE_RESPONSE_USER_IN_OTHER_GROUP: 该玩家已经在这个小组
+  STATISTICS_HEADER_RATING: 等级
+  HEADER_ACCOUNT_RECOVERY: 账户恢复
+  PAYMENT_SMS_UK_DESCRIPTION_ENDING_TEXT: 客户支持热线：021-55030260
+  GARAGE_CATEGORY_BUTTON_KITS: 套件
+  GROUP_BUTTON: 小组
+  FOLLOW_EXTERNAL_LINK: '注意! 您即将关注外部链接: %link%'
+  JGR_MODE_NAME: 剑圣
+  SETTINGS_ANTIALIASING: 抗锯齿
+  SHOP_PAYMENT_BUG_REPORT_LINK: http://3dtank.com/forms/payment/
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_ENTER: 确定
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_ARROW_LENGTH: '48'
+  GAME_ACTION_TURRET_CENTER: 还原炮塔位置
+  TURNOVER_HINT_1: 用您武器的后坐力重新回到您的轨道上
+  FRIENDS_NEW_FRIEND: 新增!
+  TOTAL_PRICE_KIT: 总计：
+  PRESENT_INFO_MESSAGE_LABEL: 文本：
+  CLAN_POSITION_PRIVATE: 二等兵
+  SMART_SUPPLIES: 智能道具冷却
+  REENTER_TO_GAME: 重新进入游戏
+  JGR_MODE_DESCRIPTION: 战斗中的一个玩家控制着一个超级强大的坦克“剑圣”。摧毁剑圣的玩家将成为下一个剑圣。摧毁最多坦克的玩家获胜。
+  REARM_PAUSE_3: 您将在 {time} 离开战斗
+  REFERAL_STATISTICS_HEADER_INCOME: 水晶
+  BATTLE_CREATE_PANEL_STEPPER_MAX_PLAYERS: 最大玩家数
+  PROFILE: 简介
+  BATTLEINFO_PANEL_NONAME_TEXT: 空
+  CRYSTALS_PACKAGE_AS_GIFT: 免费！
+  PAYMENT_SMS_DESCRIPTION_TEXT_INCLUDING_VAT: |-
+    选择您的国家和移动运营商。 选择所需的水晶数量，并发送带有显示文字的短信到相应的号码。 通常账户在几秒钟内更新。
+
+    注意！ 根据短信服务器的规则，我们引入反欺诈限制。 为避免您的付款损失，请遵守以下规则：
+    1. 请勿将短信发送至每小时超过13美元的金额。
+    2. 不要在一小时内向同一个玩家的昵称发送超过3条短信。
+
+    <font color ='＃ff4e00'>确保购买水晶的人同意！</font>
+  TIP_10: 迷彩会改变坦克的外观颜色。有些会让敌人更难看到，而另一些则会让您看起来与众不同。
+  PAYMENT_SMSNUMBERS_COST_HEADER_LABEL_TEXT: 价格
+  CLAN_TAG: 军团标记
+  JGR_NEW_BOSS: '%1 — 新剑圣!'
+  BATTLE_CREATE_PANEL_BUTTON_CONTROL_THE_POINT: 控制点
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTO_COMPLETION: 自动结束
+  TIME_LABEL_HOUR: 小时
+  TIP_11: '防护模块减少来自特定炮塔的伤害。结合不同的防护模块，以保护自己免受敌人最具威胁性的伤害! '
+  REDUCE_DAMAGE_ROCKET_LAUNCHER: 火箭炮
+  TURNOVER_HINT_2: 或按下自毁按键
+  CLAN_PLAYERS_IN_CLAN: 军团中的玩家
+  TIME_LABEL_DAY: 天
+  PAYMENT_BUTTON_PROCEED_TEXT: 下一步
+  CLAN_BLOCK: 这个军团被封停了
+  BATTLE_SUPPLIES_TEXT: 道具
+  CTF_LOST_OUR_FLAG: 已经失去我们的旗子
+  DAILY_QUEST_BUTTON: 每日
+  PREMIUM_COMPLETION_IN: '即将到期 '
+  REARM_TEAM_TIE: 战场以平局结束
+  CTF_CAPTURED_FLAG_NEUTRAL: 已经获得旗子
+  CLAN_BUTTON_PROFILE: 军团简介
+  FRIENDS_NO: 否
+  GARAGE_BUY_BUTTON_RANK_LABEL: 等级
+  CLAN_CREATION_DATE_WITH_COLON: '军团创建日期:'
+  PREMIUM_NOTIFICATION_SOON_COMPLETE: 您的 Vip 即将到期。
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_TEXT: 点击进行付款.
+  DRONE_REPAIR_HEALTH: 生命值奖励
+  CHALLENGE_REWARD_NOTIFICATION: 您已收到 %number% 阶段的星级挑战奖励
+  RANK_NAMES: 新兵，二等兵，一等兵，下士，中士，上士，三级军士长，二级军士长，一级军士长，军士长，五级准尉，四级准尉，三级准尉，二级准尉，一级准尉，特级准尉，少尉， 中尉，上尉，少校，中校，上校，准将，少将，中将，上将，元帅，陆军元帅，统帅，大元帅
+  CLAN_FLAG: 标志
+  FULLSCREEN_BUTTON_TOOLTIP: 切换全屏打开/关闭.
+  KEYBOARD_KEY_DOWN: 方向键后
+  BATTLE_CREATE_PANEL_BUTTON_RUGBY: 橄榄球
+  BATTLE_PRO_BATTLE_SUBSCRIBE: Pro战场通行证是您通往专家战场的门票！
+  GARAGE_DAMAGE_PROPERTY: 伤害
+  QUICK_PLAY_MODE_DESCRIPTION: |-
+    与其他玩家进行战斗。战斗的模式随机选择。
+    团队对战，死亡混战，控制点，互夺军旗，突袭，橄榄球，剑圣。
+  MAP_THEME_NAME_DAY: 天
+  CHALLENGE_QUEST_BUTTON: 星级挑战
+  STATISTICS_HEADER_RANK: 等级
+  TDM_SHORT_NAME: 团队对战
+  HEADER_COMMUNICATOR: 通信
+  CLAN_PLAYER_IS_CLAN_MAMBER: 玩家 %USERNAME% 已经是这个军团的成员
+  ALERT_ACCOUNT_UNLINKED: 您已成功地从 %1 中解锁您的游戏账户
+  TJR_MODE_NAME: 剑圣
+  HEADER_OFFER: 试驾
+  TIP_3: 购买VIP，为您完成的每一场战斗获得更多的经验和水晶，以及额外的星级挑战星星。
+  CLAN_MEMBER_NAME: 名称
+  HELP_PANEL_MAIN_MENU_HELPER_TEXT: 主页
+  BATTLE_CREATE_PANEL_CHECKBOX_PRIVATE_BATTLE: 私人战场
+  BATTLE_STAT_KILLS: 击杀
+  BATTLE_PLAYER_LEFT: 左
+  RUGBY_READY_TO_FACE_OFF: 即将产生一个球
+  SGE_BLUE_CAPTURED_POINT: 蓝队获得了点 {point}
+  FORMAT_NAME_PARKOUR: 特技（跑酷）
+  PARTNER_USERNAME_ALREDY_USED_ERROR: 输入的用户名已经被另外一个合作伙伴的网络用户名所占用。
+  CLAN_FOUNDER_WITH_COLON: '军团创始人:'
+  REDUCE_DAMAGE_SMOKY: 轰天炮
+  PAYMENT_PRESENT_LABEL_TEXT: 免费！
+  ALERT_GAME_ACCOUNT_ALREADY_LINKED: 这个游戏账户已经链接到 %1
+  ITEMS_IN_KIT: 套件物品
+  HELP_PANEL_MAIN_MENU_HELPER_ARROW_LENGTH: '60'
+  PREMIUM_ALERT_WELCOM: 欢迎坦克加入 Vip 的行列！
+  TIP_12: 无人机为您提供战斗支持。它们中的一些可以提高道具的效果，而另一些可以使你的坦克更加坚固。明智的使用它们!
+  IS_JOINING_THE_BATTLE_AT_YOUR_INVITATION_LABEL: |
+    在您的邀请下加入战场
+  CLAN_POSITION_SERGEANT: 上士
+  REARM_APPLY: 更改的装备正在被使用
+  CLAN_IS_ALREADY_IN_INVITE_LIST: 军团 %CLANNAME% 已经邀请您加入
+  GARAGE_ARCADE_DAMAGE_PROPERTY: 普通模式伤害
+  FRIENDS_BATTLE: 战斗
+  DRONE_ARMOR_BOOST: 额外道具效果
+  GARAGE_CONFIRM_ALERT_COST_PREFIX: 需要
+  TIP_6: 坦克上方的星形图标表示您的过速装置已充满能量并可以使用。 按“Shift”激活此强大功能。
+  CLAN_BUTTON_TOOLTIP: 在这里您可以加入和管理您的军团，或加入一个现有的军团。
+  BATTLE_CREATE_PANEL_MAP_THEME_LABEL: '主题:'
+  BATTLEINFO_PANEL_BUTTON_PLAY: 开始战斗！
+  ERROR_FATAL_DEBUG: 发生了一个错误
+  STATISTICS_HEADER_NUMBER: '#'
+  ACCEPT_CONDITIONS: 接受条件
+  RUGBY_FACE_OFF: 球已出现在战场中
+  CURRENT_CRYSTALL_TOOLTIP: 您当前的水晶数量。 水晶用于在车库购买和升级您的装备。
+  REGISTER_FORM_TO_LOGIN_PAGE_TEXT: 已经注册？<a href='event:'><font color='＃59ff32'><u>登录！</u></font></a>
+  TIP_14: 在战斗中通过参观您的车库来切换装备。为此，按下键盘上的«G»或单击屏幕上部的«车库»按钮。
+  BATTLE_EXIT: 退出
+  GARAGE_IMPACT_PROPERTY: 冲击力
+  ERROR_PASSWORD_INCORRECT: 密码不正确
+  CLAN_USER_CREATION_DATE: 军团创建日期
+  HEADER_CREATE_BATTLE: 创建战场
+  ERROR_CALLSIGN_WRONG_LAST_SYMBOL: 最后的昵称符号必须是字母或数字
+  CLAN_BUY_LICENCE: 购买许可证
+  REFERAL_WINDOW_COUNT_LABEL: '所有注册好友:'
+  BATTLE_LIST_DESCRIPTION: 用您的首选设置创建战场，或加入其他自定义战场。
+  FITTING_BUTTON_TEXT: 预览
+  RENAME_BUTTON_LABEL_IN_GARAGE: 使用
+  FRIENDS_MENU: 好友菜单
+  DAILY_QUEST_INFORMATION: <a href="http://forum.3dtank.com/index.php?showtopic=22020/" target="_blank"><font color='#59ff32'><u>信息</u></font></a>
+  SETTINGS_CHANGE_PASSWORD_CONFIRMATION_SENT_TEXT: 包含说明的信件已发送到您的电子邮件地址。
+  SETTINGS_TAB_NAME_CONTROLS: 控制
+  ONE_STAR_SHOP_BUTTON_LABEL: 星星
+  RUGBY_BALL_TAKEN_BLUE: 蓝队已经获得了球
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  OPEN_ALL_CONTAINERS: 全部打开
+  GAME_ACTION_TURRET_TURN_RIGHT: 向右旋转炮塔
+  SETTINGS_EMAIL_LABEL_TEXT: '电子邮件:'
+  PHONE_NUMBER: 您的电话号码
+  DATE_FORMAT: MM/dd/yyyy
+  PROMO_CODE_DESCRIPTION_TEXT: |-
+    您可以使用兑换码获取水晶，Vip 时间，金箱子，迷彩和车库物品。 这些项目将立即添加到您的账户。
+
+    您可以通过特殊活动获取兑换码。
+  RENAME_ITEM_SHOP_DESCRIPTION: 此项目允许您重命名账户。一旦您购买了这个项目, 您可以在车库《特殊》找到它。要使用它, 请按照说明进行操作。
+  ALERT_ANSWER_NO: 否
+  PURCHASE_ERROR_NOTIFICATION: 购买期间发生错误。 请再试一次。
+  FIND_BATTLE_BUTTON_TEXT: 匹配模式
+  BATTLE_LIST_NAME: 战场列表
+  CHAT_PANEL_COMMAND_UNBLOCK: 用户 %1 从屏蔽列表中删除
+  REDUCE_DAMAGE_ISIDA: 磁力炮
+  JGR_BOSS_KILLED: 剑圣 %1 已被摧毁
+  CLAN_RANK_LOW_TO_SEND_REQUEST: 您的等级太低无法加入这个军团
+  SETTINGS_UNLINK: 断开链接
+  WARM_UP_LABEL: 准备战斗
+  HELP_PANEL_RANK_HELPER_TEXT: 您现在的等级
+  HELP_PANEL_BUTTON_BAR_FULLSCREEN_TEXT: |2-
+
+    全屏模式.
+  SETTINGS_SHOW_REMOTE_DRONES: 显示其他无人机
+  GAME_ACTION_SCREEN_SIZE_DECREASE: 减少战斗画面尺寸
+  SETTINGS_BUTTON_TOOLTIP: 在设置中，您可以调整图形，按键绑定等等。
+  DECLINE_LABEL: 拒绝
+  GROUP_INVITE_BUTTON: 邀请入小组
+  KEYBOARD_KEY_UP: 方向键前
+  LABEL_MOUNTED_RESISTANCES_PANEL: 电阻
+  PREMIUM_BUTTON_EXTEND: 扩展项
+  ALERT_GO_TO_BATTLE_IS_UNAVAILABLE_RANK_FUND: |-
+    您将参加一场在您的军衔上无法参加的战斗。
+    离开现在的战斗？分数和水晶奖励将会丢失。
+  REDIRECT_ALERT_TEXT: |-
+    服务器重启！
+
+    您将在 %1 秒内移动到其中一个可访问的服务器。
+  DRONE_POWER_DURATION: 启动持续时间
+  TIP_5: 在战斗中按“Enter”与其他玩家聊天！ “Tab”按键在普通和团队聊天之间切换。
+  INCOMING_LIMIT_EXCEEDED_ALERT: 无法发送请求。此用户的请求收件箱已满。
+  LINK_EXTERNAL_LOGIN_FORM_ADVICE: 输入您的3D坦克账户信息, 将其链接到 %1
+  HEADER_LOGIN: 登录
+  CHAT_SHARP_NEWS: 新闻|新闻|http://3dtank.com/
+  BATTLE_BONUS_BOX_TEXT: 道具掉落
+  CHAT_LABEL_SPECTATORS: 对旁观者
+  CONNECTION_CLOSED_MESSAGE: 服务器连接已关闭
+  REDUCE_DAMAGE_SHAFT: 镭射炮
+  BATTLE_CREATE_PANEL_STEPPER_FLAG_LIMIT: 旗数限制
+  CLAN_TANKS_DESTROYED: 坦克被摧毁
+  CHECK_PASSWORK_FORM_LOGIN_VIA: 进入游戏使用
+  BATTLE_ENTER_ERROR_EQUIPMENT_NOT_MATCH_CONSTRAINTS: |-
+    这场战斗只能使用特定的装备组合才能加入。
+    您的坦克不符合这种格式的要求。更多信息<a href='http://forum.3dtank.com/index.php?showtopic=18744' target='_blank'><u>这里</u></a>。
+  GARAGE_CRITICAL_CHANCE_PROPERTY: 暴击率
+  HEADER_MISSIONS: 任务
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_COMPENSATION: '此物品的补偿:'
+  KEYBOARD_KEY_SPACE: 空格
+  FRIENDS_NAME: 名称
+  MAP_THEME_NAME_WINTER_NIGHT: 冬天的夜晚
+  CTF_GOT_ENEMY_FLAG: 获得敌方旗子
+  HEADER_WELCOME_BACK: 欢迎回来！
+  CTF_RETURNED_OUR_FLAG: 我们的旗子已经返回
+  LINK_IS_COPIED_BUTTON_LABEL: |-
+    链接
+    复制
+  BATTLE_CREATE_PANEL_STEPPER_TIME_LIMIT: 时间限制
+  PROGRESS: 进阶
+  ESTIMATED_WAITING_TIME_LABEL: 平均等待时间
+  HEADER_CHANGE_PASSWORD_EMAIL: 更改密码和电子邮件
+  ALERT_INVITE_TO_BATTLE_IS_UNAVAILABLE_RANK: 您确定您想邀请你的朋友参加一场无法在他或她的级别上的战斗吗？
+  AS_MODE_DESCRIPTION: 玩家在蓝队, 保护您的基地不要受到敌方袭击。玩家在红队, 把您的旗子放在蓝队的基地, 以获得积分。赢得更多积分的队伍获胜。
+  FRIENDS_FIND_IN_LIST_HINT: 在列表中查找...
+  FRIENDS_DECLINE_REQUEST: 拒绝请求
+  FRIENDS_CLOSE: 关闭
+  GATE_2_SHOP_EMAIL_INPUT_DESCRIPTION: 请输入您的电子邮件以收到您购买的收据。
+  SETTINGS_SHOW_DROP_ZONES_LABEL_TEXT: 显示降落区域
+  COIN_CONFIRMATION_HEADER: 确认购买
+  GARAGE_CATEGORY_BUTTON_HULLS: 底盘
+  GARAGE_MAX_SPEED_PROPERTY: 最快速度
+  FRIENDS_IN_GROUP: 在小组战斗
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION: 此物品只能付款购买一次。 如果再次付款购买，无法获得相应物品，只能获得原价水晶。
+  GARAGE_RANGE_PROPERTY: 射程
+  HEADER_CHANGE_UID: 更改昵称
+  LOOT_1_OPEN_BUTTON: 打开 1 个
+  BUY_PRO_ABONEMENT: 购买通行证
+  ACCEPTED_LIMIT_EXCEEDED_ALERT: 不能接受好友请求。%USERNAME% 的好友列表已经达到了玩家的最大数量。
+  GROUP_INVITE_RESPONSE_USER_OFFLINE: 该玩家已离线
+  BACK_BUTTON: 返回
+  GAME_PRIVACY_POLICY: |-
+    隐私和Cookie政策
+
+    APL Publishing Ltd, registration no. C 85285, registered under the laws of Malta, 157, Archbishop Street Valletta, VLT1440, Malta（以下简称“公司”或“主管部门”），赛事专有权的所有人尊重用户对个人信息的保密性。公司了解保护从用户那里收到的信息的重要性。本公司批准本隐私和Cookie政策（以下简称“政策”），以通知用户有关收集和使用其个人信息。
+
+    本政策规定了收集，使用，处理，存储，披露，转让和删除用户个人信息的条件，程序和目的，以及用户个人信息的条件保护。本政策解释了用户如何查看，更新和请求删除“管辖法”规定的个人信息。本政策还提供了主管机关使用和存储Cookie的条件，程序和目的。
+    最终用户许可协议（以下简称“协议”），游戏规则和其他在游戏和游戏服务中发布的文档是本政策的组成部分。 反过来，本政策是协议，游戏规则以及游戏和游戏服务的其他文件的组成部分。
+
+    本政策仅适用于本游戏的网站和其他服务，不包括其他网站和服务。
+
+    任何对游戏及其在线设施的使用和/或点击注册表单上的“接受”意味着您已了解并同意本政策，并无条件接受其所有条款。
+    如果您不同意本政策的任何条款，您无权进一步使用游戏及其服务，请离开本网站并且不要使用游戏。
+
+
+    定义
+
+    此处包含的任何大写术语应与本协议中赋予它们的含义相同。
+    1.本公司致力于尊重用户的隐私，同时遵守根据管辖法律制定的所有适用的数据保护法律。本公司确保用户的个人信息得到公平，合法且符合良好惯例的处理，并且仅在用户选择使用本软件，游戏和互联网网站。
+    2.本公司在马耳他的数据保护专员注册，并遵守马耳他法律第440章“数据保护法”以及马耳他的任何其他相关法规，法律声明和/或类似规则。
+    3.本政策涵盖以下游戏资源：互动多用户线上游戏«Tanki Online。版本2»，游戏聊天室，游戏论坛，Tanki Online Wiki，Tanki Online News（以下统称为“游戏服务”）以及所有在线表格，内部表格和手段用于游戏服务和游戏客户端的通信，用于收集个人信息。
+    4.公司保证所有合理可能的事情都已经到位，以便随时提供个人数据：
+    一个。根据用户权利处理;
+    湾公平合法地处理;
+    C。仅为特定和合法目的获得;
+    d。足够的，相关的，不过分的收集目的;
+    即准确和更新;
+    F。保持安全;
+    G。未超过收集目的所需的时间;
+    H。未转移至未确保对您的个人资料提供充分保护的司法管辖区;和
+    一世。仅用于此处公开的原因。
+    5.公司收到的个人信息只能由本公司的员工和代表以及拥有所需许可的公司的关联公司获取。所有有权访问此类个人信息的人都必须遵守本政策的条款，并且在合同中规定，通过其雇用合同或其他协议，即使在公司被终止雇用后，也要严格保密这些信息。
+    6.本公司承诺采取一切可能的组织和技术措施保护用户的个人信息免遭非法或意外的访问，破坏，变更，阻止，复制，分发以及第三方的其他非法行为。
+    7.公司在采取保护与用户进行电子邮件通信的原则时采用了最佳做法，并保护可能需要的其他任何通信方式。
+    8.不同国家的数据保护立法可能有所不同。本公司将尽可能遵守本政策的条款，并尽可能保护用户的个人信息，无论它们在何处收集和/或如何传输。
+    9.如果第三国具有足够的个人信息保护水平，或者如果为了缔结或履行协议或其他用户的利益合同，或者如果此类转让是必需的，公司只能将个人信息转让给第三国要求保护用户的利益，或者公司对个人信息保护提供充分的保证。
+
+    收集个人信息
+    10.主管机关有权要求用户提供任何信息以便使用比赛，其中可能包括填补游戏和游戏服务中特殊表格的过程中提供的信息，包括期间提供的信息注册，订阅服务，发布材料和请求其他服务，包括电子邮件，电话号码，社交网络中的身份数据（ID），用户名和密码。
+    11.当用户登记参加由主管机关发起的此类活动时，主管机关可要求提供组织和开展游戏活动所需的任何信息。
+    12.如果用户开始与主管机关通信或提交有关游戏或游戏服务问题的报告，政府有权存储所有这些信件。
+    13.主管机关可要求用户参与调查并在调查过程中要求提供某些信息，但这不是强制性程序，任何用户都可拒绝参与。
+    14.当用户使用任何付费服务时，主管机关可收集和处理交易细节和用户付款数据。
+    15.用户的浏览器或客户端程序可以将有关访问细节的某些信息传输到游戏和游戏服务的网站，包括关于流量的信息，日志文件，关于用户计算机的地理位置的数据及其可能性，和其他信息。用户在此同意主管机关可以将此信息用于本政策中规定的目的和程序。
+    16.主管机关可要求用户提供其他信息以执行某些行为，如性别，年龄，出生日期和游戏偏好。
+    17.主管机关可以收集，处理和使用协议中规定的其他信息以及构成EULA组成部分的任何文件。
+    18.如果在付费服务或游戏或游戏服务中使用的任何其他注册表格的注册表格中，用户提供任何个人信息，这种提供意味着用户明确表示直接和明确同意本政策，协议和构成本协议一部分的任何文件，并且此类规定意味着用户明确表示直接和明确同意收集，处理，使用，存储，披露，转让，跨境转让（转移给第三国）销毁任何用户的个人信息，以达到本政策，协议以及构成本协议一部分的任何文件的目的
+    19.个人信息只能出于合法目的收集，特别是因以下原因应收：
+    一个。验证用户的详细信息;
+    湾在公司登记帐户;
+    C。促进和推销活动;
+    d。遵守适用的法律;
+    即适当和定性为用户提供本公司可能提供的任何附加服务，例如与游戏相关的技术支持;和
+    F。履行及履行本协议及本公司，供应商及╱或任何代其行事的第三方构成协议组成部分的所有文件。
+    20.根据管辖法律，主管机关有权收集并认为其不适合使用任何不属于个人信息的信息，并且用户在此同意公司可以向任何第三方披露此类非-个人信息。
+    21.用户有权反对处理和收集他的个人信息，并有权在任何时候撤销此类同意，但管理法另有规定的除外。每当此用户撤回其同意，他理解并接受这可能会对游戏和在线设施的质量产生负面影响，并且可能导致无法访问游戏和/或游戏服务，并且用户在此同意在这种情况下，公司对用户的个人信息的任何损失和/或损害不承担任何责任。
+
+    个人信息的使用和处理
+    22.用户在此进一步承认，公司有权存储和处理所提供的个人信息，公司认为有必要使用该游戏。用户进一步接受并理解游戏中的所有活动都被记录下来。
+    23.用户披露的个人信息由政府当局收集和处理，以便为了发展和改进而向用户适当和定性地提供游戏服务，以执行协议和其他协议，游戏规则和本政策。个人信息的处理包括收集，记录，系统化，分类，存储，积累，更新，修改，分组，阻止，使用，披露，转移给第三方，传播，销毁，删除和其他必要的行为，协议。
+    24.除本政策规定的情况外，本公司不出售用户的个人信息，也不向第三方披露此类信息。公司可能向业务合作伙伴或广告商披露一般人口统计信息。这与个人信息不直接相关，也不能识别特定的用户。
+    25.为确保提供适当的服务，本公司有权将个人信息转让给其他提供托管服务，支付服务，发送电子邮件相关服务以及主持人的个人或组织。这些人员和组织有权将接收到的个人信息用于向用户提供服务的唯一目的，并受到确保正确使用个人信息的条款的约束。
+    26.用户同意公司有权将提供给本公司任何关联公司的个人信息转移给适当和高质量的游戏服务提供和改进以及改进游戏服务，协议的履行，游戏规则和本政策。
+    27.如果公司在未来通过重组和/或合并和/或销售和/或收购和/或清算和/或通过任何其他程序与另一家公司合并，则用户的个人信息可随公司或其部分一起转让，或可作为公司的一部分出售。
+    28.用户同意公司有权并有义务披露个人信息，当其根据来自管辖法律和/或任何其他信誉良好的管辖区的决定和/或在命令监管机构和/或在数据保护专员的命令下和/或用户直接和/或间接参与任何涉及游戏和/或公司服务的任何犯罪的情况下命令这样做。
+    29.用户同意，如果公司从第三方（版权所有者）收到有关用户侵犯游戏和/或游戏服务中的材料权利的请求，公司有权将此类信息用户向第三方（版权所有者）。
+    30.如果用户通过第三方网站和/或通过本公司合作伙伴网站进入游戏和/或在游戏中注册，则此类人员可以为了适当的目的而要求，收集和处理用户的个人信息和优质的服务。第三方的隐私和cookies政策将适用于这种情况。用户同意公司有权将此用户的个人信息传输给此类人员，以便提供适当和高质量的游戏服务，执行协议，游戏规则和本政策。
+    31.公司将根据本政策的条款采取一切必要措施，妥善安全地存储用户收集的个人信息。用户提供的所有信息都存储在公司的服务器上。
+    32.公司应使用包括防火墙的标准技术来确保个人信息的安全。
+    33.用户有义务不向第三方披露或转让其用于授权游戏的身份或账户信息。用户完全负责存储他的账户信息。
+    34.如果用户发现他/她的账户信息被盗或者被第三方管理，用户应立即通知公司这些情况，以便公司采取必要的措施。在这种情况下，公司不能保证用户的个人信息的安全，并且用户在此接受公司对任何使用此个人信息不承担任何责任。
+    35.当用户在游戏或游戏服务（使用聊天室，论坛等）进行通信时，用户理解此类通信是通过公司的服务器进行的，并同意可以收集，存储和研究此数据政府。对于用户通过游戏，游戏服务或与游戏相关的其他服务（通过聊天室，论坛，社交网络）向其他用户披露的个人信息和/或其他信息的保密性，主管部门概不负责。等），主管机关有权考虑在公有领域内提供这类信息。
+
+
+
+    Cookies，IP地址和日志文件
+    36.主管机关可收集和处理有关用户计算机的信息，日志文件，包括IP地址，操作系统类型，浏览器和电子邮件客户端，有关流量的信息，日期和时间，游览服务访问的详细信息，用户活动，关于访问，设置，系统通知的信息。为了系统管理的目的，这些关于用户在互联网网站上的行为的信息被收集和存储，以确保游戏和游戏服务正常运行，以保证安全并加强保护并确保系统完整性（防止黑客攻击，未授权访问。
+    37.为了让游戏正常运作，行政部门利用cookies。 Cookies是为了与用户关联和识别活动（以下简称“Cookies”）而自动创建并存储在用户计算机/其他设备中的小记录保存文本信息。 Cookie通常不包括姓名和/或电子邮件地址和/或其他个人信息。实际上它们通常包含为了游戏和/或游戏服务的更好功能所需的匿名信息。
+    38.存储在用户计算机/用户通过其使用游戏和/或其资料的任何其他设备中存储的Cookies除其他外，但不限于以下功能：
+    一个。无法提供访问用户请求的安全区域，而无需使用这些Cookie，您所请求的安全登录区域等服务无法提供;
+    湾访问Cookies - 记住用户所做的选择和/或设置，并在使用游戏时启用用户识别。没有这些Cookies，游戏的功能可能会受到影响;
+    C。投票（调查）Cookies - 标记用户投票并阻止用户在同一次调查中再次投票的任何调查项目;
+    d。加载平衡会话Cookie - 通过分散游戏服务的工作量和时间优化来提高游戏的加载时间。没有这些Cookies，游戏的功能可能会丢失;
+    即用户界面自定义cookie可以保存用户的界面设置，以防重复进入游戏和游戏服务。
+    F。 Cookie放置并用于与社交网络中的用户数据同步。
+    G。 Performance（Analytics）Cookies - 收集用户如何使用游戏的匿名信息。
+    H。广告Cookie - 为用户提供最相关的广告，并帮助提高广告活动的有效性。用户在此接受并同意公司可以将这些cookies用于自己的广告活动。
+    39.主管机关还可允许某些第三方在用户的设备上放置和使用自己的网络性能（分析）和广告cookies，并从公司的Cookies中收集信息，以便存储和分析关于用户的偏好和提高服务质量。在这种情况下，此类第三方受本政策的约束。政府保证它应该专门允许有信誉的第三方进行这种使用。
+    40.用户理解，通过任何社交网站（例如Facebook）使用游戏，用户可能被要求遵守特定的社交网站网站的Cookie政策，并且用户同意政府不对任何此类使用cookies。
+    41.使用游戏和/或互联网设施或接受本协议（包括本政策）和/或点击“接受”用户已理解并接受本政策并表达其直接和明确同意，主管机关可以放置，存储并在用户的计算机/用户通过其使用游戏和/或其材料的任何其他设备上使用Cookie。主管机关可能会继续假设用户同意本政策，直至和/或除非用户已通过此处提供的浏览器设置禁用了Cookie。通过提供此项同意，用户可以让管理部门更好地了解用户及其偏好，随时考虑用户的兴趣来提高服务质量。用户在此同意，如果不启用Cookie，游戏可能无法正常运行。
+    42.行政部门保证存储的cookies对于用户是安全的，并且对于游戏和游戏服务的正常运作以及主管机关向用户提供服务来说是绝对必要的。
+    43.曲奇存放不超过一年。第三方存储cookies的条款应由第三方制定。
+    44.用户可以随时拒绝接受cookies并通过更改其浏览器设置来禁用cookie。禁用Cookie可能会对游戏和在线设施的质量产生负面影响，也可能导致无法访问游戏，因此在线设施和用户特此同意公司不承担任何损失和/或损害在用户禁用了cookies的情况下的用户信息。
+
+
+    获取和更改用户的个人信息
+    45.用户有权随时与主管机关联系，以获取本公司存储的用户个人信息的副本，并在适当情况下更正任何不准确之处。用户有权要求删除，纠正，修改或完成其个人信息。有关用户的个人信息，请与政府部门联系。用户应通过help@tankionline.com发送电子邮件。
+
+    拒绝提供任何个人信息
+
+    46.用户向主管部门提供的任何个人信息都是在自愿的基础上提供的。然而，公司无法保证游戏和/或游戏服务应当正常运行，并且/或者应当在请求时未能提供任何个人信息的情况下起作用。
+
+    社交网站
+
+    47.用户在此确认，他理解并接受通过任何社交网站或第三方的其他网站使用游戏也可能使用户遵守其条款和条件。
+
+
+    政策的变化
+    48.本政策自截至上一版本之日起生效。 本政策可能以任何形式随时更改，修改或替换，恕不另行通知用户，因此我们建议不时查阅本政策以了解所有变更。 游戏和游戏服务的进一步使用意味着无条件接受本政策的修改版本。
+
+    与管理部门联系
+
+    49.如果您对本政策有任何疑问，评论，投诉或评论，请通过help@tankionline.com与我们联系。 我们会尽快考虑您的问题。
+    50.行政部门可能会拒绝不合理频繁的请求，这些请求需要不成比例的技术努力，危害其他用户的隐私或极不切实际。
+    51.如果用户与主管机关开始任何通信或提交有关游戏或游戏服务问题的报告，主管机关有权存储所有这些信件。
+  RENT_TIME: 租用期：
+  GAME_ACTION_DROP_GOLD_BOX: 使用金箱子道具
+  KEYBOARD_KEY_RIGHT: 方向键右
+  STATISTICS_HEADER_CALLSIGN: 昵称
+  MAIN_PANEL_BUTTON_BATTLES: 战场
+  SEND_PRESENT_BUTTON: 发送
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTON_TEXT: |-
+    点击并进行首次购买。
+    您的奖励 -200 水晶!
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_AGREEMENT: 如果这件物品已经在这个账户上购买过了，无法再次获得物品，我同意接受等价水晶作为补偿。
+  DRONE_INVENTORY_ADD: 道具有效时间奖励
+  COMPLETE_BUTTON: 完成
+  SHOP_FEATURING_HEADER: 特价优惠
+  ALERT_CRYSTALS_ADDED_FOR_CONFIRMED_EMAIL: 感谢您将您的3D坦克账户链接到电子邮件地址。 奖励水晶已添加到您的账户。
+  GARAGE_FIREBIRD_PROTECTION_PROPERTY: 火焰炮防护
+  PLAY_BUTTON: 开始战斗！
+  POSTFIX_OFFER_EXIT_BATTLE: 试驾将结束.
+  GUI_LANG: en
+  SETTINGS_LINK: 链接
+  REARM_BATTLE_RETURN: 返回战场
+  DRONE_INVENTORY_COOLDOWN_SUBTRACTION: 道具重载速度增加秒数
+  HEADER_CLAN_MANAGMENT: 请求管理
+  UNBLOCK_USER_CONTEXT_MENU_LABEL: 显示
+  FRIENDS_REQUEST_EXIST_ALERT: 您已经向 %USERNAME% 发送了一个请求。
+  GAME_ACTION_TANK_TURN_LEFT: 坦克左转
+  PAYMENT_BUTTON_BACK_TEXT: 套件
+  CLAN_TAG_WITH_COLON: '军团标记:'
+  HEADER_CLAN: 军团
+  SETTINGS_REENTER_PASSWORD_LABEL_TEXT: '重新输入:'
+  TIP_2: 永远不要分享您的账户密码! 如果您这样做，您可能永远失去您的坦克。
+  CAPTCHA_INCORRECT: 控制字符输入不正确
+  GARAGE_INFO_PANEL_BUTTON_BUY_TEXT: 购买
+  ERROR_CALLSIGN_LENGTH: 您的昵称长度必须大于1
+  NEED_OF_EMAIL_SET: |-
+    请输入您的电子邮件地址以增加您账户的安全性。
+
+    您会收到一封包含验证链接的电子邮件。 完成绑定，您会得到免费的水晶奖励。
+  GARAGE_SMOKY_PROTECTION_PROPERTY: 轰天炮防护
+  STATISTICS_HEADER_KILLS: 击杀
+  BATTLE_CREATE_PANEL_BUTTON_TEAM_DEATHMATCH: 团队对战
+  HOLIDAY_MODE_NAME: Event mode
+  DM_MODE_NAME: 死亡混战
+  SETTINGS_TAB_NAME_GRAPHICS: 图形
+  CHANGE_SERVER_HELPER: 选择服务器
+  REGISTER_FORM_REGISTER_VIA: 在游戏中注册使用
+  HELP_SYMBOL_IS_NOT_ALLOWED: |-
+    昵称应该包括A-Z, 0-9
+    和特殊符号。
+  BATTLE_CREATE_PANEL_BUTTON_CAPTURE_THE_FLAG: 互夺军旗
+  REARM_BATTLE_EXIT: 离开战场
+  SETTINGS_DYNAMIC_SHADOWS_LABEL_TEXT: 动态阴影
+  SPECTATE_TEXT: 旁观
+  FRIENDS_NEW: 新增
+  GARAGE_CONFIRM_ALERT_CANCEL_BUTTON_TEXT: 否
+  AUTOCOMPLETION_ROUND_MIGHT_END_EARLIER: 本轮可能会提前结束
+  PAYMENT_SHENG_FENG_CONFIRMATION_CHECK_BOX_TEXT: 确认
+  REGISTER_FORM_CALLSIGN_INPUT_LABEL_TEXT: 昵称：
+  CHECK_PASSWORD_FORM_PASSWORD: '密码:'
+  BATTLE_CREATE_PANEL_FLOOD_ALERT_TEXT: 5分钟内您可以创建不超过三个战场。
+  SERVER_IS_RESTARTING_LOGIN_TEXT: 服务器正在重启。 您不能进行登录。
+  LOOT_OPEN_BUTTON: 打开
+  CHAT_PANEL_BUTTON_SEND: 发送
+  CLAN_OUTGOUNG: 邀请
+  ALERT_ANSWER_YES: 是
+  ULTIMATES: 过速装置
+  DRONE_ADDITIONAL_MINES: 地雷数量
+  GARAGE_TWINS_PROTECTION_PROPERTY: 离子炮防护
+  PIECE_2: 件
+  GROUP_INVITE: 邀请您加入小组
+  SETTINGS_MOUSE_SENSITIVITY_CHECKBOX_LABEL: 鼠标灵敏度
+  PARTNER_HELP_PANEL_BUTTON_BAR_HELPER_TEXT: 设置. 声音.
+  FRIENDS_YES: 是
+  REGISTER_FORM_REPEAT_PASSWORD_INPUT_LABEL_TEXT: '重复:'
+  SETTINGS_CHANGE_PASSWORD_BUTTON: 更改
+  SGE_MODE_NAME: 围城大战
+  TJR_NEW_RED_BOSS: 红队剑圣已经加入战斗
+  GAME_ACTION_SHOW_TANK_STATS: 显示坦克统计
+  DRONE_BONUS_ADD: 道具有效时间奖励
+  CLAN_SEARCH_BLOCKED_HINT: 您被暂时禁止加入任何军团
+  CHAT_SHARP_UPDATES: 更新|更新|http://forum.3dtank.com/
+  HEADER_MONEYSHOP: 商店
+  BATTLE_TEAM_RED: 红队
+  CREATE_FAILED_YOU_ARE_BANNED: |-
+    亲爱的玩家，您在聊天频道被禁言了。
+    所以您不能创建战场。但您仍然可以
+    参与战斗，进入其他玩家创建的战场。
+  REARM_SELFDISTRUCTION: 您会自毁 {time}
+  CLOSE_LABEL: 关闭
+  GARAGE_ARTILLERY_PROTECTION_PROPERTY: 马格南防护
+  TURRET: 炮塔
+  OPEN_GARAGE: 快速进入车库
+  PRESENT_RECIPIENT_NAME: 收件人的昵称...
+  STATISTICS_HEADER_SCORE: 得分
+  CTF_RED_FLAG_RETURNED: 红队旗子回归
+  KEYBOARD_KEY_PG_DN: PgDn
+  TJR_BLUE_BOSS_KILLED: 蓝队剑圣已经被击杀
+  DAILY_QUEST_CHANGE: 更改
+  RUGBY_BALL_LOST_USER: 已经失去了球
+  CLAN_POSITION_COMMANDER: 指挥官
+  CLAN_DOES_NOT_ACDEPT_REQUEST: 这个军团不接受请求
+  FREE_BONUSES_WINDOW_BUTTON_CLOSE_TEXT: 关闭
+  CHAT_PANEL_COMMAND_UNBLOCK_ALL: 屏蔽列表已经被清除
+  PRESENT_INFO_FROM_LABEL: '发送者:'
+  CLAN_FOUNDER: 军团创始人
+  KEYBOARD_KEY_LEFT: 方向键左
+  GARAGE_SNIPING_IMPACT_PROPERTY: 狙击模式下的冲击力
+  CLAN_MY_CLAN: 我的军团
+  FRIENDS_DECLINE_ALL_BUTTON: 拒绝所有
+  CHAT_TAB_HEADER: 聊天
+  PAYMENT_SMS_DESCRIPTION_CO_TEXT: ''
+  DEVICE: 装备改造
+  MAIN_PANEL_BUTTON_SHOP: 商店
+  TIP_8: 按住键盘«R»或«V»可以看到附近坦克上的防护模块。您还可以看到他们的装备得分，这告诉您如何升级他们的坦克。
+  HEADER_BUG_REPORT: 错误报告
+  SETTINGS_SOUND_VOLUME_LABEL_TEXT: 音量：
+  ALERT_QUIT_TEXT: 您确定您要退出吗？
+  REARM_OPTION_TEXT: 更换装备
+  SELECTED_SERVER_UNAVAILABLE: 您尝试连接的服务器暂时不可用。 请稍后再试。
+  GARAGE_HELPER_TANK_PARTS: |-
+    坦克部件
+    和其他
+    有用的物品
+  STATISTICS_HEADER_RATIO: 比率
+  INVITE_FRIEND_BUTTON_LABEL: 邀请好友
+  SETTINGS_UNLINK_ACCOUNT: 取消将您的游戏账户链接到
+  PAYMENT_SMSNUMBERS_SMSTEXT_HEADER_LABEL_TEXT: 短信
+  ALERT_ACCOUNT_CANT_BE_UNLINKED: |-
+    注意！
+    在将您的账户与 %1 断开之前，您需要先完成此操作
+    在设置中为您的3D坦克账户设置密码
+  DRONE_CONSTANT_ARMOR_PERCENT: 奖励防御
+  DRONE_POWER_BOOST: 额外道具效果
+  PREMIUM_COMPLETION: '到期: '
+  FACEBOOK_NAME: Facebook
+  MANY_STARS_SHOP_BUTTON_LABEL: 星星
+  CHALLENGE_STARS: 星星
+  FRIENDS_ALREADY_HAVE_INCOMING: 您已经收到来自 %USERNAME% 的请求。 是否接受？
+  GARAGE_INFO_PANEL_BUTTON_REMOVE_TEXT: 移除
+  HEADER_LINK: 链接
+  HEADER_INFORMATION: 信息
+  DEVICES_STANDARD_SETTINGS_DESCRIPTION: 标准出厂设置无特殊效果
+  YOUR_FRIEND_IS_ALREADY_IN_THIS_BATTLE_LABEL: |-
+    邀请尚未发送
+    您的好友已经在这场战斗中
+  TYPE_MESSAGE_WITH_PRESENT: 请输入您的问候...
+  FRIENDS_IN_BATTLE: 在战斗
+  CLAN_PLAYER_ALREADY_IN_CLAN: 玩家 %USERNAME% 已经是一个军团的成员
+  YOUR_FRIEND_IS_OFFLINE_LABEL: |-
+    邀请尚未发送
+    您的好友不在线
+  ALERT_ERROR_EXTERNAL_ENTER: 尝试进入游戏时发生错误，请稍后重试
+  DRONE_DAMAGE_PERCENT: Bonus damage
+  REFERAL_STATISTICS_HEADER_CALLSIGN: 好友
+  WEEKLY_QUEST_BUTTON: 每周
+  CTF_GOT_OUR_FLAG: 已经获得我们的旗子
+  TIP_9: 每个炮塔都有其独特的特点。把它们都试一试，找到最适合您游戏风格的武器!
+  GAME_ACTION_USE_DOBLE_DAMAGE: 使用双倍伤害道具
+  HELP_PASSWORD_IS_TOO_SIMPLE: 输入的密码太简单了
+  GARAGE_FREEZE_PROTECTION_PROPERTY: 冰风暴防护
+  BATTLE_GOLD_TAKEN: ' 已经获得了金箱子'
+  GAME_ACTION_SCREEN_SIZE_INCREASE: 增加战斗画面尺寸
+  GARAGE_CATEGORY_BUTTON_TURRETS: 炮塔
+  GARAGE_PROTECTION_PROPERTY: 防护
+  HEADER_DM_TOURNAMENT: 死亡混战
+  LOOT_2_OPEN_BUTTON: 打开 5 个
+  MAIN_PANEL_UPDATE_RANK_NOTICE_GIFT: 您的礼物 %1
+  HEADER_CLAN_EDIT_PROFILE: 编辑档案
+  REGISTER_FORM_TITLE_SKIP_REGISTRATION_TEXT: 您可以稍后注册。 第一次加载需要几分钟的时间。
+  CHAT_SHARP_NICK: 昵称|更改昵称|http://forum.3dtank.com/index.php?showtopic=21219
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_CONGRATULATIONS: 祝贺 %1!
+  RUGBY_BALL_LOST_BLUE: 蓝队已经失去了球
+  CLAN_YOUR_RANK_TOO_LOW: 等级过低无法成为此军团成员
+  BATTLE_UPGRADES_TEXT: 升级
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_HEADER: 特殊条款
+  CLAN_VS_CLAN: 军团 vs 军团
+  NO_PLACES_AVAILABLE_LABEL: 没有可用的位置
+  ALERT_ANSWER_SEND_BUG_REPORT: 发送错误报告返回战场
+  FRIENDS_MENU_ARROW_LENGTH: '70'
+  MEESAGE_ALERT_OFFER: |-
+    $USERNAME$, 您刚刚获得难得的机会
+    在战斗中测试 $ITEM-NAME$!
+  BATTLE_RESTART: 战斗重新启动
+  SETTINGS_LINK_ACCOUNT: 将您的游戏账户链接到
+  SERVER_FROZEN_ALERT_TEXT: 对不起，您选择的游戏服务器现在超载。 尝试选择一个不同的服务器。
+  GOLD_CHECKBOX: 显示谁放下了金箱子
+  RENAME_FORM_INSTRUCTION: 要重命名您的账户，您必须选择一个可用的新昵称。 您可能还会被要求输入您的当前账户密码以确认更改。 这个新的昵称将用作您进入游戏的新登录名，以及访问坦克的其他官方服务，例如论坛。
+  MESSAGE_ALERT_PERSONAL_DISCOUNT: |-
+    $USERNAME$，现在您可以用$DISCOUNT$％折扣购买$ITEM-NAME$。
+    但请尽快！ 此优惠在$DISCOUNT_TIMER$结束。
+  GARAGE_HELPER_SWITCHING_ITEM_CATEGORIES: |-
+    切换项目
+    类别
+  REDUCE_DAMAGE_GAUSS: 电磁炮
+  PROMO_CODE_INVALID_LABEL: 您输入的代码不正确或过期。 请输入不同的代码。
+  BATTLELIST_PANEL_BUTTON_CREATE: 创建战场
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTOBALANCE: 自动平衡
+  YOU_WERE_KICKED_LOGIN_TEXT: |-
+    您被强行从游戏中断开。
+    原因：{0}。
+    您可以通过返回游戏
+    {1}。
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_DESCRIPTION: 以下付款方式现在提供折扣。 请选择您的首选付款方式继续。
+  SETTINGS_ACCOUNT_ACCESS: 进入游戏账户
+  CLAN_JOINED_CLAN: 您已经加入了军团
+  GARAGE_RICOCHET_PROTECTION_PROPERTY: 火龙珠防护
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  RUGBY_GOAL_BLUE: 蓝队进球了!
+  CONTINUE_BATTLE_TEXT: 继续战斗
+  DM_SHORT_NAME: 死亡混战
+  LOBBY_CHAT_WRITE_PRIVATELY: 写私信
+  BUY_FOR_COIN_LABEL: '购买 '
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_ARROW_LENGTH: '30'
+  ERROR_CALLSIGN_NOT_UNIQUE: 昵称已经被使用
+  CHECK_PASSWORD_FORM_RESTORE_LINK_TEXT: <a href='event:lost'><font color='＃59ff32'><u>丢失账户或密码？</u></font></a>
+  WEEKLY_QUEST_COMPLETED: |-
+    这项任务已经完成。
+
+    下周回到游戏进行新的任务。
+  SGE_SHORT_NAME: 围城大战
+  CLAN_POSITION_SUPREME_COMMANDER: 最高指挥官
+  SETTINGS_FOG_LABEL_TEXT: 雾
+  CTF_CAPTURED_OUR_FLAG: 敌方获得我们的旗子
+  REDUCE_DAMAGE_FIREBIRD: 火焰炮
+  ALERT_EMAIL_CONFIRMED_WRONG_LINK: 您使用了不正确的链接。重复恢复过程，以接收新链接。
+  SETTINGS_DUST_LABEL_TEXT: 灰尘
+  GAME_ACTION_TURRET_TURN_LEFT: 向左旋转炮塔
+  CHAT_SHARP_WIKI: 维基|游戏百科|http://en.tankiwiki.com/Main_Page
+  CLAN_CREATION_RULES: <textformat leading='5'>确认您熟悉军团创建<a href='http://forum.3dtank.com/index.php?showtopic=21625/' target='_blank'><font color='#59ff32'><u>规则</u></font></a></textformat>
+  GARAGE_SNIPING_DAMAGE_PROPERTY: 狙击模式伤害
+  NOT_ENOUGH_COINS_NOTIFICATION: 您没有足够的坦克硬币进行购买。
+  TOURNAMENT_BATTLE_TRAINING_LABEL: 准备战斗
+  HEADER_REGISTRATION: 注册
+  ASIASOFT_YOUR_BALANCE: 你有 %1 进行平衡
+  BATTLE_BUTTON_TOOLTIP: 在这里您可以加入新的战斗来获得更多的水晶和新的等级。
+  HELP_PANEL_MONEY_HELPER_TEXT: 购买更多水晶
+  DECLINE_OFFER_BUTTON: 拒绝
+  HELP_PANEL_RATING_INDICATOR_HELPER_TEXT: |-
+    您当前的位置
+      并立即改变
+  ACCEPT_OFFER_BUTTON: 接受
+  REARM_PAUSE_ALERT: |-
+    暂停时间即将结束。 您将在{time} 中自动离开战斗
+    重返战斗？
+  GARAGE_BULLET_SPEED_PROPERTY: 炮弹速度
+  FRIENDS_SEND_REQUEST_BUTTON: 发送
+  BATTLE_STAT_KDRATIO: 击杀/死亡
+  BATTLE_IS_UNAVAILABLE_AT_YOUR_RANK_LABEL: 战场不适用于您的等级
+  YOURE_LOCATION_TEXT: 如果您位于不同的国家，请手动选择并单击确定。
+  REFERAL_WINDOW_SUMMARY_LABEL: 总奖励：
+  CLAN_PROFILE_MIN_RANK: 所需的最低等级
+  DISCOUNTED_AT_KIT: 以{0} 折扣
+  GAME_RULES: |-
+    简要规则
+    游戏中禁止以下游戏内活动：
+    - 使用机器人，使用第三方软件，错误;
+    - 假装成为行政管理人员;
+    - 平衡功能，为其他用户造成障碍;
+    - 广告，政治宣传;
+    - 违反法律，包括知识产权法;
+    - 销售，购买，交换，转账，其他游戏价值;
+    - 欺诈，其他不诚实的行为。
+     游戏聊天和论坛禁止以下活动：
+    - 使用侮辱，威胁，诽谤;
+    - 淫秽语言，包括隐含形式;
+    - 洪水，燃烧，垃圾邮件，以大写字母打印(CAPS LOCK);
+    - 欺骗密码，其他账户信息;
+    - 拖车;
+    - 煽动他人违反游戏规则;
+    - 公开讨论政府和主持人;
+    - 公布法律禁止的信息;
+    - 发布与第三方资源的链接;
+    - 任何形式的歧视。
+     游戏规则
+    你在3D坦克游戏中，来自世界各地的人都喜欢操作巨大的战斗机器，参加激烈的战斗！玩家可以自己战斗，也可以团结一起争取胜利。他们也可以社交并找到新朋友。
+    3D坦克一款易于学习的多人动作游戏，是一次严肃的战斗舞台，还有一个伟大的社交网络。
+    完成注册过程后，用户将收到一个虚拟坦克和500个水晶(游戏币)。通过赢得战斗，用户增加他们的评级并获得新的等级和水晶。晶体可用于购买有用的弹药并购买或升级坦克，枪支和装甲。
+    3D坦克不仅仅是一个令人兴奋的在线游戏。这是一个拥有共同兴趣的人群。我们鼓励相互尊重和礼貌，并强烈阻止冒犯行为和/或侵犯其他用户的权利。管理员有权限制用户的沟通能力，降低他们的评分和/或阻止他们的账户，如果他们违反这些游戏规则。
+     一般条款
+    游戏规则是最终用户许可协议(以下称为“协议”或EULA)以及游戏和游戏服务的其他文档的组成部分。相应地，协议，隐私和cookies政策以及在游戏和游戏服务中发布的其他文件是这些游戏规则的组成部分。
+    游戏规则中使用的任何术语和概念都与协议中赋予它们的含义相同。
+    任何使用游戏及其在线设施和/或在注册表单中点击“接受”意味着您熟悉并同意本游戏规则，并无条件接受其所有条款。
+    游戏规则对所有用户都是强制性的。
+    如果您不同意这些游戏规则的任何条件，您无权进一步使用游戏及其服务，请离开本网站并且不要使用游戏。
+    1.禁止创建昵称(用户名)：
+    1.1。包含不良或强烈的语言，对侮辱的侮辱/挑衅(以文字，缩写，表达或短语的形式);
+    1.2。包含基于种族，民族或宗教认同的种族主义，法西斯主义，侮辱或绰号，或者煽动仇恨，不容忍，民族不和;
+    1.3。包含要求暴力，恐怖主义，极端主义和/或大规模骚乱的要求;
+    1.4。包含任何形式的政治招揽，宣传，政治广告;
+    1.5。与政治组织(人)直接或间接相关，包括那些犯下政治罪或危害人类罪的恐怖主义行为;
+    1.6。遏制性别，年龄，宗教或其他特征的歧视;
+    1.7。 on保持直接或间接宣传，呼吁消费含酒精和含酒精的饮料，啤酒，烟草制品，毒品，毒性，精神药物和/或令人陶醉的物质及其前体，包含有关其生产地点和方法，采集，种植和使用;
+    1.8。包含有关参与赌博游戏，卖淫，流浪乞讨，乞讨的信息;
+    1.9。包含有关自杀方式，煽动自杀，暴力或其他威胁生命或健康的行为的信息;
+    1.10。控制煽动非法行为，犯罪，暴力，残忍，煽动实施法律禁止的行为的伤害;
+    1.11。包含部分管理员工的用户名称，或者包含可能导致用户错误地认为是管理代表的信息;
+    1.12。包含对游戏，政府或版主的批评;
+    1.13。与性交，侵犯，色情，恋童癖直接或间接有关;
+    1.14。包含对身体及其较低生物功能或反射的描述;
+    1.15。包含广告和超链接;
+    1.16。包含引用作弊码，作弊网站，违反政府权利的资源;
+    1.17。由不可发音的随机字母组成(超长用户名);
+    1.18。完全或部分包含受版权和/或注册保护的商标元素;
+    1.19。包含这些游戏规则，协议和/或有效法律禁止的其他信息。
+    1.20。如果用户名称不符合上述要求，本游戏规则，协议或有效法律规定的其他要求，主管机关有权酌情决定：
+    - 要求用户更改可接受用户名的用户名，并在更改用户名所需的时间段内阻止用户帐户;
+    - 不可撤销地阻止用户帐户。
+    2.以下活动被禁止，并会导致(根据管理层的判断)永久或临时用户账户被阻止，将用户的所有虚拟游戏值减少10％到100％(车库，水晶，游戏统计)或将用户账户设置为零，暂时或永久限制访问游戏聊天和论坛(禁令)：
+    2.1。游戏中任何恶意或不礼貌的行为：
+    2.1.1。 Botting(使用模仿游戏中用户行为的软件)，使用点击器程序，控制鼠标和键盘的宏，使用其他第三方软件获得游戏中的优势;
+    2.1.2。应用或分发第三方软件或其他改进/自动化游戏可能性(机器人，作弊)的手段，以及可能会恶化游戏功能和/或第三方电子设备功能的程序;
+    2.1.3。开发游戏的软件缺陷并将有关它们的信息转移给除政府之外的第三人;
+    2.1.4。在'夺旗'，'控制点'或'团队死亡竞赛'模式或者'死亡竞赛'模式中的对手故意无所作为或帮助其他队员获得经验点(所谓的平衡）;
+    2.1.5。同一用户拥有的账户之间的战斗;
+    2.1.6。创建额外账户以对主账户进行权限设定;
+    2.1.7。与其他用户作出安排，争取一半的权力以“权力平衡”为目的“半心半意”(政府将对此类安排的所有成员施加限制);
+    2.1.8。任何旨在为用户所在团队制造障碍的行为或疏忽，包括CTF，TDM和CP模式，与您所参与的团队作战，损害/毁坏盟友坦克，对手球队的利益，以及与敌人的阴谋破坏;
+    2.1.9。缺乏经验的玩家(新手)的歧视：错误信息，恐吓，嘲笑;
+    2.1.10。侮辱，诽谤(传播误导性信息)与其他用户，行政管理人员，版主，其他人员有关的;
+    2.1.11。游戏中的任何形式的操纵或阴谋;
+    2.1.12。表现对游戏开发和形象有负面影响的任何行动;
+    2.1.13。其他形式的妨碍正常游戏过程的恶意行为将被政府当局认可。
+    2.2。任何形式的欺诈行为，特别是：
+    2.2.1。使用游戏和/或游戏服务进行欺诈行为，包括但不限于欺诈性游戏内金融操作，交易过程中的欺诈行为，付款(包括任何退款，禁止的交易);
+    2.2.2。将账户或其他游戏价值转移给第三方;出版任何出售，购买或转让账户或游戏价值的优惠，既免费又包括水晶或资金，以及对上述行为的鼓励;
+    2.2.3。尝试从任何其他用户获取密码，其他帐户信息或其他个人信息，包括通过使用道德，物理或技术威胁进行勒索的形式;
+    2.2.4。传播关于其他用户或关于第三人的任何个人信息(除非这些信息是可公开访问的);
+    2.2.5。欺诈 - 使用任何欺诈手段接收游戏币;
+    2.2.6。任何假装成为政府或项目助理(主持人，顾问等)的前任或现任雇员的企图，包括代表主管部门或主持人发送消息;
+    2.2.7。以任何形式乞讨，包括转移资金，游戏价值或晶体的请求;
+    2.2.8。伪装成游戏官方资源的外部资源链接发布。
+    2.3。其他违规：
+    2.3.1。使用不良或强烈的语言，其他不良或粗俗的单词(短语)不属于坏语言，包括隐含形式;
+    2.3.2。公布有关性，色情或色情性质的信息和材料，描绘或描述男女之间的性关系;
+    2.3.3。公布侮辱或羞辱信徒感受的信息或符号，会引起仇恨，仇恨，种族，国际或民族不和，不容忍(包括侮辱，根据种族，民族，种族，宗教特征提供绰号)，以及挑衅对方采取具体行动;
+    2.3.4。宣传或示威纳粹标志，符号，缩写或名称，纳粹活动家的姓氏和姓氏;
+    2.3.5。公布否定历史事件的信息;
+    2.3.6。公布那些可以看到要求暴力，战争，恐怖主义，推翻权力的信息;极端主义活动和/或大规模骚乱;
+    2.3.7。公布有关政治组织(政治领导人)犯下政治罪或危害人类罪，恐怖主义行为或以其他方式违反国际法的情报;
+    2.3.8。公布包含政治招标，政治广告，任何形式的选举宣传的信息;
+    2.3.9。讨论当今的政治问题是挑衅性的冲突;
+    2.3.10。任何形式的性别，年龄，宗教或其他特征的歧视;
+    2.3.11。与用户，管理人员或第三方相关的任何形式的威胁;
+    2.3.12。公布包含自杀方式，呼吁自杀，暴力或其他对生命或健康构成威胁的行为的信息，危险作战技巧的描述，特技，武器制作方法，对身体改变方法的描述;
+    2.3.13。公布描述，怂恿或证明非法或反社会行为，犯罪，暴力，残伤，对人，动物造成心理或肢体残忍的信息，并对他人的财产造成损害;
+    2.3.14。公布导致儿童恐惧，恐怖或恐慌的信息，包括死亡，疾病，自杀，事故，突发事件或灾难和(或)其后果的图片或描述，可能损害未成年人健康或发育的其他信息;
+    2.3.15。公布由于非法行为而遭受的未成年人信息(遗漏);
+    2.3.16。公布包含直接或间接宣传，呼吁消费含酒精和含酒精的饮料，啤酒，烟草制品，吸烟配件，毒品，毒性，精神药物和/或令人陶醉的物质及其前体的信息，包含有关地点和方法的信息他们的生产，收购，种植和使用;
+    2.3.17。公布可能引起参与赌博游戏，卖淫，流浪或乞丐的愿望的信息;
+    2.3.18。未经权利持有人许可，使用知识产权物件(软件，艺术品，视频和其他物品或其零件，商标等)或其他材料;张贴盗版内容的链接;删除或更改知识产权信息，特别是与权利人，作者和其他知识产权确认的联系;
+    2.3.19。未经政府批准，发布任何广告资料或信息;
+    2.3.20。公布可能导致用户或主管机关损害/损失的信息;
+    2.3.21。对游戏和/或其作者，业主的无建设性批评;
+    2.3.22。对政府或主持人的表达或隐含的公开讨论;
+    2.2.23。提供虚假或虚构的信息，文件或证据。政府警告用户有关此类活动的犯罪和其他责任;
+    2.3.24。对这些游戏规则，协议和/或适用法律禁止的行为(不作为)进行委托或挑动(挑衅)。
+    3.禁止在游戏聊天和/或论坛中启动主题和/或创建消息：
+    3.1。重现现有的主题或信息，以及最近讨论的主题和/或信息部分(游戏规则，常见问题解答，计划等)中的答案。不要忘记使用搜索找到你的问题的答案。注意并确保在制作新的主题之前查看现有的主题。
+    3.2。不符合该部分/类别的主题;
+    3.3。在主题或消息的标题和/或内容中包含CAPS LOCK或大量的CATIER LeTTER;
+    3.4。在标题和/或主题或消息的描述中包含不相关或重复的符号，字符，表情符号，主题或消息的描述，使主题或部分的理解复杂化或没有任何意义（Flood)，例如== - 我的主题 - = =;
+    3.5。包含字体大小超过24的文字;
+    3.6。缺乏信息，并不反映对该主题的标题或描述中的事件的感觉;
+    3.7。引用以前的消息和/或图像的太大的文本，没有任何特殊的必要性(过度报价);
+    3.8。继续讨论政府关闭或删除的主题(necroposting);
+    3.9。对论坛或游戏聊天参与者具有个人吸引力。对于个人通信，请使用私人消息。与解决问题同时进行个人讨论。
+    3.10。包含垃圾信息，即分发收件人未要求的信息，不表示有兴趣接收和/或不同意接收;
+    3.11。火焰(“为争辩辩护”，交换信息，这只是一场与争议最初原因没有关系的单词战争);
+    3.12。遏制哄骗(煽动社区参与者对其产生不利影响和冲突的行为);
+    3.13。旨在挑衅其他用户，当局，主持人，以及妨碍论坛或游戏聊天的沟通;
+    3.14。包含推介链接，“作弊码”(addscore，Buy_krictals_in_the_panzer);
+    3.15。包含这些游戏规则，协议和/或适用法律禁止的其他信息或违规行为。
+    3.16。对于上述违规行为，政府有权自行决定以永久或暂时账户阻止或临时或永久限制进入游戏聊天和论坛(禁止)的形式向用户提出限制。
+    3.17。主管机关有权自行决定删除任何信息或信息;删除/移动在错误论坛部分创建的主题，恕不另行通知。
+    3.18。私人信息旨在用于游戏服务和论坛中的用户个人通信。在处理有关违反游戏规则的投诉时，政府不会考虑有关私人讯息的投诉。用户可以通过将他/她添加到论坛上用户个人资料的相应部分中的黑名单来停止接收来自其他用户的私人消息。
+    4.限制对用户的应用
+    4.1。如果用户违反了这些游戏规则，主管当局有权将游戏规则相关部分中规定的限制应用于该用户。
+    4.2。限制的类型：
+    4.2.1。永久或暂时帐户阻止 - 阻止(限制)访问游戏。
+    4.2.2。将游戏中的所有用户虚拟值(车库，水晶，游戏统计数据)缩减10％至100％或将帐户设置为零。
+    4.2.3。暂时或永久限制用户访问游戏聊天和论坛(禁止) - 限制在聊天和论坛中留言的可能性。
+    4.2.4。删除或更改，恕不另行通知游戏或游戏服务的任何部分发布的任何信息或消息;将论坛主题转移到另一部分或删除主题。
+    4.3。这些限制可能适用于任何违反这些游戏规则的用户帐户。
+    4.4。主管机关有权自行决定同时向用户申请一项或多项限制，或发出警告。
+    4.5。在选择限制时，政府会考虑违规的类型和数量，以及用户以前违反这些游戏规则的情况。
+    4.6。由于不可能总是精确地确定游戏规则的特定违规行为，因此最终决定总是留在政府当局面前。
+    4.7。违反这些游戏规则意味着用户可能会立即在没有事先通知的情况下拒绝提供游戏服务，或者这些服务可能会被全部或部分限制。
+    4.8。如果用户多次或以综合方式违反游戏规则，主管机关有权自行决定重复适用于用户的限制。
+    4.9。对于用户或第三方可能因用户使用或第三方使用互联网网站，游戏和/或在线网站而遭受的任何直接或间接损失或损害，政府当局概不负责。包括但不限于由于无法使用游戏和在线设施而造成的损失或由于主管部门向用户提供限制而造成的损失，包括游戏的其他用户在内的第三方行为导致的直接或间接损失，无法访问互联网，盗窃，材料销毁，与用户账户相关的信息丢失以及与游戏有关的任何损害用户的荣誉，尊严和商业信誉。
+    5.主持人
+    5.1。主持人是政府的助理，由主管当局选定。
+    5.2。主持人是代表和为了政府利益行事的人。版主应维护和控制游戏和游戏服务以及论坛和游戏聊天的顺序。
+    5.3。主持人有权在用户违反游戏规则的情况下，向用户申请暂时或永久限制访问游戏聊天和论坛(禁止)。
+    5.4。主持人应当诚实客观地做出决定，并且应当遵守本游戏规则和协议的规定，礼貌用户，有效和定期履行职责。
+    5.5。主持人滥用权力是严格禁止的。记录所有版主的操作。如果其中一名主持人不能证明信任，他/她将被政府内部决定不经讨论或警告而予以解雇。
+    5.6。主持人的活动是在自愿的基础上进行的。用户无权提交主持人申请任何限制。
+    6.投诉和上诉
+    6.1。用户有权通过在<a href="http://forum.3dtank.com/" target="_blank"> <u>创建新论坛主题来举报违反游戏规则的行为。违规者部分</u> </a>。有必要在新话题中明确指出违规行为的性质，并附上清楚显示违规行为的聊天截图或视频。
+    6.2。用户可以将有关这些游戏规则的任何问题，意见或投诉发送至help@3dtank.net。政府会尽一切努力尽快考虑这些要求。
+    6.3。在发送投诉时，用户应尽可能详细并尽可能清楚地描述情况的性质，并附上证据，截图等事实。关于无理限制的投诉仅作为内部评估工作的目的管理和主持人。关于限制适用的决定不受修订。
+    6.4。如果用户开始与主管部门通信或提供有关游戏或游戏服务问题的报告，则主管机关有权存储所有此类信件。
+    7.其他规定：
+    7.1。政府管理游戏并自行决定应用这些游戏规则，但要考虑到社区的意见。
+    7.2。主管机关可以更改这些游戏规则，恕不另行通知。用户必须至少每七天(即每周)检查一次这些游戏规则的变化。如果在规定期限内没有进行支票支付，并且用户继续使用游戏，则认为用户已阅读并同意修改后的游戏规则。
+    7.3。政府对欺诈和欺诈行为实行“零容忍”政策。如果政府认为用户欺骗或企图欺骗主管当局或其他用户，或提供虚假或虚构的信息，文件，证据或其他违反适用法律的行为，则主管当局保留阻止用户账户的权利，如果主管机关认为有必要，可以自行决定(连同用户的个人资料)给任何第三方和/或执法机构。
+    7.4。政府可以在赛博规则，比赛规则，锦标赛和锦标赛中颁布其他规定和限制。同时，这些游戏规则是政府采用的其他规则的组成部分。
+  REDUCE_DAMAGE_FREEZE: 冰风暴
+  TIP_1: 收集从天上掉下来的箱子! 道具箱使您的坦克更强大，而金箱子为您提供免费的水晶。
+  DRONE_INVENTORY_COOLDOWN_BOOST: 道具重载速度增加秒数
+  REARM_BATTLE_STARS_PRIZE: 您收到 {stars}
+  REGISTER_FORM_CONTINUE: 完成
+  GARAGE_BUY_TEXT: 购买
+  DRONE_DEPENDENT_INVENTORY_COOLDOWN: Switching speed
+  DM_MODE_DESCRIPTION: 竞技场中的每个玩家都是您的敌人。 胜利者是摧毁坦克最多的人。
+  HELP_PANEL_RANK_BAR_HELPER_ARROW_LENGTH: '116'
+  OFFLINE_LABEL: 离线
+  CP_MODE_DESCRIPTION: 占领敌方的点位并阻止敌人将其占领。 比赛结束时得分最高的队伍获胜。
+  HEADER_NEW_PRESENTS_ALERT: 新礼物！
+  FATAL_ERROR_WIKI_LINK: http://forum.3dtank.com/
+  CHAT_SHARP_RANKS: 等级|等级|http://forum.3dtank.com/
+  HELP_PANEL_BUTTON_BAR_HELPER_TEXT: |-
+    邀请朋友.
+    设置.
+    声音开/关.
+  SGE_MODE_DESCRIPTION: 控制一个点并使敌人远离它。 获得点位之后，继续获得下一个。 赢得更多积分的团队获胜。
+  SGE_NEW_POINT_TO_CAPTURE: 攻击新的点 {point}
+  GARAGE_CATEGORY_BUTTON_PAINTS: 迷彩
+  DRONE_HULL_SPEED_PERCENT: Bonus speed boost
+  CLAN_ALERT_LEAVE_CLAN: 离开军团？
+  CLAN_TANKS_LOST: 坦克死亡
+  PREMIUM_ALERT_RETURN: 欢迎坦克回到 Vip 的行列！
+  GARAGE_ALL_PROTECTION_PROPERTY: 全部防护
+  GAME_ACTION_SHOOT: 开炮
+  DOM_BLUE_LOST_POINT: 蓝队失去了点 {point}
+  PARTNER_REGISTARTION_FORM_CHOOSE_NAME_TEXT: 在游戏中选择您的昵称：
+  BATTLE_STAT_SCORE: 得分
+  CLAN_SEARCH_CLAN_IN_LIST: 搜索军团列表...
+  GAME_ACTION_TANK_MOVE_FORWARD: 坦克向前移动
+  SHOP_PAYMENT_CATEGORY_DESCRIPTION_FOR_ODNOKLASSNIKY: ''
+  ONLINE_LABEL: 在线
+  CLAN_SEND_INVITE: 发送邀请...
+  REARM_BATTLE_PRIZE: 您收到 {crystals}
+  THERE_ARE_PLACES_AVAILABLE_LABEL: 有可用的位置
+  SHOP_GOLDBOX_ONE: 箱子
+  SETTINGS_SSAO: 深影效果
+  REFERRALS_BUTTON_LABEL: 邀请用户
+  SHOP_FEATURING_DESCRIPTION: 临时优惠包含特价商品或特价。
+  PARTNER_PARAMETRS_ERROR: 您正尝试使用错误的参数进入游戏。
+  CLAN_INVITE: 邀请
+  CLAN_USER_CLAN_TAG: 军团标记
+  SHOP_BUTTON_TOOLTIP: 在这里您可以买到水晶和其他物品。 确保经常检查特别优惠！
+  MAP_THEME_NAME_WINTER: 冬天
+  GAME_TERMS: |-
+    游戏许可协议
+
+    概述：
+
+    本用户协议是用户(指愿意接受或实际上已经接受3Dtank.com提供的产品和服务的个人)与上海奥同软件科技有限公司(以下简称 3Dtank.com)之间的法律协议，因此请您在注册成为3Dtank.com游戏通行证的用户或接受3Dtank.com的产品和服务之前，详细地阅读本用户协议的所有内容。
+
+    由于用户、市场状况、经营情况的变化，3Dtank.com有权随时更改本用户协议及相关服务规则。修改本用户协议及相关规则时，3Dtank.com将在相关页面公示修改的事项，而不另行对用户进行个别通知。用户应该每七天(每周)至少一次查询3Dtank.com官方网站的相关公示，以了解本用户协议及其他服务规则的变化。
+
+    用户了解并同意：无论事实上是否认真阅读，只要用户点击“同意”按钮完成注册或者用户实际接受了3Dtank.com的产品和服务，就已接受了本用户协议、3Dtank.com公布的各项服务规则以及3Dtank.com对本协议及各项服务规则所做的任何修改，并愿意受其约束。如果发生纠纷，用户不得以未仔细阅读为由进行抗辩。
+
+    若您不同意本协议或3Dtank.com随时对其作出的修改，您可以主动取消、停止使用3Dtank.com提供的产品和服务，如您仍继续使用 3Dtank.com提供的产品和服务，即视为您同意本协议及3Dtank.com对本协议及相关服务规则所做的所有修改。3Dtank.com不承担任何由于您未认真阅读本协议、相关服务规则及3Dtank.com对本协议、相关服务规则所作的修改而产生的损失。
+    1. 游戏规则
+
+    1.1. 注册后,玩家将获一辆可供自己支配的游戏坦克和10个水晶, 玩家可在战斗中进行拼杀,最终取得胜利并战胜敌人。
+
+    1.2. 在战斗中胜利后,玩家可获得升级并得到新的头衔, 同时可获得水晶（游戏中的虚拟货币）。该水晶可用于购买或升级在游戏中坦克所需的装备和消耗品。
+    2. 协议对象
+
+    根据本协议条款,管理部门为用户提供进入游戏的许可,游戏中所需的资源,服务及游戏方法。
+    3. 协议缔约方
+
+    3.1. 用户, 指愿意接受或实际上已经接受3Dtank.com提供的产品和服务的个人。
+
+    3.2. 游戏管理部门, 指保障游戏正常运作的部门。
+    4. 用户的权利
+
+    4.1. 用户有权通过个人的非商业性的目的使用游戏。
+
+    4.2. 用户有权对管理部门相关的服务人员进行投诉, 投诉的程序由管理部门进行制定。
+    5. 用户行为限制
+
+    5.1. 用户在使用3Dtank.com提供的产品和服务过程中应保证遵守国家法律、法规，不得利用3Dtank.com提供的产品和服务实施任何违法及危害国家、集体安全的行为。
+
+    5.2. 用户不得对3Dtank.com服务器实施任何的“黑客”行为，包括但不限于入侵、产品和服务的服务器端程序或尝试使服务器过度负荷；攻击、破解、修改产品及服务的客户端程序；对产品和服务的计算机系统进行删除、修改等操作，非法获取存储数据或对数据进行删除、修改；利用还原工程(Reverse Engineering)、译码(Decompile)、反向组译(Disassemble)等技术手段对产品和服务进行任何形式的攻击、入侵等。
+
+    5.3. 用户不得制作、传播、使用任何形式的附加程序、辅助程序或任何其他第三方程序登录或接受3Dtank.com所提供的服务；不得利用3Dtank.com任何知识产权，来创造或提供相同或类似的服务，如仿真服务器等。
+
+    5.4. 用户不得利用程序中可能存在的技术缺陷或程序漏洞作弊、获利。
+
+    5.5. 3Dtank.com严禁用户利用3Dtank.com所提供的服务实施与使用该服务无关的行为，包括但不限于妨害他人名誉或隐私权；使用自己、匿名、冒用他人名义散播诽谤、不实、威胁、不雅、猥亵、不法、攻击性或侵害他人权利的消息或文字；传播色情或其它违反社会公德的言论；传输或散布计算机病毒；从事广告或贩卖商品；从事不法交易、张贴虚假不实或引人犯罪的信息；或任何违反中华人民共和国法律或其它法律、行政法规的行为。
+
+    5.6. 用户应配合3Dtank.com服务管理人员工作，及时回答相应的询问，并澄清事实，否则3Dtank.com有权随时终止为用户提供服务，用户不得就此向3Dtank.com提出任何赔偿或补偿请求。
+
+    5.7. 用户应就其在接受3Dtank.com所提供的服务过程中的行为或活动（包括并不限于用户自行执行或与其它用户互动过程中）产生的后果自负责任，3Dtank.com就用户在使用其所提供的服务过程中的行为、活动或交易不负任何责任。
+
+    5.8. 用户可以在3Dtank.com的服务器上传使用服务所必须的资料， 资料的内容受以下限制：
+
+    （A）不得侵犯任何第三者的知识产权，版权或公众/私人的任何权利；
+
+    （B）不得违反任何法律或社会道德、风俗习惯；
+
+    （C）不得包含任何毁谤他人、性骚扰、种族歧视或对孩童有不良影响的内容；
+
+    （D）不得包含病毒、特洛依木马、定时炸弹等可能对3Dtank.com系统造成伤害或影响其稳定性的内容。
+
+    用户同意自行承担发布上传内容所应承担之法律责任，用户同意3Dtank.com有权（但无义务）对用户上传资料进行审核，并对其中违规内容进行任何操作，用户在此授权3Dtank.com执行任何有关用户上传的内容的知识产权。
+
+    5.9. 不得过快发言(发送的信息由重复的字符或信息组成;在五秒内重复发送超过一个的同样的或类似的消息,在消息中使用超过5个同样的标点符号,标志或者特殊字符)
+
+    5.10. 广告(禁止未经管理部门允许投放广告) 。
+
+    5.11. 在游戏中,故意让对手攻击自己,而不还击,以此达到帮助对方非正常升级或获胜的目的. 这一行为将视为"恶意升级", 在游戏是被禁止的。
+
+    5.12- 在聊天室和论坛中传播邀请好友的链接。
+
+    6. 管理部门权利
+
+    6.1. 鉴于网络服务的特殊性，用户同意3Dtank.com有权仅根据其判断，单方决定新增、修改、删除、暂停或终止其所提供的全部或部分服务（包括且不限于增加、暂停或终止某个游戏的运营），且无需另行个别通知用户，用户不得因此要求任何补偿或赔偿。
+
+    6.2. 在本协议约定的情形下，3Dtank.com停止、更改、终止产品和服务的部分或全部内容或根据本协议对用户账号加以限制、取消或封存而可能产生的不便或损害，3Dtank.com对用户本人或任何第三人均不负任何损害赔偿责任，用户也不得要求返还账号内点数或虚拟道具对应之人民币价值，不得要求赔偿。
+
+    6.3. 用户连续180天没有登陆账号，则自第181天，3Dtank.com有权采取措施终止该用户继续使用账号，用户同意在此情况下放弃对账号的使用权、账号内任何虚拟货币或物品、依托该账号的数据信息以及账户内相应的之人民币价值。
+
+    6.4. 如用户违反本协议第5条行为被3Dtank.com认为是严重违约行为，在3Dtank.com发现用户数据或行为状态存在异常情况时，3Dtank.com有权采取一切措施包括但不限于暂时或永久终止用户的账号使用权，并保留采取进一步法律措施的权利。
+
+    6.5. 任何注册账号有如下任意一种或多种行为，3Dtank.com有权暂时或永久停止用户使用该账号：
+
+    提供虚假注册信息。
+
+    通过不正当手段使用我们网络服务。
+
+    （A）滥用所享受的权利。
+
+    （B）通过不正当手段使用3Dtank.com服务。
+
+    （C）有损害其他用户的行为。
+
+    （D）违背社会风俗和社会道德的行为。
+
+    （E）其他违反本协议约定及服务规则规定的行为。
+
+    6.6. 发生下列情形之一时，3Dtank.com有权不经事先通知停止或中断向用户提供服务：
+
+    （A）对于网络设备进行必要的保养及施工；
+
+    （B）发生突发性的网络设备故障时；
+
+    （C）由于3Dtank.com所用的网络通信设备由于不明原因停止，无法提供服务时；
+
+    （D）由于相关政府机构的要求；
+
+    （E）由于3Dtank.com公司服务策略的调整。
+    7. 管理部门的义务
+
+    7.1. 管理部门有义务给用户提供免费进入游戏的通道。用户自行承担互联网宽带费用。
+
+    7.2. 管理部门有义务完成应有的服务条款,以及游戏中的有关付费服务的条款。
+    8.生效
+
+    8.1. 官方公布此协议文件后协议即刻生效, 同时玩家在注册时必须同意本协议条款。
+
+    8.2. 协议有效期限
+
+    自官方发布此协议文件起到游戏终止运营或官方发布新的协议为止。
+    9. 缴费方式和标准
+
+    3Dtank.com在提供产品和服务时，可能针对部分产品或服务项目向用户收取费用。3Dtank.com会在相关页面上明确说明，对于 3Dtank.com的收费产品和服务，如果用户需要使用收费产品或服务，用户应该按照3Dtank.com提供的支付方式进行购买，否则，3Dtank.com将不提供或停止继续向用户提供该产品和服务。
+
+    3Dtank.com会将有关产品和服务的收费标准、购买方式或其他有关费用支付方面的信息发布在该产品和服务相关网页的显著位置，用户可自行查看并决定是否使用。3Dtank.com将有权决定并随时修改所提供的产品和服务的费用标准和收取方式，3Dtank.com可能按照所提供的产品和服务的不同阶段确定不同的收费标准和收费方式。
+    10. 用户注册
+
+    10.1. 用户必须注册一个游戏账号（以下简称“账号”）才可以接受3Dtank.com提供的各项服务。账号以及账号相关其他信息的所有权归3Dtank.com所有，用户在完成注册申请手续后获得一个账号的使用权。
+
+    10.2. 用户应当具有相应行为能力和责任能力，如使用者为未成年人，应由其父母或监护人完成注册过程，并对未成年人使用的账号内发生的行为及事件负责。
+
+    10.3. 用户注册应提供完整、详尽、真实的个人资料（包括身份识别资料和其他个人资料），个人身份识别资料包括法定姓名和身份证号码。除个人身份识别资料外的其他资料用户应不断更新，以符合真实、准确、完整的要求。用户因注册信息不真实产生的后果由用户自行负责，3Dtank.com不承担任何责任。
+
+    3Dtank.com要求用户在注册成功后填写“密码保护资料”或其他账号信息资料，用户理解并同意，在注册成功后，未填写或填写错误、虚假资料的资料的情况下，3Dtank.com将无法识别用户身份，有权拒绝用户提出的服务要求。
+
+    10.4. 个人身份识别资料一经注册，除特殊情况下经3Dtank.com许可外，用户无权进行单方面变更。用户应充分认识到身份证信息是账号使用权的主要凭证。用他人身份证号码及杜撰虚假身份证号码注册的用户，其权益在游戏中将得不到任何保障。在特殊情况下（例如注册时由于用户失误导致身份证信息填写错误），3Dtank.com可能允许用户在履行必要的程序之后修正身份证信息，当修正生效后，对该账号归修改后的居民身份证持有者使用。
+
+    10.5. 若用户在3Dtank.com留下的个人资料与事实不符，3Dtank.com可以停止向其继续提供产品和服务。当用户向3Dtank.com申请查询或修改某账号信息时，必须提供该账号在3Dtank.com的注册时所留下的全部信息记录，如果无法提供完全正确的上述信息记录，或用户提供的身份信息与现有的真实身份信息有任何不符，3Dtank.com有权不予认定该账号为该用户所使用，并拒绝用户提出的对该账号的任何要求。
+
+    10.6. 用户申请注册成功后，3Dtank.com将分配给用户游戏账号。账号一旦设定，用户不可再变更。密码等3Dtank.com规定填写的其他资料则可以按3Dtank.com要求的手续进行变更。
+    11． 账号安全：
+
+    11.1. 用户有义务妥善保管账号及密码，不得将其账号、密码转让、出借，不得与他共同使用一个账号，不得向任何人泄露自己的账号和密码或注册时填写的信息。用户对账号和密码安全负全部责任，并对以此组账号及密码登入系统后所发生的一连串行为或活动负责。
+
+    11.2. 如因用户自身过错或用户计算机感染病毒（包括但不限于木马、遭受黑客攻击等任何原因），而导致账号或密码泄漏的，用户应自行承担责任。如果用户遗失了密码，3Dtank.com针对处理此问题之服务保留索取额外费用的权利。
+
+    11.3. 若用户发现账号或密码遭他人非法使用或有异常使用的情形，应立即通知3Dtank.com，提交该账号为本人责任使用的有关证明，以便申请该账号的暂停使用，用户理解并同意，因此而产生的损失，3Dtank.com不承担赔偿责任。同时3Dtank.com不负有向用户披露数据信息的义务，除非用户根据法律规定向公安机关报案，公安机关立案后，3Dtank.com有义务协助公安机关查询。
+
+    11.4 3Dtank.com向用户提供或推荐一定的保护账号密码的工具或服务，工具或服务可能收费或免费，用户了解并同意：这些工具或服务只能在一定程度上提高账号安全性，3Dtank.com不承诺用户在使用此类辅助工具或服务后能够保障账号的绝对安全，也不会对用户使用工具或服务后发生的账号被盗负责或赔偿。
+    12. 协议解释和判定标准
+
+    12.1. 3Dtank.com对本协议条款保留最终解释权，3Dtank.com对于用户是否违反本协议及相关服务规则有最终判定权。
+
+    12.2. 本协议、相关服务规则、3Dtank.com不定时对本协议及相关服务规则所作的修改以及在3Dtank.com服务器系统内存储的数据信息是用户行为的判定标准。
+    13． 个人资料的保护及其限制
+
+    13.1. 除下列情形外，3Dtank.com在未得到用户同意前，不公开对外披露用户的个人资料：
+
+    （A）基于法律规定；
+
+    （B） 基于政府行政主管部门、司法机关或其它有权机关基于法定程序的要求；
+
+    （C） 为保障3Dtank.com的财产及权益；
+
+    （D） 在紧急情况下为保护其它用户或第三人的人身安全的情形下；
+
+    在3Dtank.com关联或合作公司同意承担以上承诺的情况下，用户同意3Dtank.com有权向关联公司提供用户个人资料，并可以在合理范围内搜集、处理、保存、传递及使用该资料，以提供用户其它信息及服务或做成会计资料，或进行网络行为的调查或研究，或其它任何合法使用。
+
+    13.2. 3Dtank.com无法保证不将用户的个人资料或通讯内容给予第三者。例如：如政府机关需要3Dtank.com提供相关资料，或者其它的第三者拦截网络的传输内容。用户授权3Dtank.com可将用户的资料给予政府相关单位，以利调查或问题解决的进行。
+
+    13.3. 为游戏服务需要，用户授权3Dtank.com远程检视与更改用户计算机的内容，并且授权3Dtank.com从用户的计算机上传档案或远程下载档案到用户的计算机。
+    14. 风险承担和责任免除
+
+    14.1. 用户应了解并同意，3Dtank.com所提供的服务可能因公司本身、其它合作厂商或相关电信业者网络系统软硬件设备的故障、失灵、或因合作方及相关电信工作人员人为操作的疏失而全部或一部分中断、暂时无法使用、迟延或因他人侵入3Dtank.com系统篡改或伪造变造资料等，造成服务的停止或中断者或用户档案缺失，用户不得要求3Dtank.com提供任何的补偿或赔偿。
+
+    14.2. 用户同意使用3Dtank.com所提供的服务是出于用户个人意愿，并愿自负任何风险，包括但不限于其因使用3Dtank.com服务或自行由3Dtank.com网站下载游戏或资料图片而导致用户或其所使用的计算机软、硬件的损害，或发生任何资料的流失等。
+
+    14.3. 3Dtank.com就其所提供的服务，不负任何明示或默示的担保责任，而其所提供的服务的稳定、安全、无误及不中断性亦有可能受到影响。
+
+    14.4. 3Dtank.com对其服务不保证不出现任何程序问题,并对由此可能产生的问题不承担任何赔偿责任。
+
+    14.5. 3Dtank.com对于用户使用其服务或无法使用网络所导致的任何直接、间接、衍生的损害或所失利益不负任何损害赔偿责任。若依法无法完全排除损害赔偿责任时，3Dtank.com的赔偿责任亦以用户就使用产品或服务所支付3Dtank.com的价款为限。
+    15. 链接在3Dtank.com网站上所提供的所有链接，可能链接到其它个人、公司或组织的网站，提供该等网站的目的，是方便用户自行搜寻或取得信息，3Dtank.com对于被链接的个人、公司或组织的网站所提供的产品、服务或信息，不担保其真实性、完整性、实时性或可信度、这些个人、公司或组织与3Dtank.com间亦不存在任何雇用、委任、代理、合伙或其它类似的关系。
+    16. 损害赔偿
+
+    用户若违反服务条款或相关法令，导致3Dtank.com、或其关系企业、受雇人、受托人、代理人或/及其它相关履行辅助人因此而受到损害或支出费用（包括但不限于由法律诉讼、行政程序等所支出的诉讼费用、律师费用、实际遭受损失的费用等），用户应负担损害赔偿责任。
+    17. 广告信息的免责
+
+    17.1. 3Dtank.com在提供服务过程中可能在有关网站位置上可能刊登商业广告、或其它活动促销的广告。这些内容系广告商或商品服务提供者所为，3Dtank.com仅是刊登内容的媒介。用户通过3Dtank.com网站或其所链接的网站所购买的服务或商品，其交易行为仅存于用户与该商品或服务的提供者之间，与3Dtank.com无关。
+
+    17.2. 3Dtank.com在提供服务过程亦有可能以电子邮件或手机短信或其他方式不时向用户发送3Dtank.com的游戏电子期刊或相关市场活动信息，这是 3Dtank.com提供的服务的组成部分，如用户不愿意收到类似信息，可按相应活动退订规则，完成退订手续。
+    18． 不可抗力
+
+    在任何情况下，3Dtank.com对于因其合理控制之外的原因造成的延误或未运行不承担责任， 包括但不限于3Dtank.com控制外的、未预见的情况或原因， 如天灾、战争、恐怖主义、暴动、禁运、行政或军事机关行为、火灾、水灾、事故、罢工、或运输工具、燃料、劳工、材料或电脑软件和硬件的短缺。
+    19. 适用法律
+
+    19.1. 本服务条款所定的任何条款的一部或全部无效者，不影响其它条款的效力。
+
+    19.2. 若用户和3Dtank.com之间发生任何纠纷或争议，首先应友好协商解决，协商不成的，用户在此完全同意将纠纷或争议提交上海奥同软件科技有限公司所在地法院管辖。
+    20. 其他条款
+
+    20.1. 所有的版权和游戏的相关权利，包括游戏角色，游戏物品和配件，及游戏的计费方法归管理部门所有，除非另有明文规定。禁止在未经允许的情况下公然全部或部分使用游戏。
+
+    20.2. 游戏所有权和知识产权，包括,但不限于游戏的任何图像，照片，动画，视频，音频，音乐，文件以及文件的所有副本，均归管理部门所有。
+  TJR_RED_BOSS_KILLED: 红队剑圣已经被击杀
+  CTF_LOST_ENEMY_FLAG: 失去敌方旗子
+  TIP_4: 坦克翻了？通过按"Delete"键进行坦克自毁重新复活。
+  PIECE_1: 件
+  ACCOUNT_RECOVERY_FORM_BUTTON_RECOVER_TEXT: 恢复
+  ERROR_EMAIL_DOMAIN_IS_FORBIDDEN: 邮寄地址被禁止
+  CONNECTION_CLOSED_WIKI_LINK: http://forum.3dtank.com/
+  PROMO_CODE_SHOP_LABEL: 兑换码
+  PREMIUM_NOTIFICATION_COMPLETE: 您的 Vip 已过期。
+  GARAGE_NEW_ITEMS_ALERT: '祝贺! 现在您可以在车库购买以下物品:'

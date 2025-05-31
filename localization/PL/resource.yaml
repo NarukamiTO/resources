@@ -1,0 +1,1616 @@
+type: Localization
+images:
+  HELP_CONTROLS_MINI: HELP_CONTROLS_MINI.png
+  GARAGE_ADD_MORE_CRYSTALS: GARAGE_ADD_MORE_CRYSTALS.png
+  HELP_MOUSE_MINI: HELP_MOUSE_MINI.png
+  FULL_BATTLE_HELP: FULL_BATTLE_HELP.png
+  TURNOVER_HINT_DELETE_BUTTON: TURNOVER_HINT_DELETE_BUTTON.png
+strings:
+  DOM_POINT: Punkt {point}
+  DRONE_DEFEND: Czas trwania wzmocnienia
+  BUG_REPORT_BUTTON_SEND_TEXT: Wyślij
+  RUGBY_READY_TO_FACE_OFF: Piłka wkrótce pojawi się
+  GROUP_INVITE_RESPONSE_DECLINE: Nie dołącza do grupy
+  DRONE_INVENTORY_COOLDOWN_BOOST: Przyspieszenie odnowienia zaopatrzenia w sek.
+  DRONE_DAMAGE_PERCENT: Bonusowe obrażenia
+  CLAN_PROFILE: Profil klanu
+  DAILY_QUEST_GOAL: 'Misja:'
+  GARAGE_BUY_BUTTON_RANK_LABEL: Ranga
+  AUTOCOMPLETION_BALANCE_RESTORED_PART2: Runda przebiegnie normalnie
+  REDUCE_DAMAGE_FREEZE: Mróz
+  PLAY_BUTTON: Graj!
+  GARAGE_IMPACT_PROPERTY: Siła uderzenia
+  HEADER_INVITE_A_FRIEND: ZAPROŚ ZNAJOMEGO
+  DRONE_INVENTORY_COOLDOWN_SUBTRACTION: Przyspieszenie odnowienia zaopatrzenia w sek.
+  CLAN_PURCHASE_INFORMATION: |-
+    W celu utworzenia własnego klanu, należy zakupić najpierw licencję klanową.
+    Licencja ta pozwoli utworzyć jeden klan.
+  WARM_UP_LABEL: Przygotuj się do bitwy
+  DRONE_RELOAD: Czas ładowania drona
+  REARM_BATTLE_PRIZE: Otrzymujesz {crystals}
+  GAME_ACTION_TANK_TURN_RIGHT: Skręt czołgiem w prawo
+  NEWS_TAB_HEADER: Ogłoszenia
+  CLOSE_LABEL: Zamknij
+  CTF_OUR_FLAG_RETURNED: Zwrócono naszą flagę
+  POSTFIX_OFFER_EXIT_BATTLE: Jazda próbna zostanie zakończona.
+  AUTOCOMPLETION_BALANCE_DISTURBED_LOSERS_PART1: Nasza drużyna ma za mało graczy
+  BLOCK_USER_CONTEXT_MENU_LABEL: Zignoruj
+  FACEBOOK_NAME: Facebook
+  DRONE_CRITICAL_HEALTH: Leczenie
+  REARM_BATTLE_RETURN: Powróć do bitwy
+  HELP_PANEL_RANK_BAR_HELPER_TEXT: |-
+    Pasek doświadczenia wypełnia się,
+    gdy niszczysz
+    innych graczy.
+  BATTLE_CREATE_PANEL_BUTTON_CONTROL_THE_POINT: "Przejmij \npunkty"
+  HELP_PANEL_MAIN_MENU_HELPER_TEXT: Menu główne
+  RENAME_FORM_NEW_UID_INPUT: Wprowadź nową nazwę użytkownika
+  TIP_14: Zmień wyposażenie podczas bitwy, odwiedzając swój hangar. Aby to zrobić, naciśnij klawisz «G» na klawiaturze lub kliknij przycisk «Hangar» w górnej części ekranu.
+  HEADER_PREMIUM: KONTO PREMIUM
+  CLAN: Klan
+  SETTINGS_CHANGE_PASSWORD_CONFIRMATION_SENT_TEXT: Wiadomość przedstawiająca sposób postępowania została wysłana na twój adres e-mail.
+  ESTIMATED_WAITING_TIME_LABEL: Średni czas oczekiwania
+  CTF_MODE_DESCRIPTION: Atakuj bazy przeciwników, podbijaj flagi w swojej bazie i ochraniaj swoją flagę przed przeciwnikami. Wygrywa zespół, który zdobędzie najwięcej flag dla swojej drużyny.
+  GROUP_BUTTON: Grupa
+  GARAGE_RESISTANCE_DESCRIPTION_PREFIX: 'Ochrona:'
+  RUGBY_BALL_LOST_RED: Drużyna czerwona straciła piłkę
+  SETTINGS_TITLE: Ustawienia
+  GATE_2_SHOP_EMAIL_INPUT_DESCRIPTION: Proszę wprowadzić swój adres e-mail, aby otrzymać potwierdzenie zakupu.
+  ALERT_ACCOUNT_LINKING_ERROR: Wystąpił błąd podczas próby łączenia twojego konta, spróbuj później
+  FRIENDS_ALREADY_HAVE_INCOMING: 'Już otrzymano prośbę od użytkownika: %USERNAME%. Akceptujesz?'
+  FRIENDS_FIND_IN_LIST_HINT: Znajdź na liście...
+  SERVER_STOP_ALERT_TEXT: |-
+    AKTUALIZACJA SERWERA!
+
+    Serwer zatrzyma się za %1 sek.
+  PHONE_NUMBER: Your phone number
+  QUICK_PLAY_MODE_DESCRIPTION: Weź udział w bitwie z innymi graczami, aby pokonać przeciwny zespół. Tryb bitwy zostanie wybrany losowo.
+  CLAN_POSITION_SERGEANT: Sierżant
+  SETTINGS_TAB_NAME_CONTROLS: Sterowanie
+  LINK_IS_COPIED_BUTTON_LABEL: |-
+    Link
+    skopiowany
+  HEADER_WELCOME_BACK: WITAMY PONOWNIE!
+  LINK_IS_NO_LONGER_VALID_TEXT: Ten link jest niepoprawny, bądź niekatywny.
+  HEADER_PAYMENTS: PŁATNOŚCI
+  CLAN_SEND_INVITE: Wyślij zaproszenie...
+  REFERAL_WINDOW_SUMMARY_LABEL: 'Całkowity bonus:'
+  SETTINGS_SSAO: Głębia cieni
+  PAYMENT_SMSNUMBERS_COST_HEADER_LABEL_TEXT: Koszt
+  WEEKLY_QUEST_COMPLETED: |-
+    Ta misja została zakończona.
+
+    Wróć do gry w przyszłym tygodniu po nowe misja.
+  SETTINGS_CHANGE_PASSWORD_WRONG_LINK_TEXT: Uszkodzony link
+  PRESENT_INFO_MESSAGE_LABEL: 'Treść:'
+  HEADER_COMMUNICATOR: KOMUNIKATOR
+  BATTLE_LIST_DESCRIPTION: Utwórz bitwę ze swoimi własnymi ustawieniami, lub dołącz do istniejącej już bitwy.
+  CLAN_CREATION_RULES: <textformat leading='5'>Potwierdź, że zapoznałeś się z <a href='http://tankionline.com/pl/rules/' target='_blank'><font color='#59ff32'><u>zasadami</u></font></a></textformat>
+  CLAN_DESCRIPTION_LABEL: Opis klanu
+  CLAN_PROFILE_MIN_RANK: Minimalna ranga
+  GARAGE_INFO_PANEL_BUTTON_BUY_TEXT: Kup
+  SPECTATE_TEXT: Oglądaj
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_TEXT: |-
+    Kliknij, żeby utworzyć spersonalizowaną bitwę,
+    wybierając mapę i rodzaj gry.
+  GAME_ACTION_TANK_TURN_LEFT: Skręt czołgiem w lewo
+  ERROR_FATAL_DEBUG: Wystąpił błąd
+  OFFLINE_LABEL: Offline
+  FRIENDS_CANCEL_BUTTON_TEXT: Anuluj
+  SETTINGS_FOG_LABEL_TEXT: Mgła
+  CLAN_MY_CLAN: Mój klan
+  CTF_SHORT_NAME: CTF
+  KEYBOARD_KEY_RIGHT: Prawo
+  BATTLE_CREATE_PANEL_BUTTON_RUGBY: Rugby
+  CHAT_PANEL_COMMAND_UNBLOCK_ALL: Lista zignorowanych osób została wyczyszczona
+  HEADER_CHAT: CZAT
+  CLAN_REQUEST_IS_ALREADY_SENT: Już wysłałeś swoje zgłoszenie do tego klanu
+  CLAN_IS_ALREADY_IN_REQUEST_LIST: Wysłałeś już zaproszenie do dołączenia do klanu %CLANNAME%
+  CHAT_LABEL_SPECTATORS: Do obserwatorów
+  REGISTER_FORM_REGISTER_VIA: Zarejestruj się w grze, używając
+  SHOP_BUTTON_TOOLTIP: Tutaj możesz kupić kryształy i inne przedmioty. Bądź pewny, że nie przegapisz specjalnej oferty!
+  CTF_RETURNED_FLAG_NEUTRAL: zwraca flagę
+  REGISTER_FORM_CALLSIGN_INPUT_LABEL_TEXT: 'Nazwa:'
+  BATTLE_CREATE_PANEL_MAP_TYPE_LABEL: 'Mapa:'
+  BATTLE_PLAYER_JOINED: dołączył
+  GAME_ACTION_SCREEN_SIZE_DECREASE: Pomniejszenie okna bitwy
+  SGE_RED_CAPTURED_POINT: Czerwona drużyna przejęła punkt {point}
+  BATTLE_PLAYER_SUICIDED: dokonał autodestrukcji
+  LOOT_2_OPEN_BUTTON: Otwórz 5
+  MAP_THEME_NAME_SUMMER_DAY: Letni dzień
+  DOM_BLUE_CAPTURED_POINT: Niebieska drużyna przejęła punkt {point}
+  BATTLE_CREATE_PANEL_BUTTON_CAPTURE_THE_FLAG: "Zdobądź \nflagę"
+  CTF_GOT_OUR_FLAG: przejmuje naszą flagę
+  GAME_ACTION_USE_DOBLE_DAMAGE: Użycie Podwójnych Obrażeń
+  YOUR_FRIEND_DISABLED_INVITES_LABEL: |-
+    Twój znajomy wyłączył zaproszenia
+    Zaproszenie nie może zostać wysłane
+  CTF_ENEMY_FLAG_RETURNED: Zwrócono flagę wroga
+  LOADER_HEADER: Ładowanie
+  REARM_TEAM_WIN: Twoja drużyna wygrała!
+  MODULE: Moduł
+  AUTOCOMPLETION_ENEMY_TEAM_IS_EMPTY: Drużyna przeciwna jest pusta
+  GARAGE_ROTATION_PROPERTY: Prędkość obrotu
+  BATTLE_SUPPLIES_TEXT: Zaopatrzenie
+  CHECK_PASSWORD_FORM_RESTORE_LINK_TEXT: <a href='event:lost'><font color='#59ff32'><u>Nie pamiętasz nazwy lub hasła?</u></font></a>
+  TOURNAMENT_BATTLE_STARTING_LABEL: Rozpoczęcie bitwy... przygotujcie się!
+  CLAN_PLAYER_IS_INVITE_LIST: Gracz %USERNAME% został już zaproszony
+  MAIN_PANEL_UPDATE_RANK_NOTICE: |-
+    Gratulacje!
+    Osiągnięto rangę: %1
+  HEADER_DEVICES: URZĄDZENIA
+  NOT_ENOUGH_COINS: Za mało Tankoinsów!
+  TDM_MODE_NAME: Deathmatch drużynowy
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_ARROW_LENGTH: '30'
+  TIP_4: Twój czołg się przewrócił? Dokonaj autodestrukcji czołgu wciskając klawisz «Delete» na swojej klawiaturze.
+  DRONE_REPAIR_HEALTH: Bonus HP
+  REDIRECT_ALERT_TEXT: |-
+    PONOWNE URUCHOMIENIE SERWERA!
+
+    Przeniesiemy cię do jednego z dostępnych serwerów za %1 sek.
+  BATTLE_LIST_NAME: Lista bitw
+  CLAN_ACCEPT_REQUEST: Akceptuj zaproszenie
+  GARAGE_MINE_PROTECTION_PROPERTY: Ochrona przeciw minom
+  HELP_SYMBOL_IS_NOT_ALLOWED: |-
+    Nazwa może składać się z liter A-Z i cyfr 0-9
+    oraz symboli specjalnych.
+  HEADER_OFFER: JAZDA PRÓBNĄ
+  PAYMENT_SMS_DESCRIPTION_CO_TEXT: ''
+  NEWBIES_ABONEMENT_WINDOW_TEXT: |-
+    Witamy w szeregach graczy Tanki z całego świata!
+
+    Podczas gdy ta specjalna "Karta początkującego" jest aktywna, będziesz zdobywać EXPERIENCE_BONUS% dodatkowych punktów doświadczenia i CRYSTAL_BONUS% dodatkowych kryształów za każdą rozegraną bitwę. Pozwoli Ci to na dobry i szybki start przez kilka pierwszych dni jako rekruta.
+
+    Wykorzystaj w pełni potencjał tej karty rozgrywając jak największą liczbę bitew!
+  ERROR_CALLSIGN_NOT_UNIQUE: Nazwa nie jest unikalna
+  PREMIUM_NOTIFICATION_COMPLETE: Twoje Konto Premium wygasło.
+  MAP_THEME_NAME_WINTER: Zima
+  RUGBY_FACE_OFF: Piłka wraca do gry
+  INVITES_YOU_TO_A_BATTLE_LABEL: Zaprasza cię do bitwy
+  SETTINGS_GRAPHICS_AUTO_QUALITY: Automatyczna jakość grafiki
+  JGR_BOSS_KILLED: Juggernaut %1 został zniszczony
+  DEVICES: Urządzenia
+  CLAN_PROFILE_INVATION_CLAN: Zasady dołączenia
+  HEADER_CHANGE_PASSWORD_EMAIL: ZMIANA HASŁA I ADRESU E-MAIL
+  INVITE_FRIEND_BUTTON_LABEL: |-
+    Zaproś
+    znajomego
+  STATISTICS_HEADER_RATIO: Stosunek
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_ARROW_LENGTH: '30'
+  CHAT_LABEL_ALL: Do wszystkich
+  HEADER_CHANGE_UID: ZMIANA NAZWY UŻYTKOWNIKA
+  DISCOUNTED_AT_KIT: Zniżka {0}
+  TIP_0: Zdobywaj doświadczenie, aby osiągać kolejne rangi, które dadzą Ci dostęp do nowych wież i kadłubów w hangarze!
+  PAYMENT_OPERATORS_LABEL_TEXT: 'Operator:'
+  CTF_RETURNED_OUR_FLAG: zwraca naszą flagę
+  ALERT_ANSWER_SEND_BUG_REPORT: Wyślij raport o błędach i powróć do bitwy
+  TIP_6: Ikona gwiazdy nad Twoim czołgiem informuje o pełnym naładowaniu Overdrive, które można użyć. Wciśnij klawisz «Shift», aby aktywować tę zdolność.
+  GARAGE_INFO_PANEL_BUTTON_UNEQUIP_TEXT: Zdejmij
+  LINK_EXTERNAL_LOGIN_FORM_ADVICE: Wprowadź dane twojego konta Tanki Online, żeby je połączyć z %1
+  CLAN_ALREADY_INVITED_PLAYER: Ten klan zaprosił Cię już do dołączenia do niego
+  REARM_APPLY: Zmiany wyposażenia są wprowadzane
+  PAYMENT_SMS_DESCRIPTION_TEXT_INCLUDING_VAT: |-
+    Wybierz kraj i operatora komórkowego. Wybierz liczbę kryształów i wyślij SMS-a o treści pasującej do wybranej liczby. Zazwyczaj konto jest aktualizowane w ciągu kilku sekund.
+
+    Uwaga! Zgodnie z zasadami serwera SMS-ów wprowadzamy ograniczenia przeciw oszustwom. Chcąc uniknąć przepadnięcia wpłaty, postępuj zgodnie z następującymi zasadami:
+    1. Nie wysyłaj SMS-ów na sumę większą niż 13 USD na godzinę.
+    2. Nie wysyłaj więcej niż 3 SMS-ów na jedną nazwę gracza z tego samego numeru w ciągu jednej godziny.
+
+    <font color='#ff4e00'>Uzyskaj zgodę tych, którzy płacą za twoje kryształy!</font>
+  ALERT_QUIT_TEXT: Na pewno chcesz opuścić grę?
+  CAPTCHA_FORM_TITLE: 'Przepisz znaki z obrazka:'
+  GARAGE_GAUSS_AIMING_DAMAGE_PROPERTY: Uszkodzenia w trybie snajperskim
+  GAME_ACTION_PAUSE: Pauza
+  SETTINGS_DYNAMIC_SHADOWS_LABEL_TEXT: Dynamiczne cienie
+  MAIN_PANEL_UPDATE_RANK_NOTICE_GIFT: Twój prezent %1
+  CHALLENGE_BUY_STARS_TIP: Zdobądź dodatkowe gwiazdy, aby ukończyć swoje wyzwanie znacznie szybciej.
+  HELP_PANEL_SCORE_HELPER_ARROW_LENGTH: '36'
+  FRIENDS_NEW_FRIEND: Nowy znajomy!
+  RUGBY_GOAL_USER: zdobył bramkę
+  GAME_ACTION_SHOW_TANK_STATS: Pokaż statystyki czołgu
+  CLAN_POSITION_OFFICER: Oficer
+  RUGBY_BALL_LOST_BLUE: Drużyna niebieska straciła piłkę
+  SGE_BLUE_CAPTURED_POINT: Niebieska drużyna przejęła punkt {point}
+  RENAME_FORM_CURRENT_PASSWORD_INPUT: Wprowadź aktualne hasło do swojego konta
+  CLAN_MEMBERS: Członkowie
+  CHANGE_SERVER_HELPER: Wybór serwera
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_CONGRATULATIONS: Gratulacje, %1!
+  CHAT_SHARP_COMMANDS: drużyny|Drużyny|http://help.tankionline.com/topic/952656
+  HEADER_REGISTRATION: REJESTRACJA
+  CTF_GOT_ENEMY_FLAG: przejmuje wrogą flagę
+  TIP_7: Klawisze od 1 do 5 aktywują zaopatrzenie w bitwie. Korzystaj z nich mądrze, aby zdobyć przewagę nad swoimi przeciwnikami.
+  PROMO_CODE_SHOP_LABEL: Kody promocyjne
+  ALERT_EMAIL_CONFIRMED_WRONG_LINK: |-
+    Użyto nieprawidłowego linka.
+    Powtórz procedurę odzyskiwania, żeby otrzymać nowy link.
+  HEADER_LINK: LINK ZEWNĘTRZNY
+  GOLD_CHECKBOX: Pokazuj kto zrzucił złotą skrzynię
+  ACCOUNT_RECOVERY_FORM_BUTTON_RECOVER_TEXT: Odzyskaj
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_HEADER: Metoda płatności z rabatem
+  ALERT_ACCOUNT_SUCCESS_LINKED: Twoje konto zostało pomyślnie połączone
+  CHECK_PASSWORK_FORM_LOGIN_VIA: Dołącz do gry, korzystając z
+  DRONE_REPAIR_RADIUS: Promień leczenia
+  CHAT_LABEL_TEAM: Do drużyny
+  CLAN_MEMBER_LAST_VISIT: Ostatnia wizyta
+  MAP_THEME_NAME_SPACE: Kosmos
+  ALERT_GAME_ACCOUNT_ALREADY_LINKED: To konto jest już połączone z %1
+  PARTNER_USERNAME_ALREDY_USED_ERROR: Wprowadzona nazwa użytkownika jest już używana przez innego użytkownika tej sieci partnerskiej.
+  FRIENDS_DECLINE_ALL_BUTTON: Odrzuć wszystkie
+  MAP_THEME_NAME_DAY: Day
+  DELETE_PRESENT_BUTTON: Usuń
+  GARAGE_INFO_PANEL_BUTTON_EQUIP_TEXT: Wyposaż
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTTON_ARROW_LENGTH: '30'
+  REARM_SELFDISTRUCTION: Autodestrukcja nastąpi za {time}
+  CHAT_SHARP_FORUM: forum|Forum|http://pl.tankiforum.com/
+  ALERT_ERROR_EXTERNAL_ENTER: Przy próbie dołączenia do gry wystąpił błąd, spróbuj ponownie później
+  BATTLE_STAT_KDRATIO: Zb/Zg
+  HELP_PANEL_MONEY_HELPER_TEXT: |-
+    Kup więcej
+    kryształów
+  REARM_PAUSE_ALERT: |-
+    Czas przerwy prawie dobiegł końca. Opuścisz bitwę automatycznie za {time}
+    Powrócić do bitwy?
+  TJR_MODE_DESCRIPTION: Atakuj wrogiego Juggernauta i chroń własnego. Drużyna, która zniszczy najwięcej przeciwnych Juggernautów wygrywa.
+  REARM_TEAM_LOOSE: Twoja drużyna przegrała
+  CHANGE_UID_FORM_EXPLANATION_TEXT: |-
+    Witamy z powrotem!
+
+    Twój nick został automatycznie zmieniony z powodu bardzo długiej nieaktywności, ale możesz go zmienić na inny używając tego formularza.
+
+    Twoja nowa nazwa użytkownika będzie jednocześnie Twoim nowym loginem.
+  SETTINGS_DUST_LABEL_TEXT: Kurz
+  SETTINGS_SHOW_CHAT_CHECKBOX_LABEL_TEXT: Pokaż czat
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION_WITH_LIMIT: |-
+    Вы собираетесь купить билет на встречу «Танки в городе», которая пройдёт 9 сентября в Москве .
+    Внимание!
+      - Независимо от типа билета Вы можете купить только один билет на один аккаунт.
+      - Все бонусы, входящие в билет, вы получите только при личном визите на встречу.
+    При повторной покупке билета или неявке на встречу вам будет начислена компенсация в виде внутриигровой валюты. Нажимая «Далее», вы соглашаетесь с  <a href="http://tankionline.com/ru/event_rules" target="_blank"><u>Условиями заказа</u></a>.
+  FREE_UIDS_FORM_HEADER: |-
+    Nazwa już zajęta.
+    Dostępne opcje:
+  ERROR_CALLSIGN_NOT_SINGLE_DEVIDERS: W nazwie należy używać pojedynczego znaku „.” lub „_”, lub „-”
+  SPECTATOR_NAME: Obserwator
+  HELP_PANEL_MONEY_FIRST_HELPER_TEXT: |-
+    Zakup kryształy za prawdziwe pieniądze.
+    Otrzymaj 100 kryształów w ramach prezentu
+    za pierwszy zakup.
+  LOOT_3_OPEN_BUTTON: Otwórz 15
+  SETTINGS_REENTER_PASSWORD_LABEL_TEXT: 'Powtórz:'
+  CLAN_MEMBER_COLUMN_LOST: Stracone
+  JGR_YOU_ARE_THE_BOSS: Przygotuj się, zaraz to Ty będziesz Juggernautem!
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_DESCRIPTION: Ten przedmiot może być zakupiony tylko raz. W przypadku ponownego zakupu, zamiast zawartości tej paczki, otrzymasz rekompensatę w postaci Tankoins.
+  DAILY_QUEST_INFORMATION: <a href="http://pl.tankiwiki.com/Misje" target="_blank"><font color='#59ff32'><u>Info</u></font></a>
+  HELP_PANEL_MAIN_MENU_HELPER_ARROW_LENGTH: '60'
+  PREMIUM_NOTIFICATION_SOON_COMPLETE: Twoje Konto Premium wkrótce wygaśnie.
+  GROUP_INVITE_RESPONSE_INVITATIONS_DISABLED: Zaproszenia do grupy są wyłączone
+  ACCEPT_OFFER_BUTTON: Akceptuj
+  DAILY_QUEST_BUTTON: Dzienne
+  CLAN_PROFILE_OPEN: Otwarte
+  SETTINGS_UNLINK: Odłącz
+  DATE_FORMAT: dd.MM.yyyy
+  TIP_3: Kup konto premium i zdobywaj więcej doświadczenia i kryształów, jak również dodatkowe gwiazdy w wyzwaniach za każdą ukończoną bitwę.
+  BATTLE_EXIT: Wyjdź
+  SETTINGS_LINK_EMAIL_BUTTON: Połącz
+  MANY_STARS_SHOP_BUTTON_LABEL: gwiazd
+  CLAN_SEARCH_BLOCKED_HINT: Możliwość dołączania do klanów została tymczasowo zablokowana
+  ALERT_GARAGE_AVAILABLE: Teraz możesz kupować w hangarze różne towary.
+  SETTINGS_LINK: Podłącz
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_ARROW_LENGTH: '48'
+  CLAN_NOT_RECRUITING: Ten klan obecnie nie prowadzi rekrutacji
+  DOM_RED_CAPTURED_POINT: Czerwona drużyna przejęła punkt {point}
+  BUY_FOR_COIN_LABEL: 'Kup za '
+  GARAGE_CATEGORY_BUTTON_HULLS: Kadłuby
+  HEADER_LOGIN: ZALOGUJ SIĘ
+  GAME_ACTION_USE_DOUBLE_ARMOR: Użycie Podwójnego Pancerza
+  GARAGE_CATEGORY_BUTTON_DRONES: Drony
+  CHAT_SHARP_RULES: zasady|Zasady|http://tankionline.com/pl/rules/
+  GAME_ACTION_USE_MINE: Stawianie min
+  REDUCE_DAMAGE_FIREBIRD: Miotacz Ognia
+  ALERT_EMAIL_REGISTRATION: |-
+    Gratulujemy udanej rejestracji! Czołg gotowy do bitwy!
+    Hasło zostało wysłane na podany e-mail.
+  OK_ENTER_GROUP_BONUS: ''
+  GARAGE_ISIDA_PROTECTION_PROPERTY: Ochrona przed Isidą
+  CHAT_SHARP_NICK: nazwa|Zmiana nazwy użytkownika|http://help.tankionline.com/topic/952634
+  SETTINGS_RECEIVE_PRESENTS: Akceptuj prezenty od wszystkich graczy
+  KEYBOARD_KEY_DOWN: Dół
+  PARTNER_HELP_PANEL_BUTTON_BAR_HELPER_TEXT: Ustawienia. Dźwięk.
+  BATTLE_CREATE_PANEL_STEPPER_TIME_LIMIT: Limit czasu
+  CLAN_SEARCH_CLAN_IN_LIST: Wyszukaj klanu na liście...
+  CONFIRM_RENT_QUESTION: Powtwierdzić wynajem?
+  CLAN_PROFILE_CLOSE: Zamknięte
+  CODE_CONFIRM: Confirmation code
+  CLAN_POSITION_COMMANDER: Dowódca
+  HELP_PANEL_RATING_INDICATOR_HELPER_TEXT: |-
+    Twoja obecna pozycja
+     oraz zmiana pozycji
+  GARAGE_NEW_ITEMS_ALERT: 'Gratulacje! Teraz możesz kupić w hangarze następujące przedmioty:'
+  MAP_THEME_NAME_NIGHT: Noc
+  FRIENDS_MENU: Menu znajomych
+  GAME_ACTION_DROP_GOLD_BOX: Zrzucanie Złotych Skrzyń
+  DM_MODE_NAME: Deathmatch
+  CHAT_SHARP_HELP: pomoc|Pomoc|http://help.tankionline.com/pl/
+  CLAN_PLAYERS_IN_CLAN: Graczy w klanie
+  OPEN_ALL_CONTAINERS: Otwórz wszystkie
+  REGISTER_FORM_CONTINUE: Zakończ
+  DESCRIPTION: Opis
+  AS_SHORT_NAME: ASL
+  SGE_MODE_DESCRIPTION: Utrzymaj punkt i broń go przed przeciwnikami. Po zdobyciu punktu przejdź do następnego. Wygrywa drużyna, która zdobędzie więcej punktów.
+  SHOW_NOTIFICATIONS_LABEL: Pokaż powiadomienia
+  YOUR_FRIEND_IS_OFFLINE_LABEL: |-
+    Zaproszenie nie zostało wysłane
+    Twój znajomy jest offline
+  ALERT_ANSWER_GO_TO_GARAGE: Przejdź do hangaru
+  COIN_CONFIRMATION_HEADER: Potwierdzenie zakupu
+  SETTINGS_CHANGE_PASSWORD_BUTTON: Zmień
+  HELP_PANEL_MONEY_HELPER_ARROW_LENGTH: '48'
+  SHOP_WINDOW_PRIVACY_AND_COOKIES_POLICY_LINK: <a href="http://tankionline.com/pl/privacy/" target="_blank"><font color='#59ff32'><u>Polityka prywatności i pliki cookies</u></font></a>
+  GARAGE_CRITICAL_DAMAGE_PROPERTY: Uderzenie krytyczne
+  ALERT_ANSWER_RETURN_TO_BATTLE: Powrót do bitwy
+  REARM_PAUSE_2: Naciśnij dowolny klawisz, aby kontynuować
+  ALERT_GO_TO_BATTLE_IS_UNAVAILABLE_RANK_FUND: |-
+    Wchodzisz do bitwy niedostępnej dla twojej rangi.
+    Opuścić bieżącą bitwę? Wynik oraz kryształy zostaną utracone.
+  CLAN_FLAG: Flaga
+  PIECE_3: szt.
+  GARAGE_HELPER_TANK_PARTS: "Części do czołgu \ni inne przydatne \nprzedmioty"
+  BATTLE_CREATE_PANEL_BUTTON_JGR: Juggernaut
+  CAUSES_AND_SOLUTIONS: Przyczyny i rozwiązania
+  HEADER_YOUR_TANK: TWÓJ CZOŁG
+  SETTINGS_DYNAMIC_LIGHTING: Oświetlenie dynamiczne
+  CLAN_FOUNDER: Założyciel
+  AS_MODE_NAME: Szturm
+  FRIENDS_REMOVE_USER: Usunąć użytkownika %USERNAME% z listy znajomych?
+  BATTLEINFO_PANEL_COPY_LINK_TEXT: Skopiuj link
+  CTF_CAPTURED_FLAG_NEUTRAL: zdobywa flagę
+  RANK_NAMES: Rekrut, Szeregowy, Gefrajter, Kapral, Plutonowy, Sierżant, Starszy sierżant, Starszy sierżant sztabowy, Młodszy chorąży, Chorąży, Starszy chorąży 1, Starszy chorąży 2, Starszy chorąży 3, Starszy chorąży 4, Starszy chorąży 5, Młodszy porucznik, Porucznik, Starszy Porucznik, Kapitan, Major, Podpułkownik, Pułkownik, Brygadier, Generał dywizji, Generał broni, Generał, Marszałek, Marszałek polowy, Komendant, Generalissimus
+  DRONE_MINES_ACTIVATION_DELAY: Czas aktywacji min
+  CHAT_SHARP_WIKI: wiki|Encyklopedia Gry|http://pl.tankiwiki.com/Strona_g%C5%82%C3%B3wna
+  DRONE_POWER_BOOST: Dodatkowa moc zaopatrzenia
+  CP_MODE_NAME: Przejmij punkty
+  GAME_ACTION_USE_FIRST_AID: Użycie Zestawu Naprawczego
+  ULTIMATES: Overdrives
+  GAME_ACTION_TANK_MOVE_BACKWARD: Jazda czołgiem do tyłu
+  RENT_TIME: 'Okres wynajmu:'
+  BACK_BUTTON: Wróć
+  SETTINGS_SHOW_LOCAL_DRONE: Pokaż swoje drony
+  GAME_ACTION_SHOOT: Strzał
+  SGE_MODE_NAME: Oblężenie
+  GARAGE_CATEGORY_BUTTON_TURRETS: Wieże
+  PIECE_2: szt.
+  GUI_LANG: pl
+  PARTNER_REGISTARTION_FORM_CHOOSE_NAME_TEXT: 'Wybierz nazwę w grze:'
+  HEADER_TOURNAMENT_PREPARE: PRZYGOTOWANIE BITWY
+  YOUR_FRIEND_IS_ALREADY_IN_THIS_BATTLE_LABEL: |-
+    Zaproszenie nie zostało wysłane
+    Twój znajomy uczestniczy już w tej bitwie
+  REDUCE_DAMAGE_ISIDA: Isida
+  TDM_MODE_DESCRIPTION: Niszcz wrogie czołgi i ochraniaj swoich przyjaciół. Wygra ten zespół, który zniszczy najwięcej czołgów.
+  CLAN_KILL_DEATH_RATION: Stosunek Z/S
+  CHAT_PANEL_COMMAND_BLOCK_LIST: 'Lista osób ignorowanych:'
+  GAME_ACTION_CAMERA_DOWN: Obniżenie kamery
+  TIME_LABEL_HOUR: g.
+  BATTLE_FINISH_IN: Bitwa zakończy się automatycznie w ciągu
+  PRESENT_INFO_FROM_LABEL: 'Wysłane przez:'
+  HELP_PANEL_RATING_INDICATOR_HELPER_ARROW_LENGTH: '48'
+  MESSAGE_ALERT_PERSONAL_DISCOUNT: |-
+    $USERNAME$, teraz możesz kupić $ITEM-NAME$ o $DISCOUNT$% taniej.
+    Pośpiesz się! Ta oferta kończy się za $DISCOUNT_TIMER$.
+  MATCHMAKING_TIMEOUT_MESSAGE: Czas oczekiwania w kolejce na bitwę dobiegł końca. Proszę spróbować ponownie.
+  FRIENDS_YOU_ARE_HERE_BATTLE_INDICATOR: (Jesteś tutaj)
+  BUY_PRO_ABONEMENT: Kup Kartę
+  SETTINGS_BACKGROUND_SOUND_CHECKBOX_LABEL_TEXT: Dźwięki w tle
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_ARROW_LENGTH: '30'
+  TDM_SHORT_NAME: TDM
+  DOM_ENEMIES_CAPTURED_POINT: Wrogowie przejęli punkt {point}
+  BATTLE_STAT_KILLS: Zniszczone
+  SETTINGS_MOUSE_SHAFT_SCOPE_VERTICAL_INVERSION: Odwrócenie osi pionowej myszy w trybie celowania Shaftem
+  DOM_ENEMIES_LOST_POINT: Przeciwnicy stracili punkt {point}
+  FRIENDS_NEW: Nowy znajomy!
+  SHOW_DAMAGE: Wyświetlaj obrażenia
+  LOADING_PAYMENT_PAGE: Ładowanie strony płatności...
+  FITTING_BUTTON_TEXT: Podgląd
+  BATTLE_BUTTON_TOOLTIP: Tutaj możesz znaleźć nowe bitwy i zdobywać nowe rangi oraz kryształy.
+  CTF_RETURNED_ENEMY_FLAG: zwrócił flagę wroga
+  CTF_LOST_ENEMY_FLAG: traci flagę wroga
+  THANKS_FOR_PURCHASE_INFO_ABOUT_EMAIL: |-
+    Czołgisto! Podaj swój adres e-mail,
+    aby otrzymywać rachunki do swoich płatności.
+  DAILY_QUEST_GET_PRIZE: Odbierz nagrodę
+  HEADER_CLAN_LICENSE: LICENCJA KLANOWA
+  CLAN_POSITION_PRIVATE: Szeregowiec
+  PARTNER_REGISTARTION_FORM_LOGIN_LINK_TEXT: Już po rejestracji? <a href='event:haveAcc'><font color='#59ff32'><u>Wejdź do gry</u></font></a>.
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTO_COMPLETION: Automatyczne zakończenie
+  DM_MODE_DESCRIPTION: Każdy gracz wokoło to Twój przeciwnik. Zwyciezcą zostanie ten, kto zniszczy najwięcej czołgów.
+  CLAN_FOUNDER_WITH_COLON: 'Założyciel:'
+  SEND_PRESENT_BUTTON: Wyślij
+  CP_MODE_DESCRIPTION: Przejmij wrogie punkty i zatrzymaj przeciwnika, by ich nie odzyskał. Wygrywa zespół, który otrzyma największy wynik dzięki przejmowaniu punktów.
+  CLAN_ALERT_CLAN_FULL: Klan jest pełny
+  GARAGE_CATEGORY_BUTTON_KITS: Zestawy
+  RUGBY_GOAL_RED: Drużyna czerwona strzeliła bramkę!
+  GARAGE_PRICE: Cena w hangarze
+  WEEKLY_QUEST_BUTTON: Tygodniowe
+  CHAT_SHARP_RANKS: rangi|Rangi|http://pl.tankiwiki.com/Rangi
+  BATTLE_FUND: Zasoby bitewne
+  BATTLE_TEAM_BLUE: niebieska
+  SMART_SUPPLIES: Łączenie zasobów
+  MAP_THEME_NAME_SUMMER_NIGHT: Letnia noc
+  ERROR_CALLSIGN_LENGTH: Nazwa musi mieć więcej niż 1 znak
+  GARAGE_EQUIPPED_TEXT: Wyposażono
+  CTF_MODE_NAME: Zdobądź flagę
+  CHALLENGE_BUY_STARS: Kup gwiazdy
+  TIP_8: Wciśnij i przytrzymaj klawisz «R» lub «V», aby zobaczyć moduły ochronne pobliskich czołgów. Będzie tam też pokazany wynik wyposażenia «GS», który mówi o tym, jak bardzo ulepszony jest dany czołg.
+  GARAGE_RANGE_PROPERTY: Zasięg
+  CONSEQUENCES_EXTERNAL_LINK_FOLLOWING: "Nie jesteśmy odpowiedzialni za treści stron zewnętrznych i zdecydowanie zalecamy, aby nie podawać tam żadnych danych dotyczących konta (w szczególności adresu email i hasła).\n\nJeśli nie masz pewności, że dana strona jest zaufana, po prostu na nią nie wchodź. \n\nZapamiętaj, że my nigdy nie rozdajemy darmowych kryształów i nie pytamy o hasło na zewnętrznych stronach."
+  GARAGE_BUTTON_TOOLTIP: Tutaj możesz ulepszyć i spersonalizować swój czołg.
+  REARM_DM_END_BATTLE: Bitwa została zakończona
+  GARAGE_PENETRATING_PROPERTY: Siła przebicia
+  DRONE_ADDITIONAL_MINES: Liczba min
+  SHOP_FEATURING_DESCRIPTION: Tymczasowe oferty zawierające specjalne przedmioty lub specjalne ceny.
+  YOURE_LOCATION_TEXT: Jeżeli przebywasz w innym kraju, prosimy o jego wybranie i kliknięcie OK
+  HEADER_CONGRATULATION: GRATULACJE
+  SETTINGS_ANTIALIASING: Antyaliasing
+  STATISTICS_HEADER_NUMBER: '#'
+  CLAN_INVITE_TO_CLAN: Zaproś do klanu
+  CLAN_SEND_REQUEST: Dołącz do klanu
+  ASSAULT_DELIVER_FLAG: Baza została zdobyta
+  CLAN_CHAT: Czat klanowy
+  CURRENT_CRYSTALL_TOOLTIP: Twoje obecne kryształy. Są one używane do kupowania i ulepszania Twojego wyposażenia w hangarze.
+  CLAN_DESCRIPTION: |-
+    Tutaj można utworzyć swój własny klan, zebrać swoich znajomych i uzyskać dostęp do specjalnych bonusów klanowych.
+
+    Pamiętaj, że wraz ze wzrostem siły klanu, bonusy dla jego członków będą większe i lepsze.
+  ALERT_ACCOUNT_UNLINKED: Udało się odłączyć konto gry od %1
+  HELP_PANEL_RANK_HELPER_TEXT: Twoja obecna ranga
+  CHAT_SHARP_FEEDBACK: opinie|Opinie|http://pl.tankiforum.com/index.php?showforum=20
+  GARAGE_HEAL_PROPERTY: Naprawa
+  GROUP_INVITE_RESPONSE_USER_IN_BATTLE: Ten gracz jest w bitwie
+  CLAN_REMOVE_REQUEST_TO_CLAN: Wycofaj swoje zgłoszenie
+  REDUCE_DAMAGE_TWINS: Twins
+  ERROR_PASSWORD_INCORRECT: Nieprawidłowe hasło
+  CHAT_TAB_HEADER: Czat
+  LEAVE_GROUP_BUTTON: Opuść grupę
+  NEED_EMAIL_ALERT_MESSAGE: Aby kupić ten produkt, należy połączyć swój adres email z kontem i go potwierdź. Aby to zrobić należy otworzyć ustawienia gry (przycisk zębatki w prawym górnym rogu ekranu) i przejść do sekcji "Konto". Szczegółowe instrukcje można znaleźć <a href="https://help.tankionline.com/knowledge-bases/12/articles/4903-jak-poaczyc-adres-e-mail-z-kontem" target="_blank"><u>tutaj</u></a>.
+  PROFILE: Profil
+  HEADER_ATTENTION: UWAGA!
+  GROUP_INVITE_RESPONSE_ACCEPT: Dołącza do grupy
+  FRIENDS_EXIT_FROM_BATTLE_ALERT: Opuścić bitwę? Wynik oraz zasoby zostaną utracone.
+  SHOP_PAYMENT_CATEGORY_DESCRIPTION_FOR_ODNOKLASSNIKY: ''
+  SERVER_FROZEN_ALERT_TEXT: Wybrany serwer jest obecnie przeciążony, przepraszamy za utrudnienia. Spróbuj wybrać inny serwer.
+  GAME_ACTION_TURRET_TURN_RIGHT: Obrót wieży w prawo
+  BATTLE_CANNOT_BE_FOUND_LABEL: |-
+    Zaproszenie nie zostało wysłane
+    Nie można znaleźć bitwy
+  BATTLE_CREATE_PANEL_DRONES: Drones
+  NO_PLACES_AVAILABLE_LABEL: Brak miejsc
+  REFERAL_WINDOW_COUNT_LABEL: 'Wszyscy zarejestrowani znajomi:'
+  CLAN_PLAYER_IS_REQUEST_LIST: Gracz %USERNAME% wysłał już wcześniej swoje zgłoszenie do klanu
+  BATTLE_CREATE_PANEL_FLOOD_ALERT_TEXT: W ciągu 5 minut nie można utworzyć więcej niż trzech bitew.
+  FRIENDS_MENU_ARROW_LENGTH: '70'
+  CONTINUE_BATTLE_TEXT: Kontynuuj
+  LOOT_1_OPEN_BUTTON: Otwórz 1
+  DRONE_ARMOR_BOOST: Dodatkowa moc zaopatrzenia
+  REDUCE_DAMAGE_SHOTGUN: Młot
+  TYPING_SPEED_BANNED: Masz czasowy zakaz pisania na czacie
+  KEYBOARD_KEY_LEFT: Lewo
+  DM_SHORT_NAME: DM
+  DOM_BLUE_LOST_POINT: Niebieska drużyna utraciła punkt {point}
+  GAME_TERMS: |-
+    UMOWA LICENCYJNA UŻYTKOWNIKA KOŃCOWEGO
+
+    Jakiekolwiek wykorzystanie Gry oraz jej Usług Internetowych, a także kliknięcie „Akceptuję” w trakcie procesu rejestracji potwierdza, że Użytkownik zapoznał się z Umową oraz bezwarunkowo akceptuje wszystkie jej postanowienia.
+
+    Jeżeli nie zgadzasz się z Umową w całości, nie masz prawa do wykorzystania Gry oraz usług z nią związanych i jesteś zobowiązany do natychmiastowego opuszczenia strony.
+
+    Niniejsza Umowa Licencyjna Użytkownika Końcowego („EULA”) ustanawia i reguluje wynikające z umowy stosunki pomiędzy następującymi stronami: APL Publishing Ltd, registration no. C 85285, registered under the laws of Malta, 157, Archbishop Street Valletta, VLT1440, Malta (odtąd nazywaną „Tanki Online” lub „Spółką”, lub „Administracją”), a tobą, użytkownikiem, odtąd nazywanym „Użytkownikiem”.
+
+    Dokumenty stanowiące część niniejszej EULA
+
+    Poniższa lista dokumentów tworzy integralną część niniejszej EULA:
+    <a href="http://tankionline.com/pl/privacy/" target="_blank"><u>Polityka Prywatności i Ciasteczek</u></a>;
+    <a href="http://tankionline.com/pl/rules/" target="_blank"><u>Zasady Gry</u></a>; a także
+    <a href="http://tankionline.com/pl/kryształy" target="_blank"><u>Wytyczne Zakupu Kryształów</u></a>
+
+    Definicje
+
+    Poniższe słowa i terminy winne być interpretowane w następujący sposób, o ile z kontekstu wyraźnie nie wynika ich inne znaczenie, a także mają zastosowanie do niniejszej EULA oraz każdego dokumentu wchodzącego w jej skład:
+
+    „Konto/Konto Użytkownika” oznacza osobiste konto otworzone przez Użytkownika, obsługiwane przez Administrację i zawierające Dane Konta.
+
+    „Dane Konta” oznaczają Login oraz Hasło, Nazwę Użytkownika oraz pozostałe dane potrzebne do zidentyfikowania Użytkownika w Grze.
+
+    „Administracja” oznacza osoby działające w imieniu Spółki przy zapewnieniu funkcjonowania Gry.
+
+    „Umowa” oznacza niniejszą EULA, czyli umowę licencyjną z Użytkownikiem dotyczącą przyznania prawa do wykorzystania Gry na warunkach niewyłącznej i odwołalnej licencji. Umowa ta obejmuje swoim zakresem wszystkie dokumenty tworzące integralną część tej EULA, a także pozostałe zasady i wytyczne umieszczane przez Administrację na Stronie Internetowej lub stronach parterów Spółki.
+
+    „Kryształy” oznaczają walutę Gry używaną w Grze albo na Stronie Internetowej, za pomocą której można korzystać z Usług.
+
+    „Tanki Online/Spółka” oznacza APL Publishing Ltd, registration no. C 85285, registered under the laws of Malta, 157, Archbishop Street Valletta, VLT1440, Malta.
+
+    „EULA” oznacza niniejszą Umowę Licencyjną Użytkownika Końcowego.
+
+    „Gra” oznacza interaktywną, wieloosobową grę online „Tanki Online. Version 2”, w tym wszystkie jej komponenty, usługi z nią powiązane, pokój na czacie, forum, Tanki Online Wiki, Wiadomości Tanki Online, oficjalne społeczności w sieciach społecznościowych oraz wszystkie materiały, obrazy, dźwięki, strony, programy komputerowe, a także wszystkie zasoby internetowe umieszczane w poddomenach Strony Internetowej o adresach /en/, /de/, na serwerach Gry o adresach zaczynających się od /battle-en, /battle-de, w domenie http://tankionline.com.br wraz z serwerami Gry lub udostępniane Użytkownikom za pomocą stron partnerów Spółki.
+
+    „Obowiązujące Prawo” oznacza prawo maltańskie.
+
+    „Zidentyfikowana” lub „Możliwa do zidentyfikowania Osoba Fizyczna” oznacza osobę, którą można zidentyfikować, bezpośrednio lub pośrednio, w szczególności za pomocą numeru identyfikacyjnego lub jednego bądź większej liczby czynników charakterystycznych dla jej tożsamości.
+
+    „Strona Internetowa” oznacza całość Materiałów oraz zasobów internetowych umieszczonych pod adresem http://tankionline.com, a także w jego poddomenach o adresie /en/, /de/, na serwerach Gry z adresami zaczynającymi się od /battle-en, /battle-de, w domenie http://tankionline.com.br wraz z jej serwerami Gry oraz na pozostałych stronach z nią powiązanych i dostępnych za pomocą linków lub innych ścieżek dostępu, a także usługi dostępne za pomocą takich stron, które zostały zgodnie z prawem i oficjalnie uznane przez Spółkę.
+
+    „Licencja” oznacza niewyłączną i odwołalną licencję, którą Spółka daje Użytkownikowi na wykorzystanie Gry do użytku osobistego i niekomercyjnego.
+
+    „Login i Hasło” oznacza dane dotyczące loginu i hasła wybrane przez Użytkownika w procesie rejestracji do Gry.
+
+    „Materiał(y)” oznacza różnego rodzaju obiekty w formie tekstów, rysunków, obrazów, dźwięków, programów, komend, nazw, tematów, historii, dialogów, fraz, pojęć, ilustracji, animacji, utworów muzycznych i efektów, dokumentacji, czatów z gry lub obiekty w dowolnej innej formie, a także zawiera wszelkie materiały pochodne umieszczane w Grze przez Użytkownika lub Spółkę/Administrację.
+
+    „Nieletni” oznacza osobę poniżej 18 roku życia albo osobę, która nie osiągnęła wieku dorosłości ustalonego przez obowiązujące dla jej narodowości prawo, i która zarejestrowała się w Grze, otwierając w swoim imieniu Konto.
+
+    „Usługi Internetowe” oznacza łącznie Konto, Grę i Stronę Internetową.
+
+    „Usługa Płatna” oznacza dowolny zakup Kryształów wykorzystanych do nabycia jakichkolwiek dodatkowych usług lub możliwości w Grze albo na Stronie Internetowej na zasadach niewyłącznej i odwołalnej licencji w zakresie i na warunkach określonych przez Spółkę.
+
+    „Strony” oznacza łącznie Użytkownika i Spółkę.
+
+    „Pośrednik Płatności ” oznacza osoby trzecie upoważnione przez Spółkę do otrzymywania i przetwarzania płatności dokonanych przez Użytkowników na rzecz Spółki za pomocą metod płatniczych udostępnianych przez takie upoważnione osoby trzecie.
+
+    „Płatność” oznacza opłatę licencyjną przekazaną przez Użytkownika Pośrednikowi Płatności w celu skorzystania z zamówionych Usług Płatnych, których kolejność i liczba jest określana oraz regulowana przez Wytyczne Zakupu Kryształów.
+
+    „Informacje osobowe” albo „Dane Osobowe” oznacza wszelkie informacje dotyczące Zidentyfikowanej lub Możliwej do zidentyfikowania Osoby Fizycznej.
+
+    „Użytkownik” oznacza osobę, która weszła na Stronę Internetową bezpośrednio lub za pomocą stron partnerów Spółki, i korzysta z Gry albo jej wersji próbnych albo używa Usług Internetowych, usług związanych z Grą, Materiałów, usług pozostałych, zarówno przed rejestracją w Grze, jak i po niej.
+
+    „Polityka Prywatności i Ciasteczek” oznacza dokument dotyczący prywatności Użytkowników i przechowywania ciasteczek.
+
+    „Serwer” oznacza narzędziowo-programowe wsparcie Spółki wykorzystywane do zapewnienia Użytkownikowi wirtualnej, interaktywnej zabawy.
+
+    „Usługa” oznacza przekazanie Użytkownikowi prawa do wykorzystania Gry zarówno bezpłatnie, jak i płatnie, na zasadach niewyłącznej i odwołalnej licencji, w zakresie i na warunkach określanych przez EULA.
+
+    „Oprogramowanie” oznacza oprogramowanie, na które licencji udziela Spółka, w tym wszelkie programy i bazy danych, a także treści pochodne, które mogą wymagać ściągnięcia z internetu, dostępne lub w inny sposób wykorzystywane przez Użytkownika za pomocą Strony Internetowej i pozwalające Użytkownikowi brać udział w Grze.
+
+    „Wykorzystanie Gry” oznacza wszelkie autoryzowane i możliwe rodzaje wykorzystania Gry przez Użytkownika, w tym jej inicjacji, albo wykorzystanie technicznych możliwości Gry bezpłatnie lub płatnie, albo instalowanie Gry, albo wszelkie pozostałe czynności niezbędne do funkcjonowania Gry.
+
+    „Nazwa Użytkownika” oznacza przydomek wybrany przez Użytkownika przy rejestracji Konta.
+
+    Pozostałe terminy, definicje oraz połączenia słów w Grze mają ogólnie przyjęte znacznie i interpretacje, które wykorzystuje się w dziedzinach technologii internetowych, gier cyfrowych, a także które przyjmuje Obowiązujące Prawo.
+
+    Postanowienia ogólne
+
+    Akceptacja niniejszej EULA:
+
+    1. Korzystając z Gry lub Usług Internetowych w dowolny sposób, albo klikając „Akceptuję” w procesie rejestracji, Użytkownik potwierdza, że przeczytał, zrozumiał i bezwarunkowo akceptuje niniejszą EULA w poniższej formie, a także wszelkie dokumenty stanowiące jej integralną część. Ponadto Użytkownik niniejszym zapewnia, że jest Osobą mającą wszelkie uprawnienia do korzystania z Gry zgodnie z Obowiązującym Prawem oraz pozostałymi, stosownymi zasadami prawnymi.
+    2. Jeżeli Użytkownik nie akceptuje niniejszej EULA, nie ma prawa do korzystania z Gry ani Strony Internetowej, a także musi niezwłocznie opuścić Stronę Internetową oraz powstrzymać się od korzystania z Gry.
+    3. Akceptując niniejszą Umowę, Użytkownik potwierdza i zapewnia, że jest osobą fizyczną mającą wszelkie uprawnienia do zawarcia Umowy i korzystania z Gry, że nie istnieją żadne ograniczenia prawne, aby mógł korzystać z Gry oraz usług z nią powiązanych, a także, że uzyskał wszelkie niezbędne pozwolenia w formie wymaganej przez prawo.
+    4. Korzystając z Gry albo Usług Internetowych w jakikolwiek sposób, albo klikając „Akceptuję” w procesie rejestracji, Użytkownik potwierdza, że zgadza się na otrzymywanie wiadomości elektronicznych (e-maili), SMS-ów (wiadomości dotyczących nowości albo aktualizacji w Grze, materiałów reklamowych i promocyjnych Spółki lub parterów Spółki) (odtąd zwanych „Wiadomościami Elektronicznymi”) rozpowszechnianych przez Administrację/Spółkę albo parterów Spółki, między innymi przez sieci telekomunikacyjne, wykorzystując telefon, telefaks, telefon komórkowy, radio oraz inne środki. Podanie adresu e-mail albo numeru telefonu przez Użytkownika stanowi dodatkowe potwierdzenie, że Użytkownik zgadza się na otrzymywanie wiadomości elektronicznych za pomocą dowolnych środków przekazu oraz na przekazanie Informacji Osobowych Użytkownika parterom Spółki.
+    Od momentu wyrażenia zgody przez Użytkownika na otrzymywanie wiadomości elektronicznych Administracja/Spółka albo partnerzy Spółki mają prawo wysyłać Użytkownikowi wiadomości dowolnego rodzaju (między innymi e-maile oraz SMS-y).
+    5. Jeżeli Użytkownik nie chce otrzymywać wiadomości elektronicznych od parterów Spółki, może odmówić ich otrzymywania w dowolnej chwili, klikając w link znajdujący się w dolnej części wiadomości elektronicznej. Jeżeli Użytkownik nie chce otrzymywać wiadomości elektronicznych od Administracji/Spółki, może odmówić ich otrzymywania w dowolnej chwili, zmieniając odpowiednie ustawienia osobiste w Grze, a tym samym rezygnując z otrzymywania wiadomości.
+    6. Korzystanie z Gry, Strony Internetowej, Materiałów oraz wszystkich pozostałych informacji zawartych w Grze jest dozwolone wyłącznie zgodnie z niniejszą EULA, a niniejsza EULA wraz z dokumentami tworzącymi jej integralną część stanowi całościową Umowę na korzystanie z Gry zawartą pomiędzy Użytkownikiem, a Spółką.
+    7. Niniejsza EULA wraz z dokumentami tworzącymi jej integralną część natychmiastowo wchodzi w życie od momentu pierwszego wykorzystania Gry albo Usług Internetowych, albo od kliknięcia „Zgadzam się” w formularzu rejestracyjnym. Niniejsza EULA oraz dokumenty tworzące jej integralną część jest oficjalnym źródłem odniesienia przy wszelkich problemach/sporach dotyczących korzystania z Gry, Strony Internetowej, Oprogramowania albo usług Spółki.
+    8. Spółka nie gwarantuje niezawodnego i nieprzerwanego funkcjonowania Gry. Nie gwarantuje również, że Gra będzie odpowiadać oczekiwaniom Użytkownika, ani nie daje żadnych innych gwarancji niewyszczególnionych w niniejszej EULA. Użytkownik niniejszym akceptuje, że Spółka nie będzie odpowiedzialna za żadne, bezpośrednie lub pośrednie, szkody spowodowane niemożliwością korzystania z Gry.
+
+    Zmiany niniejszej EULA
+
+    1. Spółka niniejszym zastrzega sobie prawo, w dowolnym momencie, do zawieszenia, rozbudowania, wycofania, zmienienia albo uzupełniania niniejszej EULA wraz z dokumentami tworzącymi jej integralną część, gdy uzna to za stosowne, zapewniając następujące uprzednie powiadomienie: Spółka umieści uaktualnioną wersję niniejszej EULA na Stronie Internetowej oraz może zapewnić innego rodzaju powiadomienie według własnego uznania. Wszelkie zmiany wchodzą w życie dziesięć (10) dni od momentu wprowadzenia odpowiadających im zmian do EULA. Wszelkie dalsze korzystanie z Gry albo Strony Internetowej łącznie z wszelkimi Usługami Internetowymi oznacza bezwarunkową akceptację zmodyfikowanej wersji niniejszej EULA albo dokumentów tworzących jej integralną część.
+    2. Wszelkie zmiany i uzupełnienia niniejszej EULA oraz dokumentów tworzących jej integralną część mogą działać wstecz oraz mogą obejmować poprzednie stosunki pomiędzy Stronami.
+    3. Spółka zaleca Użytkownikowi okresowe przeglądanie EULA, aby być na bieżąco z każdą jej zmodyfikowaną wersją. Jeżeli Użytkownik nie akceptuje jakiejkolwiek części niniejszej EULA, winien natychmiast przestać korzystać z Gry albo Strony Internetowej. Użytkownik bierze na siebie konieczność poinformowania Spółki o swoim braku akceptacji EULA, tak żeby Spółka mogła podjąć niezbędne kroki, w których może się zawierać uniemożliwienie Użytkownikowi korzystania z Gry albo Strony Internetowej oraz wszelkich Usług Internetowych.
+    4. Spółka nie ma obowiązku sprawdzać, czy Użytkownik korzysta z Gry albo Strony Internetowej zgodnie ze zaktualizowaną wersją niniejszej EULA. Wersja umieszczona na Stronie Internetowej jest wersją obowiązującą, której Użytkownik powinien używać jako źródła referencyjnego. Obowiązkiem Użytkownika jest zaznajomienie się z niniejszą EULA, a także jej modyfikacjami, które dotyczą Użytkownika albo będą dotyczyć Użytkownika, albo mogą dotyczyć Użytkownika.
+
+    Udzielenie Licencji
+
+    1. Zgodnie z postanowieniami tu zawartymi Spółka niniejszym udziela Użytkownikowi ograniczonej, niewyłącznej i odwołalnej licencji na osobiste i niekomercyjne korzystanie z Gry.
+    2. Spółka ma prawo korzystać z Gry niezależnie i udzielać licencji na korzystanie z niej innym osobom.
+    3. Użytkownik niniejszym potwierdza, że licencja na Grę jest udzielana wyłącznie Użytkownikowi, i że Użytkownik nie przeniesie jej na żadną osobę trzecią.
+    4. Czas trwania niniejszej Licencji rozpoczyna się od pierwszego wykorzystania Gry przez Użytkownika, a kończy, gdy Użytkownik przestaje korzystać z Gry, lub gdy niniejsza EULA zostanie wypowiedziana przez Spółkę. Udzielana Licencja zostanie natychmiastowo wypowiedziana, jeżeli Użytkownik złamie postanowienia niniejszej EULA albo jakiegokolwiek dokumentu stanowiącego jej część.
+    5. Licencja jest ważna przez czas, przez który Spółka ma wyłączne prawo do Gry.
+    6. Licencja jest ważna we wszystkich jurysdykcjach.
+    7. Przeniesienie wyłącznego prawa do Gry na nowego właściciela nie powoduje potrzeby zmieniania lub wycofania niniejszej EULA.
+
+    Prawo Własności Intelektualnej
+
+    1. Spółka (lub jej oddziały) jest jedynym i wyłącznym właścicielem Gry, wszelkich Materiałów, wszelkiego innego mienia dostępnego w Grze lub w związku z Grą chronionego przez odpowiednie prawo autorskie, patentowe, know-how, znaki handlowe oraz inne prawa wynikające z tytułu własności, a także prawo własności intelektualnej, oraz wszelkich innych materiałów ogólnie dostępnych w Grze i Usługach Internetowych.
+    2. Użytkownik ma prawo przesyłania Materiałów do Administracji, aby umieścić je w Grze, na Stronie oraz w innych usługach związanych z grą pod warunkiem, że Użytkownik posiada wszelkie niezbędne prawa do takich Materiałów i będzie całkowicie odpowiedzialny za wszelkie Materiały umieszczone w powyższych miejscach. Użytkownik niniejszym potwierdza, że będzie całkowicie odpowiedzialny za wszelkie szkody mogące wyniknąć w związku z takimi Materiałami. Użytkownik potwierdza, że ma wszystkie wymagane prawa do takich Materiałów oraz jest całkowicie odpowiedzialnych za ich umieszczanie i wykorzystanie.
+    3. Umieszczanie Materiałów oraz odnośników do stron w Grze przez Użytkowników lub osoby trzecie nie jest równoznaczne z akceptacją i zalecaniem takiego działania przez Spółkę. Spółka nie ponosi odpowiedzialności za zawartość takich Materiałów i stron ani za żadne, pośrednie lub bezpośrednie, szkody spowodowane wykorzystaniem takich Materiałów lub stron.
+    4. Użytkownik niniejszym akceptuje, że Spółka może w dowolny sposób, według swojego uznania, wykorzystać Materiały umieszczone w Grze przez Użytkownika lub przesłane przez niego Administracji (w tym materiały potrzebne do uczestnictwa w zawodach), oraz że od momentu umieszczenia (publikacji) lub wysłania przez Użytkowników takich Materiałów w Grze Spółka otrzyma wszelkie prawa intelektualne do korzystania z tych Materiałów w dowolny sposób w dowolnym państwie świata, włączając w to wykorzystanie komercyjne, a także będzie mieć prawo do umieszczania, modyfikacji, przystosowania, przeniesienia na rzecz osób trzecich, tworzenia Materiałów pochodnych, przebudowywania, rozpowszechniania, kasowania, reprodukcji, publicznego pokazywania, udostępniania odbiorcom i wprowadzania zmian, skracania, uzupełniania, komentowania, objaśniania, publikowania, wykorzystania Materiałów w jakikolwiek sposób bez podawania autorstwa Użytkownika oraz bez wypłacania tantiem lub innego rodzaju odszkodowania.
+    Użytkownik podejmuje się przestawienia podstaw prawnych dotyczących przeniesienia na Spółkę wyłącznych praw do Materiałów umieszczonych przez Użytkownika w Grze lub na Stronie.
+    5. Wszelkie korzystanie z przedmiotów własności intelektualnej umieszczonych w Grze, na Stronie lub w innych usługach związanych z Grą, w całości lub części, bez uzyskania uprzedniej zgody Spółki, jest zabronione z wyjątkiem sytuacji, w których Spółka udziela wyraźnej zgody na wykorzystanie takich Materiałów przez inne osoby.
+    6. Użytkownik potwierdza, że nie będzie tworzył żadnych prac w oparciu o Grę lub Materiały z Gry, z wyjątkiem sytuacji przewidzianych przez Spółkę. Jeżeli Użytkownik tworzy prace w oparciu o Grę lub Materiały bez pisemnego pozwolenia Spółki, nie ma prawa do korzystania ze swoich praw autorskich dotyczących prac pochodnych.
+    7. Użytkownik niniejszym potwierdza i akceptuje, że nie będzie czerpał korzyści z czasu spędzonego w Grze, a wszystkie działania podjęte w Grze podczas rozgrywki będą wyłączną własnością Spółki.
+    8. Administracja ma prawo publikowania wszelkich informacji dotyczących aktywności Użytkownika na Stronie Internetowej albo w Grze bez żadnego powiadomienia lub odszkodowania na rzecz Użytkownika.
+    9. Spółka posiada wszelkie prawa własnościowe i intelektualne do wszystkich Materiałów zawartych w Grze, a Użytkownik potwierdza, że nie posiada praw do Materiałów zawartych w Grze ani do innego rodzaju zawartości Gry, w tym, między innymi, dóbr wirtualnych lub waluty używanej w Grze. Spółka nie zezwala na żadnego rodzaju umyślne przeniesienie wirtualnego mienia poza Grą, umyślną sprzedaż, przekazywanie lub wymienianie poza Grą wszelkich materiałów i obiektów wykorzystywanych w Grze, z wyjątkiem działań jawnie dozwolonych przez Spółkę na piśmie.10. Administracja udziela Użytkownikowi niewyłącznego i niezbywalnego prawa do korzystania z Materiałów innych Użytkowników poprzez ich oglądanie, reprodukcję (w tym powielanie), przetwarzanie (w tym wydruk kopii) oraz udziela innych praw do wykorzystania niekomercyjnego, z wyjątkiem sytuacji, w których takie wykorzystanie może przynieść szkodę chronionym interesom Spółki.
+
+    Prawa i obowiązki Użytkownika
+
+    Użytkownik niniejszym potwierdza, że:
+
+    1. Użytkownik jest zobligowany do stosowania się do warunków niniejszej EULA, Zasad Gry, zasad pozostałych załączników do niniejszej EULA oraz innych dokumentów tworzących integralną część niniejszej EULA, a także do zasad obowiązującego prawa.
+    2. Użytkownik nie będzie dostosowywał, tworzył prac pochodnych, wyświetlał, rozpowszechniał, dzierżawił, wypożyczał, modyfikował, wynajmował, udzielał sublicencji, tłumaczył albo przekazywał Gry bez otrzymania wcześniejszej, pisemnej zgody Spółki.
+    3. Użytkownik nie będzie dekompilował, rozkładał na części, uzyskiwał kodu źródłowego Gry, przygotował prac pochodnych opartych na Grze, wykonywał innych czynności z kodem obiektowym lub źródłowym Gry, naruszał jej systemów ochronnych, nielegalnie wykorzystywał Gry, uzyskiwał informacji na temat algorytmów wykorzystywanych przez Grę, a także tworzył pochodnego oprogramowania za pomocą Gry bez pisemnej zgody Spółki.
+    4. Użytkownik nie będzie uzyskiwał kodu ani próbował uzyskać kodu z żadnego pakietu danych przesyłanych strumieniowo do Gry lub przez Grę bez względu na to, czy będą one zakodowane, czy nie.
+    5. Użytkownik nie ujawni ani nie przekaże danych do Konta osobom trzecim.
+    6. Użytkownik winien posiadać odpowiednie połączenie internetowe i pokrywać koszty dostępu do takiego połączenia.
+    7. Użytkownik jest zobligowany do regularnego sprawdzania i przeglądania warunków Umowy oraz innych dokumentów tworzących integralną część niniejszej Umowy.
+    8. Użytkownik zaprzestanie korzystać z Gry, jeżeli złamie postanowienia niniejszej EULA albo jakichkolwiek innych dokumentów będących jej częścią.
+    9. Użytkownik ma prawo do osobistego korzystania z Gry w celach niekomercyjnych,
+    do korzystania z wszystkich usług i możliwości Gry, do wykonywania działań udostępnionych przez Grę, do komunikowania się na Stronie Internetowej, wysyłając wiadomości, do kierowania skarg i propozycji ulepszenia Gry do Spółki, do wykonywania wszelkich pozostałych działań udostępnianych przez Grę albo zatwierdzonych przez Spółkę.
+    10. Użytkownik może uzyskać ograniczoną, niewyłączną i odwołalną licencję na korzystanie z ulepszeń i przedmiotów wirtualnych w Grze dzięki Kryształom zarobionym w Grze (waluta wewnętrzna w Grze).
+
+    Prawa i obowiązki Spółki
+
+    1. Spółka jest upoważniona do podjęcia działań przeciwko wszystkim Użytkownikom, którzy naruszają postanowienia niniejszej EULA albo dokumentów stanowiących jej część, w tym do nałożenia ograniczeń i blokady dostępu do Gry. Działania takie podejmowane będą według uznania Spółki.
+    2. Spółka jest upoważniona do usuwania albo zmiany informacji, zawartości i Materiałów, które stanowią część Gry albo Usług Internetowych, bez uprzedniego ostrzegania czy powiadamiania.
+    3. Spółka jest upoważniona do wyłączania albo ograniczania funkcjonalności Gry albo usług z nią związanych w dowolnym momencie, który Spółka uzna za stosowny, bez uprzedniego lub następującego powiadamiania Użytkownika.
+    4. Spółka jest upoważniona, w dowolnym momencie i zakresie, do zmiany jakości i liczby Usług świadczonych jednostronnie, a jeżeli istnieje wystarczająca podstawa, do zaprzestania świadczenia Usług; Spółka ma prawo do zaprzestania świadczenia takich Usług bez uprzedniego albo następującego powiadamiania Użytkownika.
+    5. Spółka jest upoważniona, według własnego uznania, do jednostronnego wypowiedzenia niniejszej EULA oraz zaprzestania świadczenia Gry Użytkownikowi bez uprzedniego powiadomienia lub zwrotu jakichkolwiek wpłat Użytkownika.
+    6. Spółka nie jest odpowiedzialna za żadne, bezpośrednie lub pośrednie, szkody spowodowane korzystaniem lub niemożnością korzystania z Gry, usług związanych z Grą lub informacji o Grze, a także wynikające w związku z działaniami osób trzecich, w tym pozostałych Użytkowników Gry.
+    7. Spółka przekazuje Użytkownikowi dostęp do Gry pod warunkiem przestrzegania niniejszej Umowy przez Użytkownika.
+
+    Gromadzenie i Wykorzystywanie Informacji
+
+    1. Spółka jest upoważniona do gromadzenia Informacji Osobowych Użytkownika w celu śledzenia i przechowywania informacji dotyczących adresów IP, a także plików technicznych (ciasteczek) znajdujących się na urządzeniu Użytkownika. Warunki, procedury i cele gromadzenia, wykorzystywania, przetwarzania, przechowywania, ujawniania (przekazywania) oraz usuwania Informacji Osobowych Użytkownika, a także warunki dotyczące baz, celów i procedur umieszczania, wykorzystywania, przechowywania oraz usuwania ciasteczek na urządzeniu Użytkownika są określane przez Politykę Prywatności i Ciasteczek, która stanowi integralną część niniejszej EULA.
+    2. Akceptując niniejszą EULA, Użytkownik niniejszym bezwarunkowo akceptuje Politykę Prywatności i Ciasteczek wraz ze wszystkimi jej postanowieniami. Wszelkie gromadzenie, przechowywanie, przekazywanie i wykorzystywanie przez Spółkę Informacji Osobowych Użytkownika jest zgodne z Polityką Prywatności i Ciasteczek, która stanowi integralną część niniejszej EULA.
+
+    Gwarancja
+
+    1. Gra, a także wszystkie Materiały z nią powiązane, oferowana jest w aktualnej formie i stanie, włączając w to wszelkie jej wady, beż żadnej gwarancji. Użytkownik ponosi wszelkie ryzyko wiążące się z dostępem do Gry albo graniem w nią, a także z korzystaniem z Usług Internetowych.
+    2. Chociaż Spółka dokłada wszelkich starań, aby Gra i jej Usługi Internetowe były dostępne przez cały czas, Spółka nie gwarantuje, że Gra i jej Usługi Internetowe będą zawsze dostępne, lub że Użytkownik nie odnajdzie w nich żadnych wad.
+
+    Niewłaściwe Wykorzystanie Strony Internetowej
+
+    1. Strony Internetowej można używać wyłącznie w celach zgodnych z prawem. Surowo zabronione jest wykorzystywanie Strony Internetowej do przekazywania, dystrybucji, publikacji lub przechowywania jakichkolwiek materiałów, jeżeli czynności te naruszają jakiekolwiek postanowienia prawa, przepisy lub prawa osób trzecich. W powyższe wliczają się (między innymi) wykorzystanie Strony Internetowej do przekazywania, dystrybucji, publikacji lub przechowywania na niej wszelkich materiałów łamiących prawo autorskie, znaki handlowe, tajemnicę handlową lub wszelkie inne prawa własności intelektualnej, materiałów, które są nieprzyzwoite i szkodliwe dla Nieletnich lub stanowią czyn niezgodny z prawem albo nękanie, materiałów nieuczciwych lub łamiących jakiekolwiek postanowienia prawa hazardowego lub kontroli dewizowej.
+    2. W przypadku niewłaściwego wykorzystania albo nadużywania Strony Internetowej Administracja zastrzega sobie prawo do zablokowania Konta Użytkownika oraz uniemożliwienia mu w przyszłości korzystania z i uzyskania dostępu do Gry oraz Strony Internetowej albo do podjęcia wszelkich innych kroków prawnych, które Spółka uzna za słuszne.
+
+    Zasady Czatu
+
+    1. Forum, chat-room albo usługi społecznościowe są oferowane przez Tanki Online w celu zapewnienia zabawy i przyjemności ich użytkownikom. Dlatego też nie będą tolerowane żadne przejawy obelżywego i nieprzyzwoitego języka, a Użytkownicy dopuszczający się takich zachowań zostaną ukarani cofnięciem dostępu do czatu oraz unieważnieniem wszystkich Kont.
+    2. Użytkownik jest świadom tego, że poprzez umieszczanie wszelkich informacji osobowych na Stronie Internetowej upublicznia je innym Użytkownikom. Tanki Online w żaden sposób nie zatwierdza takich informacji i nie będzie odpowiedzialna za jakiekolwiek szkody powstałe w wyniku publikacji tychże. Użytkownicy winni być świadomi tego, że informacje umieszczane na Stronie Internetowej mogą również wpłynąć na ich życie poza grą.
+    3. Zawartość przechowywana na serwerach Spółki nie jest przeznaczona do stałej lub tymczasowej archiwizacji. Dlatego też Tanki Online może, lecz nie musi, przechowywać kopie zapasowe wszelkich materiałów umieszczonych na Stronie Internetowej. Spółka zastrzega sobie prawo do nałożenia ograniczeń dotyczących maksymalnej ilości miejsca na dane dostępnej dla każdego Użytkownika.
+    4. Spółka zastrzega sobie prawo do usunięcia, przesunięcia albo edycji, według własnego uznania, zawartości, którą uzna za obelżywą lub łamiącą postanowienia jakiegokolwiek prawa albo przepisu, albo Zasad Gry. Użytkownik jest całkowicie odpowiedzialny za treści umieszczane na Stronie Internetowej. Nieusunięcie danych treści przez Administrację w żadnym przypadku nie może zostać uznane za ich akceptację albo zatwierdzenie ze strony Spółki.
+
+    Konta Użytkowników
+
+    Otwarcie Konta Użytkownika
+
+    1.Konto Użytkownika musi zostać osobiście zarejestrowane przez Użytkownika, a Administracja niniejszym zastrzega sobie sprawo do odmowy rejestracji Konta Użytkownika na Stronie Internetowej skierowanej do dowolnego Użytkownika z dowolnego powodu i bez podawania uprzedniego wyjaśnienia.
+    2.Na Użytkowniku ciąży odpowiedzialność uaktualniania swoich danych w Grze, dotyczy to zwłaszcza adresu e-mail. Na Użytkowniku ciąży odpowiedzialność niezwłocznego poinformowania Administracji o wszelkich zmianach dotyczących informacji osobowych Użytkownika.
+    3.Tanki Online surowo zabrania Użytkownikom sprzedawania, przekazywania Kont(a) innym Użytkownikom lub nabywania ich od innych Użytkowników oraz osób trzecich. Zabrania się przekazywania funduszy/Kryształów pomiędzy różnymi Kontami Użytkownika.
+    4.Administracja zastrzega sobie prawo do nierejestrowania albo cofnięcia rejestracji Konta Użytkownika w przypadku wykrycia fałszywości, nieprecyzyjności, niekompletności lub zakłamania informacji podanych Administracji.
+
+    Nazwa Użytkownika
+
+    1. W trakcie rejestracji Konta Użytkownik otrzyma prawo wybrania Nazwy Użytkownika. Administracja zastrzega sobie prawo do odmowy nadania lub wycofania, z jakiegokolwiek powodu uznanego przez Administrację za słuszny, wszelkich Nazw Użytkownika przed, w trakcie oraz po procesie ich nadawania i zatwierdzania.
+    2. Jeżeli Konto Użytkownika, poza wybraną Nazwą Użytkownika, nie łamie postanowień niniejszej EULA, to Administracja pozwoli Użytkownikowi stworzyć inny pseudonim albo Nazwę Użytkownika.
+
+    Ochrona Hasła
+
+    1. Spółka nie jest w żadnym stopniu odpowiedzialna za możliwy dostęp do Konta osób trzecich i nie będzie odpowiedzialna za jakiekolwiek możliwe szkody poniesione w związku z niedozwolonym wykorzystaniem Loginu i Hasła Użytkownika przez osoby trzecie, nieautoryzowanym dostępem do Konta albo w związku z jakąkolwiek transakcją, w której Login i Hasło Użytkownika zostały poprawnie wprowadzone.
+    2. Spółka nie jest w żaden sposób odpowiedzialna za sytuację, w której Użytkownik zapomni, zagubi lub straci hasło, chyba że sytuacja taka wyniknie z błędu Spółki. Spółka nie będzie odpowiedzialna, przez cały okres obowiązywania Umowy z Użytkownikiem, za przechowywanie jakichkolwiek Loginów oraz Haseł.
+
+    Blokowanie Kont
+
+    1. Użytkownik jest upoważniony, poprzez wysłanie e-maila na adres help@tankionline.com, do zażądania od Administracji zablokowania Konta Użytkownika.
+    2. Niezalogowanie się Użytkownika do Gry przez sześć (6) kolejnych miesięcy upoważnia Administrację do zablokowania Konta Użytkownika oraz natychmiastowego rozwiązania niniejszej Umowy za powiadomieniem (lub próbą powiadomienia) Użytkownika.
+    3. Administracja jest upoważniona do zablokowania Konta Użytkownika w dowolnym momencie i według własnego uznania oraz w przypadku naruszenia przez Użytkownika warunków EULA, Zasad Gry oraz innych dokumentów stanowiących integralną część niniejszej EULA.
+
+    Działalność Nieuczciwa oraz Niewłaściwe Wykorzystanie Kont
+
+    1. Spółka prowadzi politykę „zero tolerancji” dla niewłaściwej gry oraz nieuczciwych działań, a także zabrania Użytkownikom wszelkich działań w zmowie. Jeżeli według Administracji Użytkownik oszukał lub próbował oszukać Administrację albo innego Użytkownika Gry w dowolny sposób, między innymi poprzez manipulacje w Grze lub oszustwo finansowe, zmowę Użytkowników lub podejrzewaną fałszywą płatność, w tym poprzez wykorzystanie skradzionych kart kredytowych albo jakąkolwiek inną nieuczciwą działalność (w tym poprzez wszelkie obciążenia zwrotne albo inne zwroty płatności), albo zabronioną transakcję (w tym poprzez pranie brudnych pieniędzy), Administracja zastrzega sobie prawo do zablokowania takiego Konta Użytkownika i ujawnienia informacji o rzeczonym nieuczciwym działaniu (wraz z tożsamością Użytkownika) wszelkim osobom trzecim albo organom ścigania, zgodnie z tym, co uzna za słuszne.
+    2. W przypadku niewłaściwego wykorzystania albo nadużywania Strony Internetowej albo Gry, albo Oprogramowania, Administracja zastrzega sobie prawo do zablokowania zakwestionowanego Konta Użytkownika, aż do rozwiązania tej sprawy pomiędzy Administracją, a Użytkownikiem, a także do podjęcia wszelkich kroków prawnych, które Spółka uzna za stosowne.
+
+    Usługi Płatne
+
+    1. Użytkownicy mogą korzystać z Usług Płatnych w Grze poprzez zakup Kryształów. Zakup Kryształów może być zrealizowany jedynie u upoważnionych osób trzecich.
+    2. Tanki Online nie zezwala na jakiekolwiek przekazywanie wirtualnego mienia/Kryształów poza grą. Sprzedaż, przekazywanie lub wymiana wszelkich Materiałów, Kryształów albo obiektów używanych w Grze poza Grą jest zabroniona.
+    3. Usługi Płatne rozpoczynają się od chwili przekazania Kryształów na Konto Użytkownika. Użytkownik jest świadom utraty prawa do wycofania się z Usługi Płatnej od chwili przekazania Kryształów na Konto Użytkownika.
+
+    Zakup Kryształów
+
+    Ustalanie Ceny
+
+    1. Ustalanie wszelkich Usług Płatnych i ich cen jest wyłączną decyzją Spółki i może zostać zmienione w dowolnej chwili.
+    2. Tanki Online nie jest odpowiedzialna za odbiór albo przetwarzanie płatności Użytkownika, w tym za żadne możliwe opóźnienia lub braki odbioru płatności. Wszelkie płatności dokonane przez Użytkownika są dobrowolne, ostateczne i nie podlegają zwrotowi.
+
+    Metody Płatności
+
+    1. Zakup Kryształów może zostać dokonany jed
+  REGISTER_FORM_TITLE_SKIP_REGISTRATION_TEXT: Możesz się zarejestrować później. Pierwsze ładowanie zajmie kilka minut.
+  FORMAT_NAME_NONE: Bez formatu
+  REFERAL_STATISTICS_HEADER_INCOME: Kryształy
+  CHAT_SHARP_THEFT: kradzież|Co jeśli ktoś ukradnie mi czołg|http://help.tankionline.com/topic/952630
+  TJR_BLUE_BOSS_KILLED: Niebieski Juggernaut został zniszczony
+  MAP_THEME_NAME_WINTER_NIGHT: Zimowa noc
+  GO_TO_BATTLE_LABEL: Przejdź do bitwy
+  CAPTCHA_PROCEED_BUTTON: Dalej
+  SETTINGS_NEW_PASSWORD_LABEL_TEXT: 'Nowe hasło:'
+  DECLINE_LABEL: Odrzuć
+  ACCEPT_CONDITIONS: Akceptuję warunki
+  REGISTER_FORM_AGREEMENT_NOTE_TEXT: <textformat leading='5'>Akceptuję postanowienia <a href='http://tankionline.com/pl/eula/' target='_blank'><font color='#59ff32'><u>Umowy Licencyjnej</u></font></a>, <a href='http://tankionline.com/pl/rules/' target='_blank'><font color='#59ff32'><u>Zasady Gry</u></font></a>, a także <a href='http://tankionline.com/pl/privacy/' target='_blank'><font color='#59ff32'><u>Politykę prywatności i ciasteczek</u></font></a></textformat>
+  SHOP_WINDOW_EULA_LINK: <a href="http://tankionline.com/pl/eula/" target="_blank"><font color='#59ff32'><u>EULA</u></font></a>
+  TIP_9: Każda wieża ma swoje unikalne cechy. Wypróbuj je wszystkie i znajdź te, które najlepiej pasują do Twojego stylu gry!
+  REDUCE_DAMAGE_ROCKET_LAUNCHER: 'Strikerem '
+  SHOP_GOLDBOX_MANY: Skrzyń
+  PAYMENT_MTS_ADDITIONAL_INFO: ''
+  BATTLE_CREATE_PANEL_CHECKBOX_PRIVATE_BATTLE: Bitwa prywatna
+  ERROR_CALLSIGN_WRONG_FIRST_SYMBOL: Pierwszym znakiem nazwy musi być litera lub cyfra
+  AS_MODE_DESCRIPTION: Grając w niebieskiej drużynie, chroń swoją bazę przed atakiem przeciwników. Grając w drużynie czerwonej, dowieź swoją flagę do bazy drużyny niebieskiej, aby zdobyć punkty. Wygrywa drużyna, która zdobędzie więcej punktów.
+  FRIENDS_SEND_REQUEST_BUTTON: Wyślij
+  CHANGE_UID_FORM_REPEAT_PASSWORD_TEXT: 'Powtórz hasło:'
+  REFERRALS_BUTTON_LABEL: Zaproszeni
+  DECLINE_OFFER_BUTTON: Odrzuć
+  RUGBY_MODE_NAME: Rugby
+  REARM_TEAM_TIE: Bitwa zakończyła się remisem
+  CLAN_MEMBER_COLUMN_EXPERIENCE: Doświadczenie
+  SHOP_WINDOW_HEADER_DESCRIPTION: Jest to miejsce gdzie można kupić różne przedmioty pozwalające poprawić swoje doświadczenie w grze. Zgadzasz się, że zakupione produkty, zostaną zaksięgowane na koncie po zakończeniu procesu płatności. Zakupione towary, które zostały przypisane do Twojego konta, nie podlegają możliwości odstąpienia od umowy.
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_HEADER: Specjalne warunki
+  REDUCE_DAMAGE_MACHINE_GUN: Wulkan
+  TIP_2: Nigdy nie podawaj nikomu hasła do swojego konta! Jeśli to zrobisz możesz stracić swoje konto na zawsze.
+  REDUCE_DAMAGE_MINE: Mina
+  PRESENT_WILL_BE_REMOVED_ALERT: Ten prezent zostanie usunięty na zawsze. Kontynuować?
+  ALERT_CRYSTALS_ADDED_FOR_CONFIRMED_EMAIL: Dziękujemy za połączanie konta Tanki Online z adresem email. Bonusowe kryształy zostały dodane do konta.
+  BATTLE_GOLD_TAKEN: ' podnosi złotą skrzynię'
+  ALERT_CHAT_PROCEED_EXTERNAL_LINK: |-
+    Użyjesz linka, który nie jest połączony z grą Tanki Online.
+    Administracja nie ponosi odpowiedzialności za treści zewnętrzne
+    i zaleca niepodawanie swojego e-maila, loginu, hasła
+    oraz innych danych z Tanki Online na nieznanych stronach.
+    Strony te mogą uszkodzić twój komputer lub wykraść poufne informacje,
+    w tym dane konta Tanki Online, używając do tego różnych wirusów lub złośliwego oprogramowania.
+    Jeżeli nie chcesz korzystać z tego linka, naciśnij <<Anuluj>>.
+  RESTORE_PASSWORD_INFO: <a href="http://help.tankionline.com/topic/952640-co-zrobic-gdy-zapomnisz-swoj-adres-email/" target="_blank"><font color='#59ff32'><u>Info</u></font></a>
+  CHALLENGE_BUY_PREMIUM: Kup konto premium
+  SETTINGS_SHOW_FPS_CHECKBOX: Pokaż liczbę FPS oraz ping
+  NOT_ENOUGH_MONEY_FOR_BUY_ITEM: Masz za mało kryształów, żeby dokonać tego zakupu.
+  REARM_PAUSE_3: Opuścisz bitwę za {time}
+  COPY_LINK_BUTTON_LABEL: |-
+    Kopiuj
+    link
+  CLAN_USER_CREATION_DATE: Data utworzenia klanu
+  QUICK_PLAY_MODE_NAME: Szybka bitwa
+  HEADER_SETTINGS: USTAWIENIA
+  PROMO_CODE_DESCRIPTION_TEXT: |-
+    Kody promocyjne mogą zostać wykorzystane w celu otrzymania kryształów, czasu konta premium, złotych skrzyń, farb i przedmiotów z hangaru. Przedmioty te zostaną natychmiastowo dodane do twojego konta.
+
+     Kody promocyjne można zdobyć podczas specjalnych wydarzeń.
+  SETTINGS_TAB_NAME_GAME: Gra
+  RUGBY_BALL_LOST_USER: stracił piłkę
+  CLAN_POSITION_SUPREME_COMMANDER: Najwyższy Dowódca
+  JGR_SHORT_NAME: SJR
+  GARAGE_GAUSS_PROTECTION_PROPERTY: Ochrona przed Gauss
+  VK_ENTER_GROUP_REMINDER: ''
+  CLAN_ALERT_REMOVE_PLAYER: Usunąć gracza %USERNAME% z klanu?
+  CLAN_SEARCH: Szukaj klanu
+  GARAGE_WEIGHT_PROPERTY: Waga
+  BATTLEINFO_PANEL_BUTTON_PLAY: Graj
+  GARAGE_POWER_PROPERTY: Moc
+  FRIENDS_NAME: Nazwa
+  TIP_1: Zbieraj skrzynie, które spadają z nieba! Skrzynie z zaopatrzeniem wzmocnią Twój czołg, a złote skrzynie dadzą Ci darmowe kryształy.
+  TURRET: Wieża
+  HOLIDAY_MODE_NAME: Wydarzenie specjalne
+  GARAGE_ARCADE_DAMAGE_PROPERTY: Uszkodzenia w trybie arcade
+  MAIN_PANEL_BUTTON_BATTLES: Bitwy
+  NEED_OF_EMAIL_CONFIRMATION: |-
+    Wprowadziłeś swój adres email, ale go jeszcze nie potwierdziłeś. Bonusowe kryształy zostaną dodane do konta zaraz po potwierdzeniu adresu email.
+
+    Jeśli nie możesz znaleźć wiadomości z linkiem weryfikacyjnym, sprawdź swój folder ze spamem lub wpisz ponownie adres email. Wyślemy wtedy nową wiadomość z linkiem weryfikacyjnym.
+
+    Pamiętaj, że posiadanie zweryfikowanego adresu email zwiększa bezpieczeństwo konta i pozwala na szybszą komunikację ze Wsparciem Technicznym Tanki Online.
+  SHOP_FEATURING_HEADER: Oferta specjalna
+  LOBBY_CHAT_WRITE_PUBLICLY: Napisz publicznie
+  CHAT_SHARP_CLANS: klany|Klany|http://help.tankionline.com/topic/952656
+  SETTINGS_SHOW_REMOTE_DRONES: Pokaż drony innych
+  REDUCE_DAMAGE_SMOKY: Smoky
+  HEADER_INFORMATION: INFORMACJE
+  ERROR_PASSWORD_LENGTH: Hasło musi mieć więcej niż 1 znak
+  DRONE_HULL_SPEED_PERCENT: Bonusowe nitro
+  FRIENDS_DECLINE_REQUEST: Odrzuć prośbę
+  CLAN_PLAYER_RANK_TOO_LOW: Ranga tego gracza jest za niska
+  DEVICES_STANDARD_SETTINGS_DESCRIPTION: Standardowe ustawienia fabryczne bez żadnych dodatków
+  PAYMENT_SHENG_FENG_CONFIRMATION_CHECK_BOX_TEXT: ???
+  RANK_ICON_TOOLTIP: Twoja obecna ranga. Kliknij, aby zobaczyć swój profil.
+  DRONE_BONUS_RADIUS: Zasięg dzielenia efektu
+  CLAN_VS_CLAN: Klan vs Klan
+  SHOP_PAYMENT_BUG_REPORT_LINK: http://tankionline.com/forms/payment/pl/
+  DAILY_QUEST_PRIZE: 'Nagroda:'
+  REDUCE_DAMAGE_GAUSS: Gauss
+  CTF_RED_FLAG_RETURNED: Zwrócono czerwoną flagę
+  CONNECTION_CLOSED_WIKI_LINK: http://pl.tankiwiki.com/Zerwane_połączenie
+  RENAME_BUTTON_LABEL_IN_GARAGE: Użyj
+  GARAGE_DAMAGE_PROPERTY: Uszkodzenia
+  CREATE_BATTLE_PANEL_GOLD_BOXES: Złote Skrzynie
+  DRONE_INVENTORY_ADD: Bonusowy czas trwania zaopatrzenia
+  PARTNER_GAME_TERMS: ''
+  BATTLE_TEAM_ALERT: 'Obecnie grasz z drużyną: %1'
+  SHOP_PAYMENT_CATEGORY_HEADER_FOR_ODNOKLASSNIKY: ''
+  ACCEPTED_LIMIT_EXCEEDED_ALERT: Nie można wysłać prośby o dodanie do znajomych. Lista znajomych użytkownika %USERNAME% osiągnęła maksymalną liczbę graczy.
+  HULL: Kadłub
+  SGE_SHORT_NAME: SGE
+  ACCOUNT_RECOVERY_FORM_HELP_LABEL_TEXT: |-
+    Wprowadź swój zarejestrowany adres e-mail,
+    aby otrzymać link pozwalający wejść do gry bez hasła
+  REARM_PAUSE_1: Pauza włączona
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_ARROW_LENGTH: '30'
+  CLAN_IS_ALREADY_IN_INVITE_LIST: Klan %CLANNAME% zaprosił Cię już do dołączenia
+  FRIENDS_DECLINE_ALL_REQUESTS_ALERT: Odrzucić wszystkie otrzymane prośby?
+  CTF_GOT_FLAG_NEUTRAL: przejmuje flagę
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_TEXT: |-
+    Kliknij, aby wybrać bitwę
+    i do niej dołączyć.
+    Twoja nagroda – 200 kryształów!
+  SHOP_GOLDBOX_ONE: Skrzynia
+  HEADER_VK_ENTERING_GROUP: ''
+  ALERT_ACCOUNT_CANT_BE_UNLINKED: |-
+    Uwaga!
+    Przed odłączeniem konta od %1 należy
+    ustawić hasło do konta Tanki Online w ustawieniach
+  ERROR_PASSWORD_CHANGE: Błąd zmiany hasła
+  BUTTON_LABEL_RESTORE_DEFAULT_BUTTONS: Przywróć domyślne sterowanie
+  DRONE_CONSTANT_ARMOR_PERCENT: Dodatkowa ochrona
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_ENTER: Dołącz
+  CLAN_USER_CLAN_NAME: Nazwa klanu
+  NOT_ENOUGH_COINS_NOTIFICATION: Nie masz wystarczającej liczby Tankoinsów, aby dokonać tego zakupu
+  GARAGE_BULLET_SPEED_PROPERTY: Prędkość pocisku
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_TEXT: |-
+    Kliknij, żeby utworzyć bitwę,
+    wybierając mapę i rodzaj gry.
+    Twoja nagroda – 200 kryształów.
+  CLAN_INCORECT_CLAN_TAG: Niepoprawny tag klanu
+  GROUP_INVITE: Zaprasza Cię do grupy
+  CURRENT_PASSWORD: 'Aktualne hasło:'
+  NEED_OF_EMAIL_SET: |-
+    Proszę wprowadź swój adres email, aby zwiększyć bezpieczeństwo konta.
+
+    Otrzymasz wiadomość email z linkiem weryfikacyjnym. Kliknij w niego, aby otrzymać darmowe kryształy.
+  CHALLENGE_STARS: Gwiazdy
+  HELP_PANEL_SCORE_HELPER_TEXT: |-
+    Twoje aktualne doświadczenie
+    /Doświadczenie wymagane
+    do zdobycia kolejnej rangi
+  CLAN_LEAVE: Opuść klan
+  ERROR_EMAIL_INVALID: Nieprawidłowy e-mail
+  ONE_STAR_SHOP_BUTTON_LABEL: gwiazda
+  KEYBOARD_KEY_UP: Góra
+  CLAN_TANKS_LOST: Straconych czołgów
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_COMPENSATION: 'Rekompensata za ten przedmiot:'
+  ALERT_ANSWER_NO: Nie
+  SHOP_WINDOW_PAYMENT_CATEGORY_HEADER: Metoda płatności
+  CLAN_YOU_ALREADY_IN_CLAN: Jesteś już członkiem klanu
+  STATISTICS_HEADER_DEATHS: Zgonów
+  CLAN_POSITION_NOVICE: Nowicjusz
+  FRIENDS_YES: Tak
+  GAME_ACTION_TANK_MOVE_FORWARD: Jazda czołgiem do przodu
+  COIN_CONFIRMATION_DESCRIPTION: Klikając na przycisk "Kup", potwierdzasz zakup Tankoinsów
+  GARAGE_FREEZE_PROTECTION_PROPERTY: Ochrona przed Mrozem
+  CTF_CAPTURED_ENEMY_FLAG: zdobywa wrogą flagę
+  PRESENT_RECIPIENT_NAME: Nazwa odbiorcy...
+  ALERT_ANSWER_PROCEED: Kontynuuj
+  SELECTED_SERVER_UNAVAILABLE: Serwer, do którego próbujesz się podłączyć, jest chwilowo niedostępny. Prosimy spróbować później.
+  TIME_LABEL_SECOND: sek.
+  CHAT_SHARP_NEWS: aktualności|Aktualności|http://tankionline.com/pl/
+  PAYMENT_BUG_REPORT_INFO: Jeżeli twoja płatność do nas nie dotarła lub wystąpił problem z twoją transakcją, poinformuj nas o tym.
+  THERE_ARE_PLACES_AVAILABLE_LABEL: Miejsca dostępne
+  RENAME_FAILED_ALERT: Zmiana nazwy nieudana, proszę spróbować ponownie później
+  PIECE_1: szt.
+  STATISTICS_HEADER_RATING: Wskaźnik
+  CLAN_DOES_NOT_ACDEPT_REQUEST: Ten klan nie przyjmuje obecnie zgłoszeń
+  ONLINE_LABEL: Online
+  CHAT_SHARP_PLANS: plany|Plany twórców|http://pl.tankiwiki.com/Plany_deweloper%C3%B3w
+  JGR_MODE_NAME: Solo Juggernaut
+  DRONE_CONSTANT_POWER_PERCENT: Dodatkowe obrażenia
+  CREATE_FAILED_YOU_ARE_BANNED: |-
+    Drogi graczu, zawieszono cię na kanale czatu,
+     więc nie możesz tworzyć bitew. Jednak wciąż możesz
+     uczestniczyć w bitwach stworzonych przez innych.
+  CHANGE_UID_FORM_NEW_PASSWORD_TEXT: 'Nowe hasło:'
+  HELP_NAME_IS_NOT_UNIQUE: Nazwa już w użyciu
+  CLAN_BLOCK: Ten klan został zablokowany
+  TJR_MODE_NAME: Juggernaut
+  GARAGE_CONFIRM_ALERT_COST_PREFIX: za
+  PAYMENT_SMS_UK_DESCRIPTION_ENDING_TEXT: Telefon biura obsługi klienta – 0-808-189-1038
+  REDUCE_DAMAGE_RAILGUN: Railgun
+  GARAGE_CATEGORY_BUTTON_SUPPLIES: Zaopatrzenie
+  KEYBOARD_KEY_SPACE: Spacja
+  FREE_BONUSES_WINDOW_BUTTON_CLOSE_TEXT: Zamknij
+  MAIN_QUEST_BUTTON: Specjalne
+  SHOP_WINDOW_PAYMENT_CATEGORY_WITH_DISCOUNT_DESCRIPTION: Poniższe metody płatności zawierają obecnie rabat. Proszę wybrać preferowaną formę płatności, aby kontynuować.
+  GARAGE_CRITICAL_CHANCE_PROPERTY: Szansa trafienia krytycznego
+  GARAGE_SNIPING_IMPACT_PROPERTY: Siła uderzenia w trybie snajperskim
+  BATTLE_ENTER_WARNING_PARKOUR: Uwaga! To jest Bitwa Parkour. Nie otrzymasz za nią żadnych kryształów ani doświadczenia.
+  HEADER_UPGRADE: ULEPSZENIA
+  SETTINGS_BUTTON_SAVE_TEXT: Zapisz
+  GARAGE_DISTANT_DAMAGE_PROPERTY: Uszkodzenia z maksymalnej odległości
+  ERROR_EMAIL_DOMAIN_IS_FORBIDDEN: Adres e-mail zablokowany
+  SERVER_IS_RESTARTING_LOGIN_TEXT: Serwer jest obecnie uruchamiany ponownie. Nie możesz się zalogować.
+  CLAN_MEMBER_COLUMN_KILL_DEATH_RATIO: Z/S
+  GARAGE_HELPER_SWITCHING_ITEM_CATEGORIES: "Zmiana \nkategorii przedmiotów"
+  DEVICE: Urządzenie
+  CLAN_INCORECT_CLAN_NAME: Niepoprawna nazwa klanu
+  FRIENDS_NO: Nie
+  BATTLELIST_PANEL_BUTTON_CREATE: Stwórz
+  VOTE_USER_LABEL: Vote
+  TIP_11: Moduły ochronne zmniejszają obrażenia od określonych wież. Połącz różne odporności, aby uchronić się przed najbardziej groźnymi przeciwnikami!
+  CHALLENGE_REWARD_NOTIFICATION: Otrzymałeś nagrody za %number% etap wyzwania
+  BATTLE_CREATE_PANEL_BUTTON_START: Rozpocznij
+  GARAGE_CONFIRM_ALERT_CONFIRM_BUTTON_TEXT: Tak
+  REENTER_TO_GAME: Wejdź ponownie do gry
+  DRONE_OVERDRIVE_BOOST: Redukcja ładowania Overdrive za zniszczenie
+  CP_SHORT_NAME: CP
+  CLAN_SEND_REQUEST_TO_CLAN: Wyślij zgłoszenie do klanu...
+  FATAL_ERROR_WIKI_LINK: http://pl.tankiwiki.com/Błąd_bitwy
+  CLAN_MEMBER_NAME: Nazwa
+  AUTOCOMPLETION_BALANCE_DISTURBED_WINNERS_PART1: Drużyna przeciwna ma za mało graczy
+  CLAN_POSITION_VETERAN: Weteran
+  EXPERIENCE_BAR_TOOLTIP: Twój obecny postęp rangi. Dołączaj do bitew, by zdobywać doświadczenie i odblokowywać nowe wyposażenie.
+  CLAN_DISBAND: Rozwiąż klan
+  BATTLE_PRO_BATTLE_SUBSCRIBE: Karta Bitwy PRO jest twoją przepustką do profesjonalnych bitew!
+  LOOT_OPEN_BUTTON: Otwórz
+  BATTLE_IS_UNAVAILABLE_AT_YOUR_RANK_LABEL: Bitwa niedostępna dla twojej rangi
+  VK_ENTER_GROUP_BONUS: ''
+  GARAGE_TWINS_PROTECTION_PROPERTY: Ochrona przed Twinsami
+  GARAGE_SPEED_UP_TEXT: Przyśpiesz
+  ERROR_EMAIL_NOT_FOUND: |-
+    Ten e-mail nie jest zarejestrowany.
+    Prawdopodobnie zarejestrowano inny e-mail.
+  FRIENDS_BUTTON_TOOLTIP: To jest lista znajomych. Stąd możesz dołączać tam gdzie są i sprawdzać ich profile.
+  REGISTER_FORM_PASSWORD_INPUT_LABEL_TEXT: 'Hasło:'
+  YOUR_ACCEPTED_LIMIT_EXCEEDED_ALERT: Nie można zaakceptować prośby o dodanie do znajomych. Twoja lista znajomych osiągnęła maksymalną liczbę graczy.
+  RUGBY_SHORT_NAME: RGB
+  RENT: Wynajmij
+  GARAGE_MAX_SPEED_PROPERTY: Maksymalna prędkość
+  YOUR_FRIEND_IS_ENTERING_THE_GAME_LABEL: |-
+    Zaproszenie nie zostało wysłane
+    Twój znajomy dołącza do gry
+  PAYMENT_BUTTON_PROCEED_TEXT: Dalej
+  TIME_LABEL_MINUTE: m
+  GARAGE_SMOKY_PROTECTION_PROPERTY: Ochrona przed Smoky
+  TJR_SHORT_NAME: TJR
+  GARAGE_SHAFT_PROTECTION_PROPERTY: Ochrona przed Shaftem
+  GARAGE_UPGRADE_TEXT: Ulepsz
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_TEXT: |-
+    Kliknij, aby wybrać bitwę
+    i do niej dołączyć.
+    Twoja nagroda – 200 kryształów!
+  ALERT_ANSWER_OK: Ok
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_SUM: Otrzymujesz %1
+  CHECK_PASSWORD_FORM_CALLSIGN: 'Nazwa lub e-mail:'
+  CRYSTALS_PACKAGE_AS_GIFT: za darmo!
+  RUGBY_BALL_TAKEN_BLUE: Drużyna niebieska przejęła piłkę
+  DAILY_QUEST_CHANGE: Zmień
+  HEADER_BATTLE_INFO_TEXT: DANE BITWY
+  CHAT_PANEL_COMMAND_UNBLOCK: Użytkownik %1 usunięty z listy osób ignorowanych
+  FRIENDS_IN_BATTLE: W bitwie
+  REGISTER_FORM_TO_LOGIN_PAGE_TEXT: Już po rejestracji? <a href='event:'><font color='#59ff32'><u>Zaloguj się!</u></font></a>
+  TJR_NEW_BLUE_BOSS: Niebieski Juggernaut dołącza do bitwy
+  PAYMENT_PRESENT_LABEL_TEXT: ZA DARMO!
+  CTF_BLUE_FLAG_RETURNED: Zwrócono niebieską flagę
+  SETTINGS_BUTTON_CHANGE_PASSWORD_TEXT: Zmień hasło i e-mail
+  RENAME_ITEM_SHOP_DESCRIPTION: Przedmiot ten pozwala na zmianę nazwy Twojego konta. Po zakupieniu go, pojawi się w Hangarze w sekcji «Specjalne». W celu użycia podążaj za instrukcjami.
+  CLAN_BUTTON_TOOLTIP: Tutaj możesz dołączyć do istniejącego lub zarządzać swoim klanem.
+  GARAGE_CATEGORY_BUTTON_PRESENTS: Prezenty
+  CLAN_MEMBER_COLUMN_DESTROYED: Zniszczone
+  PAYMENT_BUTTON_SEND_BUG_REPORT_TEXT: Zgłoś
+  GAME_PRIVACY_POLICY: |-
+    Polityka prywatności i ciasteczek
+
+    APL Publishing Ltd, registration no. C 85285, registered under the laws of Malta, 157, Archbishop Street Valletta, VLT1440, Malta (odtąd nazywana ‘’Spółką’’ lub ‘’Administracją’’), posiadacz wyłącznych praw do Gry szanuje prawo Użytkowników do zachowania poufności Informacji Osobowych. Spółka rozumie wagę ochrony informacji otrzymanych od Użytkowników. Spółka zatwierdziła niniejszą Politykę Prywatności i Ciasteczek (odtąd nazywaną „Polityką”), aby poinformować Użytkowników o gromadzeniu i wykorzystywaniu ich Informacji Osobowych.
+
+    Niniejsza Polityka ustala warunki, procedury i cele gromadzenia, wykorzystywania, przetwarzania, przechowywania, ujawniania, przekazywania i usuwania Informacji Osobowych Użytkowników, a także warunki ochrony Informacji Osobowych Użytkowników. Niniejsza Polityka wyjaśnia, w jaki sposób Użytkownik może przeglądać, aktualizować swoje Informacje Osobowe lub wnioskować o ich usunięcie zgodnie z Obowiązującym Prawem. Niniejsza Polityka również ustala warunki, procedury i cele wykorzystywania i przechowywania ciasteczek przez Administrację.
+
+    Umowa Licencyjna Użytkownika Końcowego (odtąd zwana „Umową”), Zasady Gry, a także pozostałe dokumenty publikowane w Grze i Usługach Gry są integralną częścią niniejszej Polityki. Z kolei niniejsza Polityka jest integralną częścią Umowy, Zasad Gry oraz pozostałych dokumentów Gry i usług z nią związanych.
+
+    Niniejsza polityka stosowana jest do stron internetowych i pozostałych usług związanych z Grą, lecz nie obejmuje swoim zakresem innych stron i serwisów.
+
+    Jakiekolwiek wykorzystanie Gry oraz jej Usług Internetowych albo kliknięcie „Akceptuję” w trakcie procesu rejestracji potwierdza, że Użytkownik zapoznał się z niniejszą Polityką oraz bezwarunkowo ją akceptuje.
+    Jeżeli nie zgadzasz się z dowolnym warunkiem niniejszej Polityki, prosimy o opuszczenie tej Strony i niekorzystanie z Gry.
+
+
+    Definicje
+
+    Jakiekolwiek terminy oraz pojęcia pisane wielką literą i użyte w niniejszej Polityce mają znaczenie przypisane im w Umowie.
+
+
+    Obowiązki
+
+    1.       Spółka zobowiązuje się do szanowania prywatności Użytkownika, stosując się do wszystkich stosownych przepisów o ochronie danych ustanowionych przez Obowiązujące Prawo. Spółka zapewnia, że Informacje Osobowe Użytkownika są przetwarzane uczciwie, zgodnie z prawem i dobrą praktyką, a ich gromadzenie następuje w określonych celach znanych Użytkownikowi i zaakceptowanych przez niego w momencie, w którym zdecydował się na korzystanie z Oprogramowania, Gry i Strony Internetowej.
+    2.Spółka znajduje się na liście maltańskiego Inspektora Ochrony Danych Osobowych i przestrzega Ustawy o ochronie danych, Rozdziału 440 Prawa Malty, a także innych stosownych postanowień, przepisów albo zasad maltańskich.
+    3.Niniejsza Polityka dotyczy następujących zasobów Gry: interaktywnej, wieloosobowej gry online <<Tanki Online. Version 2>>, pokoju na czacie Gry, forum Gry, Tanki Online Wiki, Wiadomości Tanki Online (odtąd łącznie zwanych „Usługami Gry”), a także innych internetowych formularzy, wewnętrznych formularzy oraz środków komunikacji używanych w usługach gry oraz kliencie Gry do gromadzenia informacji osobowych.
+    4.Spółka zapewnia, że dołożyła wszelkich możliwych starań, aby Dane Osobowe były zawsze:
+    a.przetwarzane zgodnie z prawami Użytkownika;
+    b.przetwarzane uczciwie i zgodnie z prawem;
+    c.pozyskiwane tylko do konkretnych i zgodnych z prawem celów;
+    d.gromadzone w odpowiedniej ilości, adekwatnie do celu ich gromadzenia i dla niego istotne;
+    e.dokładne i aktualizowane
+    f.przechowywane w sposób zapewniający bezpieczeństwo
+    g.przechowywane nie dłużej niż to konieczne do celów ich gromadzenia;
+    h.nieprzekazywane jurysdykcjom, które nie zapewniają odpowiedniej ochrony Danych Osobowych, a także
+    i.wykorzystywane w celach określonych w niniejszej Polityce.
+
+    5.Do Informacji Osobowych otrzymanych przez Spółkę mają dostęp tylko pracownicy i przedstawiciele Spółki, a także odziały Spółki posiadające wymagane pozwolenie. Wszystkie osoby mające dostęp do takich Informacji Osobowych są zobowiązane do przestrzegania postanowień niniejszej Polityki, a także są zobowiązane z mocy ich umów pracowniczych lub innych umów do zachowania takich informacji w tajemnicy nawet po rozwiązaniu umowy ze Spółką.
+    6.Spółka zobowiązuje się do podjęcia wszelkich możliwych organizacyjnych i technicznych kroków, aby chronić Informacje Osobowe Użytkownika przed nielegalnym lub przypadkowym dostępem, zniszczeniem, zmienieniem, zablokowaniem, skopiowaniem, rozpowszechnianiem, a także innymi bezprawnymi działaniami osób trzecich.
+    7.Spółka wprowadza w życie najlepsze praktyki dotyczące ochrony komunikacji z Użytkownikiem przez e-mail, a także ochrony wszelkich środków komunikacji, które mogą być okresowo wymagane.
+    8.Legislacja dotycząca ochrony danych może w różnych krajach być różna. Spółka będzie przestrzegać warunków tej Polityki w jak największym, możliwym stopniu, a także jak najlepiej chronić Informacje Osobowe Użytkownika , bez względu na to, gdzie zostały one zgromadzone albo w jaki sposób przekazane.
+    9.Spółka może przekazać Informacje Osobowe kolejnym krajom jedynie, gdy kraj taki posiada odpowiedni poziom ochrony Informacji Osobowych lub, gdy przekazanie tych informacji następuje w interesie Użytkownika i jest potrzebne do zawarcia lub wypełnienia Umowy albo innej umowy, lub gdy przekazanie tych informacji jest związane z chronieniem interesów Użytkownika, lub gdy Spółka da stosowne gwarancje dotyczące ochrony Informacji Osobowych.
+
+    Gromadzenie Informacji Osobowych
+
+    10.Administracja ma prawo zażądać od Użytkownika podania informacji, aby umożliwić mu korzystanie z Gry, w tym informacji dostarczanych podczas wypełniania specjalnych formularzy w Grze oraz Usługach Gry, informacji dostarczanych podczas rejestracji, zapisywania się do usług, publikacji materiałów oraz zapisywania się do innych usług, w tym adresu e-mail, numeru telefonu, danych identyfikacyjnych w sieciach społecznych, nazwy użytkownika i hasła.
+    11.Administracja może zażądać wszelkich informacji potrzebnych do organizacji i przeprowadzania wydarzeń w Grze, jeżeli Użytkownik zarejestrował swoje uczestnictwo w takich wydarzeniach zainicjowanych przez Administrację.
+    12.Administracja jest upoważniona do przechowywania wszelkiej korespondencji z Użytkownikiem (w tym także zgłoszeń o problemach z Grą lub Usługami Gry).
+    13.Administracja może poprosić Użytkownika o wzięcie udziału w ankietach, w których konieczne będzie podanie niektórych informacji, jednakże nie jest to obowiązkowe i każdy Użytkownik może odmówić wzięcia udziału w takich ankietach.
+    14.Administracja może gromadzić i przetwarzać szczegóły transakcji oraz dane dotyczące płatności Użytkownika, jeżeli Użytkownik korzysta z dowolnych Usług Płatnych.
+    15.Przeglądarka lub inny program Użytkownika może przekazywać informacje dotyczące wizyt na stronach Gry i w Usługach Gry, w tym informacje dotyczące ruchu internetowego, logi, dane dotyczące położenia geograficznego komputera Użytkownika i związanych z tym możliwości, a także inne informacje. Użytkownik niniejszym potwierdza, że Administracja może używać tych informacji do celów i w procedurach ustalonych przez niniejszą Politykę.
+    16.Administracja, w celu wykonania niektórych działań, może zażądać od Użytkownika informacji takich, jak płeć, wiek, data urodzenia oraz preferencje dotyczące gier.
+    17.Administracja może gromadzić, przetwarzać i wykorzystywać inne informacje określone w Umowie, a także wszelkich dokumentach tworzących integralną część EULA.
+
+
+    Zgoda Użytkownika
+
+    18.Jeżeli w formularzu rejestracyjnym Usług Płatnych lub jakimkolwiek innym formularzu rejestracyjnym użytym w Grze lub Usługach Gry Użytkownik podaje Informacje Osobiste, oznacza to, że Użytkownik dał swoją bezpośrednią i wyraźną zgodę na stosowanie się do niniejszej Polityki, Umowy oraz wszelkich dokumentów tworzących część Umowy, a także dał swoją bezpośrednią i wyraźną zgodę na przetwarzanie, wykorzystywanie, gromadzenie, przechowywanie, ujawnianie, przekazywanie (w tym za granicę) oraz niszczenie wszelkich Informacji Osobowych w celach określonych przez niniejszą Politykę, Umowę oraz wszelkie dokumenty tworzące część Umowy.
+    19. Informacje Osobowe zbiera się wyłącznie w dozwolonych przez prawo celach, a w szczególności w celu:
+    a.weryfikacji informacji szczegółowych Użytkownika;
+    b.rejestracji Konta w Spółce;
+    c.promocji i działaniach marketingowych;
+    d.stosowania się do obowiązujących przepisów prawa;
+    e.zapewnienia Użytkownikowi wszelkich dodatkowych usług oferowanych przez Spółkę, takich jak wsparcie techniczne Gry; a także
+    f.wykonania i wypełnienia Umowy oraz wszystkich dokumentów tworzących integralną jej część przez Spółkę, jej dostawców albo dowolne osoby trzecie działające w jej imieniu.
+    20.Administracja ma prawo gromadzenia i wykorzystywania według uznania wszelkich informacji, które nie są uważane za Informacje Osobowe przez Obowiązujące Prawo, a Użytkownik niniejszym potwierdza, że Spółka może ujawnić wszelkim osobom trzecim takie informacje niebędące Informacjami Osobowymi.
+    21.Użytkownik ma prawo sprzeciwić się przetwarzaniu i gromadzeniu swoich Informacji Osobowych, a także wycofać swoją zgodę w każdej chwili, chyba że Obowiązujące Prawo stanowi inaczej. W momencie wycofania swojej zgody Użytkownik rozumie i akceptuje to, że czynność ta może mieć negatywny wpływ na jakość Gry i Usług Internetowych, a także może spowodować niedostępność Gry albo Usług Gry, a także Użytkownik niniejszym potwierdza, że Spółka w takiej sytuacji nie będzie ponosiła żadnej odpowiedzialności za wszelkie straty albo zniszczenia Informacji Osobowych Użytkownika.
+
+    Wykorzystanie i przetwarzanie Informacji Osobowych
+
+    22.Użytkownik niniejszym potwierdza, że Spółka ma prawo przechowywać i przetwarzać podane Informacje Osobowe, które Spółka uważa za niezbędne do korzystania z Gry. Użytkownik rozumie i akceptuje to, że wszystkie czynności w Grze są rejestrowane.
+    23.Informacje Osobowe ujawnione przez Użytkownika są gromadzone i przetwarzane przez Administrację w celu dostarczenia Użytkownikowi właściwych i dobrej jakości Usług Gry, w celu rozwoju i poprawy, w celu wykonania Umowy oraz innych czynności określonych w Umowie, Zasadach Gry i niniejszej Polityce. Przetwarzanie Informacji Osobowych oznacza ich pobieranie, zapisywanie, systematyzację, klasyfikację, przechowywanie, gromadzenie, aktualizowanie, modyfikowanie, grupowanie, blokowanie, wykorzystywanie, ujawnianie, przekazywanie osobom trzecim, rozpowszechnianie, niszczenie, usuwanie oraz inne czynności wymagane do wykonania Umowy.
+    24.Spółka nie sprzedaje Informacje Osobowych Użytkownika, ani nie ujawnia tychże osobom trzecim, z wyjątkiem sytuacji przewidzianych w niniejszej Polityce. Spółka może ujawnić ogólne informacje demograficzne i statystyczne parterom biznesowym oraz reklamowym. Nie jest to bezpośrednio związane z Informacjami Osobowymi i nie można na tej podstawie zidentyfikować konkretnego Użytkownika.
+    25.Aby zapewnić właściwe świadczenie usług, Spółka ma prawo przekazania Informacji Osobowych innym osobom i organizacjom, które świadczą usługi hostingowe, płatnicze oraz związane z wysyłaniem e-maili, a także moderatorom. Osoby te i organizacje mają prawo wykorzystać otrzymane Informacje Osobowe jedynie do celów świadczenia usług Użytkownikowi, a także są związane postanowieniami zapewniającymi właściwe wykorzystanie Informacji Osobowych.
+    26.Użytkownik potwierdza, że Spółka ma prawo przekazywać Informacje Osobowe wszelkim oddziałom Spółki w celach zapewnienia właściwych, wysokiej jakości Usług Gry, a także w celu ich usprawnienia oraz wykonania Umowy, Zasad Gry oraz niniejszej Polityki.
+    27.Jeżeli Spółka połączy się z inną spółką poprzez reorganizację albo fuzję, albo sprzedaż lub nabycie, albo likwidację lub jakikolwiek inny proces, Informacje Osobowe Użytkownika mogą zostać przekazane wraz ze Spółką lub jej częścią lub mogą zostać sprzedane jako część Spółki.
+    28.Użytkownik akceptuje to, że Spółka ma prawo i obowiązek ujawnienia Informacji Osobowych z polecenia organów reprezentujących Obowiązujące Prawo albo inną jurysdykcję, albo z polecenia organów nadzorujących, albo z polecenia Inspektora Ochrony Danych Osobowych, albo w przypadku, gdy Użytkownik jest bezpośrednio lub pośrednio zaangażowany w udział w przestępstwie związanym z Grą albo usługami Spółki.
+    29.Użytkownik akceptuje to, że gdy Spółka otrzyma roszczenie od osób trzecich (posiadaczy praw autorskich) dotyczące naruszenia przez Użytkownika praw do Materiałów umieszczonych w Grze albo Usługach Gry, to Spółka ma prawo przekazać informacje dotyczące takiego Użytkownika osobie trzeciej (posiadaczowi praw autorskich).
+    30.Jeżeli Użytkownik wejdzie do Gry albo zarejestruje się w Grze poprzez strony osób trzecich, albo strony parterów Spółki, takie osoby mogą żądać podania informacji osobowych Użytkownika oraz gromadzić i przetwarzać je w celach zapewnienia wysokiej jakości usług. W tym wypadku zastosowanie mają polityki prywatności i ciasteczek osób trzecich. Użytkownik akceptuje to, że Spółka ma prawo przekazania Informacji Osobowych Użytkownika takim osobom w celach zapewnienia wysokiej jakości Usług Gry, wykonania Umowy, Zasad Gry oraz niniejszej Polityki.
+
+
+    Przechowywanie Informacji Osobowych
+
+    31.Spółka podejmie wszelkie niezbędne kroki w celu właściwego i bezpiecznego przechowywania gromadzonych Informacji Osobowych Użytkownika zgodnie z postanowieniami niniejszej Polityki. Wszelki informacje podane przez Użytkownika są przechowywane na serwerach Spółki.
+    32.Spółka ma prawo wykorzystywać standardowe technologie, w tym zapory sieciowe, do zapewnienia bezpieczeństwa Informacji Osobowych.
+    33.Użytkownik jest zobowiązany do nieujawniania ani nieprzekazywania osobom trzecim swojej tożsamości lub szczegółów dotyczących konta, których używa do autoryzacji w Grze. Użytkownik jest w pełni odpowiedzialny za przechowywanie informacji dotyczących jego konta.
+    34.Jeżeli Użytkownik nabywa wiedzę o tym, że jego informacje dotyczące konta zostały skradzione albo są w posiadaniu dowolnej osoby trzeciej, Użytkownik natychmiast informuje o tym Spółkę, tak żeby Spółka mogła powziąć niezbędne kroki. W takich przypadkach Spółka nie może zagwarantować bezpieczeństwa Informacji Osobowych Użytkownika, a użytkownik niniejszym akceptuje to, że Spółka nie będzie pociągana do odpowiedzialności za żadne wykorzystanie takich Informacji Osobowych.
+    35.Gdy Użytkownik komunikuje się wewnątrz Gry lub Usług Gry (za pomocą pokoju na czacie, forum itp.), Użytkownik rozumie, że takie działanie odbywa się za pomocą Serwera Spółki, i zgadza się na to, że podane dane mogą być gromadzone, przechowywane i analizowane przez Administrację. Administracja nie jest odpowiedzialna za zachowanie poufności Informacji Osobowych albo informacji ujawnionych przez Użytkownika innym Użytkownikom w Grze, Usługach Gry lub innych serwisach powiązanych z Grą (używając pokoju na czacie, forum, sieci społecznościowych itp.), Administracja ma także prawo traktować takie informacje jako pozyskane z domeny publicznej.
+
+
+
+    Ciasteczka, adresy IP oraz logi
+
+    36.Administracja może gromadzić i przetwarzać informacje o komputerze Użytkownika, w tym logi, adresy IP, rodzaj systemu operacyjnego, przeglądarki oraz klienta e-mail, informacje o ruchu internetowym, dacie i czasie, szczegóły wejść do usług gry, informacje o aktywności użytkownika, dostępie, ustawieniach i powiadomieniach systemowych. Informacje o działaniach Użytkownika na Stronie Internetowej są gromadzone i przechowywane, aby zarządzać systemem, zapewniając właściwe funkcjonowanie Gry i Usług Gry, aby zapewnić bezpieczeństwo i zwiększyć ochronę, oraz aby zapewnić integralność systemu (zapobiegać atakom hakerskim i nieautoryzowanemu dostępowi).
+    37.Administracja wykorzystuje ciasteczka, aby zapewnić właściwe funkcjonowanie Gry. Ciasteczka są niedużej wielkości dziennikami zawierającymi informacje tekstowe, które są automatycznie tworzone i przechowywane na komputerze/innym sprzęcie Użytkownika, aby skojarzyć i zidentyfikować działania z Użytkownikiem (odtąd zwane „Ciasteczkami”). Ciasteczka zazwyczaj nie zawierają nazw albo adresów e-mail, albo innych Informacji Osobowych, zwykle zawierają anonimowe dane wymagane do lepszego funkcjonowania Gry albo Usług Gry.
+    38.Ciasteczka przechowywane na komputerze/innym sprzęcie Użytkownika, dzięki którym Użytkownik korzysta z Gry albo Materiałów, mają, między innymi, następujące funkcje:
+    a.zapewnienie dostępu do zabezpieczonych obszarów, którego to dostępu zażądał Użytkownik. Bez tych Ciasteczek usługi takie, jak bezpieczny login nie mogą być świadczone;
+    b.Ciasteczka odwiedzin – zapamiętują wybory albo ustawienia Użytkownika i umożliwiają jego rozpoznanie w trakcie korzystania z Gry. Bez tych Ciasteczek funkcjonowanie Gry może być ograniczone;
+    c.Ciasteczka ankietowe – zaznaczają wybrane pozycje dowolnej ankiety, w której Użytkownik uczestniczył, i nie pozwalają Użytkownikowi brać ponownego udziału w tej samej ankiecie;
+    d.Ciasteczka ładowania – skracają czas ładowania Gry, rozkładając obciążenie pracą oraz optymalizację czasową usług gry. Bez tych Ciasteczek funkcjonowanie Gry może być niemożliwe;
+    e.Ciasteczka dostosowania interfejsu Użytkownika – pozwalają zapisywać ustawienia interfejsu Użytkownika w przypadku ponownego wejścia do Gry i usług gry.
+    f.Ciasteczka wykorzystywane do synchronizacji z danymi Użytkownika w sieciach społecznościowych.
+    g.        Ciasteczka wydajności (analityczne) – gromadzą anonimowe informacje na temat sposobu wykorzystania Gry przez użytkownika.
+    h.Ciasteczka reklamowe – dostarczają Użytkownikowi najnowsze reklamy oraz pomagają w usprawnieniu efektywności kampanii reklamowych. Użytkownik niniejszym akceptuje i zgadza się na to, że Spółka może wykorzystywać takie ciasteczka w celu przeprowadzania własnych kampanii reklamowych.
+    39.Administracja może również zezwolić konkretnym osobom trzecim na wprowadzanie i wykorzystywanie swoich własnych ciasteczek wydajności (analitycznych) oraz reklamowych na urządzeniach Użytkownika oraz na gromadzenie informacji z Ciasteczek Spółki w celach przechowywania i analizy informacji na temat preferencji Użytkowników, a także poprawienia jakości usług. W takim przypadku osoby trzecie są związane niniejszą Polityką. Administracja gwarantuje udzielenie takich zezwoleń wyłącznie osobom trzecim cechującym się dobrą reputacją.
+    40.Użytkownik rozumie, że używając Gry poprzez wszelkie sieci społecznościowe, takie jak Facebook, Użytkownik może zostać zobowiązany do przestrzegania polityki ciasteczek strony danej sieci społecznościowej, Użytkownik akceptuje także to, że Administracja nie ponosi żadnej odpowiedzialności za wykorzystanie takich ciasteczek.
+    41.Korzystanie z Gry albo Usług Internetowych lub zaakceptowanie Umowy (w tym niniejszej Polityki), albo kliknięcie „Akceptuję” równoznaczne jest ze zrozumieniem i akceptacją przez Użytkownika niniejszej Polityki oraz wyrażeniem jego bezpośredniej i wyraźnej zgody na to, że Administracja może umieszczać, przechowywać i wykorzystywać ciasteczka w komputerze Użytkownika lub innych urządzeniach, przez które Użytkownik korzysta z Gry albo jej Materiałów. Administracja zakłada ciągłą zgodę Użytkownika na tę Politykę do momentu, w którym Użytkownik wyłączy ciasteczka w ustawieniach swojej przeglądarki zgodnie z postanowieniami niniejszej Polityki. Dając taką zgodę, Użytkownik daje Administracji możliwość lepszego poznania Użytkownika i jego preferencji oraz ciągłego poprawiania jakości usług w trosce o dobro Użytkowników. Użytkownik niniejszym akceptuje to, że bez włączonych Ciasteczek Gra może nie funkcjonować prawidłowo.
+    42.Administracja zapewnia, że przechowywane ciasteczka są bezpieczne dla Użytkowników oraz całkowicie konieczne do normalnego funkcjonowania Gry i jej usług, a także świadczenia usług Użytkownikom przez Administrację.
+    43.Ciasteczka przechowywane są przez okres nie większy niż jeden rok. Warunki przechowywania ciasteczek przez osobę trzecią są ustalane przez taką osobę trzecią.
+    44.Użytkownik może w każdej chwili odmówić akceptowania ciasteczek i wyłączyć je za pomocą ustawień swojej przeglądarki. Wyłączenie Ciasteczek może mieć negatywny wpływ na jakość Gry i Usług Internetowych, a także może być przyczyną niemożności dostępu do Gry i Usług Internetowych. Użytkownik niniejszym akceptuje to, że Spółka nie ponosi odpowiedzialności za żadną stratę albo uszkodzenie informacji Użytkownika w sytuacji, gdy Użytkownik wyłączył ciasteczka.
+
+
+    Pozyskiwanie i zmienianie Informacji Osobowych Użytkownika
+
+    45.Użytkownik ma prawo skontaktować się z Administracją w dowolnej chwili, aby pozyskać kopię Informacji Osobowych Użytkownika, które Spółka przechowuje, oraz poprawić wszelkie nieprawidłowości. Użytkownik ma prawo zażądać, aby jego Informacje Osobowe zostały wykasowane, skorygowane lub uzupełnione. Aby skontaktować się z Administracją w sprawie Informacji Osobowych, Użytkownik powinien wysłać wiadomość e-mail na adres help@tankionline.com
+
+    Odmowa podania Informacji Osobowych
+
+    46.Wszelki Informacje Osobowe podane Administracji przez Użytkownika są podawana dobrowolnie. Jednakże Spółka nie może zagwarantować poprawnego funkcjonowania Gry albo jej usług lub jakiegokolwiek funkcjonowania tychże w przypadku, gdy użytkownik nie poda wymaganych Informacji Osobowych.
+
+    Strony sieci społecznościowych
+
+    47.Użytkownik niniejszym rozumie i akceptuje, że korzystanie z Gry przez strony sieci społecznościowych lub inne strony osób trzecich może wymagać od Użytkownika stosowania się do postanowień i warunków tychże stron.
+
+
+    Zmiany Polityki
+
+    48.Niniejsza Polityka nabiera mocy z dniem widniejącym na jej ostatniej wersji. Niniejsza Polityka może zostać zmieniona, poprawiona lub zastąpiona w dowolnej formie, dowolnym czasie, bez uprzedniego lub następującego powiadomienia Użytkownika. W związku z tym zaleca się okresowe przeglądanie niniejszej Polityki, aby na bieżąco wiedzieć o wszelkich zmianach. Dalsze korzystanie z Gry i usług gry oznacza bezwarunkowe zaakceptowanie zmodyfikowanej wersji niniejszej Polityki.
+
+    Kontakty z Administracją
+
+    49.W razie pytań, uwag, skarg lub komentarzy dotyczących niniejszej Polityki prosimy o kontakt pod adresem help@tankionline.com. Zajmiemy się nimi w jak najkrótszym, możliwym czasie.
+    50.Administracja może odmówić zbyt często wysyłanym żądaniom, które wymagają dołożenia niewspółmiernych technicznych wysiłków, zagrażają prywatności innych Użytkowników lub są wyjątkowo niepraktyczne.
+    51.Administracja jest upoważniona do przechowywania wszelkiej korespondencji z Użytkownikiem (w tym także zgłoszeń o problemach z Grą lub Usługami Gry).
+  VKONTAKTE_NAME: VKontakte
+  HELP_PANEL_ACHIEVEMENTS_CREATE_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  FRIENDS_CLOSE: Zamknij
+  GARAGE_ARTILLERY_PROTECTION_PROPERTY: Ochrona przed Magnumem
+  DOM_RED_LOST_POINT: Czerwona drużyna utraciła punkt {point}
+  REARM_BATTLE_STARS_PRIZE: Otrzymałeś {stars}
+  CONNECTION_CLOSED_MESSAGE: Zerwano połączenie z serwerem
+  IS_JOINING_THE_BATTLE_AT_YOUR_INVITATION_LABEL: Dołącza do bitwy dzięki twojemu zaproszeniu
+  GARAGE_ROCKET_LAUNCHER_PROTECTION_PROPERTY: Ochrona przed Strikerem
+  CLAN_TANKS_DESTROYED: Zniszczonych czołgów
+  AUTOCOMPLETION_BALANCE_RESTORED_PART1: Drużyny zostały ponownie zrównoważone
+  FRIENDS_COPY_NAME: Kopiuj nazwę
+  BATTLE_TEAM_RED: czerwona
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_BUTTON_ARROW_LENGTH: '30'
+  BATTLE_PLAYER_LEFT: opuszcza bitwę
+  GAME_ACTION_CAMERA_UP: Podwyższenie kamery
+  LOBBY_CHAT_WRITE_PRIVATELY: Napisz prywatnie
+  GARAGE_FIREBIRD_PROTECTION_PROPERTY: Ochrona przed Miotaczem Ognia
+  HEADER_MONEYSHOP: SKLEP
+  CTF_LOST_FLAG_NEUTRAL: traci flagę
+  SETTINGS_MIPMAPPING_LABEL_TEXT: Mip-mapping
+  ALERT_EMAIL_CONFIRMED: E-mail potwierdzony
+  SETTINGS_SOUND_VOLUME_LABEL_TEXT: 'Głośność:'
+  REARM_BATTLE_EXIT: Opuść bitwę
+  ERROR_EMAIL_NOT_SENDED: Wiadomość nie została wysłana
+  CHALLENGE_QUEST_BUTTON: Wyzwania
+  INVITE_TO_BATTLE_LABEL: Zaproś do bitwy
+  GARAGE_RICOCHET_PROTECTION_PROPERTY: Ochrona przed Rykoszetem
+  DRONE_POWER_DURATION: Czas trwania wzmocnienia
+  GAME_ACTION_DROP_FLAG: Upuszczenie flagi
+  CHECK_PASSWORD_FORM_REMEMBER: Pamiętaj mnie
+  CTF_LOST_OUR_FLAG: traci naszą flagę
+  SHOP_ONE_TIME_PURCHASE_CONDITIONS_AGREEMENT: Wyrażam zgodę na otrzymanie rekompensaty w postaci Tankoins w przypadku ponownego zakupienia tego przedmiotu na swoim koncie.
+  CHECK_PASSWORD_FORM_PASSWORD: 'Hasło:'
+  MUTE_BUTTON_TOOLTIP: Włącz/Wyłącz dźwięk.
+  CLAN_TAG_WITH_COLON: 'Tag klanu:'
+  FORMAT_NAME_PARKOUR: Parkour
+  HEADER_BUG_REPORT: RAPORT O BŁEDACH
+  CHALLENGE_TIER: Etap
+  HEADER_ACCOUNT_RECOVERY: ODZYSKIWANIE KONTA
+  PARTNER_REGISTARTION_FORM_CONTINUE: Akceptuj
+  INCOMING_LIMIT_EXCEEDED_ALERT: Nie udało się wysłać zaproszenia. Lista zaproszeń tego użytkownika jest pełna.
+  FRIENDS_REQUEST_EXIST_ALERT: Prośba do użytkownika (%USERNAME%) została już wysłana.
+  STATISTICS_HEADER_RANK: Ranga
+  REARM_BATTLE_EVENT: zmienia wyposażenie
+  BATTLE_STAT_DEATHS: Zgonów
+  CLAN_CREATION_DATE_WITH_COLON: 'Data utworzenia:'
+  ITEMS_IN_KIT: Przedmioty w zestawie
+  CLAN_ALERT_DISBAND_CLAN: "Rozwiązać klan?\n\nUwaga!\nAby utworzyć kolejny klan, będziesz musiał zakupić nową licencje klanową. "
+  PRESENT_INFO_DATE_LABEL: 'Data:'
+  TYPE_MESSAGE_WITH_PRESENT: Wpisz swoje życzenia...
+  SETTINGS_INVERSE_TURN_CONTROL_CHECKBOX_LABEL_TEXT: Odwróć przyciski skrętu przy cofaniu
+  CLAN_YOUR_RANK_TOO_LOW: Twoja ranga jest za niska aby dołączyć do tego klanu
+  FRIENDS_IN_GROUP: W grupie
+  RUGBY_BALL_TAKEN_RED: Drużyna czerwona przejęła piłkę
+  PREMIUM_ALERT_RETURN: Witamy ponownie w szeregach czołgistów Premium!
+  BATTLE_ENTER_ERROR_EQUIPMENT_NOT_MATCH_CONSTRAINTS: |-
+    Do tej bitwy można dołączyć jedynie z odpowiednim wyposażeniem.
+    Twój czołg nie spełnia wymogów. Więcej informacji <a href='http://pl.tankiwiki.com/Formaty_bitwy' target='_blank'><u>tutaj</u></a>.
+  HELP_PANEL_ACHIEVEMENTS_FIRST_DONATE_BUTTON_TEXT: Kliknij, aby dokonać płatności.
+  PARTNER_LOGIN_FORM_ENTER_USERNAME_TEXT: Wprowadź swoją nazwę użytkownika Tanki Online oraz hasło, żeby grać za pomocą sieci partnerskiej.
+  FRIENDS_ADD: Dodaj do znajomych
+  GARAGE_CATEGORY_BUTTON_SPECIAL: Specjalne
+  SERVER_IS_RESTARTING_CREATE_BATTLE_TEXT: Serwer jest obecnie uruchamiany ponownie. Nie możesz utworzyć bitwy lub dołączyć do już istniejącej.
+  GAME_ACTION_SCREEN_SIZE_INCREASE: Powiększenie okna bitwy
+  TIP_5: Wciśnij «Enter» w trakcie bitwy, aby pisać z innymi graczami! Klawisz «Tab» zmienia czat pomiędzy ogólnym i drużynowym.
+  DISABLED_CHAT_LABEL_TEXT: Czat jest wyłączony. Przejdź do Ustawień, żeby go włączyć z powrotem.
+  CLAN_JOINED_CLAN: Dołączyłeś do klanu
+  DRONE_BONUS_ADD: Bonusowy czas trwania zaopatrzenia
+  HEADER_CLAN_MANAGMENT: ZARZĄDZANIE ZAPROSZENIAMI
+  ALERT_ACCOUNT_ALREADY_LINKED: To %1 konto zostało już podłączone
+  DRONE_MINE: Liczba min, które pozostaną
+  CLAN_NAME_ALREADY: Ta nazwa jest już w użyciu
+  GARAGE_TURN_PROPERTY: Prędkość skrętu
+  RUGBY_BALL_TAKEN_USER: przejął piłkę
+  DAILY_QUEST_ALL_MISSIONS_COMPLETED: |-
+    Udało ci się ukończyć wszystkie dzisiejsze misje!
+    Wejdź do gry jutro, aby dostać kolejne.
+  PREMIUM_ALERT_WELCOM: Witamy w szeregach czołgistów Premium!
+  USERS_IN_QUEUE_LABEL: Gracze w poczekalni
+  CLAN_OUTGOUNG: Wysłane
+  MISSION_BUTTON_TOOLTIP: To jest lista misji. Wypełniaj misje dzienne, by otrzymywać jeszcze więcej kryształów i zaopatrzenia.
+  SHOP_WINDOW_PURCHASE_INSTRUCTION: <a href="http://tankionline.com/pl/krysztaly/" target="_blank"><font color='#59ff32'><u>Instrukcje zakupu</u></font></a>
+  RENAME_FORM_INSTRUCTION: W celu zmiany nazwy swojego konta należy wybrać nową nazwę, która również jest dostępna. Pojawi się też okno z prośbą o wpisanie aktualnego hasła do konta w celu potwierdzenia zmiany. Ta nowa nazwa stanie się nowym loginem potrzebnym do wejścia do gry i do dostępu do pozostałych oficjalnych stron Tanki Online takich jak forum.
+  GAME_ACTION_FULL_SCREEN: Pełny ekran
+  GARAGE_CONFIRM_ALERT_CANCEL_BUTTON_TEXT: Nie
+  REDUCE_DAMAGE_THUNDER: Grom
+  PARTNER_PARAMETRS_ERROR: Próbujesz wejść do gry, używając niewłaściwych parametrów.
+  REFUSED_TO_JOIN_THE_BATTLE_AT_YOUR_INVITATION_LABEL: Odmawia dołączenia do bitwy z twojego zaproszenia
+  QUEST_BUTTON: Misje
+  DOM_WE_CAPTURED_POINT: Przejęliśmy punkt {point}
+  KEYBOARD_KEY_PG_UP: PgUp
+  HEADER_CLAN: KLAN
+  DRONE_DEPENDENT_INVENTORY_COOLDOWN: Zmiana prędkości
+  CHAT_PANEL_BUTTON_SEND: Wyślij
+  CLAN_INVITE: Zaproś
+  BATTLE_ENTER_WARNING_PARKOUR_BUTTON_ENTER: Dołącz do bitwy
+  TIME_LABEL_DAY: d
+  PAYMENT_BUTTON_BACK_TEXT: Pakiety
+  GARAGE_CLOSE_TEXT: Zamknij
+  BATTLE_RESTART: Bitwa rozpocznie się ponownie za
+  SETTINGS_MOUSE_INVERSION_CHECKBOX_LABEL: Odwrócenie osi pionowej
+  SETTINGS_TAB_NAME_ACCOUNT: Konto
+  ERROR_FATAL: Wystąpił błąd
+  YOU_WERE_KICKED_LOGIN_TEXT: |-
+    Odłączono cię od serwera gry.
+    Powód: {0}.
+    Możesz powrócić do gry za
+    {1}.
+  GARAGE_PROTECTION_PROPERTY: Ochrona
+  AUTOCOMPLETION_ROUND_MIGHT_END_EARLIER: Runda może zakończyć się wcześniej
+  SETTINGS_SHADOWS_LABEL_TEXT: Cień czołgu
+  OPEN_BATTLE_LIST_BUTTON: Otwórz
+  HEADER_CREATE_BATTLE: STWÓRZ BITWĘ
+  GROUP_INVITE_RESPONSE_USER_IN_OTHER_GROUP: Ten gracz znajduję się już w grupie
+  GARAGE_BUY_TEXT: Kup
+  STATISTICS_HEADER_SCORE: Wynik
+  SETTINGS_SOFT_PARTICLES_LABEL_TEXT: Drobne cząsteczki
+  BATTLE_CREATE_PANEL_BUTTON_TEAM_DEATHMATCH: "Deathmatch \nDrużynowy"
+  BATTLE_CREATE_PANEL_BUTTON_DEATHMATCH: Deathmatch
+  CHALLENGE_BUY_BATTLE_PASS: Kup przepustkę bojową
+  HELP_PANEL_BUTTON_BAR_HELPER_TEXT: |-
+    Zaproś znajomego.
+    Ustawienia.
+    Dźwięk wł/wył.
+  BATTLE_CREATE_PANEL_CHECKBOX_AUTOBALANCE: Autorównowaga
+  CAPTCHA_INCORRECT: Znaki kontrolne zostały wprowadzone nieprawidłowo
+  CHAT_SHARP_UPDATES: aktualizacje|Aktualizacje|http://pl.tankiforum.com/index.php?showforum=6
+  SETTINGS_LINK_ACCOUNT: Połącz konto gry z
+  BATTLE_CREATE_PANEL_STEPPER_MAX_PLAYERS: Maksymalna liczba graczy
+  HEADER_BATTLES: BITWY
+  STATISTICS_HEADER_KILLS: Zniszczone
+  SETTINGS_EMAIL_LABEL_TEXT: 'E-mail:'
+  DAILY_QUEST_COMPLETED: |-
+    Ta misja została zakończona.
+
+    Wróć do gry jutro po nowe misja.
+  GARAGE_SNIPING_DAMAGE_PROPERTY: Uszkodzenia w trybie snajperskim
+  TIP_12: Drony zapewniają wsparcie bojowe. Niektóre z nich poprawiają efekt działania zaopatrzenia, podczas gdy inne powodują, że Twój czołg jest silniejszy. Używaj ich rozsądnie
+  CHAT_PANEL_COMMAND_BLOCK: 'Użytkownik %1 dodany do listy osób ignorowanych '
+  BATTLE_PLAYER_KILLED: zniszczył
+  HELP_PANEL_BUTTON_BAR_FULLSCREEN_TEXT: Tryb pełnoekranowy.
+  OK_ENTER_GROUP_REMINDER: ''
+  KEYBOARD_KEY_PG_DN: PgDn
+  SETTINGS_ENABLE_ADAPTIVE_FPS_CHECKBOX_LABEL_TEXT: Dostosowujące się FPS
+  TJR_NEW_RED_BOSS: Czerwony Juggernaut dołącza do bitwy
+  REDUCE_DAMAGE_SHAFT: Shaft
+  RUGBY_MODE_DESCRIPTION: Przejmij piłkę na środku mapy i dowieź ją do bazy przeciwnika. Nie pozwól przeciwnikom dowieźć piłki do Twojej bazy. Wygrywa drużyna z największą liczbą punktów.
+  GARAGE_RAILGUN_PROTECTION_PROPERTY: Ochrona przed Railgunem
+  BATTLE_BONUS_BOX_TEXT: Skrzynie bonusowe
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_TEXT: |-
+    Kliknij, żeby przejść do hangaru
+    oraz dokonać pierwszego zakupu.
+    Twoja nagroda – 200 kryształów!
+  CLAN_MEMBER_POSITION: Pozycja
+  SETTINGS_UNLINK_ACCOUNT: Odłącz konto gry od
+  HEADER_CAUTION_EXTERNAL_LINK: EXTERNAL LINK
+  HEADER_MISSIONS: MISJE
+  OPEN_GARAGE: Szybka zmiana
+  REDUCE_DAMAGE_RICOCHET: Rykoszet
+  HEADER_DISCOUNT: RABAT!
+  HELP_PANEL_ACHIEVEMENTS_SET_EMAIL_TEXT: Wprowadź swój e-mail, a otrzymasz 5 kryształów!
+  GROUP_INVITE_RESPONSE_USER_OFFLINE: Ten gracz jest offline
+  CHALLENGE_BUY_BATTLE_PASS_TIP: Kup przepustkę bojową, aby odebrać wszystkie nagrody, które zdobyłeś.
+  PAYMENT_UKRAINE_SMS_INFO: ''
+  BATTLE_CREATE_PANEL_STEPPER_TEAM_SCORE_LIMIT: Wynik
+  GAME_RULES: |-
+    Podsumowanie zasad
+
+    W grze zabrania się następujących czynności:
+    – wykorzystywania botów, oprogramowania osób trzecich, błędów;
+    – podawania się za członków administracji;
+    – przeprowadzania tzw. „power-levelling”, blokowania innych użytkowników;
+    – zamieszczania reklam, przeprowadzania politycznych kampanii propagandowych;
+    – naruszania prawa, w tym prawa własności intelektualnej;
+    – sprzedawania, kupowania, zamieniania, przekazywania kont graczy oraz pozostałych aktywów gry;
+    – oszukiwania oraz nieuczciwego zachowania.
+
+    Zabrania się następujących czynności na czacie oraz forum gry:
+    – znieważania, grożenia, oczerniania;
+    – używania nieprzyzwoitego języka, również dorozumianego;
+    – floodowania, kłócenia się, spamowania, nieustannego używania wielkich liter (CAPS LOCKA);
+    – wyłudzania haseł oraz innych danych powiązanych z kontami;
+    – trollowania;
+    – namawiania pozostałych graczy do naruszania Zasad Gry;
+    – prowadzenia publicznych dyskusji przez administrację oraz moderatorów;
+    – publikowania informacji prawnie zakazanych;
+    – publikowania linków do stron osób trzecich;
+    – przejawiania jakichkolwiek form dyskryminacji.
+
+    Zasady Gry
+    Wchodzisz do gry Tanki Online, w której osoby z całego świata cieszą się możliwością prowadzenia ogromnych maszyn wojennych i brania udziału w zaciętych bitwach! Gracze mogą walczyć samotnie lub dobierać się w drużyny, aby wspólnie z innymi maszerować po zwycięstwo. Mogą utrzymywać kontakty towarzyskie oraz szukać nowych znajomych.
+    Tanki Online jest łatwą do opanowania, wieloosobową grą akcji, sceną poważnych bitew oraz świetną siecią społecznościową.
+    Po ukończeniu procesu rejestracji Użytkownik otrzymuje wirtualny czołg oraz 500 kryształów (waluta w grze). Wygrywając bitwy, Użytkownik pomnaża swoje punkty, otrzymuje nowe rangi i kryształy. Kryształów można używać do nabywania amunicji, ulepszeń do czołgów, armat oraz pancerza.
+    Tanki Online to nie tylko ekscytująca gra. Tworzymy społeczność ludzi, których łączą te same zainteresowania. Promujemy wzajemny szacunek oraz uprzejmość, a zdecydowanie nie pochwalamy obelżywego języka oraz naruszania praw Użytkowników. Administratorzy zastrzegają sobie prawo do ograniczania możliwości komunikowania się użytkowników, obniżania ich punktów albo blokowania Kont, jeżeli naruszają oni Zasady Gry.
+
+
+    Postanowienia ogólne
+
+    Zasady Gry stanowią integralną część Umowy Licencyjnej Użytkownika Końcowego (odtąd określanej mianem „Umowy” lub EULA) oraz pozostałych dokumentów i usług powiązanych z Grą. Umowa, Polityka prywatności i ciasteczek, a także pozostałe dokumenty i usługi powiązane z Grą są odpowiednio integralną częścią niniejszych Zasad Gry.
+    Jakiekolwiek terminy oraz pojęcia użyte w Zasadach Gry mają znaczenie przypisane im w Umowie.
+    Jakiekolwiek wykorzystanie Gry oraz jej Usług Internetowych, a także kliknięcie „Akceptuję” w trakcie procesu rejestracji potwierdza, że Użytkownik zapoznał się z Zasadami Gry oraz bezwarunkowo je akceptuje.
+    Zasady Gry są wiążące dla wszystkich Użytkowników.
+    Jeżeli nie zgadzasz się z dowolnym warunkiem niniejszych Zasad Gry, prosimy o opuszczenie tej Strony i niekorzystanie z Gry.
+
+
+    1. Zabrania się tworzenia nazw (nazw Użytkownika), które:
+
+    1.1. Zawierają wulgaryzmy, obelgi/prowokacje do obelg (w formie całych słów, skrótów lub wyrażeń);
+    1.2. Zawierają elementy wskazujące na rasizm, faszyzm, obelżywość lub są nazwami wykorzystującymi tożsamość rasową, narodowościową lub religijną, lub prowokującymi nienawiść, nietolerancję, a także nieporozumienia etniczne;
+    1.3. Zawierają nawoływania do przemocy, terroryzmu, ekstremizmu albo zakłócania porządku publicznego;
+    1.4. Zawierają agitacje polityczne, propagandę lub nawoływania polityczne dowolnego rodzaju;
+    1.5. Są bezpośrednio lub pośrednio związane z organizacjami politycznymi (osobami), w tym z tymi, które dopuściły się przestępstw politycznych, przestępstw przeciwko ludzkości, aktów terrorystycznych;
+    1.6. Oznaczają dyskryminację płciową, wiekową, religijną lub zawierają jakiekolwiek elementy tejże;
+    1.7. Zawierają bezpośrednią lub pośrednią propagandę, nawołują do konsumpcji napojów alkoholowych lub zawierających alkohol, piwa, produktów tytoniowych i toksycznych, narkotyków, substancji psychotropowych albo odurzających,a także pierwowzorów powyższych substancji. Zabrania się również tworzenia nazw informujących o miejscach i metodach produkcji, nabywania, hodowli oraz wykorzystywania powyższych substancji;
+    1.8. Zawierają nawoływania do uczestnictwa w grach hazardowych, prostytucji, włóczęgostwie oraz żebraniu;
+    1.9. Zawierają informacje na temat metod popełniania samobójstwa, nakłaniania do samobójstwa, przemocy lub innych czynności stanowiących zagrożenie dla życia lub zdrowia;
+    1.10. Zawierają podburzanie do zachowania sprzecznego z prawem, przestępstwa, przemocy, okrucieństwa, spowodowania szkód przyczyniających się do zachowań zabronionych przez prawo;
+    1.11. Zawierają części nazw Użytkowników pracowników Administracji lub zawierają informacje pociągające za sobą błędne postrzeganie Użytkownika jak przedstawiciela Administracji;
+    1.12. Zawierają krytyczną ocenę Gry, Administratorów lub moderatorów;
+    1.13. Są bezpośrednio lub pośrednio związane ze współżyciem seksualnym, przemocą, pornografią, pedofilią;
+    1.14. Zawierają opis ciała oraz funkcji biologicznych jego dolnych części lub odruchów;
+    1.15. Zawierają reklamy lub hiperlinki;
+    1.16. Zawierają odniesienia do nieuczciwych kodów, stron lub zasobów, które naruszają prawa Administracji;
+    1.17. Składają się z niemożliwych do wymówienia, losowych zbitek literowych (nazwy zaśmiecające);
+    1.18. W całości lub części składają się z zarejestrowanych znaków firmowych chronionych przez prawo autorskie.
+    1.19. Zawierają pozostałe informacje zabronione przez niniejsze Zasady Gry, Umowę albo obowiązujące prawo.
+    1.20. Jeżeli nazwa Użytkownika nie spełnia powyższych wymagań, pozostałych wymagań określonych w Zasadach Gry, Umowie lub obowiązującym prawie, Administracja ma prawo, według własnego uznania:
+    – zażądać od Użytkownika, aby ten zmienił swoją nazwę na nazwę akceptowaną, a także zablokować Konto Użytkownika na czas potrzebny do zmiany nazwy Użytkownika;
+    – nieodwołalnie zablokować Konto Użytkownika.
+
+
+    2. Następujące czynności są zabronione i pociąganą za sobą (wedle uznania Administracji) stałą lub tymczasową blokadę Konta Użytkownika, pomniejszenie wszystkich wirtualnych aktywów Gry Użytkownika o od 10% do 100% (hangar, kryształy, statystyki gry) lub wyzerowanie Konta Użytkownika, tymczasowe lub stałe ograniczenie dostępności czatu w grze oraz forum (blokada):
+
+    2.1. Wszelkie formy niesportowego lub nieuprzejmego zachowania w Grze:
+
+    2.1.1. Botowanie (używanie oprogramowania naśladującego czynności Użytkownika w Grze), wykorzystanie programów klikających, makr kontrolujących ruch myszki i klawiatury oraz programów osób trzecich do odniesienia korzyści w Grze;
+    2.1.2. Zastosowanie lub rozprowadzanie programów osób trzecich lub innych środków poprawy/zautomatyzowania możliwości w Grze (botów, oszustw), jak również programów, które mogą pogorszyć funkcjonowanie Gry albo urządzeń elektronicznych osób trzecich;
+    2.1.3. Wykorzystywanie błędów w oprogramowaniu Gry oraz przekazywanie o nich informacji osobom trzecim, z wyłączeniem Administracji;
+    2.1.4. Zyskiwanie punktów doświadczenia poprzez umyślną bezczynność lub umyślne korzystanie z pomocy innych graczy z drużyny w trybach „Zdobądź flagę”, „Strefy wpływu” lub „Team Deathmatch”, lub przeciwników w trybie „Deathmatch” (tzw. power-leveling);
+    2.1.5. Bitwy pomiędzy kontami, których właścicielem jest ten sam Użytkownik;
+    2.1.6. Tworzenie dodatkowych kont do tzw. „power-levelowania” Konta głównego;
+    2.1.7. Umawianie się z pozostałymi Użytkownikami na walki „na pół gwizdka” w celu „power-levelingu” (Administracja nałoży ograniczenia na wszystkie strony takiego porozumienia);
+    2.1.8. Wszelkie działania lub zaniechania, których celem jest blokowanie drużyny Użytkownika, włączając w to tryby Zdobądź flagę, Team Deathmatch oraz Strefy wpływu, walka przeciw swojej drużynie, uszkadzanie/niszczenie czołgu sojusznika, walka po stronie drużyny przeciwnej, a także umawianie się z wrogiem, sabotaż;
+    2.1.9. Dyskryminacja niedoświadczonych graczy (nowicjuszy): dezinformowanie, zastraszanie, wyśmiewanie;
+    2.1.10. Obrażanie, oczernianie (rozpowszechnienie mylnych informacji) innych Użytkowników, Administracji, moderatorów, pozostałych osób;
+    2.1.11. Wszelkie formy manipulacji lub spiskowania w Grze;
+    2.1.12. Wykonywanie wszelkich czynności mających negatywny wpływ na rozwój Gry i jej wizerunek;
+    2.1.13. Inne formy niesportowego zachowania, uznane za takie przez Administrację, utrudniające swobodne granie.
+
+
+    2.2. Wszelkie formy oszustw, w szczególności:
+
+    2.2.1. Wykorzystanie Gry albo usług z nią związanych do nieuczciwych działań, w tym do nielegalnych transakcji finansowych w Grze, oszustw wynikających z transakcji, płatności, w tym wszelkich zwrotów oraz zabronionych transakcji;
+    2.2.2. Przeniesienie Konta lub pozostałych aktywów w Grze na osoby trzecie; publikacja wszelkich ofert sprzedaży, kupna lub przeniesienia Konta lub aktywów w Grze, zarówno bezpłatnie, jak i za kryształy lub prawdziwe pieniądze. Zabronione jest również nakłanianie do powyższych czynności.
+    2.2.3. Próby przejęcia hasła, pozostałych danych Konta lub danych osobowych innych Użytkowników, włączając w to wymuszenie za pomocą moralnych, fizycznych lub technicznych gróźb;
+    2.2.4. Rozpowszechnianie informacji osobowych o Użytkownikach lub osobach trzecich (o ile informacje te nie są publicznie dostępne);
+    2.2.5. Oszustwo – uzyskanie waluty w Grze za pomocą dowolnych, nieuczciwych środków;
+    2.2.6. Wszelkie próby przedstawiania siebie jako byłego lub obecnego pracownika Administracji lub asystenta projektu (moderatora, konsultanta itp), włączając w to wysyłanie wiadomości w imieniu Administracji lub moderatorów;
+    2.2.7. Żebranie w każdej formie, włączając w to prośby o przekazanie funduszy, aktywów Gry lub kryształów;
+    2.2.8. Publikacja linków do zasobów zewnętrznych ucharakteryzowanych jako oficjalne zasoby Gry.
+
+    2.3. Pozostałe naruszenia:
+
+    2.3.1. Używanie ordynarnego lub obelżywego języka lub innych słów (fraz) niesklasyfikowanych jako ordynarny język, również w formie dorozumianej;
+    2.3.2. Publikacja informacji i materiałów o naturze seksualnej, erotycznej lub pornograficznej, obrazujących lub opisujących relacje seksualne pomiędzy mężczyzną i kobietą;
+    2.3.3. Publikacja informacji lub symboli, które obrażają lub poniżają uczucia osób wierzących, powodują nienawiść, wrogość, rasową, narodową lub etniczną niezgodę, nietolerancję (włączając w to obelgi, nadawanie nazw na podstawie cech rasowych, narodowych, etnicznych lub religijnych), a także prowokują interlokutora do popełnienia powyższych wykroczeń;
+    2.3.4. Propagowanie lub demonstrowanie nazistowskich symboli, skrótów, określeń lub imion i nazwisk nazistowskich aktywistów;
+    2.3.5. Publikacja informacji zaprzeczających wydarzeniom historycznym;
+    2.3.6. Publikacja informacji, w których można się dopatrzyć nawoływania do przemocy, wojny, terroryzmu, obalenia władzy, działań ekstremistycznych lub zakłócających porządek publiczny;
+    2.3.7. Publikacja informacji na temat organizacji politycznych (przywódców politycznych), które popełniły przestępstwa polityczne lub przestępstwa przeciwko ludzkości, akty terroryzmu lub w jakikolwiek inny sposób naruszyły międzynarodowe prawa;
+    2.3.8. Publikacja informacji zawierających polityczną agitację, reklamę lub propagandę przedwyborczą dowolnego rodzaju;
+    2.3.9. Debatowanie nad sprawami politycznymi dnia dzisiejszego jako prowokującymi konflikty;
+    2.3.10. Wszelka forma dyskryminacji płciowej, wiekowej, religijnej lub zawierającej jakiekolwiek elementy tejże;
+    2.3.11. Wszelkie groźby odnoszące się do Użytkowników, Administracji lub osób trzecich;
+    2.3.12. Publikacja informacji omawiających metody popełnienia samobójstwa, nawołujących do samobójstwa, przemocy lub innych czynności zagrażających życiu lub zdrowiu, a także informacji opisujących niebezpieczne techniki walki, wyczyny kaskaderskie, metody produkcji broni oraz modyfikacji ciała;
+    2.3.13. Publikacja informacji opisujących niezgodne z prawem lub antyspołeczne zachowanie, przestępstwa, przemoc, okaleczenie, psychiczne lub fizyczne znęcanie się nad ludźmi lub zwierzętami, niszczenie cudzej własności lub informacji nawołujących do powyższych czynności, lub je usprawiedliwiających;
+    2.3.14. Publikacja informacji powodujących strach, przerażenie lub panikę u dzieci, włączając w to zdjęcia lub opisy śmierci, chorób, samobójstw, wypadków, nagłych wypadków, katastrof oraz ich konsekwencji, a także pozostałych informacji mogących wpływać niekorzystnie na zdrowie lub rozwój nieletnich;
+    2.3.15. Publikacja informacji o nieletnim, który ucierpiał wskutek czynności sprzecznych z prawem (zaniedbań);
+    2.3.16. Publikacja informacji zawierających bezpośrednią lub pośrednią propagandę, nawołujących do konsumpcji napojów alkoholowych lub zawierających alkohol, piwa, produktów tytoniowych i toksycznych, narkotyków, substancji psychotropowych albo odurzających,a także pierwowzorów powyższych substancji. Zabrania się również publikacji informacji o miejscach i metodach produkcji, nabywania, hodowli oraz wykorzystywania powyższych substancji;
+    2.3.17. Publikacja informacji skłaniających do gier hazardowych, prostytucji, włóczęgostwa lub żebractwa;
+    2.3.18. Wszelkie wykorzystanie własności intelektualnej (oprogramowania, sztuki, materiałów wideo oraz pozostałych obiektów, a także ich części, znaków handlowych itp.) lub innych materiałów bez pozyskania zgody właściciela; umieszczanie linków z nielegalną zawartością; usunięcie lub zmiana informacji dotyczących praw autorskich, w szczególności odnośników do właścicieli praw, autorów lub innego rodzaju potwierdzenia praw autorskich;
+    2.3.19. Publikacja wszelkich materiałów reklamowych lub podobnych informacji bez zgody Administracji;
+    2.3.20. Publikacja informacji mogących spowodować szkody/straty Użytkowników lub Administracji;
+    2.3.21. Niekonstruktywna krytyka Gry albo jej autorów, Właściciela;
+    2.3.22. Jawna lub implicytna dyskusja publiczna na temat Administracji lub moderatorów Gry;
+    2.2.23. Podawanie fałszywych lub zmyślonych informacji, dokumentów lub dowodów. Administracja ostrzega Użytkownika o skutkach prawnych oraz pozostałych skutkach takich działań;
+    2.3.24. Popełnienie lub nawoływanie (prowokacja) do działań (zaniechań) zabronionych przez poniższe Zasady Gry, Umowę albo stosowne prawo.
+
+    3. Zabrania się rozpoczynania tematów albo tworzenia wiadomości w czacie gry albo na Forum, które:
+    3.1. Powielają istniejące tematy lub wiadomości, a także tematy niedawno dyskutowane albo odpowiedzi na takie tematy, które są dostępne w sekcji informacyjnej (Zasady Gry, FAQ, Plany itp). Prosimy nie zapominać o skorzystaniu z opcji wyszukiwania, aby znaleźć odpowiedzi na swoje pytania. Należy uważnie przeszukać istniejące tematy przed założeniem nowego.
+    3.2. Nie odpowiadają tematowi danej sekcji/kategorii;
+    3.3. Zawierają CAPS LOCK lub dużo WiELKICH LiTER w tytule albo zawartości tematu lub wiadomości;
+    3.4. Mają nieistotne lub powtarzające się symbole, znaki, emotikony, wiadomości w swoim tytule albo opisie tematu lub wiadomości, które utrudniają zrozumienie tematu lub sekcji, a także nie mają żadnego znaczenia (Zaśmiecanie), na przykład == - Mój temat - ==;
+    3.5. Zawierają tekst pisany czcionką większą niż 24;
+    3.6. Brakuje w nich informacji i nie odnoszą się do istoty tytułu lub opisu w temacie;
+    3.7. Cytują zbyt duże ilości tekstu z poprzednich wiadomości albo obrazy bez takiej potrzeby (nadmierne cytowanie);
+    3.8. W dalszym ciągu odnoszą się do tematów zamkniętych lub skasowanych przez Administrację (necroposting);
+    3.9. Mają naturę osobistej prośby do uczestników Forum lub czatu Gry. Do osobistej komunikacji prosimy używać Wiadomości Prywatnych. Prywatne dyskusje są dopuszczalne równolegle z procesem rozwiązywania problemów.
+    3.10. Zawierają spam, czyli rozsyłają informacje niepożądane przez adresata, na których otrzymywanie nie wyraził on zgody;
+    3.11. Są internetowymi kłótniami (kłóceniem się dla samego kłócenia, wymianą wiadomości będącą wojną na słowa, która często nie jest związana z pierwotną przyczyną sporu);
+    3.12. Zawierają tzw. „trolling” (nakłanianie członków społeczeństwa do czynności, które będą miały negatywne konsekwencje i powodują konflikty);
+    3.13. Są próbą prowokacji innych Uczestników, Administracji, moderatorów, a także zakłócenia komunikacji na Forum lub czacie Gry;
+    3.14. Zawierają linki, „kody” (addscore, Buy_krictals_in_the_panzer);
+    3.15. Zawierają inne informacje lub naruszenia zabronione przez niniejsze Zasady Gry, Umowę albo stosowne prawo.
+    3.16. Za dopuszczenie się wymienionych naruszeń Administracja będzie według własnego uznania nakładać na Użytkownika ograniczenia w formie stałego lub tymczasowego zablokowania Konta lub stałego lub tymczasowego ograniczenia dostępności do czatu w grze i Forum (zawieszenie).
+    3.17. Administracja może według własnego uznania i bez powiadomienia usunąć wszelkie informacje lub wiadomości; usunąć/przesunąć temat stworzony w niewłaściwej sekcji Forum.
+    3.18. Prywatne wiadomości służą prywatnej komunikacji Użytkownika w grze i na Forum. Administracja analizuje zgłoszenia dotyczące naruszenia Zasad Gry, lecz nie będzie wszczynać dochodzeń w sprawach zgłoszeń dotyczących wiadomości prywatnych. Użytkownik może zablokować otrzymywanie wiadomości prywatnych od drugiego użytkownika poprzez dodanie tegoż do swojej Czarnej Listy we właściwej sekcji profilu Użytkownika na forum.
+
+    4. Nakładanie ograniczeń na Użytkownika
+    4.1. Jeżeli Użytkownik naruszy niniejsze Zasady Gry, Administracja będzie upoważniona do nałożenia na niego ograniczeń określonych w odpowiedniej sekcji Zasad Gry.
+    4.2. Rodzaje ograniczeń:
+    4.2.1. Stałe lub tymczasowe zablokowanie Konta — blokada (ograniczenie) dostępu do Gry.
+    4.2.2. Pomniejszenie wszystkich wirtualnych aktywów Użytkownika w Grze (hangar, kryształy, statystyki Gry) o od 10% do 100% lub wyzerowanie jego Konta.
+    4.2.3. Tymczasowe lub stałe ograniczenie dostępu Użytkownika do czatu i Forum Gry (zawieszenie) —ograniczenie możliwości zostawiania wiadomości na czacie i Forum.
+    4.2.4. Usunięcie lub zmiana, bez uprzedzenia, wszelkich informacji lub wiadomości pozostawionych w dowolnej części Gry lub usług z nią związanych; przeniesienie tematów Forum do innej sekcji lub usunięcie tematów.
+    4.3. Ograniczenia te mogą zostać nałożone na każde Konto Użytkownika, który narusza niniejsze Zasady Gry.
+    4.4. Administracja według własnego uznania nakłada jedną lub kilka kar na danego Użytkownika lub daje mu ostrzeżenie.
+    4.5. Wybierając rodzaj ograniczenia, Administracja bierze pod uwagę rodzaj i liczbę naruszeń, a także poprzednie naruszenia niniejszych Zasad Gry przez Użytkownika.
+    4.6. Jako że nie zawsze możliwe jest precyzyjne ustalenie danego naruszenia Zasad Gry, Administracja zachowuje sobie prawo podjęcia ostatecznej decyzji.
+    4.7. Naruszenie niniejszych Zasad Gry oznacza, że Użytkownik może zostać bez uprzedniego powiadomienia pozbawiony świadczenia usług związanych z Grą lub też świadczenie tychże może zostać ograniczone w całości bądź części.
+    4.8. Jeżeli Użytkownik kilkukrotnie lub w sposób zintegrowany narusza Zasady Gry, Administracja może według własnego uznania powtórnie nałożyć ograniczenia na tego Użytkownika.
+    4.9. Administracja nie jest w żaden sposób odpowiedzialna za żadną stratę lub szkodę, pośrednią lub bezpośrednią, które Użytkownik lub osoba trzecia może ponieść wskutek wykorzystywania przez Użytkownika lub osobę trzecią Strony Internetowej, Gry albo Usług Internetowych, włączając w to, między innymi za straty spowodowane niemożnością korzystania z Gry lub Usług Internetowych lub spowodowane nałożeniem przez Administrację ograniczeń na Użytkownika, za bezpośrednie lub pośrednie straty wynikające z działalności osoby trzeciej, w tym innych użytkowników Gry, brak dostępu do internetu, kradzież, zniszczenie Materiałów, utratę informacji dotyczących Konta Użytkownika oraz za żadną szkodę na honorze, godności czy reputacji biznesowej Użytkownika wynikającą z tytułu użytkowania Gry.
+
+    5. Moderatorzy
+    5.1. Moderatorzy są pomocnikami Administracji, która wybiera ich spośród Użytkowników.
+    5.2. Moderator to osoba działająca w imieniu i interesie Administracji. Moderatorzy pilnują porządku w Grze i usługach związanych z grą, a także na Forum i czacie Gry.
+    5.3. Moderator może nałożyć tymczasowe lub stałe ograniczenie dostępu do czatu Gry lub Forum (zawieszenie) na Użytkownika, który narusza niniejsze Zasady Gry.
+    5.4. Moderator jest uczciwy i obiektywny w podejmowanych decyzjach, a także stosuje się do postanowień niniejszych Zasad Gry i Umowy. Moderator jest także uprzejmy w stosunku do Użytkowników, wykonuje swoje obowiązki sprawnie i regularnie.
+    5.5. Surowo zabrania się moderatorom nadużywania swoich uprawnień. Wszystkie działania moderatorów są rejestrowane. Jeżeli moderator nie zasługuje na pokładane w nim zaufanie, zostaje bez ostrzeżenia zwolniony z pełnionej funkcji wewnętrzną decyzją podjętą przez Administrację.
+    5.6. Działalność moderatorów jest działalnością społeczną. Użytkownik nie może nakłaniać moderatora do nałożenia jakichkolwiek ograniczeń.
+
+    6. Skargi i prośby
+    6.1. Użytkownik ma prawo zgłaszać naruszenia Zasad Gry, rozpoczynając nowy temat na forum w sekcji <a href="http://en.tankiforum.com/index.php?showforum=76" target="_blank"><u>Naruszenia</u></a>. Należy w nim w sposób zrozumiały określić charakter naruszenia, a także załączyć zrzut ekranu czatu lub wideo wyraźnie pokazujący opisywane wykroczenie.
+    6.2. Użytkownik może wysyłać pytania, komentarze lub skargi dotyczące niniejszych Zasad Gry na adres help@tankionline.com. Administracja postara się rozpatrzyć wiadomości takiego typu w jak najkrótszym czasie.
+    6.3. Wysyłając skargę, Użytkownik winien w sposób szczegółowy i zrozumiały opisać daną sytuację, a także załączyć dowody w postaci zrzutów ekranu itp. Skargi dotyczące bezpodstawnych ograniczeń rozpatruje się wyłącznie w celu wewnętrznej oceny pracy Administracji i moderatora. Decyzje o nałożeniu ograniczeń nie podlegają rewizji.
+    6.4. Administracja jest upoważniona do przechowywania wszelkiej korespondencji z Użytkownikiem (w tym także zgłoszeń o problemach z Grą lub usługami z nią związanymi).
+
+    7. Pozostałe postanowienia:
+    7.1. Administracja kieruje Grą oraz według własnego uznania stosuje niniejsze Zasady Gry, jednakże bierze również pod uwagę opinię społeczności graczy.
+    7.2. Niniejsze Zasady Gry mogą zostać zmienione przez Administrację bez uprzedniego powiadomienia. Użytkownicy zobowiązani są do sprawdzania zmian w niniejszych Zasadach Gry przynajmniej co siedem dni (tj. co tydzień). Jeżeli Użytkownik nie przeprowadził takiej kontroli w określonym czasie i w dalszym ciągu korzysta z Gry, to uważa się, że przeczytał i zaakceptował zmienioną wersję niniejszych Zasad Gry.
+    7.3. Administracja prowadzi politykę „zero tolerancji” wobec oszustw. Jeżeli, według Administracji, Użytkownik oszukał lub próbował oszukać Administrację lub innego Użytkownika, przekazywał nieprawdziwe lub zmyślone informacje, dokumenty, dowody lub w inny sposób naruszył obowiązujące prawo, Administracja zastrzega sobie prawo do zablokowania Konta takiego Użytkownika i przekazania tychże informacji, według własnego uznania, (wraz z danymi osobowymi Użytkownika) dowolnej osobie trzeciej albo organom ścigania, jeżeli będzie to zdaniem Administracji konieczne.
+    7.4. Administracja może wprowadzić kolejne postanowienia i ograniczenia w Zasadach Cybersportu, zasadach zawodów, turniejów oraz mistrzostw. Niniejsze Zasady Gry stanowią jednocześnie integralną część pozostałych zasad przyjętych przez Administrację.
+  CLAN_ALERT_LEAVE_CLAN: Opuścić klan?
+  BATTLE_CREATE_PANEL_STEPPER_FLAG_LIMIT: Limit flagi
+  MAIN_PANEL_RANK_UP_ACCRUED_CRYSTALS_TEXT_MIDDLE_RANK: Od teraz otrzymasz kryształy za każdą nową rangę w Tanki Online. Już dodaliśmy do twojego konta kryształy za wszystkie poprzednie rangi. Awansuj i zdobywaj ich coraz więcej!
+  CLAN_MEMBER_DAYS: W klanie od
+  RUGBY_GOAL_BLUE: Drużyna niebieska strzeliła bramkę!
+  CLAN_TAG_ALREADY: Ten tag jest już w użyciu
+  BATTLE_CREATE_PANEL_CHECKBOX_FRIENDLY_FIRE: Ogień sojuszniczy
+  SETTINGS_MOUSE_SENSITIVITY_CHECKBOX_LABEL: Czułość myszki
+  PROMO_CODE_INVALID_LABEL: Wprowadzony kod jest niepoprawny lub już wygasł. Proszę wprowadzić inny kod.
+  DOM_WE_LOST_POINT: Straciliśmy punkt {point}
+  CLAN_PLAYER_IS_CLAN_MAMBER: Gracz %USERNAME% już jest członkiem tego klanu
+  SETTINGS_MESSAGE_ONLY_FROM_FRIENDS: PW tylko od znajomych
+  FRIENDS_BATTLE: Bitwa
+  PREMIUM_COMPLETION_IN: 'Wygasa o '
+  MAIN_PANEL_BUTTON_SHOP: Sklep
+  HELP_NAME_IS_FORBIDDEN: Wprowadzonej nazwy nie można użyć w procesie rejestracji
+  DRONE_ARMOR_PERCENT: Bonusowy pancerz
+  HELP_PANEL_RANK_BAR_HELPER_ARROW_LENGTH: '116'
+  DEVICES_STANDARD_SETTINGS: Ustawienia podstawowe
+  BATTLE_STAT_REWARD: Nagroda
+  FRIENDS_PLAYER_ALREADY_IN_LIST_ALERT: '%USERNAME% już jest na twojej liście znajomych.'
+  CURRENT_WAITING_TIME_LABEL: Obecny czas oczekiwania
+  MEESAGE_ALERT_OFFER: "$USERNAME$, właśnie otrzymałeś/aś wyjątkową \nokazję przetestować $ITEM-NAME$ w bitwie!"
+  FRIENDS_CONFIRM_REQUEST: Przyjmij prośbę
+  SETTINGS_ALTERNATE_CAMERA_LABEL_TEXT: Kamera alternatywna
+  TOURNAMENT_BATTLE_TRAINING_LABEL: Przygotowanie do bitwy
+  HELP_BATTLE_SELECT_LOCKED_MAP_HELPER_TEXT: |-
+    Twoja ranga nie odpowiada
+    ustawieniom tej bitwy. Wybierz jedną z
+    zielonych bitew.
+  CLAN_NUMBER_MEMBERS_WITH_COLON: 'Łączna liczba graczy:'
+  CLAN_USER_CLAN_NUMBER_MEMBERS: Liczba graczy
+  HELP_PASSWORD_IS_TOO_SIMPLE: Wprowadzone hasło jest zbyt łatwe
+  TOTAL_PRICE_KIT: 'Suma:'
+  REARM_OPTION_TEXT: Zmiana broni
+  PAYMENT_TIANXIAFU_TERMS_TEXT: ???
+  HEADER_CURRENT_BATTLES: AKTUALNE BITWY
+  TJR_RED_BOSS_KILLED: Czerwony Juggernaut został zniszczony
+  ACCOUNT_RECOVERY_FORM_BUTTON_CANCEL_TEXT: Anuluj
+  SHOP_WINDOW_PAYMENT_CATEGORY_DESCRIPTION: Proszę wybrać preferowaną metodę płatności
+  MAP_THEME_NAME_WINTER_DAY: Zimowy dzień
+  CHECK_PASSWORD_FORM_PLAY_BUTTON: Graj
+  TURNOVER_HINT_2: lub autodestrukcja poprzez naciśnięcie
+  PAYMENT_SMSTEXT_HEADER_LABEL_TEXT: 'Tekst:'
+  GAME_ACTION_USE_NITRO: Użycie Nitra
+  BATTLE_CREATE_PANEL_STEPPER_MAX_TEAM_SIZE: Maksymalny rozmiar drużyny
+  ERROR_CALLSIGN_WRONG_LAST_SYMBOL: Ostatnim znakiem nazwy musi być litera lub cyfra
+  CLAN_EDIT_PROFILE: Edytuj profil
+  BATTLE_UPGRADES_TEXT: Ulepszenia
+  HELP_PANEL_ACHIEVEMENTS_FIRST_BATTLE_ARROW_LENGTH: '30'
+  HELP_PASSWORDS_DO_NOT_MATCH: Hasła nie są takie same
+  FRIENDS_FIND_TO_SEND: Wyślij prośbę do znajomego...
+  HEADER_NEWS: AKTUALNOŚCI
+  CLAN_INCOMING: Otrzymane
+  CHECK_YOU_LOCATION_TEXT: 'Twoja lokalizacja:'
+  ASIASOFT_YOUR_BALANCE: Masz %1 ATC
+  NEW_PRESENTS_ALERT_ACCEPT_BUTTON: Pokaż
+  CHALLENGE_FINISH: Uzyskałeś najwyższy poziom. Wszystkie nagrody zostały zdobyte.
+  HELP_PANEL_RANK_HELPER_ARROW_LENGTH: '108'
+  GARAGE_UPGRADE_COMPLETE_TEXT: 'Przedmiot ulepszony:'
+  SETTINGS_MOUSE_CONTROL_CHECKBOX: Sterowanie myszką
+  BATTLE_CREATE_PANEL_STEPPER_KILLS_LIMIT: Limit zniszczeń
+  CLAN_USER_CLAN_TAG: Tag
+  GARAGE_RELOAD_PROPERTY: Czas przeładowania
+  GARAGE_BURN_PROPERTY: Czas podpalenia
+  GROUP_INVITE_BUTTON: Zaproś do grupy
+  GARAGE_CONFIRM_ALERT_BUY_QEUSTION_TEXT: Zatwierdzasz zakup?
+  HELP_PANEL_ACHIEVEMENTS_FIRST_PURCHASE_BUTON_TEXT: |-
+    Kliknij i dokonaj pierwszego zakupu.
+    Twoja nagroda – 200 kryształów!
+  FOLLOW_EXTERNAL_LINK: 'Uwaga! Zamierzasz otworzyć link zewnętrzny: %link%'
+  SGE_NEW_POINT_TO_CAPTURE: Zaatakuj nowy punkt {point}
+  CLAN_TAG: Tag
+  CTF_CAPTURED_OUR_FLAG: zdobywa naszą flagę
+  DRONE_INVENTORY: Czas trwania zaopatrzenia
+  BATTLE_CANNOT_BE_FOUND_ALERT: Link nieaktualny. Nie można znaleźć bitwy, została już zakończona.
+  ASIASOFT_CHECKING_BALANCE: Sprawdzanie balansu...
+  SETTINGS_SHOW_SKYBOX_CHECKBOX_LABEL_TEXT: Pokaż niebo
+  HEADER_CLAN_EDIT_PROFILE: EDYTUJ PROFIL
+  SETTINGS_BUTTON_CANCEL_TEXT: Anuluj
+  REGISTER_FORM_REPEAT_PASSWORD_INPUT_LABEL_TEXT: 'Powtórz:'
+  CLAN_PLAYER_ALREADY_IN_CLAN: Gracz %USERNAME% jest już członkiem innego klanu
+  MAP_THEME_NAME_SUMMER: Lato
+  TIP_10: Farby zmieniają wygląd Twojego czołgu. Niektóre utrudniają wrogom widzenie, podczas gdy inni dają wyraźny i niepowtarzalny wygląd.
+  HEADER_FRIENDS: ZNAJOMY
+  ALERT_ANSWER_YES: Tak
+  TIP_13: Naciśnij klawisz «6» na klawiaturze, aby zrzucić złotą skrzynię podczas bitwy. Zrób to dla zabawy, albo jako strategiczny manewr odwracający uwagę Twoich wrogów. Złote skrzynie można zakupić w sklepie lub zdobyć ze skrzyń.
+  CLAN_CREATE: Utwórz klan
+  PREMIUM_COMPLETION: 'Wygasa: '
+  BATTLE_STAT_STARS_REWARD: Gwiazdy
+  AUTOCOMPLETION_ENEMY_IS_BACK: Przeciwnik powrócił do bitwy!
+  ALERT_INVITE_TO_BATTLE_IS_UNAVAILABLE_RANK: Czy na pewno chcesz zaprosić znajomego do bitwy niedostępnej dla jego/jej rangi?
+  REDUCE_DAMAGE_ARTILLERY: Magnum
+  ALERT_ANSWER_CANCEL: Anuluj
+  PAYMENT_SMSNUMBERS_NUMBER_HEADER_LABEL_TEXT: Numer
+  CLAN_RANK_LOW_TO_SEND_REQUEST: Twoja ranga jest zbyt niska, aby móc ubiegać się o członkostwo w tym klanie
+  CHALLENGE_BUY_PREMIUM_TIP: Kup konto premium, aby zdobywać podwójną liczbę gwiazd za ukończenie bitew.
+  GARAGE_CATEGORY_BUTTON_PAINTS: Farby
+  PROGRESS: Postęp
+  STATISTICS_HEADER_WEALTH: Majątek
+  CHANGE_UID_FORM_NEW_UID_TEXT: 'Nowy nick:'
+  SETTINGS_BUTTON_TOOLTIP: W ustawieniach możesz dostosować grafikę, rozgrywkę, sterowanie i więcej.
+  ERROR_EMAIL_NOT_UNIQUE: E-mail nie jest unikalny
+  REFERAL_STATISTICS_HEADER_CALLSIGN: Znajomy
+  GAME_ACTION_TURRET_CENTER: Wyśrodkowanie wieży
+  GAME_ACTION_TURRET_TURN_LEFT: Obrót wieży w lewo
+  BATTLE_STAT_CALLSIGN: Nazwa
+  GARAGE_THUNDER_PROTECTION_PROPERTY: Ochrona przed Gromem
+  STATISTICS_HEADER_CALLSIGN: Nazwa
+  SETTINGS_ACCOUNT_ACCESS: Dostęp do konta gry
+  HEADER_SECURITY: BEZPIECZEŃSTWO KONTA
+  FIND_BATTLE_BUTTON_TEXT: Matchmaking
+  PAYMENT_SMSNUMBERS_SMSTEXT_HEADER_LABEL_TEXT: Tekst SMS-a
+  CLAN_BUY_LICENCE: Kup licencję
+  TURNOVER_HINT_1: Użyj odrzutu armaty do manewrowania
+  BATTLE_CREATE_PANEL_MAP_THEME_LABEL: 'Motyw:'
+  SETTINGS_TAB_NAME_GRAPHICS: Grafika
+  GARAGE_CATEGORY_BUTTON_RESISTANCE_MODULES: Ochrona
+  PURCHASE_ERROR_NOTIFICATION: Wystąpił błąd podczas zakupu. Proszę spróbować ponownie
+  BATTLE_CREATE_PANEL_BUTTON_ASSAULT: Szturm
+  WEEKLY_QUEST_HINT: Wykonuj przynajmniej jedną misję każdego dnia przez 7 dni, aby otrzymać dodatkowy <a href='event:'><font color='#59ff32'><u>bonus</u></font></a>
+  GARAGE_MACHINE_GUN_PROTECTION_PROPERTY: Ochrona przed Wulkanem
+  BATTLEINFO_PANEL_PAID_BATTLES_ALERT_ANSWER_DONT_ENTER: Nie wchodź
+  BATTLEINFO_PANEL_NONAME_TEXT: Brak
+  CLAN_LICENSE: Licencja klanowa
+  HELP_PANEL_BUTTON_BAR_HELPER_ARROW_LENGTH: '116'
+  REGISTER_FORM_SKIP_REGISTRATION_TEXT: Wypróbuj grę przed rejestracją!
+  SHOP_WINDOW_YOUR_CHOICE: Twój wybór
+  REARM_BATTLE_PLACE: 'Twoje miejsce: {your_place} z {places}'
+  SAVE_BUTTON_LABEL: Zapisz
+  JGR_MODE_DESCRIPTION: Jeden gracz w bitwie kontroluje bardzo potężny czołg zwany "Juggernaut". Osoba, która zniszczy Juggernauta, przejmuje dowodzenie nad tą maszyną. Gracz, który zniszczy najwięcej czołgów wygrywa.
+  HEADER_NEW_PRESENTS_ALERT: NOWE PREZENTY!
+  JGR_NEW_BOSS: '%1 jest nowym Juggernautem!'
+  FRIENDS: Znajomi
+  CHECK_PASSWORD_FORM_BUTTON_NEW_PLAYER_TEXT: Nowy gracz
+  BATTLE_STAT_SCORE: Wynik
+  SETTINGS_SHOW_DROP_ZONES_LABEL_TEXT: Pokaż strefy zrzutu
+  COMPLETE_BUTTON: Zakończ
+  MAIN_PANEL_BUTTON_GARAGE: 'Hangar '
+  HEADER_DM_TOURNAMENT: TURNIEJ DEATHMATCH
+  PREMIUM_BUTTON_EXTEND: Przedłuż
+  PAYMENT_COUNTRIES_LABEL_TEXT: 'Kraj:'
+  UNBLOCK_USER_CONTEXT_MENU_LABEL: Pokaż
+  DRONE_COOLDOWN_RADIUS: Zakres działania
+  GARAGE_SHOTGUN_PROTECTION_PROPERTY: Ochrona przed Młotem
+  GARAGE_ALL_PROTECTION_PROPERTY: Ochrona przeciw wszystkim
+  CLAN_BUTTON_PROFILE: Profil klanu
+  FULLSCREEN_BUTTON_TOOLTIP: Włącz/Wyłącz pełny ekran.
+  IS_CONSIDERING_YOUR_INVITE_LABEL: |-
+    Zastanawia się nad twoim zaproszeniem
+    Czekaj na odpowiedź
