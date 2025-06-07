@@ -1,0 +1,13 @@
+# This ID is hardcoded in the client, see [GarageWindow::initTankPreviewWindow]
+id: 500360050
+type: Object3D
+images:
+  tower.png: { diffuse: tower.jpg, alpha: tower_alpha.jpg }
+  tree.png: { diffuse: tree.jpg, alpha: tree_alpha.jpg }
+  object05.jpg: object05.jpg
+  object04.jpg: object04.jpg
+  object06.jpg: object06.jpg
+  object07.jpg: object07.jpg
+  object03.png: { diffuse: object03.jpg, alpha: object03_alpha.jpg }
+  object02.png: { diffuse: object02.jpg, alpha: object02_alpha.jpg }
+  object01.jpg: object01.jpg
