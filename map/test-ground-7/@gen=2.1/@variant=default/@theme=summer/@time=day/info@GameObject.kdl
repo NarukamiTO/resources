@@ -1,4 +1,4 @@
-template "jp.assasans.narukami.server.battleselect.MapInfoTemplate::Provider"
+template2 "jp.assasans.narukami.server.battleselect.MapInfoTemplate"
 components {
   jp.assasans.narukami.server.core.AutoAddedComponent {
     spaces {
