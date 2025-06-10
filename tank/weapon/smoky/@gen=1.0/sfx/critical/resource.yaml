@@ -1,0 +1,9 @@
+type: MultiframeTexture
+diffuse: diffuse.png
+properties:
+  fps: 25
+  frame_height: 200
+  frame_width: 200
+  image_height: 200
+  image_width: 1600
+  frames: 8
