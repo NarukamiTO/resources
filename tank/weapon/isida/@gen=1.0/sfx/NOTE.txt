@@ -1,0 +1,1 @@
+Modern Isida does not use all 1.0 resources. I'd like to port old Isida to the modern client as an extension.

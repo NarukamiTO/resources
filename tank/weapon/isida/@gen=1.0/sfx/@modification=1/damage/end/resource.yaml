@@ -1,0 +1,9 @@
+type: MultiframeTexture
+diffuse: diffuse.png
+properties:
+  fps: 30
+  frame_height: 100
+  frame_width: 100
+  image_height: 100
+  image_width: 1100
+  frames: 11
